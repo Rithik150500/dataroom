@@ -1,0 +1,268 @@
+================================================================================
+                      TERMS OF SERVICE
+                            OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+                   Last Updated: November 1, 2025
+
+================================================================================
+
+                        INTRODUCTION
+
+These Terms of Service ("Terms") govern your access to and use of the
+TechVenture platform and services (the "Services") provided by TechVenture
+India Private Limited ("TechVenture", "we", "us", or "our").
+
+By accessing or using our Services, you agree to be bound by these Terms.
+If you do not agree, do not use our Services.
+
+================================================================================
+
+                   1. DEFINITIONS
+
+"Account" means your account to access the Services.
+"Customer" or "you" means the entity that has agreed to these Terms.
+"Customer Data" means data uploaded by you to the Services.
+"Documentation" means user guides and technical documentation for the Services.
+"Services" means the SaaS platform and related services provided by TechVenture.
+"Subscription" means your subscription to the Services.
+"Users" means individuals authorized by you to use the Services.
+
+================================================================================
+
+                   2. ACCOUNT REGISTRATION
+
+2.1 You must provide accurate and complete registration information.
+2.2 You are responsible for maintaining account security.
+2.3 You must notify us immediately of unauthorized access.
+2.4 You are responsible for all activities under your account.
+2.5 You must be at least 18 years old to use the Services.
+
+================================================================================
+
+                   3. USE OF SERVICES
+
+3.1 LICENSE GRANT
+Subject to these Terms and payment of fees, we grant you a limited, non-
+exclusive, non-transferable license to access and use the Services during
+the Subscription term.
+
+3.2 RESTRICTIONS
+You shall not:
+(a) Copy, modify, or create derivative works
+(b) Reverse engineer, disassemble, or decompile
+(c) Rent, lease, or lend to third parties
+(d) Remove proprietary notices
+(e) Use for illegal purposes
+(f) Transmit harmful content or malware
+(g) Attempt to gain unauthorized access
+(h) Exceed authorized Users or usage limits
+(i) Use to build a competing product
+(j) Violate applicable laws
+
+3.3 ACCEPTABLE USE
+You agree to use the Services in accordance with our Acceptable Use Policy
+and all applicable laws.
+
+================================================================================
+
+                   4. CUSTOMER DATA
+
+4.1 OWNERSHIP
+You retain all rights in Customer Data. We claim no ownership.
+
+4.2 LICENSE TO TECHVENTURE
+You grant us a limited license to process Customer Data solely to provide
+the Services.
+
+4.3 DATA PROTECTION
+We will process Customer Data in accordance with our Privacy Policy and
+Data Processing Agreement.
+
+4.4 BACKUP
+While we maintain backups, you are responsible for maintaining independent
+backups of Customer Data.
+
+4.5 DATA PORTABILITY
+Upon termination, you may export Customer Data within 30 days.
+
+================================================================================
+
+                   5. FEES AND PAYMENT
+
+5.1 FEES
+You agree to pay the fees as specified in your Order Form.
+
+5.2 PAYMENT TERMS
+(a) Fees are due in advance (monthly or annually)
+(b) Payment due within 30 days of invoice
+(c) All fees are in Indian Rupees unless specified
+
+5.3 TAXES
+Fees are exclusive of taxes. You are responsible for all applicable taxes.
+
+5.4 LATE PAYMENT
+Late payments accrue interest at 1.5% per month.
+
+5.5 SUSPENSION
+We may suspend Services for non-payment after 15 days past due.
+
+5.6 NO REFUNDS
+Fees are non-refundable except as required by law.
+
+================================================================================
+
+              6. INTELLECTUAL PROPERTY
+
+6.1 TECHVENTURE IP
+We own all rights in the Services, Documentation, and our trademarks.
+These Terms do not grant you any rights except as expressly stated.
+
+6.2 FEEDBACK
+Any feedback you provide may be used by us without obligation.
+
+6.3 CUSTOMER TRADEMARKS
+You grant us a limited license to use your trademarks for marketing
+(customer logo on website) unless you opt out.
+
+================================================================================
+
+              7. CONFIDENTIALITY
+
+7.1 Both parties agree to protect confidential information.
+
+7.2 Confidential information does not include information that is:
+(a) Publicly available
+(b) Rightfully known before disclosure
+(c) Independently developed
+(d) Rightfully received from third parties
+
+7.3 Disclosure is permitted if required by law with notice.
+
+================================================================================
+
+          8. WARRANTIES AND DISCLAIMERS
+
+8.1 SERVICE WARRANTY
+We warrant that Services will materially conform to Documentation.
+
+8.2 REMEDY
+For breach of warranty, we will use reasonable efforts to correct the non-
+conformity. If we cannot, you may terminate and receive a pro-rata refund.
+
+8.3 DISCLAIMER
+EXCEPT AS EXPRESSLY PROVIDED, SERVICES ARE PROVIDED "AS IS" WITHOUT WARRANTY
+OF ANY KIND. WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8.4 NO GUARANTEE
+We do not guarantee uninterrupted or error-free operation.
+
+================================================================================
+
+            9. LIMITATION OF LIABILITY
+
+9.1 EXCLUSION OF DAMAGES
+NEITHER PARTY SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, DATA, OR BUSINESS.
+
+9.2 LIABILITY CAP
+OUR TOTAL LIABILITY SHALL NOT EXCEED FEES PAID IN THE 12 MONTHS BEFORE THE
+CLAIM.
+
+9.3 EXCEPTIONS
+These limitations do not apply to:
+(a) Breach of confidentiality
+(b) Your payment obligations
+(c) Indemnification obligations
+(d) Gross negligence or willful misconduct
+
+================================================================================
+
+                10. INDEMNIFICATION
+
+10.1 BY TECHVENTURE
+We will defend you against claims that the Services infringe intellectual
+property rights, and pay resulting damages.
+
+10.2 BY CUSTOMER
+You will defend us against claims arising from:
+(a) Your use of Services in violation of these Terms
+(b) Customer Data
+(c) Your violation of applicable laws
+
+10.3 CONDITIONS
+Indemnification is subject to:
+(a) Prompt notice of claim
+(b) Sole control of defense
+(c) Reasonable cooperation
+
+================================================================================
+
+               11. TERM AND TERMINATION
+
+11.1 TERM
+The subscription begins on the start date and continues for the period
+specified in your Order Form.
+
+11.2 RENEWAL
+Subscriptions auto-renew for successive periods unless either party provides
+60 days' notice of non-renewal.
+
+11.3 TERMINATION FOR CAUSE
+Either party may terminate if the other:
+(a) Materially breaches and fails to cure within 30 days
+(b) Becomes insolvent or ceases operations
+
+11.4 EFFECT OF TERMINATION
+Upon termination:
+(a) Your access to Services ceases
+(b) You must pay outstanding fees
+(c) We will delete Customer Data after 90 days
+(d) Provisions that should survive will survive
+
+================================================================================
+
+              12. GENERAL PROVISIONS
+
+12.1 ENTIRE AGREEMENT
+These Terms, Order Form, and Privacy Policy constitute the entire agreement.
+
+12.2 AMENDMENTS
+We may update these Terms with notice. Continued use constitutes acceptance.
+
+12.3 ASSIGNMENT
+You may not assign without consent. We may assign to affiliates or successors.
+
+12.4 SEVERABILITY
+Invalid provisions will be modified to minimum extent necessary.
+
+12.5 WAIVER
+No waiver unless in writing.
+
+12.6 FORCE MAJEURE
+Neither party is liable for delays due to events beyond reasonable control.
+
+12.7 GOVERNING LAW
+These Terms are governed by the laws of India.
+
+12.8 DISPUTE RESOLUTION
+Disputes shall be resolved by arbitration in Bangalore under the Arbitration
+and Conciliation Act, 1996.
+
+12.9 NOTICES
+Notices to us: legal@techventure.in
+Notices to you: Email on file
+
+================================================================================
+
+                   CONTACT US
+
+TechVenture India Private Limited
+#42, 3rd Floor, Koramangala 5th Block
+Bangalore - 560095, Karnataka
+Email: legal@techventure.in
+Phone: +91-80-4567-8901
+
+================================================================================
