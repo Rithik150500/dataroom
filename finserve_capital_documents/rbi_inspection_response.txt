@@ -1,0 +1,491 @@
+================================================================================
+               RESPONSE TO RBI INSPECTION REPORT
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+                 RBI Registration No: N-14.03268
+================================================================================
+
+                    INSPECTION PERIOD: JUNE 2023
+
+================================================================================
+                         COVER LETTER
+================================================================================
+
+Date: September 15, 2023
+
+To,
+The Regional Director,
+Department of Non-Banking Supervision,
+Reserve Bank of India,
+Mumbai Regional Office,
+Amar Building, Sir P.M. Road,
+Fort, Mumbai - 400001
+
+Subject: Submission of Response to RBI Inspection Report for the period
+         ended March 31, 2023
+
+Reference: Inspection Report No. DNBS/MH/2023/FSC/001 dated August 1, 2023
+
+Dear Sir/Madam,
+
+We refer to the Inspection Report cited above and submit our responses to
+the observations raised therein.
+
+We have examined all 12 observations in detail and have taken/initiated
+corrective actions. We request you to kindly review our responses and
+accord closure of the observations.
+
+We remain committed to full compliance with all RBI regulations and
+guidelines. Please let us know if any further clarification is required.
+
+Thanking you,
+
+Yours faithfully,
+For FINSERVE CAPITAL LIMITED
+
+Sd/-
+RAJESH KUMAR MEHTA
+Managing Director
+
+Encl: Detailed response to observations with supporting documents
+
+================================================================================
+           SUMMARY OF OBSERVATIONS AND STATUS
+================================================================================
+
+Total Observations:         12
+Closed:                     10
+Under Monitoring:           2
+Pending:                    0
+
+Category-wise:
+- Asset Classification:     3 observations (all closed)
+- KYC/AML:                  2 observations (all closed)
+- Fair Practices Code:      2 observations (all closed)
+- IT Systems:               2 observations (1 closed, 1 monitoring)
+- Corporate Governance:     2 observations (all closed)
+- Others:                   1 observation (monitoring)
+
+================================================================================
+              DETAILED RESPONSE TO OBSERVATIONS
+================================================================================
+
+--------------------------------------------------------------------------------
+OBSERVATION 1: ASSET CLASSIFICATION
+--------------------------------------------------------------------------------
+
+RBI Observation:
+In 5 accounts totaling Rs. 2.3 Crores, NPA classification was delayed
+beyond 90 days. The accounts were classified as NPA at 95-102 days instead
+of the mandatory 90 days.
+
+Company's Response:
+
+We acknowledge the observation. The delay was due to manual reconciliation
+processes which have since been automated.
+
+Corrective Action Taken:
+1. Implemented automated NPA flagging system effective July 1, 2023
+2. System now automatically classifies accounts as NPA on 91st day
+3. Daily exception report generated for accounts approaching 90 days
+4. Manual override requires Credit Committee approval with documented reasons
+
+Evidence Submitted:
+- System screenshots showing automated classification
+- Policy note on NPA classification
+- Sample reports generated
+
+Impact:
+- 5 accounts reclassified to correct NPA date
+- Additional provision of Rs. 12 Lakhs made
+
+Status: CLOSED (RBI letter dated November 15, 2023)
+
+--------------------------------------------------------------------------------
+OBSERVATION 2: PROVISIONING ADEQUACY
+--------------------------------------------------------------------------------
+
+RBI Observation:
+Provisioning for 3 doubtful accounts (outstanding Rs. 85 Lakhs) was at 15%
+instead of the required 25% for assets classified as doubtful for less
+than one year.
+
+Company's Response:
+
+We acknowledge the shortfall in provisioning. The error occurred due to
+incorrect configuration in the provisioning module.
+
+Corrective Action Taken:
+1. Rectified provisioning percentages in the system
+2. Made additional provision of Rs. 8.5 Lakhs
+3. Implemented quarterly review of provisioning adequacy by Audit Committee
+4. Internal audit to verify provisioning in each audit cycle
+
+Evidence Submitted:
+- Board resolution for additional provision
+- System configuration screenshots
+- Audit Committee minutes
+
+Status: CLOSED (RBI letter dated November 15, 2023)
+
+--------------------------------------------------------------------------------
+OBSERVATION 3: INCOME RECOGNITION ON NPAs
+--------------------------------------------------------------------------------
+
+RBI Observation:
+Interest income of Rs. 4.2 Lakhs was recognized on 2 NPA accounts after
+the date of NPA classification.
+
+Company's Response:
+
+We acknowledge the observation. Interest was inadvertently recognized due
+to system configuration error.
+
+Corrective Action Taken:
+1. Interest income reversed in Q1 FY 2023-24
+2. System configured to automatically stop interest recognition on NPA date
+3. Reconciliation performed for all NPA accounts for FY 2022-23
+
+Evidence Submitted:
+- Journal entries for reversal
+- System configuration
+- Reconciliation statement
+
+Status: CLOSED (RBI letter dated November 15, 2023)
+
+--------------------------------------------------------------------------------
+OBSERVATION 4: KYC UPDATION
+--------------------------------------------------------------------------------
+
+RBI Observation:
+KYC updation for 48 customers (4.2% of portfolio) was overdue. Of these,
+15 were high-risk customers where KYC should be updated every 2 years.
+
+Company's Response:
+
+We acknowledge the observation. The delay was due to challenges in
+contacting customers and obtaining updated documents.
+
+Corrective Action Taken:
+1. Dedicated team formed for KYC updation
+2. Multiple contact attempts made (calls, SMS, email, physical visit)
+3. 42 out of 48 customers' KYC updated as of September 15, 2023
+4. Remaining 6 customers' accounts placed under "no further credit" status
+5. Automated KYC renewal alerts implemented - 60, 30, 15 days before due date
+
+Evidence Submitted:
+- Updated KYC records
+- Customer contact logs
+- System alert configuration
+
+Current Status:
+- All 48 customers' KYC now updated
+- Ongoing monitoring to prevent recurrence
+
+Status: CLOSED (RBI letter dated November 15, 2023)
+
+--------------------------------------------------------------------------------
+OBSERVATION 5: STR FILING DELAY
+--------------------------------------------------------------------------------
+
+RBI Observation:
+1 Suspicious Transaction Report was filed with delay of 12 days (filed on
+19th day instead of within 7 days of detection).
+
+Company's Response:
+
+We regret the delay in STR filing. The delay occurred due to extended
+internal investigation to gather sufficient information.
+
+Corrective Action Taken:
+1. STR workflow revised to ensure filing within 7 days
+2. Preliminary STR to be filed within 7 days even if investigation ongoing
+3. Principal Officer to escalate immediately upon detection
+4. Daily tracking of suspicious transactions implemented
+
+Evidence Submitted:
+- Revised STR filing workflow
+- Training records
+- Register of suspicious transactions
+
+Status: CLOSED (RBI letter dated November 15, 2023)
+
+--------------------------------------------------------------------------------
+OBSERVATION 6: FAIR PRACTICES CODE - SANCTION LETTER
+--------------------------------------------------------------------------------
+
+RBI Observation:
+In 8 loan files examined, sanction letters did not contain annualized
+effective rate of interest as required under Fair Practices Code.
+
+Company's Response:
+
+We acknowledge the observation. While interest rate was mentioned, the
+annualized effective rate (considering compounding and fees) was not
+separately disclosed.
+
+Corrective Action Taken:
+1. Sanction letter format revised to include:
+   - Nominal interest rate
+   - Annualized effective rate (APR)
+   - Processing fees and charges
+   - EMI schedule
+2. All future sanction letters in revised format from July 1, 2023
+3. Training provided to credit team
+
+Evidence Submitted:
+- Revised sanction letter format
+- Sample sanction letters in new format
+- Training records
+
+Status: CLOSED (RBI letter dated November 15, 2023)
+
+--------------------------------------------------------------------------------
+OBSERVATION 7: GRIEVANCE REDRESSAL
+--------------------------------------------------------------------------------
+
+RBI Observation:
+3 customer complaints were resolved beyond the Company's stated timeline
+of 15 days (resolved in 18, 21, and 25 days respectively).
+
+Company's Response:
+
+We acknowledge the delay. The complaints required detailed investigation
+and coordination with third parties (collection agents).
+
+Corrective Action Taken:
+1. Additional resources deployed in grievance cell
+2. Escalation matrix implemented with daily tracking
+3. If resolution requires > 15 days, interim response to be provided
+4. Root cause analysis for delayed complaints
+
+Evidence Submitted:
+- Complaint resolution reports
+- Escalation matrix
+- Revised grievance policy
+
+Status: CLOSED (RBI letter dated November 15, 2023)
+
+--------------------------------------------------------------------------------
+OBSERVATION 8: IT SYSTEMS - DATA BACKUP
+--------------------------------------------------------------------------------
+
+RBI Observation:
+Backup testing was not conducted for 2 consecutive quarters. The last
+backup restoration test was conducted in October 2022.
+
+Company's Response:
+
+We acknowledge the observation. Backup testing was missed due to system
+migration project which was ongoing during Q3 and Q4 FY 2022-23.
+
+Corrective Action Taken:
+1. Backup restoration test conducted in July 2023 - successful
+2. Quarterly backup testing now mandated in IT Policy
+3. Calendar alerts set for quarterly testing
+4. IT Strategy Committee to review backup status quarterly
+
+Evidence Submitted:
+- Backup restoration test reports (July 2023, October 2023)
+- IT Policy extract
+- IT Strategy Committee minutes
+
+Status: CLOSED (RBI letter dated November 15, 2023)
+
+--------------------------------------------------------------------------------
+OBSERVATION 9: CYBER SECURITY - VULNERABILITY ASSESSMENT
+--------------------------------------------------------------------------------
+
+RBI Observation:
+Vulnerability Assessment and Penetration Testing (VAPT) was last conducted
+in September 2022. As per RBI IT Framework, VAPT should be conducted annually.
+
+Company's Response:
+
+We acknowledge the observation. Annual VAPT was due in September 2023 and
+has been scheduled.
+
+Corrective Action Taken:
+1. VAPT conducted in August 2023 by CERT-In empanelled auditor
+2. 12 vulnerabilities identified (3 high, 5 medium, 4 low)
+3. All high-severity vulnerabilities addressed within 30 days
+4. Medium vulnerabilities addressed within 60 days
+5. Annual VAPT calendar established
+
+Evidence Submitted:
+- VAPT Report August 2023
+- Vulnerability closure certificate
+- Annual IT calendar
+
+Current Status:
+- 3 high vulnerabilities: Closed
+- 5 medium vulnerabilities: 3 closed, 2 in progress (due by December 2023)
+- 4 low vulnerabilities: Under remediation
+
+Status: UNDER MONITORING
+        (High vulnerabilities closed, medium ones being tracked)
+
+--------------------------------------------------------------------------------
+OBSERVATION 10: CORPORATE GOVERNANCE - AUDIT COMMITTEE
+--------------------------------------------------------------------------------
+
+RBI Observation:
+Audit Committee meeting in Q3 FY 2022-23 was attended by only 2 members
+(quorum is 3). The minutes do not record reason for non-attendance.
+
+Company's Response:
+
+We acknowledge the observation. One member was unable to attend due to
+medical emergency but the reason was not recorded in minutes.
+
+Corrective Action Taken:
+1. Minutes format revised to mandatorily record reason for non-attendance
+2. Alternate members to be identified for committees
+3. Video conferencing to be facilitated for participation
+4. Company Secretary to follow up on attendance
+
+Evidence Submitted:
+- Revised minutes format
+- Subsequent Audit Committee minutes with improved attendance
+
+Status: CLOSED (RBI letter dated November 15, 2023)
+
+--------------------------------------------------------------------------------
+OBSERVATION 11: CORPORATE GOVERNANCE - RISK COMMITTEE
+--------------------------------------------------------------------------------
+
+RBI Observation:
+Risk Management Committee did not discuss stress testing results in 2 out
+of 4 meetings in FY 2022-23.
+
+Company's Response:
+
+We acknowledge the observation. Stress testing was conducted but results
+were presented to the Board directly instead of Risk Committee.
+
+Corrective Action Taken:
+1. Risk Committee charter amended to mandatorily include stress testing
+2. Stress testing results now presented to Risk Committee first
+3. Agenda for Risk Committee standardized
+4. Board Note format for Risk Committee revised
+
+Evidence Submitted:
+- Revised Risk Committee charter
+- Subsequent Risk Committee minutes with stress testing discussion
+
+Status: CLOSED (RBI letter dated November 15, 2023)
+
+--------------------------------------------------------------------------------
+OBSERVATION 12: LARGE EXPOSURE REPORTING
+--------------------------------------------------------------------------------
+
+RBI Observation:
+Large Exposure Report submitted to RBI contained errors in 2 entries.
+The exposure amount for one group was understated by Rs. 45 Lakhs due to
+non-inclusion of off-balance sheet exposure.
+
+Company's Response:
+
+We acknowledge the error. The off-balance sheet exposure (bank guarantee
+backed by the Company) was inadvertently omitted.
+
+Corrective Action Taken:
+1. Revised Large Exposure Report submitted to RBI on August 15, 2023
+2. Reporting template enhanced to capture off-balance sheet items
+3. Maker-checker process implemented for regulatory returns
+4. Quarterly reconciliation with internal records
+
+Evidence Submitted:
+- Revised Large Exposure Report
+- Enhanced reporting template
+- Reconciliation report
+
+Current Status:
+- Revised report submitted
+- RBI reviewing the revised report
+
+Status: UNDER MONITORING
+        (Awaiting RBI confirmation on revised report)
+
+================================================================================
+                 ACTION TAKEN REPORT SUMMARY
+================================================================================
+
+Observation    Category               Action Status    Target Date   Current
+--------------------------------------------------------------------------------
+1              Asset Classification   Completed        Jul 2023      Closed
+2              Provisioning           Completed        Jul 2023      Closed
+3              Income Recognition     Completed        Jul 2023      Closed
+4              KYC Updation           Completed        Sep 2023      Closed
+5              STR Filing             Completed        Jul 2023      Closed
+6              Fair Practices Code    Completed        Jul 2023      Closed
+7              Grievance Redressal    Completed        Aug 2023      Closed
+8              IT - Backup            Completed        Jul 2023      Closed
+9              Cyber Security         In Progress      Dec 2023      Monitoring
+10             Audit Committee        Completed        Aug 2023      Closed
+11             Risk Committee         Completed        Aug 2023      Closed
+12             Large Exposure         Completed        Aug 2023      Monitoring
+
+================================================================================
+              BOARD AND COMMITTEE OVERSIGHT
+================================================================================
+
+1. AUDIT COMMITTEE REVIEW:
+   The Audit Committee reviewed all 12 observations at its meeting on
+   August 25, 2023 and September 20, 2023. The Committee directed
+   implementation of corrective actions and quarterly progress review.
+
+2. RISK MANAGEMENT COMMITTEE:
+   The Risk Management Committee reviewed observations related to IT
+   systems and large exposures at its meeting on August 28, 2023.
+
+3. BOARD REVIEW:
+   The Board of Directors reviewed the RBI Inspection Report and Action
+   Taken Report at its meeting on September 5, 2023. The Board directed
+   management to:
+   - Implement all corrective actions within specified timelines
+   - Provide quarterly update on pending observations
+   - Conduct internal audit of areas observed
+
+================================================================================
+                   CERTIFICATION
+================================================================================
+
+We certify that:
+
+1. All information provided in this response is true and correct to the
+   best of our knowledge.
+
+2. All corrective actions stated herein have been/will be implemented
+   as committed.
+
+3. Systems and processes have been strengthened to prevent recurrence.
+
+4. The Board and relevant Committees have been apprised of the
+   observations and actions taken.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-                                    Sd/-
+RAJESH KUMAR MEHTA                      KAVITA MENON
+Managing Director                       Chief Compliance Officer
+
+Date: September 15, 2023
+Place: Mumbai
+
+================================================================================
+                   FOLLOW-UP STATUS
+================================================================================
+
+As on November 20, 2025:
+
+- 10 observations: Closed by RBI (closure letter dated November 15, 2023)
+- 2 observations: Closed by RBI (closure letter dated March 15, 2024)
+
+All observations from June 2023 inspection have been closed.
+
+Next RBI Inspection: Expected in FY 2025-26
+
+================================================================================
+            END OF RBI INSPECTION RESPONSE
+================================================================================

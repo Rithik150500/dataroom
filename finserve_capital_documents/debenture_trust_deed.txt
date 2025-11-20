@@ -1,0 +1,515 @@
+================================================================================
+                      DEBENTURE TRUST DEED
+================================================================================
+
+             FOR ISSUE OF SECURED, RATED, LISTED,
+        REDEEMABLE, NON-CONVERTIBLE DEBENTURES (NCDs)
+
+This DEBENTURE TRUST DEED ("Trust Deed") is made and entered into on this
+30th day of November, 2021
+
+BETWEEN
+
+FINSERVE CAPITAL LIMITED, a company incorporated under the Companies Act,
+2013, having CIN U65990MH2015PLC264789, and its registered office at
+Unit 501-502, 5th Floor, Peninsula Business Park, Senapati Bapat Marg,
+Lower Parel, Mumbai - 400013
+(hereinafter referred to as the "Company" or "Issuer")
+                                                            OF THE FIRST PART
+
+AND
+
+VISTRA ITCL (INDIA) LIMITED, a company incorporated under the Companies Act,
+1956, having CIN U65993MH1990PLC058775, and its registered office at
+IL&FS Financial Centre, Plot C - 22, G Block, Bandra Kurla Complex,
+Bandra (East), Mumbai - 400051
+(hereinafter referred to as the "Debenture Trustee" or "Trustee")
+                                                           OF THE SECOND PART
+
+================================================================================
+                         RECITALS
+================================================================================
+
+A. The Company is a Non-Banking Financial Company (NBFC) registered with
+   the Reserve Bank of India and engaged in the business of lending.
+
+B. The Board of Directors of the Company at its meeting held on October 25,
+   2021, and the shareholders at the Extra-ordinary General Meeting held on
+   November 15, 2021, approved the issuance of Secured, Rated, Listed,
+   Redeemable, Non-Convertible Debentures on private placement basis.
+
+C. The Company proposes to issue NCDs in one or more series/tranches up to
+   an aggregate amount of Rs. 100,00,00,000 (Rupees One Hundred Crores Only).
+
+D. The Trustee, being a debenture trustee registered with SEBI (Registration
+   No. IND000000380), has agreed to act as Debenture Trustee for the NCD
+   holders.
+
+E. The Parties desire to enter into this Trust Deed to record the terms and
+   conditions of the NCDs and the rights and obligations of the parties.
+
+NOW THEREFORE, in consideration of the mutual covenants herein, the Parties
+agree as follows:
+
+================================================================================
+                  ARTICLE 1 - DEFINITIONS
+================================================================================
+
+"Coupon Rate" means the rate of interest payable on the NCDs as specified
+in the respective Term Sheet.
+
+"Debenture Holders" means the registered holders of the NCDs from time to time.
+
+"Issue Price" means Rs. 10,00,000 per NCD.
+
+"Maturity Date" means the date on which the NCDs are redeemable as specified
+in the Term Sheet.
+
+"NCDs" means the Secured, Rated, Listed, Redeemable, Non-Convertible
+Debentures issued pursuant to this Trust Deed.
+
+"Security" means the security created in favor of the Trustee for the benefit
+of the Debenture Holders as specified in Article 6.
+
+"Term Sheet" means the term sheet for each series/tranche of NCDs containing
+specific terms.
+
+================================================================================
+                  ARTICLE 2 - THE NCDs
+================================================================================
+
+2.1 ISSUE SIZE AND SERIES
+
+    The Company is authorized to issue NCDs in one or more series up to an
+    aggregate amount of Rs. 100,00,00,000 (Rupees One Hundred Crores Only).
+
+    Series Issued to Date:
+
+    Series    Date         Amount (Cr)   Coupon    Tenure    Maturity
+    ------------------------------------------------------------------
+    Series A  30/11/2021   50.00         10.50%    3 yrs     30/11/2024
+    Series B  15/06/2022   35.00         10.75%    3 yrs     15/06/2025
+    Total                  85.00
+
+2.2 FACE VALUE
+
+    Each NCD shall have a face value of Rs. 10,00,000 (Rupees Ten Lakhs Only).
+
+2.3 NATURE OF NCDs
+
+    The NCDs shall be:
+    (a) Secured by first pari passu charge on Loan Receivables
+    (b) Rated by a SEBI-registered credit rating agency
+    (c) Listed on the Wholesale Debt Market segment of BSE Limited
+    (d) Redeemable at par on the Maturity Date
+    (e) Non-Convertible (not convertible into equity shares)
+
+2.4 FORM OF NCDs
+
+    The NCDs shall be issued in dematerialized form only and held with
+    depositories (NSDL/CDSL). No physical certificates shall be issued.
+
+2.5 MINIMUM SUBSCRIPTION
+
+    Minimum subscription: Rs. 1,00,00,000 (Rupees One Crore Only)
+    Minimum application size: 10 NCDs
+
+================================================================================
+               ARTICLE 3 - TERMS OF SERIES A NCDs
+================================================================================
+
+TERM SHEET - SERIES A
+
+Issue Size:                     Rs. 50,00,00,000 (Rupees Fifty Crores Only)
+Number of NCDs:                 500 NCDs
+Face Value:                     Rs. 10,00,000 per NCD
+Issue Price:                    Rs. 10,00,000 per NCD (at par)
+Date of Allotment:              November 30, 2021
+Coupon Rate:                    10.50% per annum
+Interest Payment:               Annual (November 30 each year)
+Tenure:                         3 years from Deemed Date of Allotment
+Maturity Date:                  November 30, 2024
+Redemption Amount:              At par (Rs. 10,00,000 per NCD)
+Credit Rating:                  CRISIL A- / Stable (by CRISIL Ratings)
+Listing:                        BSE Limited (WDM Segment)
+ISIN:                           INE123A45678
+Security:                       First pari passu charge on Loan Receivables
+
+--------------------------------------------------------------------------------
+
+DETAILS OF SERIES A NCD HOLDERS
+
+Sl.  Name of NCD Holder           No. of NCDs    Amount (Rs. Cr)
+------------------------------------------------------------------
+1.   ICICI Prudential AMC              150           15.00
+     (Credit Risk Fund)
+2.   HDFC AMC (Corporate               100           10.00
+     Bond Fund)
+3.   Aditya Birla Sun Life              80            8.00
+     AMC (Medium Term Fund)
+4.   Kotak Mahindra AMC                 70            7.00
+     (Corporate Bond Fund)
+5.   SBI Funds Management               50            5.00
+     (Credit Risk Fund)
+6.   Tata AMC (Corporate                50            5.00
+     Bond Fund)
+------------------------------------------------------------------
+     TOTAL                             500           50.00
+
+================================================================================
+                  ARTICLE 4 - INTEREST
+================================================================================
+
+4.1 COUPON RATE
+
+    The NCDs shall carry interest at the Coupon Rate specified in the
+    Term Sheet, payable annually on the Interest Payment Date.
+
+4.2 INTEREST PAYMENT DATES
+
+    Series A: November 30 of each year (2022, 2023, 2024)
+    Series B: June 15 of each year (2023, 2024, 2025)
+
+4.3 INTEREST CALCULATION
+
+    Interest shall be calculated on the outstanding principal amount at the
+    Coupon Rate on the basis of a year of 365 days and the actual number of
+    days elapsed.
+
+4.4 DAY COUNT CONVENTION
+
+    Actual/Actual
+
+4.5 DEFAULT INTEREST
+
+    In case of delay in payment of interest or principal, the Company shall
+    pay additional interest at the rate of 2% per annum above the Coupon Rate
+    for the period of default.
+
+4.6 TAX DEDUCTION
+
+    The Company shall deduct tax at source on interest payments as per
+    applicable laws. The Company shall issue TDS certificates to NCD holders.
+
+================================================================================
+                   ARTICLE 5 - REDEMPTION
+================================================================================
+
+5.1 REDEMPTION AT MATURITY
+
+    The NCDs shall be redeemed at par on the Maturity Date. The redemption
+    amount along with final interest payment shall be paid to the registered
+    holders through their bank accounts linked to their demat accounts.
+
+5.2 EARLY REDEMPTION
+
+    (a) CALL OPTION: The Company may, at its sole discretion, redeem the
+        NCDs before the Maturity Date by giving at least 21 days prior notice
+        to the NCD holders. Early redemption shall be at a premium of 0.50%
+        over the face value.
+
+    (b) PUT OPTION: NCD holders may, by giving at least 21 days prior notice
+        to the Company, require the Company to redeem their NCDs before the
+        Maturity Date in case of:
+        - Downgrade of credit rating below investment grade
+        - Change in control of the Company
+        - Material breach of covenants not cured within 30 days
+
+5.3 RECORD DATE
+
+    The Company shall fix a record date at least 15 days before any interest
+    payment date or redemption date. Only persons whose names appear in the
+    register of debenture holders on the record date shall be entitled to
+    receive payment.
+
+================================================================================
+                    ARTICLE 6 - SECURITY
+================================================================================
+
+6.1 NATURE OF SECURITY
+
+    The NCDs are secured by:
+
+    FIRST PARI PASSU CHARGE on the Company's present and future Loan
+    Receivables with minimum security cover of 1.10 times the outstanding
+    NCD amount.
+
+6.2 SECURITY DOCUMENTS
+
+    The Company shall execute:
+    (a) Deed of Hypothecation in favor of the Trustee
+    (b) Power of Attorney in favor of the Trustee
+
+6.3 ASSET COVER
+
+    The Company shall maintain asset cover of at least 1.10 times at all
+    times. The Company shall submit monthly certificates to the Trustee
+    confirming the asset cover.
+
+    If the asset cover falls below 1.10x for 2 consecutive months, the
+    Company shall:
+    (a) Provide additional security within 30 days, or
+    (b) Redeem part of the NCDs to restore the asset cover
+
+6.4 REGISTRATION OF CHARGE
+
+    The charge shall be registered with:
+    (a) Registrar of Companies, Maharashtra within 30 days
+    (b) Central Registry of Securitisation (CERSAI) within 30 days
+
+6.5 SHARING OF SECURITY
+
+    The Trustee shall share the security on pari passu basis with other
+    secured lenders to the Company as per the inter-creditor agreement.
+
+================================================================================
+                 ARTICLE 7 - CREDIT RATING
+================================================================================
+
+7.1 INITIAL RATING
+
+    The NCDs have been rated by CRISIL Ratings as follows:
+    - Rating: CRISIL A- (pronounced "CRISIL A minus")
+    - Outlook: Stable
+
+7.2 RATING RATIONALE
+
+    The rating reflects the Company's:
+    - Adequate capital position with CRAR of 17.8%
+    - Diversified funding profile
+    - Experienced management team
+
+    The rating is constrained by:
+    - Higher than peer NPA levels
+    - Geographic concentration in Maharashtra
+
+7.3 ANNUAL SURVEILLANCE
+
+    The rating shall be reviewed annually by CRISIL. The Company shall:
+    (a) Cooperate with the rating agency
+    (b) Provide all information required
+    (c) Inform the Trustee immediately of any rating action
+
+7.4 RATING DOWNGRADE
+
+    In case the rating is downgraded below investment grade (below BBB-):
+    (a) The Trustee shall convene a meeting of NCD holders
+    (b) NCD holders may exercise the put option
+
+================================================================================
+            ARTICLE 8 - LISTING AND TRADING
+================================================================================
+
+8.1 LISTING
+
+    The NCDs are listed on the Wholesale Debt Market (WDM) segment of
+    BSE Limited.
+
+    Listing Details:
+    - Exchange: BSE Limited
+    - Segment: Wholesale Debt Market
+    - Scrip Code: Series A - 975XXX, Series B - 975YYY
+
+8.2 TRADING
+
+    The NCDs shall be traded only among Qualified Institutional Buyers (QIBs)
+    in minimum lots of Rs. 1,00,00,000.
+
+8.3 LISTING COMPLIANCE
+
+    The Company shall comply with all listing requirements including:
+    (a) Payment of annual listing fees
+    (b) Submission of half-yearly financial results
+    (c) Disclosure of material events
+    (d) Maintenance of minimum 25% public holding (not applicable for
+        privately placed NCDs)
+
+================================================================================
+            ARTICLE 9 - ROLE OF DEBENTURE TRUSTEE
+================================================================================
+
+9.1 APPOINTMENT
+
+    The Company hereby appoints Vistra ITCL (India) Limited as the Debenture
+    Trustee for the NCD holders. The Trustee accepts the appointment.
+
+9.2 DUTIES OF TRUSTEE
+
+    The Trustee shall:
+
+    (a) Protect the interests of the NCD holders
+    (b) Ensure creation of security and maintenance of asset cover
+    (c) Monitor compliance by the Company with covenants
+    (d) Call meetings of NCD holders when required
+    (e) Enforce the security in case of default
+    (f) Take actions on behalf of NCD holders
+
+9.3 RIGHTS OF TRUSTEE
+
+    The Trustee shall have the right to:
+
+    (a) Inspect the books and records of the Company
+    (b) Appoint a nominee on the Board of the Company in case of default
+    (c) Enforce the security upon occurrence of Event of Default
+    (d) Seek information from the Company
+
+9.4 TRUSTEE FEE
+
+    The Company shall pay to the Trustee an annual fee as agreed between
+    the parties, plus reimbursement of out-of-pocket expenses.
+
+================================================================================
+               ARTICLE 10 - COMPANY COVENANTS
+================================================================================
+
+10.1 AFFIRMATIVE COVENANTS
+
+     The Company shall:
+
+     (a) FINANCIAL COVENANTS:
+         - Maintain CRAR of at least 15%
+         - Maintain Debt to Equity ratio below 4:1
+         - Maintain asset cover of 1.10x
+         - Maintain Net NPA below 6%
+
+     (b) REPORTING TO TRUSTEE:
+         - Monthly asset cover certificate
+         - Quarterly financial statements within 45 days
+         - Annual audited financial statements within 90 days
+         - Intimation of any material event within 2 days
+
+     (c) OTHER:
+         - Maintain RBI registration
+         - Comply with all applicable laws
+         - Maintain adequate insurance
+         - Pay interest and principal on due dates
+
+10.2 NEGATIVE COVENANTS
+
+     Without the Trustee's prior written consent, the Company shall not:
+
+     (a) Create any security ranking prior to the NCD security
+     (b) Change its constitution or management (except in ordinary course)
+     (c) Undertake any merger, amalgamation, or demerger
+     (d) Declare dividend if financial covenants are breached
+     (e) Dispose of substantial assets
+
+================================================================================
+               ARTICLE 11 - EVENTS OF DEFAULT
+================================================================================
+
+11.1 EVENTS OF DEFAULT
+
+     Each of the following is an Event of Default:
+
+     (a) Failure to pay interest or principal within 7 days of due date
+     (b) Breach of any covenant not cured within 30 days of notice
+     (c) Breach of any financial covenant for 2 consecutive quarters
+     (d) Cross-default (default under any other borrowing exceeding Rs. 5 Cr)
+     (e) Credit rating downgrade below investment grade
+     (f) Cancellation or suspension of RBI registration
+     (g) Insolvency, winding up, or similar proceedings
+     (h) Asset cover falling below 1x for 2 consecutive months
+     (i) Any representation or warranty being materially incorrect
+
+11.2 CONSEQUENCES OF DEFAULT
+
+     Upon occurrence of an Event of Default, the Trustee may:
+
+     (a) Declare all outstanding NCDs immediately due and payable
+     (b) Enforce the security
+     (c) Appoint a nominee director on the Board
+     (d) Take any other action to protect NCD holders' interests
+
+================================================================================
+              ARTICLE 12 - MEETINGS OF NCD HOLDERS
+================================================================================
+
+12.1 CONVENING MEETINGS
+
+     Meetings of NCD holders may be convened by:
+     (a) The Trustee
+     (b) The Company
+     (c) NCD holders holding at least 10% of outstanding NCDs
+
+12.2 QUORUM
+
+     The quorum shall be NCD holders holding at least 25% of outstanding NCDs.
+
+12.3 VOTING
+
+     Each NCD holder shall have one vote for each NCD held.
+     Ordinary Resolution: Simple majority
+     Special Resolution: 75% majority
+
+================================================================================
+                   ARTICLE 13 - GENERAL
+================================================================================
+
+13.1 GOVERNING LAW
+
+     This Trust Deed shall be governed by and construed in accordance with
+     the laws of India.
+
+13.2 JURISDICTION
+
+     The courts at Mumbai shall have exclusive jurisdiction.
+
+13.3 NOTICES
+
+     All notices shall be sent to the addresses specified in this Trust Deed.
+
+================================================================================
+                       EXECUTION
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Trust Deed on the date
+first written above.
+
+For FINSERVE CAPITAL LIMITED          For VISTRA ITCL (INDIA) LIMITED
+
+Sd/-                                  Sd/-
+Name: Mr. Rajesh Kumar Mehta          Name: Mr. Sandeep Gupta
+Designation: Managing Director        Designation: Vice President
+
+Sd/-
+Name: Mr. Vikram Joshi
+Designation: Chief Financial Officer
+
+--------------------------------------------------------------------------------
+
+WITNESSES:
+
+1. Sd/-                               2. Sd/-
+   Name: _________________               Name: _________________
+
+================================================================================
+                   CURRENT NCD STATUS
+================================================================================
+
+As on November 20, 2025
+
+Series A NCDs:
+- Issue Amount: Rs. 50 Crores
+- Outstanding: Rs. 0 (Redeemed on November 30, 2024)
+- Status: Fully Redeemed
+
+Series B NCDs:
+- Issue Amount: Rs. 35 Crores
+- Outstanding: Rs. 35 Crores
+- Maturity Date: June 15, 2025
+- Next Interest Payment: June 15, 2025
+- Interest Paid to Date: All interest paid on time
+
+Total Outstanding NCDs: Rs. 35 Crores
+
+Compliance Status:
+- Asset Cover: 1.40x (Covenant: Min 1.10x) - COMPLIANT
+- CRAR: 18.2% (Covenant: Min 15%) - COMPLIANT
+- Rating: CRISIL A- / Stable - MAINTAINED
+- All interest payments: ON TIME
+- All reporting to Trustee: COMPLIANT
+
+================================================================================
+                 END OF DEBENTURE TRUST DEED
+================================================================================

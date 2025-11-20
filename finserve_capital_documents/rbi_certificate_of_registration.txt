@@ -1,0 +1,281 @@
+================================================================================
+                    भारतीय रिज़र्व बैंक
+                   RESERVE BANK OF INDIA
+                 Department of Non-Banking Supervision
+                      Central Office, Mumbai
+================================================================================
+
+                    CERTIFICATE OF REGISTRATION
+                              TO
+           NON-BANKING FINANCIAL COMPANY (NBFC)
+                  Under Section 45-IA of the
+              Reserve Bank of India Act, 1934
+================================================================================
+
+Certificate No: N-14.03268
+
+Date of Issue: October 20, 2015
+
+--------------------------------------------------------------------------------
+
+TO WHOMSOEVER IT MAY CONCERN
+
+This is to certify that the Company named below is registered as a Non-Banking
+Financial Company under Section 45-IA of the Reserve Bank of India Act, 1934
+(2 of 1934) to commence/carry on the business of a non-banking financial
+institution.
+
+--------------------------------------------------------------------------------
+                      COMPANY DETAILS
+--------------------------------------------------------------------------------
+
+Name of the Company:        FINSERVE CAPITAL LIMITED
+
+Corporate Identity Number:  U65990MH2015PLC264789
+
+Registered Office:          Unit 501-502, 5th Floor,
+                            Peninsula Business Park,
+                            Senapati Bapat Marg, Lower Parel,
+                            Mumbai - 400013
+                            Maharashtra, India
+
+Type of NBFC:               Non-Deposit Taking
+
+Classification:             NBFC - Investment and Credit Company (NBFC-ICC)
+
+Scale Based Regulation
+(SBR) Category:             Middle Layer NBFC
+                            (Asset size Rs. 100 - 1000 Crores)
+
+Principal Business:         a) Advancing loans to SMEs, MSMEs
+                            b) Vehicle financing
+                            c) Equipment financing
+                            d) Term loans and working capital
+
+Asset Size (as last
+reported):                  Rs. 428 Crores (September 30, 2025)
+
+Date of Application:        September 15, 2015
+
+Date of Registration:       October 20, 2015
+
+--------------------------------------------------------------------------------
+              CONDITIONS ATTACHED TO THIS REGISTRATION
+--------------------------------------------------------------------------------
+
+This Certificate of Registration is subject to the following conditions:
+
+1.  CAPITAL REQUIREMENTS
+
+    (a) The Company shall maintain Net Owned Funds (NOF) of not less than
+        Rs. 2 Crores at all times. (Current NOF: Rs. 142 Crores - Compliant)
+
+    (b) The Company shall maintain CRAR of not less than 15% at all times.
+        (Current CRAR: 18.2% - Compliant)
+
+    (c) Tier I Capital shall not be less than 10% of risk-weighted assets.
+        (Current Tier I: 13.8% - Compliant)
+
+2.  BUSINESS RESTRICTIONS
+
+    (a) The Company shall NOT accept public deposits without specific
+        permission from the Reserve Bank of India.
+
+    (b) The Company shall carry on business of NBFC only and no other
+        business.
+
+    (c) The Company shall comply with all provisions of the RBI Act, 1934
+        and regulations, directions, guidelines, notifications and circulars
+        issued by RBI from time to time.
+
+3.  EXPOSURE NORMS
+
+    (a) Single borrower exposure shall not exceed 25% of Owned Funds.
+
+    (b) Group borrower exposure shall not exceed 40% of Owned Funds.
+
+    (c) Investment in shares shall not exceed the limits prescribed by RBI.
+
+4.  ASSET CLASSIFICATION AND PROVISIONING
+
+    The Company shall classify its loan assets and make provisions in
+    accordance with the Income Recognition, Asset Classification and
+    Provisioning (IRACP) norms prescribed by RBI.
+
+5.  FAIR PRACTICES CODE
+
+    The Company shall adopt a Board-approved Fair Practices Code in compliance
+    with RBI guidelines.
+
+6.  KYC/AML COMPLIANCE
+
+    The Company shall comply with Know Your Customer (KYC) guidelines and
+    Anti-Money Laundering (AML) standards as prescribed by RBI and PMLA.
+
+7.  CORPORATE GOVERNANCE
+
+    (a) The Company shall constitute Board committees as required by RBI
+        for NBFCs including Audit Committee, Risk Management Committee,
+        and Nomination & Remuneration Committee.
+
+    (b) Directors and Key Management Personnel shall meet "fit and proper"
+        criteria prescribed by RBI.
+
+    (c) The Company shall appoint Chief Risk Officer, Chief Compliance
+        Officer, and Principal Officer as required.
+
+8.  REPORTING AND RETURNS
+
+    The Company shall submit to RBI all returns, statements, and information
+    as prescribed within the specified time limits including:
+
+    (a) Quarterly returns on asset classification and provisioning (NBS-7)
+    (b) Half-yearly prudential norms return (NBS-8)
+    (c) Monthly ALM returns
+    (d) Annual statutory auditor's certificate on compliance
+    (e) Any other returns as may be prescribed
+
+9.  PRIOR APPROVAL REQUIREMENTS
+
+    The Company shall obtain prior approval of RBI for:
+
+    (a) Change in name of the Company
+    (b) Shifting of registered office outside the state
+    (c) Change in management or Managing Director/CEO
+    (d) Any person acquiring more than 26% of paid-up capital
+    (e) Any amalgamation, merger, or change in shareholding pattern
+    (f) Any other matter requiring prior RBI approval
+
+10. INSPECTION
+
+    The Company and its books shall be open to inspection by RBI officers
+    at any time. The Company shall cooperate fully with any inspection and
+    shall address all observations raised by RBI.
+
+11. CYBER SECURITY
+
+    The Company shall implement cyber security framework as prescribed by
+    RBI and shall report all cyber security incidents.
+
+12. INFORMATION TECHNOLOGY
+
+    The Company shall comply with IT framework prescribed by RBI for NBFCs
+    and shall undergo IS Audit by empanelled auditors.
+
+13. GRIEVANCE REDRESSAL
+
+    The Company shall put in place a proper grievance redressal mechanism
+    and shall appoint a Nodal Officer for customer complaints.
+
+--------------------------------------------------------------------------------
+                    VALIDITY OF REGISTRATION
+--------------------------------------------------------------------------------
+
+This Certificate of Registration is valid unless cancelled by RBI on account
+of any violation of conditions or any provisions of the RBI Act, 1934 or any
+directions or guidelines issued by RBI.
+
+RBI does not undertake any responsibility for the financial soundness of the
+Company or for the correctness of any of the statements or representations
+made or opinions expressed by the Company and for any loss arising from any
+business dealings with the Company.
+
+--------------------------------------------------------------------------------
+                     COMPLIANCE STATUS
+--------------------------------------------------------------------------------
+
+Based on the latest compliance review, the following is the status:
+
+Parameter                              Requirement    Actual      Status
+--------------------------------------------------------------------------------
+Net Owned Funds                        Rs. 2 Cr Min   Rs. 142 Cr  COMPLIANT
+CRAR                                   15% Min        18.2%       COMPLIANT
+Tier I Capital                         10% Min        13.8%       COMPLIANT
+Single Borrower Limit                  25% Max        22.5%       COMPLIANT
+Group Borrower Limit                   40% Max        NIL         COMPLIANT
+Returns Filing                         Timely         Timely      COMPLIANT
+Fair Practices Code                    Implemented    Yes         COMPLIANT
+KYC/AML Compliance                     Required       Yes         COMPLIANT
+Grievance Redressal                    Required       Yes         COMPLIANT
+Board Composition                      Per RBI        Yes         COMPLIANT
+
+Last RBI Inspection:                   June 2023
+Inspection Observations:               12 raised, 10 closed, 2 under monitoring
+Penalties Imposed in last 5 years:     NIL
+
+--------------------------------------------------------------------------------
+                    IMPORTANT NOTES
+--------------------------------------------------------------------------------
+
+1. This Certificate shall be displayed at a prominent place in the registered
+   office and all branches of the Company.
+
+2. This Certificate is not transferable.
+
+3. The registration number N-14.03268 shall be quoted in all correspondence
+   with RBI.
+
+4. Any change in the information furnished to RBI shall be intimated
+   immediately.
+
+5. Failure to comply with any of the conditions or any RBI regulations may
+   result in cancellation of this registration and/or imposition of penalties.
+
+6. This certificate does not constitute a guarantee or endorsement by RBI
+   of the Company's financial position or creditworthiness.
+
+--------------------------------------------------------------------------------
+                      CLASSIFICATION HISTORY
+--------------------------------------------------------------------------------
+
+Date                    Classification
+
+October 2015            NBFC-Non Deposit Taking (NBFC-ND)
+April 2019              NBFC-ND-SI (Systemically Important - assets > 500 Cr)
+October 2022            Reclassified as NBFC-ICC under Scale Based Regulation
+                        Middle Layer NBFC
+
+--------------------------------------------------------------------------------
+                       ISSUED BY
+--------------------------------------------------------------------------------
+
+By Order
+
+Sd/-
+REGIONAL DIRECTOR
+Department of Non-Banking Supervision
+Reserve Bank of India
+Mumbai Regional Office
+Amar Building, Sir P.M. Road
+Fort, Mumbai - 400001
+
+Telephone: +91-22-2266-1602
+Email: cgmdnbsmro@rbi.org.in
+
+Date: October 20, 2015
+(Last updated: November 20, 2025 for compliance status)
+
+================================================================================
+                  VERIFICATION DETAILS
+================================================================================
+
+This Certificate of Registration can be verified on RBI website:
+https://www.rbi.org.in/Scripts/PublicationsView.aspx
+
+Search Parameters:
+Company Name: FinServe Capital Limited
+Registration Number: N-14.03268
+CIN: U65990MH2015PLC264789
+
+================================================================================
+
+OFFICIAL SEAL:                          DIGITAL SIGNATURE:
+
+[RESERVE BANK OF INDIA]                 Certified with Digital Signature
+[DEPARTMENT OF NON-BANKING              Certificate No: RBI-DNBS-MH-2015-3268
+ SUPERVISION]                           Issued by: Controller of
+                                        Certifying Authorities
+
+================================================================================
+                   END OF CERTIFICATE
+================================================================================

@@ -1,0 +1,521 @@
+================================================================================
+                      EMPLOYMENT AGREEMENT
+                      FINSERVE CAPITAL LIMITED
+================================================================================
+
+                    STANDARD EMPLOYMENT CONTRACT
+                     FOR MANAGERIAL POSITIONS
+
+This EMPLOYMENT AGREEMENT ("Agreement") is made and executed on this
+_____ day of ____________, 20____
+
+AT MUMBAI
+
+BETWEEN
+
+FINSERVE CAPITAL LIMITED, a company incorporated under the Companies Act,
+2013, having CIN U65990MH2015PLC264789, and its registered office at
+Unit 501-502, 5th Floor, Peninsula Business Park, Senapati Bapat Marg,
+Lower Parel, Mumbai - 400013, represented by its authorized signatory
+(hereinafter referred to as the "Company" or "Employer")
+                                                            OF THE FIRST PART
+
+AND
+
+[EMPLOYEE NAME], aged about _____ years, residing at [ADDRESS]
+(hereinafter referred to as the "Employee")
+                                                           OF THE SECOND PART
+
+The Company and Employee are hereinafter individually referred to as a "Party"
+and collectively as the "Parties".
+
+================================================================================
+                         RECITALS
+================================================================================
+
+A. The Company is a Non-Banking Financial Company engaged in the business
+   of providing loans and financial services.
+
+B. The Company desires to engage the services of the Employee based on the
+   Employee's qualifications, experience, and skills.
+
+C. The Employee agrees to serve the Company subject to the terms and
+   conditions contained in this Agreement.
+
+NOW THEREFORE, in consideration of the mutual covenants herein, the Parties
+agree as follows:
+
+================================================================================
+               ARTICLE 1 - APPOINTMENT AND DUTIES
+================================================================================
+
+1.1 APPOINTMENT
+
+    The Company hereby appoints the Employee as [DESIGNATION] in the
+    [DEPARTMENT] Department, and the Employee hereby accepts such appointment.
+
+    Grade/Level: [GRADE]
+    Reporting To: [REPORTING MANAGER/DESIGNATION]
+    Work Location: [LOCATION]
+
+1.2 COMMENCEMENT DATE
+
+    This employment shall commence on [DATE] ("Commencement Date").
+
+1.3 DUTIES AND RESPONSIBILITIES
+
+    The Employee shall:
+
+    (a) Perform all duties as may be assigned by the Company from time to
+        time commensurate with the position
+
+    (b) Devote full time and attention to the duties of the employment
+
+    (c) Act in the best interests of the Company and its stakeholders
+
+    (d) Comply with all policies, procedures, and rules of the Company
+
+    (e) Comply with all applicable laws and regulations, including RBI
+        regulations for NBFCs
+
+    (f) Report to the designated supervisor and follow instructions
+
+    (g) Maintain confidentiality of the Company's information
+
+1.4 ADDITIONAL RESPONSIBILITIES
+
+    The Employee may be required to:
+
+    (a) Undertake additional responsibilities as assigned
+
+    (b) Travel for work purposes within India or abroad
+
+    (c) Work at different locations as per business requirements
+
+    (d) Participate in training programs
+
+================================================================================
+                ARTICLE 2 - COMPENSATION
+================================================================================
+
+2.1 SALARY STRUCTURE
+
+    The Employee shall receive the following compensation:
+
+    Component                    Amount (Rs. per annum)
+    ---------------------------------------------------
+    Basic Salary                 [AMOUNT]
+    House Rent Allowance         [AMOUNT]
+    Special Allowance            [AMOUNT]
+    Leave Travel Allowance       [AMOUNT]
+    Medical Allowance            [AMOUNT]
+    Conveyance Allowance         [AMOUNT]
+    ---------------------------------------------------
+    Gross Salary (per annum)     [TOTAL]
+    ---------------------------------------------------
+
+2.2 STATUTORY DEDUCTIONS
+
+    The following shall be deducted from the salary:
+
+    (a) Provident Fund contribution (Employee's share)
+    (b) Professional Tax
+    (c) Income Tax at source (TDS)
+    (d) Any other statutory deductions
+
+2.3 PAYMENT
+
+    Salary shall be paid on or before the 7th day of the following month
+    by bank transfer to the Employee's designated bank account.
+
+2.4 ANNUAL BONUS/VARIABLE PAY
+
+    The Employee shall be eligible for annual performance bonus/variable pay
+    based on:
+    (a) Individual performance
+    (b) Company performance
+    (c) Achievement of KRAs (Key Result Areas)
+
+    The bonus amount and eligibility criteria shall be determined by the
+    Company at its sole discretion.
+
+2.5 ANNUAL INCREMENT
+
+    The Employee may be eligible for annual salary increment based on
+    performance review conducted by the Company. Increments are not
+    guaranteed and are at the sole discretion of the Company.
+
+================================================================================
+                  ARTICLE 3 - BENEFITS
+================================================================================
+
+3.1 PROVIDENT FUND
+
+    The Company and Employee shall contribute to Employees' Provident Fund
+    as per the EPF Act, 1952.
+
+    Company Contribution: 12% of Basic Salary
+    Employee Contribution: 12% of Basic Salary
+
+3.2 GRATUITY
+
+    The Employee shall be entitled to gratuity as per the Payment of Gratuity
+    Act, 1972, upon completion of 5 years of continuous service.
+
+3.3 INSURANCE BENEFITS
+
+    The Company shall provide:
+
+    (a) Group Medical Insurance: Sum Insured Rs. [AMOUNT]
+        Coverage: Employee + Spouse + 2 Children
+    (b) Group Personal Accident Insurance: Sum Insured Rs. [AMOUNT]
+    (c) Group Term Life Insurance: Sum Insured Rs. [AMOUNT]
+
+3.4 LEAVE ENTITLEMENT
+
+    The Employee shall be entitled to:
+
+    Leave Type               Days per Year
+    --------------------------------------
+    Earned/Privilege Leave   21
+    Sick Leave               10
+    Casual Leave             7
+    National Holidays        As declared
+    --------------------------------------
+
+    Leave shall be availed as per the Company's Leave Policy.
+
+3.5 OTHER BENEFITS
+
+    Subject to eligibility and Company policy:
+
+    (a) Mobile phone/reimbursement
+    (b) Laptop/computer
+    (c) Conveyance reimbursement
+    (d) Training and development programs
+    (e) ESOP (if applicable)
+
+================================================================================
+             ARTICLE 4 - WORKING HOURS AND LEAVE
+================================================================================
+
+4.1 WORKING HOURS
+
+    Standard Working Hours: 9:00 AM to 6:00 PM (with 1 hour lunch break)
+    Working Days: Monday to Friday
+    Saturday: Alternate working or as per business needs
+    Total Hours: 45 hours per week
+
+4.2 OVERTIME
+
+    Employees in managerial positions are not entitled to overtime pay.
+    However, the Company may provide compensatory off for extended work hours.
+
+4.3 ATTENDANCE
+
+    The Employee shall:
+    (a) Maintain regular attendance
+    (b) Mark attendance as per Company's attendance system
+    (c) Inform supervisor in case of absence
+
+================================================================================
+             ARTICLE 5 - CONFIDENTIALITY
+================================================================================
+
+5.1 CONFIDENTIAL INFORMATION
+
+    "Confidential Information" includes:
+
+    (a) Customer data and borrower information
+    (b) Loan portfolio and NPA details
+    (c) Credit assessment models and algorithms
+    (d) Business strategies and plans
+    (e) Financial information and projections
+    (f) Trade secrets and proprietary information
+    (g) Employee and salary information
+    (h) Any information marked as confidential
+
+5.2 CONFIDENTIALITY OBLIGATION
+
+    The Employee shall:
+
+    (a) Not disclose Confidential Information to any third party
+    (b) Use Confidential Information only for Company's purposes
+    (c) Take all reasonable measures to protect confidentiality
+    (d) Return all materials containing Confidential Information upon
+        termination
+
+5.3 SURVIVAL
+
+    The confidentiality obligation shall survive termination of employment
+    and continue for a period of 5 years thereafter.
+
+5.4 STATUTORY EXCEPTIONS
+
+    Confidentiality obligations shall not apply to:
+    (a) Information in the public domain
+    (b) Disclosure required by law or regulatory authorities
+    (c) Disclosure with written consent of the Company
+
+================================================================================
+            ARTICLE 6 - INTELLECTUAL PROPERTY
+================================================================================
+
+6.1 WORK PRODUCT
+
+    All work product created by the Employee during employment, including
+    but not limited to:
+
+    (a) Credit scoring models
+    (b) Software and applications
+    (c) Processes and procedures
+    (d) Reports and presentations
+    (e) Inventions and innovations
+
+    shall be the exclusive property of the Company.
+
+6.2 ASSIGNMENT
+
+    The Employee hereby assigns to the Company all intellectual property
+    rights in the work product created during employment.
+
+6.3 ASSISTANCE
+
+    The Employee shall provide all assistance required for protecting the
+    Company's intellectual property rights, including signing documents
+    and providing testimony.
+
+================================================================================
+             ARTICLE 7 - NON-COMPETITION
+================================================================================
+
+7.1 DURING EMPLOYMENT
+
+    During the term of employment, the Employee shall not:
+
+    (a) Engage in any other employment or business without prior written
+        consent
+    (b) Provide services to any competitor
+    (c) Have any financial interest in any competitor (except as a passive
+        investor with less than 5% holding)
+
+7.2 POST-EMPLOYMENT
+
+    For a period of 12 months after termination, the Employee shall not:
+
+    (a) Solicit or service any customer of the Company with whom the
+        Employee had dealings during last 12 months
+    (b) Solicit or hire any employee of the Company
+    (c) Disparage the Company or its products/services
+
+    Note: Non-compete clauses restricting employment after termination may
+    not be enforceable under Indian law. This clause is limited to non-
+    solicitation of customers and employees.
+
+================================================================================
+             ARTICLE 8 - TERMINATION
+================================================================================
+
+8.1 TERMINATION BY COMPANY
+
+    The Company may terminate this Agreement:
+
+    (a) WITH NOTICE: By giving 3 months written notice or payment in lieu
+        of notice
+
+    (b) WITHOUT NOTICE: Immediately in case of:
+        - Misconduct or dishonesty
+        - Breach of confidentiality
+        - Gross negligence
+        - Violation of Company policies
+        - Conviction for criminal offense
+        - Failure to meet performance standards after warnings
+        - Any act detrimental to Company's interests
+
+8.2 TERMINATION BY EMPLOYEE
+
+    The Employee may terminate this Agreement by giving 3 months written
+    notice.
+
+8.3 NOTICE PERIOD
+
+    During the notice period:
+    (a) Employee shall continue to perform duties
+    (b) Employee shall hand over responsibilities
+    (c) Company may relieve Employee earlier
+
+8.4 PAYMENT ON TERMINATION
+
+    Upon termination, the Employee shall be entitled to:
+    (a) Salary up to last working day
+    (b) Leave encashment for unused earned leave
+    (c) Reimbursement of approved expenses
+    (d) Pro-rata bonus (if applicable and as per policy)
+
+8.5 RETURN OF PROPERTY
+
+    Upon termination, the Employee shall return:
+    (a) All Company property (laptop, mobile, ID card, etc.)
+    (b) All documents and materials
+    (c) All Confidential Information
+    (d) Complete knowledge transfer
+
+================================================================================
+            ARTICLE 9 - REGULATORY COMPLIANCE
+================================================================================
+
+9.1 RBI COMPLIANCE
+
+    The Employee acknowledges that the Company is regulated by RBI and shall:
+
+    (a) Comply with all RBI regulations applicable to NBFCs
+    (b) Follow Fair Practices Code in dealings with customers
+    (c) Maintain confidentiality of customer information
+    (d) Not engage in any act that may attract regulatory action
+
+9.2 FIT AND PROPER (FOR SENIOR POSITIONS)
+
+    If the Employee is in a senior management position, the Employee shall:
+
+    (a) Meet "fit and proper" criteria prescribed by RBI
+    (b) Provide declaration and undertaking as required
+    (c) Inform the Company of any change affecting the criteria
+
+9.3 TRAINING
+
+    The Employee shall attend mandatory compliance training including:
+    (a) KYC/AML training
+    (b) Fair Practices Code training
+    (c) Cyber security awareness
+    (d) POSH (Prevention of Sexual Harassment) training
+
+================================================================================
+             ARTICLE 10 - GENERAL PROVISIONS
+================================================================================
+
+10.1 PROBATION
+
+     The Employee shall be on probation for a period of 6 months from the
+     Commencement Date. During probation:
+     (a) Notice period shall be 1 month
+     (b) Company may terminate without cause with 1 month notice
+     (c) Confirmation shall be subject to satisfactory performance
+
+10.2 BACKGROUND VERIFICATION
+
+     This employment is subject to satisfactory background verification
+     including:
+     (a) Education verification
+     (b) Employment history verification
+     (c) Criminal record check
+     (d) Reference check
+
+10.3 ENTIRE AGREEMENT
+
+     This Agreement constitutes the entire agreement between the Parties
+     and supersedes all prior negotiations and agreements.
+
+10.4 AMENDMENTS
+
+     This Agreement may be amended only by written instrument signed by
+     both Parties.
+
+10.5 SEVERABILITY
+
+     If any provision is held invalid, the remaining provisions shall
+     continue in full force and effect.
+
+10.6 GOVERNING LAW
+
+     This Agreement shall be governed by the laws of India.
+
+10.7 JURISDICTION
+
+     The courts at Mumbai shall have exclusive jurisdiction.
+
+10.8 COMPANY POLICIES
+
+     The Employee shall comply with all Company policies including:
+     (a) Code of Conduct
+     (b) HR Policy
+     (c) IT and Data Security Policy
+     (d) POSH Policy
+     (e) Whistleblower Policy
+
+================================================================================
+                       EXECUTION
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date
+first written above.
+
+For FINSERVE CAPITAL LIMITED              EMPLOYEE
+
+Sd/-                                      Sd/-
+Name: ___________________                 Name: ___________________
+Designation: _____________
+Date: ___________________                 Date: ___________________
+
+--------------------------------------------------------------------------------
+
+WITNESS:
+
+1. Sd/-
+   Name: ___________________
+   Address: _________________
+
+================================================================================
+                 EMPLOYEE ACKNOWLEDGMENT
+================================================================================
+
+I hereby acknowledge that:
+
+1. I have read and understood all terms and conditions of this Agreement.
+
+2. I have received a copy of this Agreement for my records.
+
+3. I have received/will receive copies of the following Company policies:
+   [ ] Employee Handbook
+   [ ] Code of Conduct
+   [ ] IT and Data Security Policy
+   [ ] POSH Policy
+   [ ] Leave Policy
+   [ ] Travel and Expense Policy
+
+4. I agree to abide by all terms of this Agreement and Company policies.
+
+Employee Signature: ___________________
+Date: ___________________
+
+================================================================================
+               SAMPLE FILLED AGREEMENT
+================================================================================
+
+For Reference: Agreement with Mr. Ramesh Gupta (Chief Risk Officer)
+
+Appointment Date:          October 1, 2020
+Designation:               Chief Risk Officer
+Department:                Risk Management
+Grade:                     Senior Vice President
+Reporting To:              Managing Director
+Work Location:             Mumbai - Head Office
+
+Annual Compensation:
+- Basic Salary:            Rs. 42,00,000
+- HRA:                     Rs. 21,00,000
+- Special Allowance:       Rs. 15,00,000
+- LTA:                     Rs. 2,00,000
+- Medical Allowance:       Rs. 50,000
+- Other Allowances:        Rs. 4,50,000
+- Gross Salary:            Rs. 85,00,000
+
+Benefits:
+- Medical Insurance:       Rs. 10,00,000 (Family Floater)
+- Personal Accident:       Rs. 50,00,000
+- Term Life:               Rs. 1,00,00,000
+
+Variable Pay:              Up to 25% of CTC based on performance
+
+================================================================================
+                  END OF EMPLOYMENT AGREEMENT
+================================================================================

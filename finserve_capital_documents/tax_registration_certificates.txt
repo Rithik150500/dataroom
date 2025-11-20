@@ -1,0 +1,308 @@
+================================================================================
+                TAX REGISTRATION CERTIFICATES
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                    SUMMARY OF TAX REGISTRATIONS
+================================================================================
+
+Tax Type              Registration No.        Date of Regn.    Status
+--------------------------------------------------------------------------------
+PAN                   AACCS5678M              12/08/2015       Active
+TAN                   MUMS12345F              15/08/2015       Active
+GST                   27AACCS5678M1ZH         01/07/2017       Active
+Professional Tax      MH/PT/2015/67890        20/08/2015       Active
+
+================================================================================
+                 I. PERMANENT ACCOUNT NUMBER (PAN)
+================================================================================
+
+आयकर विभाग / INCOME TAX DEPARTMENT
+भारत सरकार / GOVERNMENT OF INDIA
+
+                    PERMANENT ACCOUNT NUMBER CARD
+
+PAN:                        AACCS5678M
+NAME:                       FINSERVE CAPITAL LIMITED
+FATHER'S NAME:              N/A
+DATE OF BIRTH/INCORPORATION: 12/08/2015
+
+Status:                     Company
+Category:                   Non-Individual
+Type:                       Registered under Companies Act
+
+Jurisdiction:               Income Tax Office
+                            Ward 14(1)(2)
+                            Aayakar Bhawan
+                            M.K. Road, Mumbai - 400020
+
+PAN Allotment Date:         August 12, 2015
+
+--------------------------------------------------------------------------------
+
+Verification Details:
+This PAN can be verified on the Income Tax e-filing portal:
+https://incometaxindiaefiling.gov.in
+Know Your PAN: Use AACCS5678M
+
+================================================================================
+                II. TAX DEDUCTION ACCOUNT NUMBER (TAN)
+================================================================================
+
+आयकर विभाग / INCOME TAX DEPARTMENT
+भारत सरकार / GOVERNMENT OF INDIA
+
+                TAX DEDUCTION AND COLLECTION ACCOUNT NUMBER
+
+TAN:                        MUMS12345F
+NAME:                       FINSERVE CAPITAL LIMITED
+ADDRESS:                    Unit 501-502, 5th Floor,
+                            Peninsula Business Park,
+                            Senapati Bapat Marg, Lower Parel,
+                            Mumbai - 400013, Maharashtra
+
+TAN Allotment Date:         August 15, 2015
+
+--------------------------------------------------------------------------------
+
+TDS COMPLIANCE STATUS (FY 2024-25)
+
+Quarter          Forms Filed                    Due Date    Filing Date   Status
+--------------------------------------------------------------------------------
+Q1 (Apr-Jun)     24Q, 26Q, 27Q, 27EQ           31/07/24    28/07/24      Filed
+Q2 (Jul-Sep)     24Q, 26Q, 27Q, 27EQ           31/10/24    29/10/24      Filed
+Q3 (Oct-Dec)     Due                           31/01/25    -             Pending
+Q4 (Jan-Mar)     Due                           31/05/25    -             Pending
+
+TDS Payments:
+- All TDS payments made through NSDL e-payment
+- Challans available for verification on TRACES
+
+Form 16/16A:
+- Form 16 issued to all employees within due date
+- Form 16A issued to all deductees within 15 days of TDS return filing
+
+================================================================================
+          III. GOODS AND SERVICES TAX (GST) REGISTRATION
+================================================================================
+
+                    GOODS AND SERVICES TAX
+                   CERTIFICATE OF REGISTRATION
+
+GSTIN:                      27AACCS5678M1ZH
+
+Legal Name:                 FINSERVE CAPITAL LIMITED
+
+Trade Name:                 FINSERVE CAPITAL LIMITED
+
+Constitution:               Public Limited Company
+
+Date of Liability:          July 1, 2017 (GST Implementation Date)
+
+Date of Registration:       July 1, 2017
+
+Validity:                   Until Cancelled
+
+Principal Place of Business:
+Unit 501-502, 5th Floor,
+Peninsula Business Park,
+Senapati Bapat Marg, Lower Parel,
+Mumbai - 400013, Maharashtra, India
+
+Additional Place of Business:
+1. Branch Office, Thane
+2. Branch Office, Pune
+3. Branch Office, Bengaluru
+4. Branch Office, Ahmedabad
+
+Nature of Business:
+- Financial Services
+- Lending activities
+- Other financial service activities except insurance and pension funding
+
+--------------------------------------------------------------------------------
+
+GST COMPLIANCE STATUS (FY 2024-25)
+
+Return Type       Period          Due Date    Filing Date   Status
+--------------------------------------------------------------------------------
+GSTR-1           April 2024      11/05/24    10/05/24      Filed
+GSTR-3B          April 2024      20/05/24    18/05/24      Filed
+GSTR-1           May 2024        11/06/24    10/06/24      Filed
+GSTR-3B          May 2024        20/06/24    19/06/24      Filed
+GSTR-1           June 2024       11/07/24    11/07/24      Filed
+GSTR-3B          June 2024       20/07/24    20/07/24      Filed
+GSTR-1           July 2024       11/08/24    10/08/24      Filed
+GSTR-3B          July 2024       20/08/24    19/08/24      Filed
+GSTR-1           August 2024     11/09/24    10/09/24      Filed
+GSTR-3B          August 2024     20/09/24    18/09/24      Filed
+GSTR-1           September 2024  11/10/24    10/10/24      Filed
+GSTR-3B          September 2024  20/10/24    18/10/24      Filed
+GSTR-1           October 2024    11/11/24    10/11/24      Filed
+GSTR-3B          October 2024    20/11/24    18/11/24      Filed
+
+GSTR-9 (Annual Return):
+- FY 2023-24: Filed on December 15, 2024
+
+--------------------------------------------------------------------------------
+
+GST APPLICABILITY FOR NBFC
+
+Services Taxable under GST:
+- Processing fees: 18% GST
+- Late payment charges: 18% GST
+- Prepayment/foreclosure charges: 18% GST
+- Documentation charges: 18% GST
+
+Services Exempt from GST:
+- Interest income on loans (covered under Entry 27 of Exemption Notification)
+
+Input Tax Credit:
+- Available on inputs and input services used for taxable supplies
+- Proportionate reversal for exempt supplies
+
+================================================================================
+              IV. PROFESSIONAL TAX REGISTRATION
+================================================================================
+
+                MAHARASHTRA STATE TAX ON PROFESSIONS,
+                    TRADES, CALLINGS AND EMPLOYMENTS
+
+                   CERTIFICATE OF REGISTRATION
+
+Registration Number:        MH/PT/2015/67890
+
+Name of Employer:           FINSERVE CAPITAL LIMITED
+
+Address:                    Unit 501-502, 5th Floor,
+                            Peninsula Business Park,
+                            Senapati Bapat Marg, Lower Parel,
+                            Mumbai - 400013
+
+Date of Registration:       August 20, 2015
+
+Class of Employer:          Company
+
+District:                   Mumbai City
+
+Circle:                     Ward F/North
+
+--------------------------------------------------------------------------------
+
+PROFESSIONAL TAX COMPLIANCE STATUS (FY 2024-25)
+
+Month            Due Date    Payment Date    Amount (Rs.)    Status
+--------------------------------------------------------------------------------
+April 2024       30/04/24    28/04/24        37,000          Paid
+May 2024         31/05/24    29/05/24        37,200          Paid
+June 2024        30/06/24    28/06/24        37,400          Paid
+July 2024        31/07/24    29/07/24        37,600          Paid
+August 2024      31/08/24    29/08/24        37,800          Paid
+September 2024   30/09/24    28/09/24        38,000          Paid
+October 2024     31/10/24    29/10/24        38,200          Paid
+
+Note: PT deducted from employees' salary as per Maharashtra PT slabs
+Maximum PT per employee: Rs. 2,500 per annum (Rs. 200 per month except
+February which is Rs. 300)
+
+================================================================================
+                 V. OTHER REGISTRATIONS
+================================================================================
+
+EMPLOYEES' PROVIDENT FUND (EPF)
+
+Establishment Code:         MHBAN0012345000
+Date of Coverage:           September 1, 2015
+Total Employees Covered:    186
+
+PF Compliance Status:
+- Monthly contributions paid by 15th of following month
+- Annual returns filed
+- No defaults
+
+EMPLOYEES' STATE INSURANCE (ESI)
+
+Employer Code:              35000123450000123
+Date of Coverage:           September 1, 2015
+Employees Covered:          Employees with salary up to Rs. 21,000/month
+
+ESI Compliance Status:
+- Monthly contributions paid by 15th of following month
+- Half-yearly returns filed
+- No defaults
+
+--------------------------------------------------------------------------------
+
+SHOPS AND ESTABLISHMENT LICENSE
+
+License Number:             F/N/WD-2019/3456
+Issuing Authority:          Municipal Corporation of Greater Mumbai
+Date of Issue:              April 1, 2019
+Valid Till:                 March 31, 2025 (Renewal due)
+Establishment Type:         Office - Financial Services
+
+================================================================================
+                  VI. TAX ASSESSMENTS STATUS
+================================================================================
+
+INCOME TAX ASSESSMENTS
+
+Assessment Year    Assessment Status          Demand/Refund    Remarks
+--------------------------------------------------------------------------------
+AY 2020-21        Completed u/s 143(3)       Nil              -
+AY 2021-22        Assessment in Progress     Rs. 85 L (demand) Under appeal
+AY 2022-23        Completed u/s 143(1)       Rs. 12 L (refund) Received
+AY 2023-24        Intimation u/s 143(1)      Nil              -
+AY 2024-25        Return filed 30/09/24      -                Processing
+
+AY 2021-22 Appeal:
+- Demand of Rs. 85 Lakhs raised on account of disallowance of certain
+  provisions
+- Appeal filed with CIT(Appeals) on January 15, 2023
+- Expected to be decided in favor of Company based on legal precedents
+- Stay obtained against recovery
+
+GST ASSESSMENTS
+
+- No assessments or audits conducted till date
+- All returns accepted as filed
+
+================================================================================
+                   VII. TAX COMPLIANCE CALENDAR
+================================================================================
+
+Compliance              Due Date                    Frequency
+--------------------------------------------------------------------------------
+TDS Payment             7th of following month      Monthly
+TDS Returns             End of month after quarter  Quarterly
+Advance Tax             15th Jun/Sep/Dec/Mar        Quarterly
+Income Tax Return       30th September              Annual
+Tax Audit Report        30th September              Annual
+GST Returns (GSTR-3B)   20th of following month     Monthly
+GST Returns (GSTR-1)    11th of following month     Monthly
+GST Annual Return       31st December               Annual
+Professional Tax        End of month                Monthly
+EPF Contribution        15th of following month     Monthly
+ESI Contribution        15th of following month     Monthly
+
+================================================================================
+                       CERTIFICATION
+================================================================================
+
+This is to certify that FinServe Capital Limited is registered with all
+applicable tax authorities and is compliant with all tax filing and payment
+requirements as on the date mentioned below.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-
+VIKRAM JOSHI
+Chief Financial Officer
+
+Date: November 20, 2025
+Place: Mumbai
+
+================================================================================
+               END OF TAX REGISTRATION CERTIFICATES
+================================================================================

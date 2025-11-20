@@ -1,0 +1,551 @@
+================================================================================
+                     ARTICLES OF ASSOCIATION
+                              OF
+                    FINSERVE CAPITAL LIMITED
+================================================================================
+
+             (Company Limited by Shares)
+             CIN: U65990MH2015PLC264789
+             (As amended up to November 20, 2025)
+
+================================================================================
+                        PRELIMINARY
+================================================================================
+
+1. TABLE F NOT TO APPLY
+
+    The regulations contained in Table F of Schedule I to the Companies Act,
+    2013 shall not apply to this Company except in so far as the same are
+    repeated or contained in these Articles.
+
+2. INTERPRETATION
+
+    In these Articles, unless there is something in the subject or context
+    inconsistent therewith:
+
+    (a) "Act" means the Companies Act, 2013 and any statutory modification
+        or re-enactment thereof for the time being in force;
+
+    (b) "Articles" means these Articles of Association as originally framed
+        or as altered from time to time;
+
+    (c) "Auditors" means the Statutory Auditors for the time being of the
+        Company;
+
+    (d) "Board" or "Board of Directors" means the Board of Directors of the
+        Company;
+
+    (e) "Company" means FinServe Capital Limited;
+
+    (f) "Directors" means the Directors for the time being of the Company;
+
+    (g) "Dividend" includes interim dividend;
+
+    (h) "Member" means a member of the Company;
+
+    (i) "Meeting" includes a meeting convened through video conferencing or
+        other audio visual means;
+
+    (j) "Office" means the Registered Office for the time being of the Company;
+
+    (k) "Paid up" includes credited as paid up;
+
+    (l) "Person" includes body corporate;
+
+    (m) "RBI" means the Reserve Bank of India;
+
+    (n) "NBFC Regulations" means the Master Directions, guidelines, circulars
+        and notifications issued by RBI for Non-Banking Financial Companies;
+
+    (o) "Registrar" means the Registrar of Companies, Maharashtra;
+
+    (p) "Seal" means the Common Seal of the Company;
+
+    (q) "Secretary" means the Company Secretary of the Company;
+
+    (r) "Year" means the financial year of the Company;
+
+    (s) Words importing the singular number shall include the plural number
+        and vice versa.
+
+================================================================================
+                     PART I - SHARE CAPITAL
+================================================================================
+
+3. AUTHORIZED SHARE CAPITAL
+
+    The Authorized Share Capital of the Company is Rs. 75,00,00,000 (Rupees
+    Seventy Five Crores Only) divided into 7,50,00,000 Equity Shares of
+    Rs. 10 each with power to increase, reduce, consolidate, subdivide or
+    otherwise reorganize the capital.
+
+4. ISSUE OF SHARES
+
+    (a) Subject to the provisions of the Act and these Articles, the shares
+        shall be under the control of the Board who may allot or otherwise
+        dispose of the same to such persons, on such terms and conditions
+        and at such times as the Board thinks fit.
+
+    (b) The Company may issue shares with differential voting rights as to
+        dividend, voting or otherwise, subject to such conditions as may be
+        prescribed by the Rules.
+
+    (c) RBI COMPLIANCE: Any allotment of shares resulting in any person/
+        entity holding 26% or more of the paid-up capital shall require
+        prior approval of the Reserve Bank of India as per NBFC Regulations.
+
+5. RESTRICTION ON TRANSFER OF SHARES
+
+    (a) The instrument of transfer of any share shall be in writing and all
+        the provisions of the Act and the Rules made thereunder shall be duly
+        complied with.
+
+    (b) RBI APPROVAL: Transfer of shares resulting in acquisition of 26% or
+        more of the paid-up capital by any person/entity shall require prior
+        approval of RBI.
+
+    (c) PROMOTER SHAREHOLDING: The Company shall ensure that an identifiable
+        promoter group holds at least 26% of the paid-up capital at all times
+        as required by RBI for NBFCs.
+
+6. CALLS ON SHARES
+
+    (a) The Board may from time to time make calls upon the Members in respect
+        of any money unpaid on their shares.
+
+    (b) Each Member shall, on receiving at least 14 days notice specifying
+        the time or times and place of payment, pay to the Company at the
+        time or times and place so specified the amount called on his shares.
+
+7. LIEN ON SHARES
+
+    The Company shall have a first and paramount lien on every share for all
+    moneys called or payable at a fixed time in respect of such share.
+
+8. FORFEITURE OF SHARES
+
+    If a Member fails to pay any call or installment of a call on the day
+    appointed for payment thereof, the Board may, at any time thereafter
+    during such time as any part of the call or installment remains unpaid,
+    serve a notice on him requiring payment.
+
+================================================================================
+                PART II - BOARD OF DIRECTORS
+================================================================================
+
+9. NUMBER OF DIRECTORS
+
+    (a) The Company shall have not less than 3 and not more than 15 Directors.
+
+    (b) RBI REQUIREMENT: The Company being a Middle Layer NBFC shall have at
+        least 3 Independent Directors on the Board.
+
+    (c) At least one Woman Director shall be on the Board as required under
+        Section 149(1) of the Act.
+
+10. COMPOSITION OF BOARD
+
+    As per RBI requirements for Middle Layer NBFCs and the Companies Act:
+
+    (a) Not less than half of the Directors shall be Non-Executive Directors;
+
+    (b) At least one-third of the total Directors shall be Independent Directors;
+
+    (c) At least one Director shall be a Woman Director;
+
+    (d) The composition shall meet "fit and proper" criteria as prescribed by RBI.
+
+11. FIT AND PROPER CRITERIA
+
+    (a) Every Director shall meet the "fit and proper" criteria prescribed by
+        RBI for NBFCs, which includes:
+
+        (i)   Integrity, reputation and character;
+        (ii)  Absence of convictions and adverse orders;
+        (iii) Sound financial integrity;
+        (iv)  No disqualification under the Companies Act.
+
+    (b) The Board shall obtain a declaration and undertaking from each Director
+        confirming compliance with "fit and proper" criteria before appointment.
+
+    (c) Any Director who ceases to meet the "fit and proper" criteria shall
+        forthwith cease to hold office.
+
+12. APPOINTMENT OF DIRECTORS
+
+    (a) Directors shall be appointed in accordance with the Act and NBFC
+        Regulations.
+
+    (b) The appointment of Managing Director, Whole-Time Director or Manager
+        shall require compliance with Section 196 and Schedule V of the Act.
+
+    (c) RBI APPROVAL: Appointment of Managing Director/CEO or any change in
+        the management of the Company shall require prior information/approval
+        of RBI as per extant guidelines.
+
+13. DISQUALIFICATION OF DIRECTORS
+
+    In addition to the disqualifications under Section 164 of the Act, a person
+    shall be disqualified for appointment as Director if:
+
+    (a) The person does not meet RBI's "fit and proper" criteria;
+
+    (b) The person has been removed or debarred by RBI or any other financial
+        sector regulator;
+
+    (c) The Company of which such person was a Director has been prohibited
+        by RBI from carrying on NBFC business.
+
+14. REMOVAL OF DIRECTORS
+
+    (a) The Company may by ordinary resolution remove any Director before the
+        expiry of his term, subject to compliance with Section 169 of the Act.
+
+    (b) If RBI directs removal of any Director on "fit and proper" or other
+        grounds, the Board shall take immediate steps to comply with such
+        direction.
+
+15. BOARD MEETINGS
+
+    (a) The Board shall meet at least once in every quarter and at least 4
+        meetings shall be held in every year.
+
+    (b) The gap between two Board meetings shall not exceed 120 days.
+
+    (c) Quorum: One-third of total strength or 2 Directors, whichever is higher.
+
+    (d) Meetings may be held through video conferencing or other audio visual
+        means as permitted under the Act and Rules.
+
+16. POWERS OF THE BOARD
+
+    Subject to the provisions of the Act and these Articles, the Board shall
+    have powers to:
+
+    (a) Make calls on Members in respect of money unpaid on shares;
+
+    (b) Issue debentures and other securities;
+
+    (c) Borrow moneys otherwise than on debentures;
+
+    (d) Invest the funds of the Company;
+
+    (e) Make loans and advances in the ordinary course of NBFC business;
+
+    (f) Approve credit policies, underwriting standards, and risk management
+        policies subject to RBI guidelines;
+
+    (g) Appoint and fix remuneration of Key Managerial Personnel subject to
+        applicable provisions;
+
+    (h) Delegate powers to Committees of the Board.
+
+================================================================================
+              PART III - BOARD COMMITTEES (RBI MANDATED)
+================================================================================
+
+17. AUDIT COMMITTEE
+
+    (a) The Company shall constitute an Audit Committee as required under
+        Section 177 of the Act and RBI guidelines for NBFCs.
+
+    (b) Composition: Minimum 3 Directors with majority being Independent
+        Directors. Chairman shall be an Independent Director.
+
+    (c) Functions: As prescribed in Section 177 of the Act and RBI guidelines.
+
+18. NOMINATION AND REMUNERATION COMMITTEE
+
+    (a) The Company shall constitute a Nomination and Remuneration Committee
+        as required under Section 178 of the Act.
+
+    (b) Composition: 3 or more Non-Executive Directors with at least half
+        being Independent Directors.
+
+    (c) Functions: As prescribed in Section 178 of the Act and RBI guidelines.
+
+19. RISK MANAGEMENT COMMITTEE
+
+    (a) RBI MANDATED: The Company being a Middle Layer NBFC shall constitute
+        a Risk Management Committee.
+
+    (b) Composition: As prescribed by RBI - to include Independent Directors,
+        Chief Risk Officer and other senior management.
+
+    (c) Functions:
+        (i)   Oversee credit risk, market risk, liquidity risk and operational
+              risk;
+        (ii)  Review risk appetite and tolerance;
+        (iii) Monitor adherence to risk limits;
+        (iv)  Review stress testing and scenario analysis;
+        (v)   Report to Board on risk exposures.
+
+20. ASSET LIABILITY MANAGEMENT COMMITTEE (ALCO)
+
+    (a) RBI MANDATED: The Company shall constitute an ALCO.
+
+    (b) Composition: To include CEO/MD, CFO, Head of Treasury, Chief Risk
+        Officer and other senior management.
+
+    (c) Functions:
+        (i)   Monitor asset-liability mismatches;
+        (ii)  Ensure adequate liquidity;
+        (iii) Manage interest rate risk;
+        (iv)  Review ALM position and gaps.
+
+21. IT STRATEGY COMMITTEE
+
+    (a) The Company shall constitute an IT Strategy Committee as per RBI's
+        IT Framework for NBFCs.
+
+    (b) Functions: Approve IT strategy, review cyber security, oversee
+        technology investments.
+
+================================================================================
+            PART IV - KEY MANAGERIAL PERSONNEL
+================================================================================
+
+22. APPOINTMENT OF KEY MANAGERIAL PERSONNEL
+
+    The Company shall have the following Key Managerial Personnel:
+
+    (a) Managing Director or Chief Executive Officer;
+    (b) Company Secretary;
+    (c) Chief Financial Officer;
+    (d) Whole-Time Directors (if any).
+
+    RBI REQUIREMENT: Additionally, the Company shall appoint:
+    (e) Chief Risk Officer (CRO);
+    (f) Chief Compliance Officer (CCO);
+    (g) Principal Officer for PMLA compliance.
+
+23. RESPONSIBILITIES OF KEY MANAGERIAL PERSONNEL
+
+    (a) CHIEF RISK OFFICER: Shall report to the Board/Risk Management Committee
+        and shall be responsible for implementing risk management framework.
+
+    (b) CHIEF COMPLIANCE OFFICER: Shall be responsible for compliance with all
+        applicable laws and RBI regulations.
+
+    (c) PRINCIPAL OFFICER: Shall be responsible for furnishing information to
+        FIU-IND under PMLA.
+
+================================================================================
+                  PART V - RBI COMPLIANCE
+================================================================================
+
+24. GENERAL COMPLIANCE OBLIGATION
+
+    The Company shall comply with all applicable provisions of:
+
+    (a) Reserve Bank of India Act, 1934;
+    (b) Master Directions issued by RBI for NBFCs;
+    (c) All other circulars, guidelines and notifications issued by RBI.
+
+25. CAPITAL ADEQUACY
+
+    (a) The Company shall maintain CRAR of at least 15% or such other
+        percentage as prescribed by RBI.
+
+    (b) Tier I capital shall be at least 10% of risk-weighted assets.
+
+    (c) Capital adequacy shall be calculated and monitored quarterly.
+
+26. NET OWNED FUNDS
+
+    The Company shall maintain Net Owned Funds (NOF) of at least Rs. 2 Crores
+    or such other amount as prescribed by RBI from time to time.
+
+27. CONCENTRATION NORMS
+
+    The Company shall comply with exposure norms:
+
+    (a) Single borrower exposure: Not exceeding 25% of Owned Funds;
+    (b) Group borrower exposure: Not exceeding 40% of Owned Funds.
+
+28. ASSET CLASSIFICATION AND PROVISIONING
+
+    The Company shall classify assets and make provisions as per IRACP norms
+    prescribed by RBI.
+
+29. FAIR PRACTICES CODE
+
+    The Company shall adopt and implement a Fair Practices Code approved by
+    the Board as prescribed by RBI.
+
+30. KYC/AML COMPLIANCE
+
+    The Company shall comply with Know Your Customer and Anti-Money Laundering
+    guidelines issued by RBI and PMLA requirements.
+
+31. RETURNS AND REPORTING
+
+    The Company shall submit all returns, reports and information to RBI
+    within prescribed timelines including:
+
+    (a) Quarterly returns on prudential norms;
+    (b) ALM returns;
+    (c) Annual statutory auditor's certificate;
+    (d) Any other returns as prescribed.
+
+================================================================================
+                PART VI - GENERAL MEETINGS
+================================================================================
+
+32. ANNUAL GENERAL MEETING
+
+    The Company shall hold Annual General Meeting as required under Section
+    96 of the Act.
+
+33. NOTICE OF GENERAL MEETING
+
+    A general meeting may be called by giving not less than 21 clear days
+    notice in writing.
+
+34. QUORUM FOR GENERAL MEETING
+
+    (a) For Public Company: 5 Members personally present if number of members
+        is not more than 1000; 15 if more than 1000 but not more than 5000;
+        30 if number exceeds 5000.
+
+35. VOTING RIGHTS
+
+    Every Member shall have voting rights in proportion to his share in the
+    paid-up equity share capital of the Company.
+
+================================================================================
+                  PART VII - DIVIDENDS
+================================================================================
+
+36. DIVIDEND
+
+    (a) The Company may declare dividends subject to the provisions of Section
+        123 of the Act.
+
+    (b) RBI RESTRICTION: The Company shall declare dividends in accordance
+        with RBI guidelines for NBFCs which may restrict dividend payment
+        based on NPA levels and CRAR.
+
+37. TRANSFER TO RESERVES
+
+    Before declaring dividend, the Company shall transfer to reserves at least
+    20% of the profits as required by RBI for NBFCs.
+
+================================================================================
+                    PART VIII - ACCOUNTS
+================================================================================
+
+38. BOOKS OF ACCOUNT
+
+    The Company shall keep proper books of account as required under Section
+    128 of the Act.
+
+39. FINANCIAL STATEMENTS
+
+    The Company shall prepare financial statements in accordance with Indian
+    Accounting Standards (Ind AS) applicable to NBFCs.
+
+40. AUDIT
+
+    (a) The accounts shall be audited by Statutory Auditors appointed under
+        Section 139 of the Act.
+
+    (b) Additional audits as required by RBI:
+        (i)   Internal Audit;
+        (ii)  Concurrent Audit;
+        (iii) Information Systems Audit;
+        (iv)  Secretarial Audit.
+
+================================================================================
+                PART IX - WINDING UP
+================================================================================
+
+41. WINDING UP
+
+    (a) The Company may be wound up voluntarily or by the Tribunal as per the
+        provisions of the Act.
+
+    (b) RBI REQUIREMENT: No scheme of arrangement, amalgamation, merger,
+        reconstruction, demerger or winding up shall be sanctioned without
+        prior approval of RBI.
+
+================================================================================
+                     PART X - INDEMNITY
+================================================================================
+
+42. INDEMNITY
+
+    Every Director, Manager, Secretary and other Officer of the Company shall
+    be indemnified by the Company against all losses and expenses incurred by
+    him in defending any proceedings in which judgment is given in his favor
+    or in which he is acquitted.
+
+================================================================================
+                     ADOPTION CLAUSE
+================================================================================
+
+We, the several persons whose names and addresses are subscribed, are desirous
+of being formed into a Company in pursuance of these Articles of Association.
+
+--------------------------------------------------------------------------------
+NAMES, ADDRESSES AND DESCRIPTIONS OF SUBSCRIBERS
+--------------------------------------------------------------------------------
+
+Sl.  Name and Address              Shares Taken    Signature
+No.
+
+1.   RAJESH KUMAR MEHTA            50,000          Sd/-
+     15, Malabar Hill Road,        Equity Shares
+     Mumbai - 400006
+
+2.   SUNITA RAJESH MEHTA           30,000          Sd/-
+     15, Malabar Hill Road,        Equity Shares
+     Mumbai - 400006
+
+3.   FINSERVE HOLDINGS PVT LTD     20,000          Sd/-
+     15, Malabar Hill Road,        Equity Shares
+     Mumbai - 400006
+
+--------------------------------------------------------------------------------
+
+Date: August 12, 2015
+Place: Mumbai
+
+Witness:
+Name: Advocate Anil Kumar Verma
+Signature: Sd/-
+
+================================================================================
+                 AMENDMENTS TO ARTICLES
+================================================================================
+
+Date              Nature of Amendment             Resolution Type
+
+March 15, 2018    Conversion to Public Company    Special Resolution
+                  - Entire AOA replaced           at EGM
+
+October 12, 2020  Amendment to Articles 9-14,     Special Resolution
+                  17-21 to comply with RBI        at AGM
+                  Corporate Governance Guidelines
+                  for NBFCs
+
+June 15, 2022     Amendment to Article 3 for      Special Resolution
+                  increase in Authorized Capital  at EGM
+
+================================================================================
+
+Certified True Copy
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-
+VIKRAM SHARMA
+Company Secretary
+M.No: ACS 23456
+
+Date: November 20, 2025
+Place: Mumbai
+
+================================================================================
+                   END OF ARTICLES
+================================================================================

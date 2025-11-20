@@ -1,0 +1,535 @@
+================================================================================
+                       FAIR PRACTICES CODE
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+           Board Approved Policy as per RBI Master Directions
+              Last Reviewed and Updated: September 24, 2024
+                   Effective from: October 1, 2024
+
+================================================================================
+                         PREAMBLE
+================================================================================
+
+This Fair Practices Code ("Code") has been framed in accordance with the
+guidelines issued by the Reserve Bank of India vide Master Direction -
+Reserve Bank of India (Non-Banking Financial Company - Scale Based Regulation)
+Directions, 2023 dated October 19, 2023, as amended from time to time.
+
+The objective of this Code is to:
+1. Promote good and fair practices by setting minimum standards
+2. Increase transparency for the benefit of customers
+3. Encourage market forces through fair competition
+4. Foster confidence in the NBFC system
+
+================================================================================
+               I. APPLICATIONS FOR LOANS AND PROCESSING
+================================================================================
+
+1.1 LOAN APPLICATION FORM
+
+    (a) The Company shall provide a loan application form that includes:
+        - Necessary information affecting the interest of the borrower
+        - Terms and conditions clearly stated
+        - Information required from borrower
+
+    (b) The application form shall be in vernacular language or a language
+        understood by the borrower.
+
+    (c) The Company shall provide acknowledgment of receipt of all loan
+        applications within 3 working days.
+
+1.2 INFORMATION TO BE PROVIDED TO BORROWER
+
+    At the time of sanction, the Company shall provide a sanction letter
+    containing the following information:
+
+    (a) Amount of loan sanctioned and disbursed
+    (b) Tenure of the loan
+    (c) Rate of interest (ROI) - whether fixed or floating
+    (d) Effective annualized rate of interest
+    (e) Method of interest application (monthly/quarterly/yearly rest)
+    (f) Amount of EMI and due date
+    (g) Processing fees and other charges
+    (h) Pre-payment/foreclosure charges
+    (i) Penal interest/charges for delayed payment
+    (j) Security/collateral required
+    (k) Documents required
+    (l) Terms and conditions attached to sanction
+
+1.3 LOAN APPRAISAL AND TERMS
+
+    (a) Loan appraisal shall be based on prudent credit assessment
+    (b) Terms and conditions shall be transparent and fair
+    (c) The Company shall not interfere in the affairs of the borrower
+        except for the purposes provided in the terms and conditions
+
+1.4 TIME FRAME FOR LOAN PROCESSING
+
+    Product Type                      Processing Time
+    -----------------------------------------------
+    Vehicle Finance                   5 working days
+    SME Term Loan                     10 working days
+    MSME Working Capital              7 working days
+    Loan Against Property             15 working days
+
+================================================================================
+                II. DISBURSEMENT OF LOANS
+================================================================================
+
+2.1 LOAN AGREEMENT
+
+    (a) The loan agreement shall be executed on non-judicial stamp paper
+        of appropriate value
+
+    (b) A copy of the loan agreement along with all enclosures shall be
+        provided to the borrower free of cost
+
+    (c) The agreement shall contain:
+        - All terms and conditions as per sanction letter
+        - Right of pre-payment and charges thereof
+        - Acceleration clause clearly explained
+        - Personal guarantee requirements
+        - Security documentation
+
+2.2 DISBURSEMENT
+
+    (a) Disbursement shall be made only after execution of all documents
+
+    (b) Disbursement shall be through account payee cheque / RTGS / NEFT
+        to the borrower's bank account
+
+    (c) In case of vehicle/equipment finance, disbursement may be made
+        directly to the dealer/vendor
+
+2.3 POST-DISBURSEMENT
+
+    Within 7 days of disbursement, the Company shall provide:
+    - Repayment schedule showing EMI amount, principal, interest breakup
+    - List of documents executed
+    - Welcome letter with contact details
+
+================================================================================
+                 III. INTEREST RATES
+================================================================================
+
+3.1 INTEREST RATE MODEL
+
+    The Company follows an interest rate model based on:
+    - Cost of funds
+    - Operating costs
+    - Risk premium based on borrower profile
+    - Market conditions
+
+3.2 INTEREST RATE RANGE
+
+    Product                     Interest Rate Range (per annum)
+    -----------------------------------------------------------
+    Vehicle Finance             12% - 18%
+    SME Term Loans              14% - 20%
+    MSME Working Capital        13% - 19%
+    Loan Against Property       11% - 16%
+
+    Note: Actual rate depends on individual borrower assessment.
+
+3.3 ANNUALIZED INTEREST RATE
+
+    The Company shall quote the annualized rate of interest so that the
+    borrower can compare the rates charged by different lenders.
+
+3.4 INTEREST RATE CHANGES
+
+    (a) Changes in interest rates due to reset clause shall be communicated
+        to the borrower in advance (at least 30 days)
+
+    (b) Borrowers shall be given the option to prepay without penalty in
+        case of interest rate reset (for floating rate loans)
+
+3.5 INTEREST ON LOANS
+
+    The Company shall ensure that interest is not levied on any component
+    other than the principal outstanding.
+
+================================================================================
+                  IV. PROCESSING AND OTHER CHARGES
+================================================================================
+
+4.1 SCHEDULE OF CHARGES
+
+    Charge Type                       Amount/Rate
+    ---------------------------------------------
+    Processing Fee                    0.5% - 2% of loan amount
+    Documentation Charges             Rs. 500 - Rs. 5,000
+    Legal/Valuation Charges           At actuals
+    Stamp Duty                        As per State laws
+    CERSAI Registration               Rs. 100 - Rs. 500
+    Insurance (if applicable)         As per insurance company
+
+    Pre-closure Charges:
+    - Within 6 months                 4% of principal outstanding
+    - 6-12 months                     3% of principal outstanding
+    - 12-24 months                    2% of principal outstanding
+    - After 24 months                 1% of principal outstanding
+
+    Individual borrowers taking floating rate term loans shall NOT be
+    charged pre-closure charges (as per RBI guidelines).
+
+    Late Payment Charges              2% per month on overdue amount
+    Cheque/ECS Bounce Charges         Rs. 500 per instance
+    Part Payment Charges              As per pre-closure charges
+    Duplicate Statement               Rs. 100 per copy
+    Document Retrieval                Rs. 500 per document
+    NOC/No Dues Certificate           Free (within 30 days of closure)
+
+4.2 DISCLOSURE OF CHARGES
+
+    (a) The schedule of charges shall be displayed prominently at all
+        branches and on the Company's website
+
+    (b) All charges shall be disclosed upfront in the sanction letter
+
+    (c) No hidden charges shall be levied
+
+================================================================================
+              V. GENERAL GUIDELINES FOR LENDING
+================================================================================
+
+5.1 TRANSPARENCY IN DEALINGS
+
+    (a) The Company shall not discriminate against any applicant on grounds
+        of sex, caste, religion, or region
+
+    (b) Decisions shall be based solely on creditworthiness and financial
+        parameters
+
+    (c) Reasons for rejection shall be provided in writing if requested
+
+5.2 NON-INTERFERENCE
+
+    The Company shall not interfere in the affairs of the borrower except:
+    - For the purposes stated in the loan agreement
+    - As provided by law
+    - In case of default by borrower
+
+5.3 NO HARASSMENT
+
+    (a) The Company shall not resort to undue harassment of borrowers
+
+    (b) Staff and recovery agents shall be instructed to use decent
+        language and behavior
+
+    (c) Calling time shall be restricted to 8:00 AM to 7:00 PM
+
+5.4 TAKEOVER OF LOANS
+
+    While taking over loans from other banks/NBFCs, the Company shall:
+    - Verify outstanding balance and lien status
+    - Not demand additional collateral unless justified
+    - Provide foreclosure statement within 30 days
+
+================================================================================
+                   VI. SECURITY AND DOCUMENTATION
+================================================================================
+
+6.1 SECURITY CREATION
+
+    (a) Security creation shall be proportionate to the loan amount
+
+    (b) Exclusive charge/security shall not be obtained for loans below
+        Rs. 1 Crore where shared charge is available
+
+    (c) Third-party security shall require written consent of third party
+
+6.2 RETURN OF SECURITY
+
+    (a) Upon repayment of all dues, the Company shall release all securities
+        within 30 days
+
+    (b) Original documents shall be returned within 30 days of closure
+
+    (c) NOC/No Dues Certificate shall be provided within 30 days of closure
+
+    (d) CERSAI registration shall be marked as satisfied within 30 days
+
+6.3 LOSS OF SECURITY DOCUMENTS
+
+    In case of loss of security documents in the Company's custody, the
+    Company shall:
+    - Assist the borrower in obtaining duplicate documents
+    - Bear the costs of obtaining duplicates
+    - Compensate the borrower for any loss caused
+
+================================================================================
+                  VII. DEFAULT AND CONSEQUENCES
+================================================================================
+
+7.1 CLASSIFICATION OF DEFAULT
+
+    Category        Definition
+    --------------------------
+    SMA-0           Principal/interest payment overdue 1-30 days
+    SMA-1           Principal/interest payment overdue 31-60 days
+    SMA-2           Principal/interest payment overdue 61-90 days
+    NPA             Principal/interest payment overdue > 90 days
+
+7.2 COMMUNICATION ON DEFAULT
+
+    (a) The Company shall communicate to the borrower at each stage of default
+
+    (b) Reminder notices shall be sent at 7, 30, 60, and 90 days overdue
+
+    (c) Consequences of continued default shall be clearly communicated
+
+7.3 ACCELERATION OF PAYMENT
+
+    (a) Acceleration clause shall be exercised only as per terms of agreement
+
+    (b) Adequate notice (at least 60 days) shall be given before recall
+
+    (c) Recall shall be made only for genuine default, not minor breaches
+
+7.4 SALE OF SECURED ASSETS
+
+    (a) Before sale of secured assets, the Company shall give notice of
+        at least 30 days
+
+    (b) The notice shall specify the dues and consequences
+
+    (c) Sale shall be conducted in a fair and transparent manner
+
+    (d) Surplus amount shall be returned to the borrower
+
+================================================================================
+              VIII. COLLECTION OF DUES AND RECOVERY
+================================================================================
+
+8.1 RECOVERY POLICY
+
+    (a) Recovery agents shall be properly trained before deployment
+
+    (b) Recovery agents shall carry identity cards and authorization letters
+
+    (c) Borrower shall be informed of the names and contact numbers of
+        recovery agents
+
+8.2 CODE OF CONDUCT FOR RECOVERY
+
+    The following practices are strictly prohibited:
+
+    ❌ Use of abusive language or physical force
+    ❌ Harassment of family members, neighbors, or colleagues
+    ❌ Visits at odd hours (before 8 AM or after 7 PM)
+    ❌ Sending recovery agents on public holidays
+    ❌ Removal of borrower's belongings without due process
+    ❌ Publishing names of defaulters in media
+    ❌ Threats or intimidation
+    ❌ Repeated calls causing inconvenience
+
+8.3 GRIEVANCE AGAINST RECOVERY AGENTS
+
+    (a) Borrowers can complain about recovery agent behavior
+
+    (b) Complaints shall be investigated within 7 days
+
+    (c) Action shall be taken against erring agents including termination
+
+    (d) Feedback to borrower shall be provided within 15 days
+
+================================================================================
+               IX. GRIEVANCE REDRESSAL MECHANISM
+================================================================================
+
+9.1 GRIEVANCE REDRESSAL OFFICER
+
+    Name:                   Mr. Sanjay Kulkarni
+    Designation:            Head - Customer Service
+    Address:                Unit 501-502, 5th Floor,
+                            Peninsula Business Park,
+                            Senapati Bapat Marg, Lower Parel,
+                            Mumbai - 400013
+    Phone:                  +91-22-4567-8901
+    Email:                  grievance@finservecapital.com
+    Timings:                10:00 AM to 6:00 PM (Monday to Saturday)
+
+9.2 COMPLAINT REGISTRATION
+
+    Complaints can be registered through:
+    - In person at any branch
+    - By post to Grievance Redressal Officer
+    - By email to grievance@finservecapital.com
+    - Through Company website
+    - By calling customer care at 1800-XXX-XXXX (toll free)
+
+9.3 RESOLUTION TIMELINE
+
+    Complaint Type                    Resolution Time
+    ------------------------------------------------
+    Service-related complaints        7 working days
+    Interest/charges disputes         15 working days
+    Document-related issues           15 working days
+    Recovery agent behavior           7 working days
+    Other complaints                  15 working days
+
+9.4 ESCALATION MATRIX
+
+    Level 1: Branch Manager               (Resolution within 3 days)
+    Level 2: Regional Manager             (Escalation after 3 days)
+    Level 3: Grievance Redressal Officer  (Escalation after 7 days)
+    Level 4: Chief Compliance Officer     (Escalation after 15 days)
+
+9.5 INTERNAL OMBUDSMAN
+
+    As required for Middle Layer NBFCs, the Company has appointed an
+    Internal Ombudsman for resolution of unresolved complaints.
+
+    Internal Ombudsman:     Mr. Justice (Retd.) K.N. Rao
+    Contact:                ombudsman@finservecapital.com
+
+9.6 RBI OMBUDSMAN
+
+    If the complaint is not resolved within 30 days or the customer is not
+    satisfied with the resolution, the customer may approach:
+
+    The Banking Ombudsman
+    Reserve Bank of India
+    (Address of Regional Office having jurisdiction)
+
+    Online: https://cms.rbi.org.in
+
+================================================================================
+               X. CREDIT REPORTING TO CREDIT BUREAUS
+================================================================================
+
+10.1 REPORTING MECHANISM
+
+    The Company reports credit information to the following Credit
+    Information Companies (CICs):
+    - TransUnion CIBIL
+    - Experian
+    - Equifax
+    - CRIF High Mark
+
+10.2 BORROWER'S RIGHTS
+
+    (a) Borrower shall be informed about reporting of credit information
+
+    (b) Borrower has the right to obtain their credit report from CICs
+
+    (c) If borrower finds any error, they may request correction
+
+    (d) The Company shall rectify errors within 21 days of intimation
+
+10.3 CONSENT
+
+    Consent for accessing and reporting credit information shall be obtained
+    from the borrower in the loan application form.
+
+================================================================================
+                XI. DIGITAL LENDING GUIDELINES
+================================================================================
+
+11.1 TRANSPARENCY IN DIGITAL LENDING
+
+    For loans originated through digital channels:
+
+    (a) The Company shall display Key Fact Statement (KFS) before execution
+        of loan agreement
+
+    (b) All fees and charges shall be clearly disclosed on app/website
+
+    (c) Consent for data access shall be clearly explained and obtained
+
+11.2 KEY FACT STATEMENT (KFS)
+
+    The KFS shall contain:
+    - Annual Percentage Rate (APR)
+    - Recovery mechanism
+    - Grievance redressal mechanism
+    - Cooling-off period details
+
+11.3 COOLING-OFF PERIOD
+
+    The borrower shall be given a cooling-off period of at least 3 days
+    during which they can exit the loan without any charges.
+
+================================================================================
+                  XII. LANGUAGE AND COMMUNICATION
+================================================================================
+
+12.1 LANGUAGE
+
+    All communications shall be in a language understood by the borrower
+    (English, Hindi, or regional language).
+
+12.2 KEY DOCUMENTS IN VERNACULAR
+
+    The following documents shall be available in vernacular languages:
+    - Loan application form
+    - Sanction letter
+    - Most Important Terms and Conditions (MITC)
+    - Schedule of charges
+
+================================================================================
+                    XIII. REVIEW OF CODE
+================================================================================
+
+13.1 PERIODIC REVIEW
+
+    This Fair Practices Code shall be reviewed annually by the Board or
+    whenever there are changes in RBI guidelines.
+
+13.2 TRAINING
+
+    All staff involved in lending and collections shall be trained on this
+    Code. Training shall be conducted annually.
+
+13.3 MONITORING
+
+    The Audit Committee shall monitor implementation of this Code through
+    periodic reports and customer feedback analysis.
+
+================================================================================
+                     XIV. DISPLAY OF CODE
+================================================================================
+
+This Code shall be:
+1. Displayed at all branches of the Company
+2. Available on the Company's website www.finservecapital.com
+3. Made available to borrowers on request
+
+================================================================================
+                      BOARD APPROVAL
+================================================================================
+
+This Fair Practices Code was approved by the Board of Directors of
+FinServe Capital Limited at its 78th Meeting held on September 24, 2024.
+
+Resolution No: FSCL/BM/78/2024/15
+
+The Board has designated the following for implementation:
+
+Policy Owner:               Chief Compliance Officer
+Implementation:             All Branch Managers and Department Heads
+Grievance Redressal:        Head - Customer Service
+Monitoring:                 Audit Committee
+
+================================================================================
+                      CERTIFICATION
+================================================================================
+
+Certified that this Fair Practices Code is in compliance with the RBI Master
+Directions for Non-Banking Financial Companies.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-                                    Sd/-
+RAJESH KUMAR MEHTA                      KAVITA MENON
+Managing Director                       Chief Compliance Officer
+
+Date: September 24, 2024
+Place: Mumbai
+
+================================================================================
+                    END OF FAIR PRACTICES CODE
+================================================================================

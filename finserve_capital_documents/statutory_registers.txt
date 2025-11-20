@@ -1,0 +1,531 @@
+================================================================================
+                       STATUTORY REGISTERS
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                  MAINTAINED UNDER COMPANIES ACT, 2013
+               Last Updated: November 20, 2025
+
+================================================================================
+                 I. REGISTER OF MEMBERS (MGT-1)
+================================================================================
+
+Maintained under Section 88 of the Companies Act, 2013
+
+--------------------------------------------------------------------------------
+                    SUMMARY OF SHAREHOLDING
+--------------------------------------------------------------------------------
+
+Total Issued Share Capital:         Rs. 45,00,00,000
+Total Shares Issued:                4,50,00,000 Equity Shares of Rs. 10 each
+Number of Members:                  847
+
+--------------------------------------------------------------------------------
+                   CATEGORY-WISE SHAREHOLDING
+--------------------------------------------------------------------------------
+
+Category                          No. of Shares      %        No. of Members
+
+A. PROMOTER & PROMOTER GROUP
+   - Individuals                   1,12,50,000     25.00%            3
+   - Bodies Corporate              1,17,00,000     26.00%            1
+   Sub-total Promoter Group        2,29,50,000     51.00%            4
+
+B. FINANCIAL INVESTORS
+   - Domestic PE Funds             1,35,00,000     30.00%            2
+   - Foreign Portfolio Investors      22,50,000      5.00%            1
+   Sub-total Financial Investors   1,57,50,000     35.00%            3
+
+C. PUBLIC SHAREHOLDERS
+   - Resident Individuals             45,00,000     10.00%          785
+   - NRIs                              9,00,000      2.00%           42
+   - Bodies Corporate                  9,00,000      2.00%           13
+   Sub-total Public                   63,00,000     14.00%          840
+
+GRAND TOTAL                        4,50,00,000    100.00%          847
+
+--------------------------------------------------------------------------------
+                    TOP 10 SHAREHOLDERS
+--------------------------------------------------------------------------------
+
+Sl.  Name of Shareholder              Folio/DP ID    Shares      Percentage
+
+1.   Rajesh Kumar Mehta               DP001-001      67,50,000    15.00%
+     (Promoter)
+     15, Malabar Hill Road,
+     Mumbai - 400006
+     PAN: AABPM1234A
+
+2.   FinServe Holdings Pvt Ltd        DP001-002     1,17,00,000   26.00%
+     (Promoter Group Company)
+     15, Malabar Hill Road,
+     Mumbai - 400006
+     CIN: U67190MH2010PTC234567
+
+3.   India Growth Partners Fund I     DP002-001      90,00,000    20.00%
+     (Category II AIF)
+     12th Floor, Express Towers,
+     Nariman Point, Mumbai - 400021
+     SEBI Regn: IN/AIF2/14-15/0234
+
+4.   Sequoia Capital India Growth     DP002-002      45,00,000    10.00%
+     Fund II
+     (Category II AIF)
+     10th Floor, DLF Cyber City,
+     Gurgaon - 122002
+     SEBI Regn: IN/AIF2/15-16/0345
+
+5.   Sunita Rajesh Mehta              DP001-003      27,00,000     6.00%
+     (Promoter Group)
+     15, Malabar Hill Road,
+     Mumbai - 400006
+     PAN: AABPM5678B
+
+6.   Ankit Rajesh Mehta               DP001-004      18,00,000     4.00%
+     (Promoter Group)
+     15, Malabar Hill Road,
+     Mumbai - 400006
+     PAN: AABPM9012C
+
+7.   Fidelity International           DP003-001      22,50,000     5.00%
+     (FPI Category I)
+     Floor 25, One International
+     Finance Centre, Hong Kong
+     FPI Regn: IN-XX-FA-0234-19
+
+8.   Arun Srinivasan                  DP004-001       9,00,000     2.00%
+     (Director)
+     23, Boat Club Road,
+     Chennai - 600028
+     PAN: AABPS3456D
+
+9.   ICICI Prudential MF -            DP005-001       4,50,000     1.00%
+     Credit Risk Fund
+     2nd Floor, ICICI Centre,
+     H.T. Parekh Marg, Mumbai
+
+10.  Others (837 shareholders)        Various        49,50,000    11.00%
+
+--------------------------------------------------------------------------------
+                   DEMATERIALIZATION STATUS
+--------------------------------------------------------------------------------
+
+Total Shares in Demat Form:         4,48,65,000 (99.7%)
+Total Shares in Physical Form:          1,35,000 (0.3%)
+
+================================================================================
+              II. REGISTER OF DIRECTORS (DIR-34)
+================================================================================
+
+Maintained under Section 170 of the Companies Act, 2013
+
+--------------------------------------------------------------------------------
+                      CURRENT DIRECTORS
+--------------------------------------------------------------------------------
+
+1. RAJESH KUMAR MEHTA - Chairman & Managing Director
+
+   DIN:                      02345678
+   PAN:                      AABPM1234A
+   Date of Birth:            April 15, 1965
+   Nationality:              Indian
+   Residential Address:      15, Malabar Hill Road, Mumbai - 400006
+   Date of Appointment:      August 12, 2015
+   Date of Current Term:     August 12, 2023 (for 5 years)
+   Category:                 Executive, Promoter
+   Qualifications:           B.Com, MBA (Finance) - IIM Ahmedabad
+   Occupation:               Business - Financial Services
+   Experience:               25+ years in banking and financial services
+                             Former VP - Corporate Banking, ICICI Bank
+
+   Other Directorships:
+   - FinServe Holdings Pvt Ltd (Director)
+   - FinServe Insurance Broking Pvt Ltd (Director)
+
+   Committee Memberships:    ALCO (Chairman)
+
+   Fit & Proper Status:      Declaration obtained - Compliant
+   DSC Details:              Valid till March 2027
+
+--------------------------------------------------------------------------------
+
+2. VIKRAM JOSHI - Whole-Time Director & CFO
+
+   DIN:                      03456789
+   PAN:                      AABPJ2345B
+   Date of Birth:            October 22, 1972
+   Nationality:              Indian
+   Residential Address:      45, Pali Hill, Bandra West, Mumbai - 400050
+   Date of Appointment:      April 1, 2018
+   Date of Current Term:     April 1, 2023 (for 5 years)
+   Category:                 Executive, Non-Promoter
+   Qualifications:           B.Com, CA, CFA
+   Occupation:               Chief Financial Officer
+   Experience:               22+ years in finance and treasury
+                             Former CFO - ABC Finance Ltd
+
+   Other Directorships:      NIL
+
+   Committee Memberships:    ALCO (Member), IT Strategy Committee (Member)
+
+   Fit & Proper Status:      Declaration obtained - Compliant
+   DSC Details:              Valid till June 2026
+
+--------------------------------------------------------------------------------
+
+3. MEERA KRISHNAN - Independent Director
+
+   DIN:                      04567890
+   PAN:                      AABPK3456C
+   Date of Birth:            July 8, 1968
+   Nationality:              Indian
+   Residential Address:      12, Greenways Road, Chennai - 600028
+   Date of Appointment:      October 15, 2020
+   Category:                 Independent, Non-Executive
+   Qualifications:           B.Com, FCA, DISA
+   Occupation:               Practicing Chartered Accountant
+   Experience:               30+ years in audit and financial services
+                             Former Partner - PQR & Associates
+
+   Other Directorships:
+   - XYZ Bank Ltd (Independent Director)
+   - PQR Investments Ltd (Independent Director)
+
+   Committee Memberships:    Audit Committee (Chairperson),
+                             NRC (Member)
+
+   Independence Declaration: Submitted annually - Valid
+   Fit & Proper Status:      Declaration obtained - Compliant
+   DSC Details:              Valid till September 2026
+
+--------------------------------------------------------------------------------
+
+4. SURESH IYER - Independent Director
+
+   DIN:                      05678901
+   PAN:                      AABPI4567D
+   Date of Birth:            December 3, 1963
+   Nationality:              Indian
+   Residential Address:      78, Koramangala 4th Block, Bengaluru - 560034
+   Date of Appointment:      October 15, 2020
+   Category:                 Independent, Non-Executive
+   Qualifications:           B.Tech (IIT Delhi), MBA (ISB)
+   Occupation:               Retired Banking Professional
+   Experience:               35+ years in banking and risk management
+                             Former CRO - State Bank of India
+
+   Other Directorships:
+   - LMN Housing Finance Ltd (Independent Director)
+
+   Committee Memberships:    Risk Management Committee (Chairman),
+                             Audit Committee (Member)
+
+   Independence Declaration: Submitted annually - Valid
+   Fit & Proper Status:      Declaration obtained - Compliant
+   DSC Details:              Valid till December 2025
+
+--------------------------------------------------------------------------------
+
+5. ANJALI DESAI - Independent Director (Woman Director)
+
+   DIN:                      06789012
+   PAN:                      AABPD5678E
+   Date of Birth:            March 18, 1975
+   Nationality:              Indian
+   Residential Address:      34, Peddar Road, Mumbai - 400026
+   Date of Appointment:      September 28, 2022
+   Category:                 Independent, Non-Executive, Woman Director
+   Qualifications:           LLB, Company Secretary, LLM
+   Occupation:               Legal Consultant
+   Experience:               20+ years in corporate law and compliance
+                             Former Partner - Legal Eagles Associates
+
+   Other Directorships:
+   - DEF Pharma Ltd (Independent Director)
+
+   Committee Memberships:    NRC (Chairperson),
+                             Audit Committee (Member)
+
+   Independence Declaration: Submitted annually - Valid
+   Fit & Proper Status:      Declaration obtained - Compliant
+   DSC Details:              Valid till August 2027
+
+--------------------------------------------------------------------------------
+
+6. ARUN SRINIVASAN - Non-Executive Director
+
+   DIN:                      07890123
+   PAN:                      AABPS3456D
+   Date of Birth:            August 25, 1970
+   Nationality:              Indian
+   Residential Address:      23, Boat Club Road, Chennai - 600028
+   Date of Appointment:      June 15, 2019
+   Category:                 Non-Executive, Investor Nominee
+   Qualifications:           B.Tech, MBA (Stanford)
+   Occupation:               Partner - India Growth Partners
+   Experience:               25+ years in private equity
+
+   Other Directorships:
+   - 5 other portfolio company boards
+
+   Committee Memberships:    NRC (Member)
+
+   Fit & Proper Status:      Declaration obtained - Compliant
+   DSC Details:              Valid till February 2026
+
+--------------------------------------------------------------------------------
+
+7. DR. PRIYA NAIR - Non-Executive Director
+
+   DIN:                      08901234
+   PAN:                      AABPN6789F
+   Date of Birth:            January 12, 1978
+   Nationality:              Indian
+   Residential Address:      56, Golf Links, New Delhi - 110003
+   Date of Appointment:      September 28, 2022
+   Category:                 Non-Executive, Investor Nominee
+   Qualifications:           PhD (Economics), MBA
+   Occupation:               Principal - Sequoia Capital India
+   Experience:               18+ years in investments and research
+
+   Other Directorships:
+   - 3 other portfolio company boards
+
+   Committee Memberships:    Risk Management Committee (Member)
+
+   Fit & Proper Status:      Declaration obtained - Compliant
+   DSC Details:              Valid till November 2026
+
+================================================================================
+            III. REGISTER OF KEY MANAGERIAL PERSONNEL
+================================================================================
+
+Maintained under Section 170 of the Companies Act, 2013
+
+--------------------------------------------------------------------------------
+
+1. Mr. Rajesh Kumar Mehta    - Managing Director (See above)
+
+2. Mr. Vikram Joshi          - Chief Financial Officer (See above)
+
+3. Mr. Vikram Sharma         - Company Secretary
+
+   PAN:                      AABPS7890G
+   Membership No:            ACS 23456
+   CP No:                    12345
+   Date of Birth:            June 5, 1985
+   Date of Appointment:      April 1, 2019
+   Qualifications:           B.Com, ACS, LLB
+   Experience:               12+ years in secretarial practice
+
+--------------------------------------------------------------------------------
+       ADDITIONAL KEY MANAGEMENT (RBI REQUIREMENT)
+--------------------------------------------------------------------------------
+
+4. Mr. Ramesh Gupta - Chief Risk Officer
+
+   PAN:                      AABPG8901H
+   Date of Birth:            September 20, 1971
+   Date of Appointment:      October 1, 2020
+   Qualifications:           B.Tech, MBA, FRM
+   Experience:               25+ years in risk management
+   Reports to:               Board / Risk Management Committee
+
+5. Ms. Kavita Menon - Chief Compliance Officer
+
+   PAN:                      AABPM9012I
+   Date of Birth:            February 14, 1980
+   Date of Appointment:      April 1, 2021
+   Qualifications:           B.Com, CA, CAIIB
+   Experience:               18+ years in compliance
+   Reports to:               Board / Audit Committee
+
+6. Mr. Sanjay Kulkarni - Principal Officer (PMLA)
+
+   PAN:                      AABPK0123J
+   Date of Birth:            April 8, 1976
+   Date of Appointment:      January 1, 2019
+   Qualifications:           B.Com, MBA
+   Experience:               20+ years in operations and compliance
+   Reports to:               Chief Compliance Officer
+
+================================================================================
+             IV. REGISTER OF CHARGES (CHG-7)
+================================================================================
+
+Maintained under Section 85 of the Companies Act, 2013
+
+--------------------------------------------------------------------------------
+                    SUMMARY OF CHARGES
+--------------------------------------------------------------------------------
+
+Total Charges Created:              19
+Charges Satisfied:                  6
+Active Charges:                     13
+Total Amount Secured:               Rs. 295 Crores (approximately)
+
+--------------------------------------------------------------------------------
+                  DETAILS OF ACTIVE CHARGES
+--------------------------------------------------------------------------------
+
+Charge    Date of      Charge       Amount        Description of
+ID        Creation     Holder       (Rs. Cr)      Property Charged
+--------------------------------------------------------------------------------
+
+CHG-001   15/06/2020   HDFC Bank    50.00        First pari passu charge on
+                       Ltd                       current assets including
+                                                 book debts, loan receivables
+
+CHG-002   22/09/2020   ICICI Bank   40.00        First pari passu charge on
+                       Ltd                       loan receivables, present
+                                                 and future
+
+CHG-003   10/01/2021   Axis Bank    35.00        First pari passu charge on
+                       Ltd                       book debts, receivables
+
+CHG-004   18/04/2021   State Bank   25.00        First pari passu charge on
+                       of India                  loan assets
+
+CHG-005   25/08/2021   Kotak        15.00        Subservient charge on
+                       Mahindra                  loan receivables
+                       Bank
+
+CHG-006   30/11/2021   Debenture    85.00        First pari passu charge on
+                       Trustee -                 loan receivables for NCD
+                       Vistra ITCL               holders
+
+CHG-007   15/03/2022   Yes Bank     15.00        First pari passu charge on
+                       Ltd                       current assets
+
+CHG-008   20/06/2022   RBL Bank     10.00        First pari passu charge on
+                       Ltd                       book debts
+
+CHG-009   28/09/2022   IDFC First   10.00        First pari passu charge on
+                       Bank                      loan receivables
+
+CHG-010   12/12/2022   Tata         8.00         Subservient charge on
+                       Capital                   receivables
+
+CHG-011   15/03/2023   Punjab       7.00         First pari passu charge on
+                       National                  current assets
+                       Bank
+
+CHG-012   20/06/2024   Bank of      8.00         First pari passu charge on
+                       Baroda                    loan receivables
+
+CHG-013   15/09/2024   State Bank   50.00        First pari passu charge on
+                       of India                  loan receivables
+                       (New)                     (Board approved 24/09/2024)
+
+--------------------------------------------------------------------------------
+Note: All charges are registered with ROC within prescribed timelines.
+Form CHG-1 filed for all charge creations.
+Form CHG-4 filed for all charge satisfactions.
+
+================================================================================
+          V. REGISTER OF LOANS AND INVESTMENTS
+================================================================================
+
+Maintained under Section 186 of the Companies Act, 2013
+
+This register records loans given, investments made, guarantees given and
+security provided by the Company.
+
+Note: As an NBFC, the Company's principal business is providing loans.
+Loans advanced in ordinary course of lending business are exempt from
+Section 186 limits. Only inter-corporate deposits and investments in
+entities other than borrowers are recorded here.
+
+--------------------------------------------------------------------------------
+                  INVESTMENTS MADE
+--------------------------------------------------------------------------------
+
+1. Investment in Government Securities (Treasury operations)
+   Amount: Rs. 15 Crores
+   Date: Various
+   Purpose: SLR and liquidity management
+
+2. Investment in Mutual Funds (Liquid Funds)
+   Amount: Rs. 8 Crores (as on date)
+   Purpose: Treasury management
+
+3. Investment in Subsidiary (if any): NIL
+
+--------------------------------------------------------------------------------
+                  GUARANTEES GIVEN
+--------------------------------------------------------------------------------
+
+NIL
+
+--------------------------------------------------------------------------------
+              INTER-CORPORATE DEPOSITS
+--------------------------------------------------------------------------------
+
+NIL (Company policy prohibits ICDs)
+
+================================================================================
+         VI. REGISTER OF CONTRACTS (RELATED PARTY)
+================================================================================
+
+Maintained under Section 189 and 188 of the Companies Act, 2013
+
+--------------------------------------------------------------------------------
+                RELATED PARTY TRANSACTIONS
+--------------------------------------------------------------------------------
+
+FY 2024-25 (April 2024 to November 2024)
+
+Sl.  Related Party         Nature of    Relationship   Amount       Approval
+No.                        Transaction                 (Rs. Lakhs)
+
+1.   Mehta Properties      Office       Promoter       67.50        Audit
+     LLP                   Rent         Group Entity                Committee
+                                                                    & Board
+
+2.   FinServe Insurance    Insurance    Promoter       12.00        Audit
+     Broking Pvt Ltd       Brokerage    Group Entity                Committee
+
+--------------------------------------------------------------------------------
+All related party transactions are:
+- At arm's length basis
+- In ordinary course of business
+- Approved by Audit Committee
+- Ratified by Board
+- Disclosed to RBI as required
+
+================================================================================
+           VII. REGISTER OF DEPOSITS
+================================================================================
+
+Maintained under Section 73 of the Companies Act, 2013
+
+The Company is a Non-Deposit Taking NBFC and does NOT accept public deposits.
+
+Declaration: The Company has not accepted any deposits within the meaning
+of Section 73 of the Companies Act, 2013 read with Companies (Acceptance of
+Deposits) Rules, 2014.
+
+================================================================================
+                      CERTIFICATION
+================================================================================
+
+This is to certify that the above registers are maintained as per the
+provisions of the Companies Act, 2013 and are updated as on November 20, 2025.
+
+The registers are kept at the Registered Office of the Company and are
+available for inspection by members during business hours.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-
+VIKRAM SHARMA
+Company Secretary
+M.No: ACS 23456
+
+Date: November 20, 2025
+Place: Mumbai
+
+================================================================================
+                  END OF STATUTORY REGISTERS
+================================================================================

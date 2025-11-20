@@ -1,0 +1,471 @@
+================================================================================
+                     OFFICE LEASE AGREEMENT
+================================================================================
+
+               AGREEMENT NO: MLP/LEASE/2019/001
+
+This LEASE AGREEMENT ("Agreement") is made and executed on this 1st day of
+April, 2019
+
+AT MUMBAI
+
+BETWEEN
+
+MEHTA PROPERTIES LLP, a Limited Liability Partnership incorporated under
+the Limited Liability Partnership Act, 2008, having LLPIN AAA-1234, and its
+registered office at 15, Malabar Hill Road, Mumbai - 400006, represented by
+its Designated Partner
+(hereinafter referred to as the "Lessor" or "Landlord")
+                                                            OF THE FIRST PART
+
+AND
+
+FINSERVE CAPITAL LIMITED, a company incorporated under the Companies Act,
+2013, having CIN U65990MH2015PLC264789, and its registered office at
+Unit 501-502, 5th Floor, Peninsula Business Park, Senapati Bapat Marg,
+Lower Parel, Mumbai - 400013, represented by its authorized signatories
+(hereinafter referred to as the "Lessee" or "Tenant")
+                                                           OF THE SECOND PART
+
+================================================================================
+                         RECITALS
+================================================================================
+
+A. The Lessor is the owner of the property described in Schedule I hereto
+   and is entitled to lease out the same.
+
+B. The Lessee is a Non-Banking Financial Company desirous of taking on
+   lease the said property for use as its corporate office.
+
+C. The Lessor has agreed to lease and the Lessee has agreed to take on
+   lease the said property on the terms and conditions set out herein.
+
+NOW THEREFORE, in consideration of the rent and covenants herein, the
+Parties agree as follows:
+
+================================================================================
+                ARTICLE 1 - LEASED PREMISES
+================================================================================
+
+1.1 DESCRIPTION OF PREMISES
+
+    The Lessor hereby leases to the Lessee and the Lessee hereby takes on
+    lease from the Lessor the following premises:
+
+    Unit Numbers:           501 and 502
+    Floor:                  5th Floor
+    Building Name:          Peninsula Business Park
+    Address:                Senapati Bapat Marg, Lower Parel
+                            Mumbai - 400013, Maharashtra
+    Carpet Area:            5,200 sq. ft. (approximately)
+    Built-up Area:          6,500 sq. ft. (approximately)
+
+    (hereinafter referred to as the "Leased Premises")
+
+1.2 FIXTURES AND FITTINGS
+
+    The Leased Premises shall include:
+    (a) Centralized air-conditioning
+    (b) Common area maintenance
+    (c) Lift access
+    (d) 24x7 security
+    (e) DG power backup
+    (f) Firefighting systems
+    (g) Parking spaces (4 car + 10 two-wheelers)
+
+================================================================================
+                    ARTICLE 2 - TERM
+================================================================================
+
+2.1 INITIAL TERM
+
+    The lease shall be for an initial term of 5 (Five) years commencing from
+    April 1, 2019 and ending on March 31, 2024 ("Initial Term").
+
+2.2 RENEWAL
+
+    The Lessee shall have the option to renew this lease for a further term
+    of 5 (Five) years upon:
+    (a) Giving written notice of renewal at least 6 months before expiry
+    (b) Agreement on revised rent and other terms
+    (c) Execution of a fresh lease agreement
+
+    The lease has been renewed for a second term of 5 years from April 1,
+    2024 to March 31, 2029.
+
+2.3 LOCK-IN PERIOD
+
+    The initial lock-in period is 3 (Three) years from the commencement date.
+    During this period, neither party shall terminate this Agreement except
+    as provided in Article 10.
+
+================================================================================
+                    ARTICLE 3 - RENT
+================================================================================
+
+3.1 MONTHLY RENT
+
+    Initial Term (FY 2019-20 to FY 2023-24):
+
+    Year            Monthly Rent (Rs.)      Annual Rent (Rs.)
+    --------------------------------------------------------
+    Year 1          12,00,000               1,44,00,000
+    Year 2          12,60,000               1,51,20,000
+    Year 3          13,23,000               1,58,76,000
+    Year 4          13,89,150               1,66,69,800
+    Year 5          14,58,607               1,75,03,284
+
+    Renewed Term (FY 2024-25 to FY 2028-29):
+
+    Year            Monthly Rent (Rs.)      Annual Rent (Rs.)
+    --------------------------------------------------------
+    Year 6          15,00,000               1,80,00,000
+    Year 7          15,75,000               1,89,00,000
+    Year 8          16,53,750               1,98,45,000
+    Year 9          17,36,437               2,08,37,244
+    Year 10         18,23,258               2,18,79,096
+
+3.2 ESCALATION
+
+    The rent shall escalate by 5% per annum on each anniversary of the
+    commencement date.
+
+3.3 PAYMENT
+
+    (a) Rent shall be payable monthly in advance on or before the 5th day
+        of each month.
+
+    (b) Payment shall be made by cheque/NEFT/RTGS to the Lessor's bank account:
+        Bank: HDFC Bank
+        Account No: [XXXX]
+        IFSC: HDFC0000XXX
+
+    (c) The Lessee shall deduct TDS at applicable rates and provide TDS
+        certificate quarterly.
+
+3.4 LATE PAYMENT
+
+    If rent is not paid within 7 days of the due date, the Lessee shall pay
+    interest at 18% per annum for the period of delay.
+
+================================================================================
+                  ARTICLE 4 - SECURITY DEPOSIT
+================================================================================
+
+4.1 AMOUNT
+
+    The Lessee has paid to the Lessor a security deposit of Rs. 72,00,000
+    (Rupees Seventy Two Lakhs Only), equivalent to 6 months' rent.
+
+4.2 INTEREST
+
+    The security deposit shall be interest-free.
+
+4.3 REFUND
+
+    The security deposit shall be refunded within 30 days of vacating the
+    premises, after deducting:
+    (a) Any unpaid rent or charges
+    (b) Cost of repairs for damage beyond normal wear and tear
+    (c) Any other outstanding dues
+
+4.4 ADJUSTMENT
+
+    Upon rent escalation, the security deposit shall be proportionately
+    adjusted to maintain 6 months' rent equivalent.
+
+================================================================================
+              ARTICLE 5 - MAINTENANCE CHARGES
+================================================================================
+
+5.1 COMMON AREA MAINTENANCE (CAM)
+
+    CAM charges: Rs. 25 per sq. ft. of built-up area per month
+    Current CAM: Rs. 1,62,500 per month
+
+    CAM includes:
+    - Common area cleaning and maintenance
+    - Security services
+    - Lift maintenance
+    - Common utilities
+
+5.2 ESCALATION
+
+    CAM charges may be escalated annually based on actual cost increase,
+    subject to a maximum of 10% per annum.
+
+5.3 ELECTRICITY
+
+    Electricity charges for the Leased Premises shall be paid by the Lessee
+    directly to the electricity provider or as per sub-meter readings.
+
+================================================================================
+                ARTICLE 6 - USE OF PREMISES
+================================================================================
+
+6.1 PERMITTED USE
+
+    The Leased Premises shall be used solely for:
+    (a) Corporate office of the Lessee
+    (b) Conduct of NBFC business activities
+    (c) Any other lawful purpose with prior consent of Lessor
+
+6.2 PROHIBITED USE
+
+    The Lessee shall not:
+    (a) Use the premises for any unlawful purpose
+    (b) Cause nuisance to other occupants
+    (c) Store hazardous materials
+    (d) Make structural alterations without consent
+    (e) Sub-let or assign without consent
+
+================================================================================
+             ARTICLE 7 - LESSEE'S OBLIGATIONS
+================================================================================
+
+7.1 PAYMENT
+
+    (a) Pay rent and other charges on time
+    (b) Pay all utility bills
+    (c) Pay property tax if billed separately
+
+7.2 MAINTENANCE
+
+    (a) Keep the premises in good condition
+    (b) Carry out day-to-day repairs
+    (c) Maintain interior fitouts installed by Lessee
+
+7.3 COMPLIANCE
+
+    (a) Comply with all applicable laws
+    (b) Obtain necessary licenses (Shop & Establishment, etc.)
+    (c) Not violate building rules
+
+7.4 INSURANCE
+
+    (a) Insure contents against fire and theft
+    (b) Maintain public liability insurance
+
+7.5 ACCESS
+
+    Allow Lessor access for inspection with reasonable prior notice
+
+================================================================================
+             ARTICLE 8 - LESSOR'S OBLIGATIONS
+================================================================================
+
+8.1 QUIET ENJOYMENT
+
+    Ensure the Lessee's peaceful enjoyment of the premises without
+    interference.
+
+8.2 STRUCTURAL MAINTENANCE
+
+    (a) Maintain the structure of the building
+    (b) Maintain common areas
+    (c) Repair structural defects
+
+8.3 STATUTORY COMPLIANCE
+
+    (a) Maintain building completion/occupancy certificate
+    (b) Comply with fire safety norms
+    (c) Maintain building insurance
+
+8.4 SERVICES
+
+    Ensure continuous provision of:
+    (a) Water supply
+    (b) Lift service
+    (c) DG backup (as per building norms)
+    (d) Security at building level
+
+================================================================================
+          ARTICLE 9 - ALTERATIONS AND IMPROVEMENTS
+================================================================================
+
+9.1 INTERIOR FITOUTS
+
+    The Lessee may, at its own cost:
+    (a) Install interior partitions
+    (b) Install false ceiling and flooring
+    (c) Install electrical and networking
+    (d) Install CCTV and access control
+
+9.2 STRUCTURAL CHANGES
+
+    No structural changes shall be made without the Lessor's prior written
+    consent.
+
+9.3 REMOVAL
+
+    Upon termination:
+    (a) Lessee may remove all movable fitouts
+    (b) Premises shall be restored to original condition (fair wear and
+        tear excepted)
+    (c) Any permanent improvement shall remain with the premises
+
+================================================================================
+                 ARTICLE 10 - TERMINATION
+================================================================================
+
+10.1 TERMINATION BY LESSEE
+
+     After the lock-in period, the Lessee may terminate by giving 6 months
+     written notice.
+
+10.2 TERMINATION BY LESSOR
+
+     The Lessor may terminate:
+     (a) After lock-in period with 6 months notice
+     (b) Immediately if:
+         - Rent is unpaid for 3 consecutive months
+         - Lessee breaches material terms
+         - Lessee becomes insolvent
+         - Premises used for illegal purpose
+
+10.3 CONSEQUENCES OF TERMINATION
+
+     Upon termination:
+     (a) Lessee shall vacate within 30 days
+     (b) Lessee shall remove all belongings
+     (c) Lessee shall clear all dues
+     (d) Lessor shall refund security deposit (after deductions)
+
+================================================================================
+               ARTICLE 11 - RELATED PARTY DISCLOSURE
+================================================================================
+
+11.1 RELATIONSHIP
+
+     The Parties acknowledge that Mehta Properties LLP is a Promoter Group
+     entity of FinServe Capital Limited.
+
+     Common Interest: Mr. Rajesh Kumar Mehta is a Designated Partner of
+     Mehta Properties LLP and Managing Director of FinServe Capital Limited.
+
+11.2 ARM'S LENGTH CONFIRMATION
+
+     (a) The rent has been determined based on independent market valuation
+     (b) Valuation Report obtained from M/s ABC Valuers dated March 15, 2019
+     (c) Market rent range for similar properties: Rs. 180-220 per sq. ft.
+     (d) Agreed rent: Rs. 185 per sq. ft. (within market range)
+
+11.3 REGULATORY COMPLIANCE
+
+     (a) This is a Related Party Transaction under Section 188 of the
+         Companies Act, 2013
+     (b) Approved by Audit Committee of FinServe Capital Limited
+     (c) Ratified by Board of Directors
+     (d) Disclosed in Annual Report
+     (e) Disclosed to RBI as per NBFC regulations
+
+================================================================================
+                  ARTICLE 12 - GENERAL
+================================================================================
+
+12.1 REGISTRATION
+
+     This Agreement shall be registered with the Sub-Registrar of Assurances
+     at Mumbai. Registration charges and stamp duty shall be borne equally
+     by both parties.
+
+12.2 NOTICES
+
+     All notices shall be sent to:
+
+     To Lessor:
+     Mehta Properties LLP
+     15, Malabar Hill Road
+     Mumbai - 400006
+     Attention: Mr. Rajesh Kumar Mehta
+     Email: mehta.properties@gmail.com
+
+     To Lessee:
+     FinServe Capital Limited
+     Unit 501-502, Peninsula Business Park
+     Lower Parel, Mumbai - 400013
+     Attention: Chief Financial Officer
+     Email: cfo@finservecapital.com
+
+12.3 GOVERNING LAW
+
+     This Agreement shall be governed by the laws of India.
+
+12.4 JURISDICTION
+
+     The courts at Mumbai shall have exclusive jurisdiction.
+
+12.5 ENTIRE AGREEMENT
+
+     This Agreement constitutes the entire agreement between the Parties.
+
+================================================================================
+                       SCHEDULE I
+                  DESCRIPTION OF PROPERTY
+================================================================================
+
+Property Details:
+- Unit Numbers: 501 and 502
+- Floor: 5th Floor
+- Building: Peninsula Business Park
+- Address: Senapati Bapat Marg, Lower Parel, Mumbai - 400013
+- Carpet Area: 5,200 sq. ft.
+- Built-up Area: 6,500 sq. ft.
+- Parking: 4 car spaces + 10 two-wheeler spaces
+
+Title Details:
+- The Lessor holds the property under conveyance deed dated January 10, 2010
+- No encumbrances on the property
+- Property tax paid up to date
+
+================================================================================
+                       EXECUTION
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date
+first written above.
+
+For MEHTA PROPERTIES LLP                For FINSERVE CAPITAL LIMITED
+
+Sd/-                                    Sd/-
+Name: Mr. Rajesh Kumar Mehta            Name: Mr. Vikram Joshi
+Designation: Designated Partner         Designation: Chief Financial Officer
+
+--------------------------------------------------------------------------------
+
+WITNESSES:
+
+1. Sd/-                                 2. Sd/-
+   Name: _________________                 Name: _________________
+   Address: _______________                Address: _______________
+
+--------------------------------------------------------------------------------
+
+REGISTRATION DETAILS:
+
+Registered at: Sub-Registrar of Assurances, Mumbai
+Document No: 2456/2019
+Registration Date: April 15, 2019
+Book No: I, Volume No: 567, Pages: 123-145
+
+================================================================================
+                    CURRENT STATUS
+================================================================================
+
+As on November 20, 2025
+
+Lease Status:               Active (Renewed Term)
+Current Monthly Rent:       Rs. 15,75,000 (Year 7)
+Payment Status:             All rent paid on time
+Security Deposit:           Rs. 90,00,000 (adjusted for renewal)
+Lease Expiry:               March 31, 2029
+
+Related Party Compliance:
+- Audit Committee Approval: Obtained annually
+- Board Ratification: Obtained annually
+- Disclosure in Annual Report: Yes
+- Arms Length Valuation: Updated every 3 years
+
+================================================================================
+                END OF OFFICE LEASE AGREEMENT
+================================================================================

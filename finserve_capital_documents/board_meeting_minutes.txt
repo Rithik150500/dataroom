@@ -1,0 +1,439 @@
+================================================================================
+                     MINUTES OF BOARD MEETINGS
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                    INDEX OF BOARD MEETINGS
+================================================================================
+
+Total Board Meetings held from incorporation to date: 78
+
+FY 2024-25 (April 2024 - March 2025): 8 meetings
+FY 2023-24: 7 meetings
+FY 2022-23: 8 meetings
+FY 2021-22: 7 meetings
+FY 2020-21: 8 meetings
+
+All meetings compliant with Section 173 of Companies Act, 2013 (minimum 4
+meetings per year with gap not exceeding 120 days) and RBI requirements.
+
+================================================================================
+           MINUTES OF 78TH BOARD MEETING
+================================================================================
+
+                 FINSERVE CAPITAL LIMITED
+              CIN: U65990MH2015PLC264789
+
+          Minutes of the 78th Meeting of the Board of Directors
+             held on Tuesday, September 24, 2024 at 3:00 PM
+                  at the Registered Office of the Company
+
+--------------------------------------------------------------------------------
+                         ATTENDANCE
+--------------------------------------------------------------------------------
+
+DIRECTORS PRESENT:
+
+1. Mr. Rajesh Kumar Mehta      - Chairman & Managing Director
+2. Mr. Vikram Joshi            - Whole-Time Director (CFO)
+3. Ms. Meera Krishnan          - Independent Director (Chair, Audit Committee)
+4. Mr. Suresh Iyer             - Independent Director (Chair, Risk Committee)
+5. Ms. Anjali Desai            - Independent Director
+6. Mr. Arun Srinivasan         - Non-Executive Director
+7. Dr. Priya Nair              - Non-Executive Director
+
+DIRECTORS ABSENT WITH LEAVE: None
+
+IN ATTENDANCE:
+
+- Mr. Vikram Sharma            - Company Secretary
+- Mr. Ramesh Gupta             - Chief Risk Officer
+- Ms. Kavita Menon             - Chief Compliance Officer
+
+INVITEES:
+
+- Partner, ABC & Associates    - Statutory Auditors (for Agenda Item 6)
+- Representative, CRISIL       - Credit Rating Agency (for Agenda Item 8)
+
+--------------------------------------------------------------------------------
+                        PROCEEDINGS
+--------------------------------------------------------------------------------
+
+The Chairman, having noted the presence of requisite quorum, called the
+meeting to order at 3:00 PM.
+
+The Company Secretary confirmed that notice of the meeting along with the
+agenda was sent to all Directors on September 10, 2024 in compliance with
+Section 173(3) of the Companies Act, 2013.
+
+--------------------------------------------------------------------------------
+ITEM NO. 1: CONFIRMATION OF MINUTES
+--------------------------------------------------------------------------------
+
+The Minutes of the 77th Board Meeting held on July 20, 2024 were presented
+for confirmation.
+
+RESOLVED THAT the Minutes of the 77th Board Meeting held on July 20, 2024
+as circulated to the Directors be and are hereby confirmed and approved.
+
+The Chairman signed the Minutes.
+
+--------------------------------------------------------------------------------
+ITEM NO. 2: REVIEW OF PREVIOUS ACTION ITEMS
+--------------------------------------------------------------------------------
+
+The Company Secretary presented the status of action items from the previous
+meeting:
+
+1. Enhancement of collections system       - Completed
+2. Submission of compliance certificate    - Completed
+3. Review of IT infrastructure            - In progress (85% complete)
+4. Update of credit policy                - Completed
+
+The Board noted the status.
+
+--------------------------------------------------------------------------------
+ITEM NO. 3: REVIEW OF FINANCIAL PERFORMANCE - Q2 FY 2024-25
+--------------------------------------------------------------------------------
+
+The CFO presented the unaudited financial results for Q2 FY 2024-25 (July-
+September 2024):
+
+Key Highlights:
+- Total AUM: Rs. 428 Crores (Growth: 9.2% YoY)
+- Net Interest Income: Rs. 8.2 Crores
+- Profit After Tax: Rs. 4.8 Crores
+- Net Interest Margin: 7.2%
+- Cost to Income Ratio: 42%
+- Gross NPA: 9.3%
+- Net NPA: 5.1%
+- CRAR: 18.2%
+
+Discussion: Ms. Meera Krishnan raised concerns about the NPA levels being
+higher than peer average of 6-7%. The management explained the initiatives
+being taken to improve collections and the expected improvement in coming
+quarters.
+
+RESOLVED THAT the unaudited financial results for Q2 FY 2024-25 be and are
+hereby approved and taken on record.
+
+FURTHER RESOLVED THAT the same be published and filed with stock exchanges
+where NCDs of the Company are listed.
+
+--------------------------------------------------------------------------------
+ITEM NO. 4: REVIEW OF RBI COMPLIANCE
+--------------------------------------------------------------------------------
+
+The Chief Compliance Officer presented the quarterly RBI compliance report:
+
+1. Capital Adequacy:
+   - CRAR: 18.2% (Requirement: 15%) - Compliant
+   - Tier I: 13.8% (Requirement: 10%) - Compliant
+   - NOF: Rs. 142 Crores (Requirement: Rs. 2 Cr) - Compliant
+
+2. Prudential Norms:
+   - Single Borrower Limit: 22.5% (Limit: 25%) - Compliant
+   - Asset Classification done as per IRACP norms - Compliant
+   - Provisioning: Rs. 27 Crores maintained
+
+3. Returns Filed:
+   - NBS-7 for Q1 FY 2024-25: Filed on July 15, 2024
+   - ALM Returns: Filed monthly
+   - All returns filed within timelines
+
+4. Pending RBI Observations:
+   - 2 observations from June 2023 inspection under monitoring
+   - Expected closure by December 2024
+
+RESOLVED THAT the RBI Compliance Report for Q2 FY 2024-25 be and is hereby
+noted and approved.
+
+FURTHER RESOLVED THAT the Chief Compliance Officer be authorized to continue
+monitoring compliance and report any deviations immediately to the Board.
+
+--------------------------------------------------------------------------------
+ITEM NO. 5: REVIEW OF RISK MANAGEMENT
+--------------------------------------------------------------------------------
+
+The Chief Risk Officer presented the quarterly risk report:
+
+1. Credit Risk:
+   - Portfolio at Risk (PAR 90+): 9.3%
+   - Concentration Risk: Top 20 exposures = 28% of portfolio
+   - Geographic concentration: Maharashtra 38% (monitoring required)
+
+2. Liquidity Risk:
+   - LCR: 152% (comfortable)
+   - No ALM mismatches in critical buckets
+   - Unutilized bank lines: Rs. 45 Crores
+
+3. Operational Risk:
+   - 3 operational risk incidents in Q2 (all resolved)
+   - No material fraud detected
+   - Collections system enhancement 85% complete
+
+4. Cyber Security:
+   - 2 minor incidents detected and resolved
+   - No data breach
+   - Penetration testing completed - all vulnerabilities addressed
+
+RESOLVED THAT the Risk Management Report for Q2 FY 2024-25 be and is hereby
+noted and approved.
+
+Mr. Suresh Iyer recommended increasing monitoring of geographic concentration.
+Management agreed to present a diversification plan at the next meeting.
+
+ACTION: Management to present geographic diversification plan at next meeting.
+
+--------------------------------------------------------------------------------
+ITEM NO. 6: APPROVAL OF STATUTORY AUDITORS' LIMITED REVIEW REPORT
+--------------------------------------------------------------------------------
+
+The Partner from ABC & Associates presented the Limited Review Report on
+Q2 FY 2024-25 results.
+
+The report contained no qualifications or adverse comments.
+
+RESOLVED THAT the Limited Review Report issued by M/s ABC & Associates,
+Chartered Accountants, on the unaudited financial results for Q2 FY 2024-25
+be and is hereby noted and approved.
+
+--------------------------------------------------------------------------------
+ITEM NO. 7: REVIEW OF NPA MANAGEMENT AND COLLECTIONS
+--------------------------------------------------------------------------------
+
+The Head of Collections presented the NPA position and recovery initiatives:
+
+1. Current NPA Position:
+   - Gross NPA: Rs. 40 Crores (9.3%)
+   - Net NPA: Rs. 22 Crores (5.1%)
+   - Provisioning Coverage: 68%
+
+2. Movement During Q2:
+   - Opening Gross NPA: Rs. 38 Crores
+   - Fresh Slippages: Rs. 8 Crores
+   - Recoveries/Upgrades: Rs. 4 Crores
+   - Write-offs: Rs. 2 Crores
+   - Closing Gross NPA: Rs. 40 Crores
+
+3. Recovery Initiatives:
+   - Enhanced field collection team by 15 members
+   - Implemented AI-based early warning system
+   - 47 legal cases filed, expected recovery Rs. 9 Crores
+   - OTS approved for 12 accounts worth Rs. 3 Crores
+
+4. Target: Reduce Gross NPA to 8% by March 2025
+
+RESOLVED THAT the NPA Management Report be noted and the initiatives taken
+by management be approved.
+
+FURTHER RESOLVED THAT the OTS proposals approved by the Loan Recovery
+Committee be ratified.
+
+--------------------------------------------------------------------------------
+ITEM NO. 8: ANNUAL REVIEW OF CREDIT RATING
+--------------------------------------------------------------------------------
+
+The representative from CRISIL presented the annual credit rating review:
+
+Current Ratings:
+- Long-term: CRISIL A- / Stable
+- Short-term: CRISIL A2+ (for Commercial Paper)
+
+Key Strengths:
+- Adequate capital position with CRAR of 18.2%
+- Comfortable liquidity with LCR of 152%
+- Diversified funding profile
+- Experienced management team
+
+Key Concerns:
+- Higher than peer NPA levels
+- Geographic concentration in Maharashtra
+- Competitive pressure on margins
+
+Rating Outlook: Stable
+
+The rating will be reviewed again in September 2025.
+
+RESOLVED THAT the CRISIL Rating Review be noted and management be directed
+to address the concerns raised by the rating agency.
+
+--------------------------------------------------------------------------------
+ITEM NO. 9: APPROVAL OF BORROWING PROPOSAL
+--------------------------------------------------------------------------------
+
+The CFO presented a proposal for additional borrowing to support growth:
+
+Proposal: Term Loan of Rs. 50 Crores from State Bank of India
+Tenure: 3 years
+Interest Rate: MCLR + 150 bps (currently 9.50%)
+Security: First pari passu charge on loan receivables
+Purpose: To fund AUM growth in FY 2024-25
+
+Post-borrowing, total borrowings will be Rs. 345 Crores, within sanctioned
+limits and maintaining Debt/Equity ratio below 3x.
+
+RESOLVED THAT approval be and is hereby accorded for availing term loan
+facility of Rs. 50 Crores from State Bank of India on terms as presented.
+
+FURTHER RESOLVED THAT Mr. Rajesh Kumar Mehta, Managing Director, and
+Mr. Vikram Joshi, CFO, be and are hereby authorized to negotiate and
+finalize the terms, execute loan agreements and related documents, create
+security, and do all acts necessary for availing the said facility.
+
+--------------------------------------------------------------------------------
+ITEM NO. 10: APPROVAL OF RELATED PARTY TRANSACTIONS
+--------------------------------------------------------------------------------
+
+The Company Secretary presented related party transactions for Q2 FY 2024-25:
+
+Transaction: Office rent paid to Mehta Properties LLP (Promoter Group entity)
+Amount: Rs. 15 Lakhs per month
+Total for Q2: Rs. 45 Lakhs
+Valuation: At arms length based on independent valuation report
+Audit Committee Approval: Obtained on September 20, 2024
+
+Ms. Meera Krishnan (Chair, Audit Committee) confirmed that the transaction
+was reviewed and approved by the Audit Committee as being at arms length.
+
+RESOLVED THAT the related party transaction with Mehta Properties LLP for
+office rent amounting to Rs. 45 Lakhs for Q2 FY 2024-25 be and is hereby
+ratified.
+
+(Mr. Rajesh Kumar Mehta abstained from voting on this item being interested)
+
+--------------------------------------------------------------------------------
+ITEM NO. 11: REVIEW OF CUSTOMER COMPLAINTS AND GRIEVANCE REDRESSAL
+--------------------------------------------------------------------------------
+
+The Chief Compliance Officer presented the customer complaints report:
+
+Q2 FY 2024-25 Summary:
+- Complaints received: 28
+- Complaints resolved: 26
+- Pending: 2 (within resolution timeline)
+- Average resolution time: 12 days (Target: 15 days)
+
+Category-wise:
+- Interest calculation queries: 10
+- Prepayment/foreclosure issues: 8
+- Documentation delays: 5
+- Collection agent behavior: 3
+- Others: 2
+
+No complaints escalated to Banking Ombudsman.
+
+RESOLVED THAT the Customer Complaints Report for Q2 FY 2024-25 be noted and
+the grievance redressal mechanism be confirmed as effective.
+
+--------------------------------------------------------------------------------
+ITEM NO. 12: ANY OTHER BUSINESS
+--------------------------------------------------------------------------------
+
+12.1 UPCOMING RBI CIRCULARS
+
+The Chief Compliance Officer informed the Board about upcoming RBI circulars
+on enhanced disclosure requirements for Middle Layer NBFCs. Management will
+assess impact and present at the next meeting.
+
+12.2 BOARD CALENDAR FOR FY 2024-25
+
+The Company Secretary presented the revised Board calendar:
+- November 2024: Q3 results and review
+- January 2025: Annual business plan
+- March 2025: Q4 results and annual review
+
+The Board approved the calendar.
+
+12.3 DIRECTORS' TRAINING
+
+The Company Secretary informed that an external training program on "Recent
+Regulatory Developments for NBFCs" has been arranged for November 2024.
+All Directors are requested to participate.
+
+--------------------------------------------------------------------------------
+ITEM NO. 13: VOTE OF THANKS
+--------------------------------------------------------------------------------
+
+There being no other business, the Chairman thanked the Directors and
+invitees for their participation and valuable inputs. The meeting concluded
+at 5:30 PM.
+
+--------------------------------------------------------------------------------
+                       CONFIRMATION
+--------------------------------------------------------------------------------
+
+These Minutes are confirmed and signed at the 79th Board Meeting held on
+November 19, 2024.
+
+Sd/-                                    Sd/-
+RAJESH KUMAR MEHTA                      VIKRAM SHARMA
+Chairman                                Company Secretary
+
+================================================================================
+          MINUTES OF 77TH BOARD MEETING (SUMMARY)
+================================================================================
+
+Date: July 20, 2024
+Time: 3:00 PM to 5:00 PM
+Venue: Registered Office
+
+Key Resolutions:
+1. Approved Q1 FY 2024-25 financial results
+2. Reviewed RBI compliance - all parameters compliant
+3. Approved credit policy amendments
+4. Ratified NCD interest payments
+5. Approved appointment of Internal Auditors for FY 2024-25
+
+================================================================================
+          MINUTES OF 76TH BOARD MEETING (SUMMARY)
+================================================================================
+
+Date: May 18, 2024
+Time: 10:00 AM to 1:00 PM
+Venue: Registered Office
+
+Key Resolutions:
+1. Approved Audited Financial Statements for FY 2023-24
+2. Approved Directors' Report and annexures
+3. Recommended dividend of Rs. 1.50 per share
+4. Approved Annual Compliance Certificate to RBI
+5. Noted Secretarial Audit Report - no qualifications
+6. Fixed date of 9th AGM as September 28, 2024
+
+================================================================================
+          MINUTES OF 75TH BOARD MEETING (SUMMARY)
+================================================================================
+
+Date: March 23, 2024
+Time: 3:00 PM to 5:30 PM
+Venue: Registered Office
+
+Key Resolutions:
+1. Approved business plan for FY 2024-25
+2. Reviewed capital adequacy planning
+3. Approved annual review of policies (Credit, Risk, ALM)
+4. Approved geographic expansion to Tamil Nadu and Telangana
+5. Noted closure of 10 RBI inspection observations
+
+================================================================================
+                      CERTIFICATION
+================================================================================
+
+Certified that the above Minutes are true and correct extracts from the
+Minutes Books maintained by FinServe Capital Limited.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-
+VIKRAM SHARMA
+Company Secretary
+M.No: ACS 23456
+
+Date: November 20, 2025
+Place: Mumbai
+
+================================================================================
+                    END OF MINUTES
+================================================================================

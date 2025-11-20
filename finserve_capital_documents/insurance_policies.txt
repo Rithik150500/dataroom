@@ -1,0 +1,490 @@
+================================================================================
+                       INSURANCE POLICIES
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                    SUMMARY OF INSURANCE COVERAGE
+                      As on November 20, 2025
+
+================================================================================
+                         OVERVIEW
+================================================================================
+
+FinServe Capital Limited maintains comprehensive insurance coverage to
+protect against various risks associated with its NBFC operations. The
+insurance program is designed to meet regulatory requirements and protect
+stakeholders' interests.
+
+Total Sum Insured:              Rs. 22.50 Crores (approximately)
+Annual Premium:                 Rs. 38.50 Lakhs (approximately)
+Insurance Broker:               FinServe Insurance Broking Pvt Ltd
+                                (Promoter Group Entity)
+
+================================================================================
+        I. DIRECTORS AND OFFICERS LIABILITY INSURANCE (D&O)
+================================================================================
+
+POLICY DETAILS
+
+Insurer:                        ICICI Lombard General Insurance Co. Ltd
+Policy Number:                  3001/DO/2024/000567
+Policy Period:                  April 1, 2024 to March 31, 2025
+Sum Insured:                    Rs. 10,00,00,000 (Rupees Ten Crores Only)
+Premium:                        Rs. 12,50,000 + GST
+Deductible:                     Rs. 1,00,000 per claim
+
+--------------------------------------------------------------------------------
+
+COVERAGE
+
+This policy provides coverage to the Directors and Officers of the Company
+for claims made against them for wrongful acts committed in their capacity
+as Directors and Officers.
+
+INSURED PERSONS:
+- All past, present, and future Directors
+- All past, present, and future Officers
+- Company Secretary
+- Key Management Personnel
+
+WRONGFUL ACTS COVERED:
+- Breach of duty
+- Breach of trust
+- Neglect
+- Error
+- Misleading statement
+- Omission
+- Other act done or alleged to have been done in insured capacity
+
+COVERAGE INCLUDES:
+(a) Directors and Officers Liability
+(b) Company Reimbursement
+(c) Company Securities Liability
+(d) Employment Practices Liability
+(e) Prosecution Costs
+(f) Extradition Costs
+(g) Public Relations Expenses
+
+--------------------------------------------------------------------------------
+
+EXCLUSIONS:
+- Fraud, dishonesty, or criminal acts
+- Personal profit or advantage
+- Insured vs. Insured claims
+- Prior or pending litigation
+- Pollution liability
+- ERISA claims
+- Bodily injury or property damage
+
+--------------------------------------------------------------------------------
+
+KEY TERMS:
+- Claims-made policy (claims must be made during policy period)
+- Retroactive date: August 12, 2015 (date of incorporation)
+- Extended reporting period: 60 days (automatic), up to 3 years (optional)
+
+--------------------------------------------------------------------------------
+
+CLAIMS HISTORY:
+- FY 2024-25: No claims
+- FY 2023-24: No claims
+- FY 2022-23: 1 claim settled (Rs. 12 Lakhs) - Customer allegation against
+  officer, settled without admission of liability
+
+================================================================================
+               II. PROFESSIONAL INDEMNITY INSURANCE
+================================================================================
+
+POLICY DETAILS
+
+Insurer:                        HDFC ERGO General Insurance Co. Ltd
+Policy Number:                  2701/PI/2024/000234
+Policy Period:                  April 1, 2024 to March 31, 2025
+Sum Insured:                    Rs. 5,00,00,000 (Rupees Five Crores Only)
+Premium:                        Rs. 7,50,000 + GST
+Deductible:                     Rs. 50,000 per claim
+
+--------------------------------------------------------------------------------
+
+COVERAGE
+
+This policy provides coverage for claims arising out of any negligent act,
+error, or omission committed by the Company or its employees in providing
+professional services.
+
+PROFESSIONAL SERVICES COVERED:
+- Loan origination and disbursement
+- Credit assessment and underwriting
+- Collections and recovery
+- Advisory services (if any)
+- Any other financial services
+
+COVERAGE INCLUDES:
+(a) Civil liability for damages
+(b) Legal defense costs
+(c) Court attendance costs
+(d) Libel and slander
+(e) Loss of documents
+(f) Dishonesty of employees (sub-limit)
+
+--------------------------------------------------------------------------------
+
+EXCLUSIONS:
+- Intentional non-compliance with regulations
+- Trading losses or investment performance
+- Insolvency of Company
+- Wear and tear, gradual deterioration
+- War, terrorism, nuclear risks
+- Contractual liability (beyond standard of care)
+
+--------------------------------------------------------------------------------
+
+CLAIMS HISTORY:
+- FY 2024-25: No claims
+- FY 2023-24: No claims
+- FY 2022-23: 1 claim settled (Rs. 12 Lakhs) - Allegation of wrongful
+  recovery action, settled out of court
+
+================================================================================
+                 III. CYBER LIABILITY INSURANCE
+================================================================================
+
+POLICY DETAILS
+
+Insurer:                        Bajaj Allianz General Insurance Co. Ltd
+Policy Number:                  OG-25-2401-8801-00000567
+Policy Period:                  April 1, 2024 to March 31, 2025
+Sum Insured:                    Rs. 3,00,00,000 (Rupees Three Crores Only)
+Premium:                        Rs. 8,50,000 + GST
+Deductible:                     Rs. 1,00,000 per claim
+
+--------------------------------------------------------------------------------
+
+COVERAGE
+
+Given the digital operations and customer data handled by the Company,
+cyber insurance is critical. This policy provides coverage for:
+
+FIRST PARTY COVERAGE:
+(a) Data Breach Response Costs
+    - Forensic investigation
+    - Notification costs
+    - Credit monitoring
+    - Public relations
+    - Legal costs
+
+(b) Business Interruption
+    - Loss of income due to system failure
+    - Extra expenses
+
+(c) Cyber Extortion
+    - Ransom payments
+    - Expert consultation
+
+(d) Data Recovery
+    - Cost of restoring data
+    - Recreating data
+
+THIRD PARTY COVERAGE:
+(a) Network Security Liability
+(b) Privacy Liability
+(c) Media Liability
+(d) Regulatory Defense and Penalties
+
+--------------------------------------------------------------------------------
+
+SPECIFIC COVERAGE FOR NBFC:
+- Customer data breach (KYC, financial information)
+- Payment card data compromise
+- Unauthorized fund transfer
+- Social engineering fraud (sub-limit Rs. 50 Lakhs)
+
+--------------------------------------------------------------------------------
+
+EXCLUSIONS:
+- Prior known events
+- Intentional acts
+- Infrastructure failure (power, telecom)
+- War, terrorism
+- Patent/trade secret infringement
+
+--------------------------------------------------------------------------------
+
+CLAIMS HISTORY:
+- FY 2024-25: No claims
+- FY 2023-24: 1 incident (phishing attempt, no loss, Rs. 2 Lakhs forensic
+  cost claimed)
+- FY 2022-23: No claims
+
+================================================================================
+              IV. CRIME/FIDELITY INSURANCE
+================================================================================
+
+POLICY DETAILS
+
+Insurer:                        New India Assurance Co. Ltd
+Policy Number:                  511100/48/2024/000789
+Policy Period:                  April 1, 2024 to March 31, 2025
+Sum Insured:                    Rs. 2,00,00,000 (Rupees Two Crores Only)
+Premium:                        Rs. 4,50,000 + GST
+Deductible:                     Rs. 25,000 per claim
+
+--------------------------------------------------------------------------------
+
+COVERAGE
+
+This policy protects against losses due to dishonest or fraudulent acts by
+employees.
+
+COVERAGE INCLUDES:
+(a) Employee Dishonesty
+    - Theft, embezzlement, forgery by employees
+    - Fraudulent loans/disbursements
+    - Manipulation of records
+
+(b) Premises Coverage
+    - Theft of money and securities from premises
+
+(c) In-Transit Coverage
+    - Loss of money/securities in transit
+
+(d) Forgery or Alteration
+    - Loss due to forged instruments
+
+(e) Computer Fraud
+    - Electronic theft by employees
+
+--------------------------------------------------------------------------------
+
+EXCLUSIONS:
+- Loss discovered after termination of policy
+- Acts by directors/partners (unless colluding with employees)
+- Trading losses
+- Inventory shortage
+
+--------------------------------------------------------------------------------
+
+CLAIMS HISTORY:
+- No claims in last 3 years
+- Strong internal controls in place
+
+================================================================================
+         V. STANDARD FIRE AND SPECIAL PERILS POLICY
+================================================================================
+
+POLICY DETAILS
+
+Insurer:                        Oriental Insurance Co. Ltd
+Policy Number:                  1614003124P107895432
+Policy Period:                  April 1, 2024 to March 31, 2025
+Sum Insured:                    Rs. 1,50,00,000 (Rupees One Crore Fifty Lakhs)
+Premium:                        Rs. 2,25,000 + GST
+Deductible:                     5% of claim amount (min Rs. 10,000)
+
+--------------------------------------------------------------------------------
+
+COVERAGE
+
+Property covered:
+- Office furniture and fixtures
+- IT equipment (computers, servers, etc.)
+- Air conditioners and electrical installations
+- Records and documents
+- Stock of marketing materials
+
+Perils covered:
+- Fire and lightning
+- Explosion
+- Aircraft damage
+- Riot, strike, malicious damage
+- Storm, tempest, flood
+- Earthquake
+- Bursting of pipes
+- Theft following fire
+
+Additional covers:
+- Architects and surveyors fees
+- Debris removal
+- Start-up costs
+
+--------------------------------------------------------------------------------
+
+PROPERTY DETAILS:
+
+Location                        Sum Insured (Rs.)
+-----------------------------------------------
+Head Office, Lower Parel        80,00,000
+Branch - Thane                  20,00,000
+Branch - Pune                   20,00,000
+Branch - Bengaluru              15,00,000
+Branch - Ahmedabad              15,00,000
+-----------------------------------------------
+TOTAL                          1,50,00,000
+
+--------------------------------------------------------------------------------
+
+CLAIMS HISTORY:
+- No claims in last 3 years
+
+================================================================================
+           VI. GROUP MEDICAL INSURANCE (EMPLOYEE)
+================================================================================
+
+POLICY DETAILS
+
+Insurer:                        Star Health & Allied Insurance Co. Ltd
+Policy Number:                  P/161601/01/2024/000345
+Policy Period:                  April 1, 2024 to March 31, 2025
+Number of Employees:            186
+Sum Insured:                    Rs. 5,00,000 per family
+Premium:                        Rs. 28,00,000 (for all employees) + GST
+
+--------------------------------------------------------------------------------
+
+COVERAGE
+
+INSURED MEMBERS:
+All permanent employees and their dependents (spouse + 2 children)
+
+BENEFITS:
+(a) Hospitalization Expenses
+    - Room rent (up to Rs. 5,000/day)
+    - ICU charges
+    - Surgeon/doctor fees
+    - Medicines and consumables
+    - Pre and post hospitalization (60/90 days)
+
+(b) Day Care Procedures
+    - 540+ day care procedures covered
+
+(c) Maternity Benefits
+    - Normal delivery: Rs. 50,000
+    - Cesarean: Rs. 75,000
+    - New born cover: Rs. 50,000
+
+(d) Additional Benefits
+    - Ambulance charges
+    - Health check-up
+    - Second opinion
+
+--------------------------------------------------------------------------------
+
+EXCLUSIONS:
+- Pre-existing diseases (waiting period 2 years)
+- Cosmetic treatment
+- Dental treatment (unless due to accident)
+- Spectacles and hearing aids
+
+--------------------------------------------------------------------------------
+
+CLAIMS EXPERIENCE FY 2023-24:
+- Number of claims: 42
+- Total claims paid: Rs. 18,50,000
+- Claim ratio: 66%
+
+================================================================================
+         VII. GROUP PERSONAL ACCIDENT INSURANCE
+================================================================================
+
+POLICY DETAILS
+
+Insurer:                        United India Insurance Co. Ltd
+Policy Number:                  2407054124000567
+Policy Period:                  April 1, 2024 to March 31, 2025
+Sum Insured:                    Rs. 20,00,000 per employee
+Number of Employees:            186
+Premium:                        Rs. 1,85,000 + GST
+
+--------------------------------------------------------------------------------
+
+COVERAGE
+
+(a) Accidental Death:                   100% of SI
+(b) Permanent Total Disability:         100% of SI
+(c) Permanent Partial Disability:       As per scale
+(d) Temporary Total Disability:         1% of SI per week (max 100 weeks)
+
+SCOPE: 24 hours, worldwide coverage
+
+--------------------------------------------------------------------------------
+
+CLAIMS HISTORY:
+- FY 2023-24: 1 claim (temporary disability) - Rs. 2,00,000 paid
+
+================================================================================
+        VIII. GROUP TERM LIFE INSURANCE
+================================================================================
+
+POLICY DETAILS
+
+Insurer:                        LIC of India
+Policy Number:                  GR/2024/000123
+Policy Period:                  April 1, 2024 to March 31, 2025
+Sum Insured:                    2x Annual CTC per employee
+Number of Employees:            186
+Premium:                        Rs. 5,50,000 + GST
+
+--------------------------------------------------------------------------------
+
+COVERAGE
+
+Death benefit equal to 2 times annual CTC payable to nominee in case of
+death during employment (any cause).
+
+--------------------------------------------------------------------------------
+
+CLAIMS HISTORY:
+- No claims in last 3 years
+
+================================================================================
+                    IX. RENEWAL CALENDAR
+================================================================================
+
+Policy Type                     Renewal Date      Action Required
+--------------------------------------------------------------------------------
+D&O Liability                   March 31, 2025    Renewal quote by Feb
+Professional Indemnity          March 31, 2025    Renewal quote by Feb
+Cyber Liability                 March 31, 2025    Risk assessment
+Crime/Fidelity                  March 31, 2025    Employee count update
+Fire Policy                     March 31, 2025    Asset revaluation
+Group Medical                   March 31, 2025    Employee data update
+Group PA                        March 31, 2025    Employee data update
+Group Term Life                 March 31, 2025    CTC update
+
+================================================================================
+                    X. KEY CONTACTS
+================================================================================
+
+Insurance Broker:
+FinServe Insurance Broking Pvt Ltd
+Contact: Mr. Suresh Nair
+Phone: +91-22-4567-8910
+Email: corporate@finserveinsurance.com
+
+Company Contact:
+Administration Department
+Contact: Ms. Rekha Sharma
+Phone: +91-22-4567-8905
+Email: admin@finservecapital.com
+
+================================================================================
+                      CERTIFICATION
+================================================================================
+
+This is to certify that FinServe Capital Limited maintains insurance
+coverage as detailed above. All policies are active and premiums are paid
+up to date.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-
+VIKRAM JOSHI
+Chief Financial Officer
+
+Date: November 20, 2025
+Place: Mumbai
+
+================================================================================
+                  END OF INSURANCE POLICIES
+================================================================================

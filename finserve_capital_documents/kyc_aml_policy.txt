@@ -1,0 +1,481 @@
+================================================================================
+                KNOW YOUR CUSTOMER (KYC) AND
+            ANTI-MONEY LAUNDERING (AML) POLICY
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+           Board Approved Policy as per RBI Master Directions
+           and Prevention of Money Laundering Act, 2002 (PMLA)
+              Last Reviewed and Updated: September 24, 2024
+
+================================================================================
+                         PREAMBLE
+================================================================================
+
+This KYC/AML Policy has been framed in accordance with:
+
+1. Prevention of Money Laundering Act, 2002 (PMLA)
+2. Prevention of Money Laundering (Maintenance of Records) Rules, 2005
+3. RBI Master Direction - Know Your Customer (KYC) Direction, 2016
+4. Master Direction - Non-Banking Financial Company - Scale Based Regulation
+   Directions, 2023
+
+The policy aims to:
+- Prevent money laundering and terrorist financing
+- Ensure proper customer identification and due diligence
+- Maintain records as required by law
+- Report suspicious transactions to FIU-IND
+
+================================================================================
+               I. CUSTOMER ACCEPTANCE POLICY
+================================================================================
+
+1.1 RISK CATEGORIZATION
+
+    The Company shall categorize customers into three risk categories:
+
+    Category        Description                    Due Diligence
+    ---------------------------------------------------------------
+    LOW RISK        - Salaried individuals         Simplified
+                    - Government employees
+                    - Small business < Rs. 50 lakhs
+                    - Loans < Rs. 10 lakhs
+
+    MEDIUM RISK     - Self-employed individuals    Standard
+                    - SMEs with turnover
+                      Rs. 50 lakhs - 10 Cr
+                    - Loans Rs. 10 - 50 lakhs
+
+    HIGH RISK       - Non-residents                Enhanced
+                    - Companies with complex
+                      structures
+                    - Trusts/NGOs
+                    - Cash-intensive businesses
+                    - Politically Exposed Persons
+                    - Loans > Rs. 50 lakhs
+
+1.2 PROHIBITED CUSTOMERS
+
+    The Company shall NOT establish relationship with:
+
+    (a) Anonymous or fictitious accounts
+    (b) Persons/entities on UN/OFAC sanctions lists
+    (c) Persons on RBI's list of wilful defaulters
+    (d) Shell companies without genuine business
+    (e) Persons convicted of financial crimes
+    (f) Declared terrorists or terrorist organizations
+    (g) Persons against whom regulatory/law enforcement action is ongoing
+
+1.3 CUSTOMER IDENTIFICATION
+
+    Every customer shall be identified through valid documents and
+    verification before establishing business relationship.
+
+================================================================================
+            II. CUSTOMER DUE DILIGENCE (CDD)
+================================================================================
+
+2.1 INDIVIDUAL CUSTOMERS
+
+    Identity Documents (any one):
+    - Aadhaar Card
+    - Passport
+    - Voter's ID
+    - Driving License
+    - PAN Card
+    - NREGA Job Card
+
+    Address Documents (any one):
+    - Aadhaar Card
+    - Utility Bills (not older than 3 months)
+    - Bank Statement (not older than 3 months)
+    - Property Tax Receipt
+    - Registered Rent Agreement
+
+    Additional Requirements:
+    - Recent photograph
+    - Signature verification
+    - Contact number verification (OTP)
+    - Email verification
+
+2.2 NON-INDIVIDUAL CUSTOMERS
+
+    A. COMPANIES
+
+    - Certificate of Incorporation
+    - Memorandum and Articles of Association
+    - PAN Card
+    - Board Resolution for borrowing
+    - List of Directors with KYC
+    - Ultimate Beneficial Owners (UBO) with >10% holding
+    - Latest audited financials
+    - GST Registration
+
+    B. PARTNERSHIP FIRMS
+
+    - Partnership Deed
+    - PAN of firm
+    - KYC of all partners
+    - Letter of authority
+
+    C. LLPs
+
+    - Certificate of Incorporation
+    - LLP Agreement
+    - PAN
+    - KYC of all Designated Partners
+
+    D. TRUSTS/NGOs
+
+    - Trust Deed/Registration Certificate
+    - PAN
+    - KYC of all trustees
+    - List of beneficiaries (if determinable)
+
+2.3 ENHANCED DUE DILIGENCE (EDD)
+
+    For high-risk customers, additional measures include:
+
+    (a) Senior management approval for relationship
+    (b) Source of funds verification
+    (c) Purpose of transaction
+    (d) More frequent KYC updates (annual)
+    (e) Enhanced transaction monitoring
+    (f) Site visits
+
+2.4 POLITICALLY EXPOSED PERSONS (PEPs)
+
+    Definition: Individuals entrusted with prominent public functions by a
+    foreign country, including Heads of State, senior politicians, senior
+    government officials, judicial or military officials, senior executives
+    of state-owned corporations.
+
+    EDD Measures for PEPs:
+    - Senior management approval
+    - Source of wealth and funds
+    - Enhanced ongoing monitoring
+    - Annual review
+    - Additional background checks
+
+2.5 ULTIMATE BENEFICIAL OWNER (UBO)
+
+    The Company shall identify UBOs as:
+    - Natural person(s) who ultimately own/control > 10% of shares/capital
+    - Natural person who exercises control through other means
+    - If no natural person identified, the senior managing official
+
+================================================================================
+                III. KYC VERIFICATION
+================================================================================
+
+3.1 VERIFICATION METHODS
+
+    (a) OVD (Officially Valid Documents) verification
+    (b) C-KYC (Central KYC Registry) search
+    (c) CERSAI search
+    (d) Video KYC (V-KYC) for digital onboarding
+    (e) In-person verification for high-risk
+
+3.2 C-KYC COMPLIANCE
+
+    The Company shall:
+    (a) Search C-KYC registry before customer onboarding
+    (b) Download KYC if available, after customer consent
+    (c) Upload KYC records to C-KYC within 10 days of account opening
+    (d) Update C-KYC for any changes in customer information
+
+3.3 VIDEO KYC (V-KYC)
+
+    For digital onboarding, V-KYC shall be conducted as per RBI guidelines:
+
+    (a) Seamless and real-time audio-video interaction
+    (b) Customer to display OVD and PAN during video
+    (c) Live photograph capture
+    (d) Geo-tagging
+    (e) Auditor official to verify documents in real-time
+    (f) Recording of entire V-KYC process
+    (g) Concurrent audit of V-KYC accounts
+
+================================================================================
+             IV. ONGOING CUSTOMER DUE DILIGENCE
+================================================================================
+
+4.1 KYC UPDATE FREQUENCY
+
+    Risk Category           Update Frequency
+    ----------------------------------------
+    High Risk               Every 2 years
+    Medium Risk             Every 8 years
+    Low Risk                Every 10 years
+
+4.2 TRANSACTION MONITORING
+
+    The Company shall monitor customer transactions on an ongoing basis to:
+    - Ensure consistency with customer profile
+    - Detect unusual or suspicious patterns
+    - Update risk categorization
+
+4.3 TRIGGER-BASED REVIEW
+
+    KYC review shall be triggered by:
+    - Material change in customer profile
+    - Large value transactions inconsistent with profile
+    - Regulatory/law enforcement inquiry
+    - Adverse media reports
+    - Sanction list updates
+
+================================================================================
+             V. RECORD KEEPING REQUIREMENTS
+================================================================================
+
+5.1 RECORDS TO BE MAINTAINED
+
+    (a) All KYC documents and identification records
+    (b) Transaction records including:
+        - Date of transaction
+        - Nature and value of transaction
+        - Parties involved
+    (c) Correspondence relating to transactions
+    (d) Results of any analysis undertaken
+
+5.2 RETENTION PERIOD
+
+    Records shall be maintained for:
+    - During currency of account/relationship
+    - 5 years after account closure/transaction completion
+
+5.3 RETRIEVAL OF RECORDS
+
+    Records shall be made available to competent authorities within
+    specified timelines (generally 3 days).
+
+================================================================================
+           VI. SUSPICIOUS TRANSACTION REPORTING
+================================================================================
+
+6.1 DEFINITION OF SUSPICIOUS TRANSACTION
+
+    A transaction where there is reasonable ground to suspect that:
+    - It involves proceeds of an offence
+    - It is attempted to evade legal requirements
+    - It is designed to avoid reporting threshold
+    - It is connected to terrorist financing
+
+6.2 RED FLAGS
+
+    The following shall be treated as red flags:
+
+    IDENTITY-RELATED:
+    - Reluctance to provide information
+    - Inconsistent documents
+    - Multiple addresses
+    - Frequent change in KYC details
+
+    TRANSACTION-RELATED:
+    - Cash transactions near reporting threshold
+    - Rapid movement of funds without business rationale
+    - Transactions with sanctioned countries
+    - Repayment from unknown sources
+    - Request for early closure without logical reason
+
+    BUSINESS-RELATED:
+    - Business inconsistent with stated profile
+    - Unusual cash-intensive operations
+    - Sudden increase in business activity
+    - Complex structures without clear purpose
+
+6.3 REPORTING TO FIU-IND
+
+    The Company shall report to Financial Intelligence Unit - India (FIU-IND):
+
+    Report Type              Threshold/Condition           Timeline
+    ----------------------------------------------------------------
+    Cash Transaction         All cash transactions        Within 15
+    Report (CTR)             > Rs. 10 lakhs per month     days of
+                                                          month end
+
+    Suspicious               Any suspicious transaction   Within 7 days
+    Transaction              regardless of amount         of detection
+    Report (STR)
+
+    Non-Profit               Transactions with NPOs       Within 15
+    Organization Report      > Rs. 10 lakhs               days
+
+    Cross Border Wire        Wire transfers > Rs. 5       Within 15
+    Transfer Report          lakhs (individual) or        days of
+                             Rs. 25 lakhs (others)        month end
+
+6.4 CONFIDENTIALITY OF STR
+
+    - STR filing shall be kept strictly confidential
+    - No employee shall disclose STR to customer (tipping-off prohibited)
+    - STR to be filed even if no transaction done (attempted transaction)
+
+================================================================================
+                VII. GOVERNANCE STRUCTURE
+================================================================================
+
+7.1 PRINCIPAL OFFICER
+
+    Name:           Mr. Sanjay Kulkarni
+    Designation:    Head - Customer Service
+    Address:        Unit 501-502, Peninsula Business Park,
+                    Lower Parel, Mumbai - 400013
+    Phone:          +91-22-4567-8902
+    Email:          principalofficer@finservecapital.com
+
+    Responsibilities:
+    - Filing of CTR, STR and other reports with FIU-IND
+    - Liaison with enforcement agencies
+    - Maintenance of records
+    - Implementation of KYC/AML policy
+
+7.2 DESIGNATED DIRECTOR
+
+    Name:           Mr. Rajesh Kumar Mehta (Managing Director)
+
+    Responsibilities:
+    - Overall oversight of KYC/AML compliance
+    - Ensuring adequacy of resources
+    - Board reporting on AML matters
+
+7.3 AML REVIEW COMMITTEE
+
+    Composition:
+    - Chief Compliance Officer (Chairman)
+    - Principal Officer
+    - Head - Credit
+    - Head - Operations
+
+    Responsibilities:
+    - Review of suspicious transactions
+    - Decision on STR filing
+    - Policy implementation review
+    - Training oversight
+
+================================================================================
+               VIII. EMPLOYEE TRAINING
+================================================================================
+
+8.1 TRAINING REQUIREMENTS
+
+    Category                Training Frequency
+    ------------------------------------------
+    All new employees       Within 30 days of joining
+    Customer-facing staff   Annual refresher
+    Principal Officer       Annual specialized training
+    Senior management       Annual awareness
+
+8.2 TRAINING CONTENT
+
+    - Legal framework (PMLA, RBI guidelines)
+    - Customer due diligence procedures
+    - Transaction monitoring
+    - Red flags and suspicious patterns
+    - STR filing process
+    - Consequences of non-compliance
+
+8.3 TRAINING RECORDS
+
+    Records of all training shall be maintained for 5 years including:
+    - Training date and content
+    - Participants list
+    - Assessment results
+
+================================================================================
+              IX. PENALTIES FOR NON-COMPLIANCE
+================================================================================
+
+9.1 REGULATORY PENALTIES
+
+    - Monetary penalty up to Rs. 10,000 per day of default under PMLA
+    - Cancellation of RBI CoR for repeated violations
+    - Prosecution under PMLA
+
+9.2 INTERNAL PENALTIES
+
+    Employees violating this policy shall be subject to:
+    - Warning
+    - Suspension
+    - Termination
+    - Recovery of losses
+
+================================================================================
+                   X. AUDIT AND REVIEW
+================================================================================
+
+10.1 INTERNAL AUDIT
+
+    - Annual audit of KYC/AML compliance
+    - Sample verification of KYC documents
+    - Testing of transaction monitoring systems
+    - Review of STR filing process
+
+10.2 CONCURRENT AUDIT
+
+    - For digital onboarding (V-KYC)
+    - Random selection of accounts
+    - Real-time feedback
+
+10.3 INDEPENDENT AML AUDIT
+
+    - Annual audit by external auditor
+    - Assessment of policy adequacy
+    - Gap analysis and recommendations
+
+================================================================================
+                  XI. POLICY COMPLIANCE
+================================================================================
+
+11.1 COMPLIANCE CERTIFICATE
+
+    The Principal Officer shall submit quarterly compliance certificate
+    to the Board confirming:
+    - Timely filing of all reports with FIU-IND
+    - Maintenance of required records
+    - No regulatory observations pending
+    - Training completed as scheduled
+
+11.2 BOARD REPORTING
+
+    Quarterly report to Board/Audit Committee on:
+    - Number of CTRs/STRs filed
+    - High-risk customer statistics
+    - Regulatory updates
+    - Training status
+    - Audit observations
+
+================================================================================
+                   XII. CONTACT DETAILS
+================================================================================
+
+Financial Intelligence Unit - India (FIU-IND)
+Director
+Financial Intelligence Unit-India
+6th Floor, Hotel Samrat
+Kautilya Marg, Chanakyapuri
+New Delhi - 110021
+Website: https://fiuindia.gov.in
+
+================================================================================
+                     BOARD APPROVAL
+================================================================================
+
+This KYC/AML Policy was approved by the Board of Directors at its 78th
+Meeting held on September 24, 2024.
+
+Resolution No: FSCL/BM/78/2024/17
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-                                    Sd/-
+RAJESH KUMAR MEHTA                      KAVITA MENON
+Managing Director                       Chief Compliance Officer
+
+Date: September 24, 2024
+Place: Mumbai
+
+================================================================================
+                    END OF KYC/AML POLICY
+================================================================================

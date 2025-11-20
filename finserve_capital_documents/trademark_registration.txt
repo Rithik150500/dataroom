@@ -1,0 +1,369 @@
+================================================================================
+                    TRADEMARK REGISTRATION
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                    INTELLECTUAL PROPERTY PORTFOLIO
+                      As on November 20, 2025
+
+================================================================================
+                         OVERVIEW
+================================================================================
+
+As a Non-Banking Financial Company, FinServe Capital Limited has limited
+but important intellectual property assets primarily comprising:
+
+1. Registered Trademarks (Brand names and logos)
+2. Proprietary Credit Scoring Models (Trade Secrets)
+3. Domain Names
+4. Copyrights (Software, documentation)
+
+================================================================================
+               I. REGISTERED TRADEMARKS
+================================================================================
+
+TRADEMARK 1: WORD MARK - "FINSERVE CAPITAL"
+
+--------------------------------------------------------------------------------
+                    TRADE MARK REGISTRATION
+                      GOVERNMENT OF INDIA
+              Office of the Controller General of Patents,
+                   Designs and Trade Marks
+--------------------------------------------------------------------------------
+
+Registration Number:        3456789
+Application Number:         3456789
+Class:                      36 (Financial Services)
+Filing Date:                October 15, 2015
+Registration Date:          December 20, 2017
+Valid Till:                 October 14, 2025 (Renewal Pending)
+
+Mark:                       FINSERVE CAPITAL
+                            (Word Mark)
+
+Applicant/Proprietor:       FinServe Capital Limited
+                            Unit 501-502, 5th Floor,
+                            Peninsula Business Park,
+                            Lower Parel, Mumbai - 400013
+
+Goods/Services Description:
+Financial services; Banking services; Lending services; Hire purchase
+financing; Leasing; Financial consultancy; Financial management; Fund
+investments; Financial analysis; Financial information services; Issue of
+tokens of value; Financial sponsorship; Financial evaluation; Loans against
+security; Financing services; Credit services.
+
+Attorney:                   M/s IP Associates
+                            23, Maker Chambers, Nariman Point
+                            Mumbai - 400021
+
+Status:                     REGISTERED
+                            (Renewal application filed September 2025)
+
+--------------------------------------------------------------------------------
+
+TRADEMARK 2: DEVICE MARK - LOGO
+
+--------------------------------------------------------------------------------
+
+Registration Number:        3456790
+Application Number:         3456790
+Class:                      36 (Financial Services)
+Filing Date:                October 15, 2015
+Registration Date:          December 20, 2017
+Valid Till:                 October 14, 2025 (Renewal Pending)
+
+Mark:                       [LOGO]
+                            (Device Mark - Stylized "F" with arrow)
+
+Applicant/Proprietor:       FinServe Capital Limited
+
+Colors Claimed:             Blue (Pantone 286 C), Orange (Pantone 165 C)
+
+Goods/Services:             Same as Trademark 1
+
+Status:                     REGISTERED
+
+--------------------------------------------------------------------------------
+
+TRADEMARK 3: TAGLINE
+
+--------------------------------------------------------------------------------
+
+Registration Number:        4567890
+Application Number:         4567890
+Class:                      36 (Financial Services)
+Filing Date:                March 10, 2020
+Registration Date:          August 15, 2022
+Valid Till:                 March 9, 2030
+
+Mark:                       "EMPOWERING BUSINESS GROWTH"
+                            (Word Mark - Tagline)
+
+Applicant/Proprietor:       FinServe Capital Limited
+
+Goods/Services:             Same as Trademark 1
+
+Status:                     REGISTERED
+
+================================================================================
+                  II. TRADEMARK CERTIFICATES
+================================================================================
+
+                         CERTIFICATE
+
+THIS IS TO CERTIFY that the Trade Mark shown herein has been duly registered
+in the name of:
+
+FINSERVE CAPITAL LIMITED
+
+For the Goods/Services in Class 36
+
+Registration No: 3456789
+Date of Registration: December 20, 2017
+Valid for 10 years from: October 15, 2015
+Renewable on or before: October 14, 2025
+
+Given under my hand and seal at the Trade Marks Registry, Mumbai on this
+20th day of December, 2017.
+
+                                        Sd/-
+                                        Registrar of Trade Marks
+
+================================================================================
+               III. TRADEMARK PORTFOLIO SUMMARY
+================================================================================
+
+Mark              Regn No.    Class   Status       Valid Till    Renewal
+--------------------------------------------------------------------------------
+FINSERVE CAPITAL  3456789     36      Registered   14-Oct-25     Filed
+Logo Device       3456790     36      Registered   14-Oct-25     Filed
+Tagline           4567890     36      Registered   09-Mar-30     -
+
+================================================================================
+          IV. PROPRIETARY CREDIT SCORING MODELS
+================================================================================
+
+The Company has developed proprietary credit scoring models which are
+maintained as Trade Secrets.
+
+MODEL 1: "FinScore SME" - SME Credit Scoring Model
+
+Description:    Machine learning based credit scoring model for SME borrowers
+Developed:      2018, enhanced in 2021
+Key Features:   - Incorporates 150+ variables
+                - Bureau data + financial data + behavioral data
+                - Industry-specific risk factors
+                - Geographic risk adjustments
+
+Protection:     Maintained as Trade Secret
+Access:         Restricted to Credit team only
+NDA:            All employees with access have signed NDAs
+
+MODEL 2: "FinScore Auto" - Vehicle Finance Scoring Model
+
+Description:    Credit scoring model for vehicle finance
+Developed:      2019
+Key Features:   - Asset quality assessment
+                - Borrower creditworthiness
+                - Loan-to-value optimization
+
+Protection:     Maintained as Trade Secret
+
+MODEL 3: Early Warning System (EWS)
+
+Description:    AI-based early warning system for NPAs
+Developed:      2023
+Key Features:   - Predictive analytics for defaults
+                - Behavioral pattern recognition
+                - 60-day advance warning
+
+Protection:     Maintained as Trade Secret
+
+--------------------------------------------------------------------------------
+
+TRADE SECRET PROTECTION MEASURES:
+
+1. Access Controls:
+   - Role-based access to model documentation
+   - Source code in secure repository
+   - Multi-factor authentication
+
+2. Legal Protection:
+   - Employee NDAs
+   - Confidentiality clauses in employment agreements
+   - Non-compete clauses (to extent enforceable)
+
+3. Physical Security:
+   - Secure server rooms
+   - No USB access on development machines
+   - CCTV monitoring
+
+4. Documentation:
+   - Detailed documentation of development
+   - Timestamped evidence of creation
+   - Inventor/developer records
+
+================================================================================
+                    V. DOMAIN NAMES
+================================================================================
+
+Domain Name              Registrar           Expiry Date    Status
+--------------------------------------------------------------------------------
+finservecapital.com      GoDaddy             Dec 31, 2026   Active
+finservecapital.in       GoDaddy             Dec 31, 2026   Active
+finservecapital.co.in    GoDaddy             Dec 31, 2026   Active
+finservecap.com          GoDaddy             Dec 31, 2025   Active
+fscl.in                  GoDaddy             Dec 31, 2025   Active
+
+All domains are registered in the name of FinServe Capital Limited.
+Domain privacy protection is enabled.
+Auto-renewal is enabled.
+
+================================================================================
+                    VI. COPYRIGHTS
+================================================================================
+
+The Company owns copyrights in:
+
+1. SOFTWARE:
+   - Loan Management System (developed in-house)
+   - Customer onboarding portal
+   - Mobile application
+   - Credit scoring algorithms
+
+2. DOCUMENTATION:
+   - Policy documents
+   - Training materials
+   - Marketing collaterals
+
+3. WEBSITE CONTENT:
+   - Website design and content
+   - Graphics and images
+
+Note: Copyrights arise automatically upon creation and do not require
+registration in India. However, registration provides evidentiary value.
+
+--------------------------------------------------------------------------------
+
+Copyright Registration (Optional):
+
+Title:                  FinServe Loan Management System
+Registration No:        SW-12345/2020
+Category:               Computer Software
+Date of Registration:   June 15, 2020
+Author:                 FinServe Capital Limited (work for hire)
+
+================================================================================
+              VII. BRAND USAGE GUIDELINES
+================================================================================
+
+The Company has established brand usage guidelines to ensure consistent and
+proper use of its trademarks:
+
+1. LOGO USAGE:
+   - Minimum size requirements
+   - Clear space requirements
+   - Approved color variations
+   - Prohibited modifications
+
+2. CO-BRANDING:
+   - Prior approval required
+   - Written license agreement
+   - Quality control requirements
+
+3. THIRD-PARTY USE:
+   - Only with written permission
+   - Must comply with guidelines
+   - Subject to termination for misuse
+
+4. EMPLOYEE USE:
+   - Use only approved materials
+   - No modification without approval
+   - Report unauthorized use
+
+================================================================================
+          VIII. IP PROTECTION AND ENFORCEMENT
+================================================================================
+
+1. MONITORING:
+   - Trademark watch services subscribed
+   - Periodic internet searches
+   - Domain monitoring
+
+2. ENFORCEMENT ACTIONS:
+   - Cease and desist letters for infringement
+   - Opposition to conflicting trademark applications
+   - Legal action if necessary
+
+3. HISTORY:
+   - 2 cease and desist letters issued
+   - 1 trademark opposition filed (successfully concluded)
+   - No litigation ongoing
+
+================================================================================
+                   IX. IP DUE DILIGENCE SUMMARY
+================================================================================
+
+For PE investors evaluating FinServe Capital Limited:
+
+TRADEMARKS:
+✅ "FINSERVE CAPITAL" word mark registered
+✅ Logo device mark registered
+✅ Tagline registered
+✅ No oppositions or cancellation proceedings
+⚠️ Renewal pending for 2 marks (applications filed)
+
+TRADE SECRETS:
+✅ Credit scoring models developed in-house
+✅ Proper protection measures in place
+✅ Employee NDAs executed
+✅ Access controls implemented
+
+DOMAIN NAMES:
+✅ Key domains secured
+✅ No disputes or UDRP proceedings
+
+THIRD-PARTY IP:
+✅ Software licenses properly obtained
+✅ No IP-related litigation
+✅ No claims of infringement
+
+OVERALL IP RISK: LOW
+
+================================================================================
+                    X. KEY CONTACTS
+================================================================================
+
+IP Counsel:
+M/s IP Associates
+Partner: Ms. Neha Gupta
+Phone: +91-22-2288-9900
+Email: neha@ipassociates.in
+
+Company Contact:
+Legal Department
+Contact: Company Secretary
+Phone: +91-22-4567-8903
+Email: legal@finservecapital.com
+
+================================================================================
+                      CERTIFICATION
+================================================================================
+
+This is to certify that the above intellectual property portfolio is
+complete and accurate to the best of knowledge of the Company.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-
+VIKRAM SHARMA
+Company Secretary
+
+Date: November 20, 2025
+Place: Mumbai
+
+================================================================================
+                END OF TRADEMARK REGISTRATION
+================================================================================
