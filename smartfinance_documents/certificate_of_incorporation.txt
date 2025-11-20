@@ -1,0 +1,144 @@
+================================================================================
+                    CERTIFICATE OF INCORPORATION
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+
+          [Pursuant to Section 7(2) of the Companies Act, 2013]
+================================================================================
+
+                    MINISTRY OF CORPORATE AFFAIRS
+                   REGISTRAR OF COMPANIES, MUMBAI
+                         MAHARASHTRA
+
+--------------------------------------------------------------------------------
+
+I hereby certify that SMARTFINANCE INDIA LIMITED is this day incorporated
+under the Companies Act, 2013 (18 of 2013) and that the Company is limited
+by shares.
+
+================================================================================
+                         COMPANY DETAILS
+================================================================================
+
+Corporate Identity Number (CIN)    : U65929MH2020PLC345678
+
+Company Name                       : SMARTFINANCE INDIA LIMITED
+
+Date of Incorporation              : 10th June 2020
+
+Category of Company                : Company limited by shares
+
+Class of Company                   : Public Company
+
+Sub-category                       : Non-govt company
+
+Registered Office State            : Maharashtra
+
+Registered Office Address          : 15th Floor, Tower B, One BKC,
+                                     Bandra Kurla Complex,
+                                     Mumbai - 400051
+                                     Maharashtra, India
+
+Email ID                           : legal@smartfinance.in
+
+--------------------------------------------------------------------------------
+                      AUTHORIZED CAPITAL DETAILS
+--------------------------------------------------------------------------------
+
+| Sr. | Type of Shares      | No. of Shares | Nominal Value | Total Amount  |
+|-----|---------------------|---------------|---------------|---------------|
+| 1.  | Equity Shares       | 50,00,000     | ₹10/-         | ₹5,00,00,000  |
+| 2.  | Preference Shares   | 10,00,000     | ₹100/-        | ₹10,00,00,000 |
+|-----|---------------------|---------------|---------------|---------------|
+|     | TOTAL AUTHORIZED    |               |               | ₹15,00,00,000 |
+--------------------------------------------------------------------------------
+
+================================================================================
+                      INITIAL SUBSCRIBERS
+================================================================================
+
+| Sr. | Name                    | No. of Shares | Class   | Amount (₹)   |
+|-----|-------------------------|---------------|---------|--------------|
+| 1.  | Vikram Mehta            | 5,00,000      | Equity  | 50,00,000    |
+| 2.  | Anjali Deshmukh         | 3,00,000      | Equity  | 30,00,000    |
+| 3.  | Rohan Kapoor            | 2,00,000      | Equity  | 20,00,000    |
+|-----|-------------------------|---------------|---------|--------------|
+|     | TOTAL                   | 10,00,000     |         | 1,00,00,000  |
+--------------------------------------------------------------------------------
+
+================================================================================
+                      FIRST DIRECTORS
+================================================================================
+
+| Sr. | DIN        | Name              | Designation        | Date         |
+|-----|------------|-------------------|--------------------|--------------|
+| 1.  | 08765432   | Vikram Mehta      | Managing Director  | 10-Jun-2020  |
+| 2.  | 08765433   | Anjali Deshmukh   | Whole-time Director| 10-Jun-2020  |
+| 3.  | 08765434   | Rohan Kapoor      | Director           | 10-Jun-2020  |
+--------------------------------------------------------------------------------
+
+================================================================================
+                         CERTIFICATION
+================================================================================
+
+Given under my hand at Mumbai this Tenth day of June Two Thousand and Twenty.
+
+
+                                        Sd/-
+                                        ___________________________
+                                        REGISTRAR OF COMPANIES
+                                        MUMBAI, MAHARASHTRA
+
+                                        Digital Signature Certificate
+                                        Issuer: (n)Code Solutions CA
+                                        Serial No.: 2F8A9B3C4D5E6F7890
+                                        Valid From: 01-Jan-2020
+                                        Valid To: 31-Dec-2025
+
+================================================================================
+                    VERIFICATION OF DIGITAL SIGNATURE
+================================================================================
+
+This certificate has been digitally signed by the Registrar of Companies,
+Mumbai and can be verified at:
+
+https://www.mca.gov.in/mcafoportal/verifyECertificate.do
+
+Certificate Verification Code: MH2020PLC345678-COI-100620
+
+================================================================================
+                         IMPORTANT NOTES
+================================================================================
+
+1. This certificate is issued pursuant to Section 7(2) of the Companies Act,
+   2013 and Rule 18 of the Companies (Incorporation) Rules, 2014.
+
+2. The Company is required to commence business within one year from the date
+   of incorporation.
+
+3. The Company shall file a declaration in Form INC-20A within 180 days of
+   incorporation.
+
+4. Any person aggrieved by this certificate may apply to the National Company
+   Law Tribunal within 2 years from the date of issue.
+
+5. The Company is required to obtain necessary registrations/licenses as
+   applicable for its business activities.
+
+================================================================================
+                    RBI REGISTRATION REQUIREMENT
+================================================================================
+
+Note: As this Company intends to carry on the business of a Non-Banking
+Financial Company (NBFC), it is required to obtain Certificate of Registration
+from the Reserve Bank of India under Section 45-IA of the Reserve Bank of
+India Act, 1934, before commencing business.
+
+RBI Registration obtained on: 15th September 2020
+RBI Registration Number: N-13.02216
+
+================================================================================
+
+                         END OF CERTIFICATE
+
+================================================================================

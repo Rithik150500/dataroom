@@ -1,0 +1,279 @@
+================================================================================
+                    BOARD MEETING MINUTES
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+
+          [Maintained pursuant to Section 118 of Companies Act, 2013]
+================================================================================
+
+================================================================================
+              MINUTES OF THE 18TH MEETING OF BOARD OF DIRECTORS
+              HELD ON OCTOBER 15, 2024 AT 3:00 PM IST
+================================================================================
+
+VENUE:        Board Room, 15th Floor, Tower B, One BKC,
+              Bandra Kurla Complex, Mumbai - 400051
+              and via Video Conference
+
+--------------------------------------------------------------------------------
+                         ATTENDANCE
+--------------------------------------------------------------------------------
+
+DIRECTORS PRESENT:
+
+| Name                | Designation                  | Mode        |
+|---------------------|------------------------------|-------------|
+| Mr. Vikram Mehta    | Managing Director & CEO      | In Person   |
+| Ms. Anjali Deshmukh | Whole-time Director & CFO    | In Person   |
+| Mr. Rohan Kapoor    | Director & CTO               | In Person   |
+| Mr. Tarun Davda     | Nominee Director (Matrix)    | Video Conf  |
+| Mr. Shailendra Singh| Nominee Director (Sequoia)   | Video Conf  |
+| Ms. Meera Sanghvi   | Independent Director         | In Person   |
+| Mr. Rajiv Anand     | Independent Director         | Video Conf  |
+
+LEAVE OF ABSENCE:
+None
+
+IN ATTENDANCE:
+- Ms. Priya Sharma, Company Secretary
+- Mr. Aditya Jain, Chief Risk Officer (for Agenda Item 4)
+- M/s. Walker Chandiok & Co. LLP, Statutory Auditors (for Agenda Item 6)
+
+--------------------------------------------------------------------------------
+
+QUORUM:
+The Company Secretary confirmed the presence of quorum and called the meeting
+to order.
+
+CHAIRPERSON:
+Mr. Vikram Mehta, Managing Director & CEO, chaired the meeting.
+
+--------------------------------------------------------------------------------
+                         AGENDA ITEMS
+--------------------------------------------------------------------------------
+
+ITEM 1: CONFIRMATION OF MINUTES
+
+The Minutes of the 17th Board Meeting held on July 20, 2024 were read,
+confirmed and signed by the Chairperson.
+
+RESOLUTION: RESOLVED THAT the Minutes of the 17th Board Meeting held on
+July 20, 2024 be and are hereby confirmed and approved.
+
+--------------------------------------------------------------------------------
+
+ITEM 2: QUARTERLY FINANCIAL RESULTS - Q2 FY 2024-25
+
+The CFO presented the unaudited financial results for Q2 FY 2024-25:
+
+| Particulars                    | Q2 FY25    | Q2 FY24    | Growth   |
+|--------------------------------|------------|------------|----------|
+| Total Disbursements            | ₹126 Cr    | ₹78 Cr     | 61.5%    |
+| Assets Under Management (AUM)  | ₹245 Cr    | ₹142 Cr    | 72.5%    |
+| Net Interest Income            | ₹8.2 Cr    | ₹4.8 Cr    | 70.8%    |
+| Total Revenue                  | ₹12.5 Cr   | ₹7.3 Cr    | 71.2%    |
+| EBITDA                         | ₹2.8 Cr    | ₹0.9 Cr    | 211.1%   |
+| Profit After Tax               | ₹1.2 Cr    | (₹0.5 Cr)  | Turn-around|
+
+Key Highlights:
+- Active borrowers crossed 1,25,000 milestone
+- NPA ratio improved to 2.8% from 3.4% in previous quarter
+- Collection efficiency at 97.2%
+- Customer acquisition cost reduced by 18%
+
+RESOLUTION: RESOLVED THAT the unaudited financial results for the quarter
+ended September 30, 2024 be and are hereby noted and approved for
+publication and filing with regulatory authorities.
+
+--------------------------------------------------------------------------------
+
+ITEM 3: CO-LENDING ARRANGEMENT WITH YES BANK
+
+The MD presented the proposed co-lending arrangement with Yes Bank for
+priority sector lending:
+
+Key Terms:
+- Partnership for personal loans up to ₹10 lakhs
+- Yes Bank to fund 80%, SmartFinance to fund 20%
+- Blended interest rate of 14.5% p.a.
+- Target disbursement: ₹200 Cr in first year
+- First Loss Default Guarantee (FLDG) of 5%
+
+After detailed discussion on risk sharing mechanism and operational workflow:
+
+RESOLUTION: RESOLVED THAT the Board hereby approves the co-lending
+arrangement with Yes Bank Limited on the terms presented and authorizes
+the Managing Director to negotiate, finalize and execute the Co-Lending
+Agreement and all related documents.
+
+FURTHER RESOLVED THAT the Company Secretary be authorized to file necessary
+forms with RBI and other regulatory authorities.
+
+--------------------------------------------------------------------------------
+
+ITEM 4: RISK MANAGEMENT UPDATE
+
+The Chief Risk Officer presented the quarterly risk management report:
+
+Credit Risk:
+- Portfolio at Risk (PAR 30+): 4.2%
+- Expected Credit Loss (ECL) provision: ₹6.8 Cr
+- Concentration in top 100 borrowers: 2.1%
+
+Operational Risk:
+- System uptime: 99.95%
+- Zero data breaches in the quarter
+- Fraud detection rate: 99.8%
+
+Liquidity Risk:
+- ALM mismatch within RBI prescribed limits
+- Liquid assets coverage: 125%
+
+Regulatory Risk:
+- All RBI returns filed on time
+- No adverse observations in latest RBI inspection
+
+RESOLUTION: RESOLVED THAT the risk management report for Q2 FY 2024-25 be
+and is hereby noted and the Board appreciates the Risk Management
+Committee's efforts in maintaining risk parameters within approved limits.
+
+--------------------------------------------------------------------------------
+
+ITEM 5: ESOP GRANT TO EMPLOYEES
+
+The Nomination & Remuneration Committee recommended grant of ESOPs to
+employees as follows:
+
+| Level               | No. of Employees | Total Options | Vesting Period |
+|---------------------|------------------|---------------|----------------|
+| Senior Management   | 5                | 50,000        | 4 years        |
+| Middle Management   | 15               | 75,000        | 4 years        |
+| Key Contributors    | 25               | 50,000        | 3 years        |
+|---------------------|------------------|---------------|----------------|
+| Total               | 45               | 1,75,000      |                |
+
+Exercise Price: ₹38 per share (based on latest valuation)
+
+RESOLUTION: RESOLVED THAT pursuant to the SmartFinance ESOP Scheme 2021
+and on recommendation of the Nomination & Remuneration Committee, the
+Board hereby approves the grant of 1,75,000 stock options to eligible
+employees as detailed above.
+
+FURTHER RESOLVED THAT Ms. Anjali Deshmukh, CFO be authorized to issue
+grant letters and administer the ESOP grants.
+
+--------------------------------------------------------------------------------
+
+ITEM 6: AUDITOR'S LIMITED REVIEW REPORT
+
+Representatives of Walker Chandiok & Co. LLP presented their limited
+review report for Q2 FY 2024-25. The report was unqualified with no
+adverse remarks.
+
+Key observations:
+- Accounting policies consistently applied
+- ECL provisioning in line with Ind AS 109
+- Related party transactions at arm's length
+- No qualification or emphasis of matter
+
+RESOLUTION: RESOLVED THAT the Limited Review Report of the Statutory
+Auditors for Q2 FY 2024-25 be and is hereby noted.
+
+--------------------------------------------------------------------------------
+
+ITEM 7: SERIES B FUNDING - UPDATE
+
+The Managing Director updated the Board on Series B fundraising progress:
+
+- Term sheets received from 3 potential investors
+- Proposed valuation range: ₹700 - 800 Cr
+- Target raise: ₹150 - 200 Cr
+- Timeline: Closure by Q4 FY 2024-25
+
+Key use of funds:
+- Technology infrastructure: 30%
+- Geographic expansion: 25%
+- Loan book growth: 35%
+- Working capital: 10%
+
+RESOLUTION: RESOLVED THAT the Board notes the Series B fundraising update
+and authorizes the Managing Director to continue discussions with potential
+investors and present final term sheet for Board approval.
+
+--------------------------------------------------------------------------------
+
+ITEM 8: COMPLIANCE CERTIFICATES
+
+The Company Secretary presented the following compliance certificates:
+- Quarterly secretarial compliance report
+- RBI compliance certificate for Q2 FY25
+- Prevention of Money Laundering compliance
+- IT Act compliance certificate
+
+All certificates confirmed 100% compliance with no deviations.
+
+RESOLUTION: RESOLVED THAT the compliance certificates be and are hereby noted.
+
+--------------------------------------------------------------------------------
+
+ITEM 9: ANY OTHER BUSINESS
+
+9.1 Opening of Branch Office in Pune
+
+The Board discussed the proposal to open a branch office in Pune to serve
+the Western Maharashtra market. After discussion:
+
+RESOLUTION: RESOLVED THAT the Board approves the opening of a branch
+office in Pune and authorizes the Managing Director to finalize the
+location and execute the lease agreement for a period not exceeding
+5 years with annual rent not exceeding ₹36 lakhs.
+
+9.2 Appointment of Chief Business Officer
+
+The Nomination & Remuneration Committee recommended the appointment of
+Mr. Sandeep Kulkarni as Chief Business Officer.
+
+RESOLUTION: RESOLVED THAT Mr. Sandeep Kulkarni be and is hereby appointed
+as Chief Business Officer of the Company with effect from November 1, 2024
+on the terms and conditions recommended by the Nomination & Remuneration
+Committee.
+
+--------------------------------------------------------------------------------
+
+NEXT MEETING:
+The next Board Meeting is tentatively scheduled for January 15, 2025.
+
+CLOSURE:
+There being no other business, the Chairperson thanked all Directors for
+their participation and declared the meeting closed at 5:30 PM IST.
+
+
+                                        Sd/-
+                                        ___________________________
+                                        Vikram Mehta
+                                        Managing Director & CEO
+                                        (Chairperson of the Meeting)
+
+Date: October 15, 2024
+Place: Mumbai
+
+
+                                        Sd/-
+                                        ___________________________
+                                        Priya Sharma
+                                        Company Secretary
+
+================================================================================
+
+================================================================================
+              MINUTES OF THE 17TH MEETING OF BOARD OF DIRECTORS
+              HELD ON JULY 20, 2024 AT 3:00 PM IST
+================================================================================
+
+[Previous meeting minutes would continue in similar format...]
+
+================================================================================
+
+                       END OF BOARD MEETING MINUTES
+
+================================================================================

@@ -1,0 +1,357 @@
+================================================================================
+                EMPLOYMENT AGREEMENT TEMPLATE
+                        OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+                EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is made on ___________________
+
+BETWEEN:
+
+SMARTFINANCE INDIA LIMITED, a company incorporated under the Companies Act,
+2013, having its registered office at 15th Floor, Tower B, One BKC, Bandra
+Kurla Complex, Mumbai - 400051 (hereinafter referred to as the "Company")
+
+AND
+
+Mr./Ms. ___________________, residing at _________________________________,
+PAN: _______________, Aadhaar: _______________
+(hereinafter referred to as the "Employee")
+
+================================================================================
+                1. APPOINTMENT
+================================================================================
+
+1.1 The Company hereby appoints the Employee and the Employee hereby accepts
+    employment with the Company on the terms and conditions set forth herein.
+
+1.2 POSITION DETAILS
+
+| Field                   | Details                                       |
+|-------------------------|-----------------------------------------------|
+| Designation             | _____________________                         |
+| Department              | _____________________                         |
+| Reporting To            | _____________________                         |
+| Location                | Mumbai (or as assigned)                       |
+| Date of Joining         | _____________________                         |
+| Employment Type         | Full-time / Permanent                         |
+
+================================================================================
+                2. PROBATION
+================================================================================
+
+2.1 The Employee shall be on probation for a period of 6 (six) months from the
+    Date of Joining.
+
+2.2 During probation, employment may be terminated by either party with 15
+    days' notice.
+
+2.3 Upon successful completion, the Employee shall be confirmed in writing.
+
+2.4 The Company may extend probation by up to 3 (three) months if performance
+    is unsatisfactory.
+
+================================================================================
+                3. DUTIES AND RESPONSIBILITIES
+================================================================================
+
+3.1 The Employee shall:
+    (a) Perform duties as assigned by the Company;
+    (b) Devote full time and attention to Company work;
+    (c) Follow all Company policies and procedures;
+    (d) Act in the best interests of the Company;
+    (e) Maintain professional conduct and ethics.
+
+3.2 The Employee shall not, without prior written consent:
+    (a) Engage in any other employment or business;
+    (b) Accept any position in other organizations;
+    (c) Undertake consulting or advisory roles.
+
+================================================================================
+                4. COMPENSATION
+================================================================================
+
+4.1 SALARY STRUCTURE
+
+| Component                    | Monthly (₹)     | Annual (₹)      |
+|------------------------------|-----------------|-----------------|
+| Basic Salary                 | _________       | _________       |
+| House Rent Allowance         | _________       | _________       |
+| Special Allowance            | _________       | _________       |
+| Other Allowances             | _________       | _________       |
+|------------------------------|-----------------|-----------------|
+| Gross Salary                 | _________       | _________       |
+|------------------------------|-----------------|-----------------|
+| Employer PF Contribution     | _________       | _________       |
+| Employer ESI (if applicable) | _________       | _________       |
+| Gratuity (Notional)          | _________       | _________       |
+|------------------------------|-----------------|-----------------|
+| Cost to Company (CTC)        | _________       | _________       |
+
+4.2 Salary shall be paid monthly by the last working day of each month via
+    bank transfer.
+
+4.3 All payments are subject to applicable tax deductions (TDS).
+
+4.4 VARIABLE PAY / BONUS
+    The Employee may be eligible for variable pay / performance bonus as per
+    Company policy, subject to individual and Company performance.
+
+4.5 SALARY REVISION
+    Salary revisions shall be at the sole discretion of the Company based on
+    performance appraisals.
+
+================================================================================
+                5. BENEFITS
+================================================================================
+
+5.1 LEAVE ENTITLEMENT (Annual)
+
+| Leave Type          | Days  |
+|---------------------|-------|
+| Earned Leave        | 18    |
+| Sick Leave          | 12    |
+| Casual Leave        | 6     |
+| Public Holidays     | 12    |
+| Maternity Leave     | As per Act |
+| Paternity Leave     | 5     |
+
+5.2 HEALTH INSURANCE
+    Group health insurance coverage for Employee, spouse, and 2 children.
+    Sum Insured: ₹5,00,000
+
+5.3 PROVIDENT FUND
+    Contribution as per Employees' Provident Fund Act, 1952.
+
+5.4 GRATUITY
+    Payable as per Payment of Gratuity Act, 1972 upon completing 5 years.
+
+5.5 OTHER BENEFITS
+    As per Company policy from time to time.
+
+================================================================================
+                6. EMPLOYEE STOCK OPTIONS
+================================================================================
+
+6.1 The Employee may be eligible for stock options under the SmartFinance ESOP
+    Scheme 2021, subject to:
+    - Eligibility criteria
+    - Grant by Nomination & Remuneration Committee
+    - Terms of the ESOP Scheme
+
+6.2 ESOP grants are discretionary and not guaranteed.
+
+================================================================================
+                7. WORKING HOURS
+================================================================================
+
+7.1 Standard working hours: 9:30 AM to 6:30 PM, Monday to Friday.
+
+7.2 The Employee may be required to work additional hours as necessary for
+    business requirements without additional compensation.
+
+7.3 Employees in managerial positions are not entitled to overtime.
+
+================================================================================
+                8. CONFIDENTIALITY
+================================================================================
+
+8.1 The Employee shall maintain strict confidentiality of all Company
+    information including but not limited to:
+    - Customer data and personal information
+    - Business strategies and plans
+    - Financial information
+    - Technical information and source code
+    - Employee information
+    - Investor information
+
+8.2 The Employee shall not disclose any Confidential Information to any person
+    during or after employment without prior written consent.
+
+8.3 This obligation shall survive termination of employment indefinitely for
+    trade secrets and for 5 years for other Confidential Information.
+
+8.4 Breach of confidentiality may result in disciplinary action, termination,
+    and legal action for damages.
+
+================================================================================
+                9. INTELLECTUAL PROPERTY
+================================================================================
+
+9.1 All intellectual property created by the Employee during employment and
+    related to Company business shall belong exclusively to the Company.
+
+9.2 The Employee assigns all rights in such intellectual property to the
+    Company including copyrights, patents, and trade secrets.
+
+9.3 The Employee shall promptly disclose all inventions and developments and
+    execute documents required for registration.
+
+9.4 The Employee shall not use Company intellectual property after termination.
+
+================================================================================
+                10. NON-COMPETE
+================================================================================
+
+10.1 During employment and for 12 months after termination, the Employee shall
+     not, within India:
+     (a) Work for or provide services to any Competing Business;
+     (b) Establish or invest in any Competing Business;
+     (c) Solicit Company customers or business partners.
+
+10.2 "Competing Business" means any business engaged in digital lending, NBFC
+     operations, or financial technology services competitive with the Company.
+
+10.3 The Company may waive this restriction in writing or pay 6 months' salary
+     for enforcement.
+
+================================================================================
+                11. NON-SOLICITATION
+================================================================================
+
+11.1 During employment and for 12 months after termination, the Employee shall
+     not:
+     (a) Solicit or recruit any Company employee;
+     (b) Induce any employee to leave Company employment;
+     (c) Interfere with Company's relationships with employees.
+
+================================================================================
+                12. TERMINATION
+================================================================================
+
+12.1 NOTICE PERIOD
+
+| Status          | By Company      | By Employee     |
+|-----------------|-----------------|-----------------|
+| During Probation| 15 days         | 15 days         |
+| After Confirmation| 90 days       | 90 days         |
+
+12.2 PAYMENT IN LIEU OF NOTICE
+     Either party may pay salary in lieu of notice period.
+
+12.3 TERMINATION FOR CAUSE
+     The Company may terminate immediately without notice or payment for:
+     (a) Misconduct or insubordination
+     (b) Fraud or dishonesty
+     (c) Breach of Company policies
+     (d) Conviction of criminal offense
+     (e) Breach of confidentiality
+     (f) Conflict of interest
+     (g) Willful damage to Company property
+     (h) Gross negligence
+
+12.4 RESIGNATION PROCESS
+     (a) Written resignation to reporting manager and HR
+     (b) Proper handover of work and materials
+     (c) Full and final settlement within 45 days
+     (d) Exit interview and clearance
+
+12.5 GARDEN LEAVE
+     The Company may require the Employee to remain away from office during
+     notice period while continuing to receive salary.
+
+================================================================================
+                13. RETURN OF PROPERTY
+================================================================================
+
+13.1 Upon termination, the Employee shall return:
+     (a) Laptop, mobile phone, and other equipment
+     (b) ID card and access cards
+     (c) Documents, files, and records
+     (d) Customer lists and databases
+     (e) All Confidential Information
+     (f) Any other Company property
+
+================================================================================
+                14. BACKGROUND VERIFICATION
+================================================================================
+
+14.1 This offer is subject to satisfactory background verification including:
+     (a) Identity verification
+     (b) Education verification
+     (c) Employment history verification
+     (d) Criminal background check
+     (e) Credit check (for relevant positions)
+     (f) Reference checks
+
+14.2 False information may result in termination.
+
+================================================================================
+                15. REGULATORY COMPLIANCE
+================================================================================
+
+15.1 The Employee shall comply with all applicable laws and regulations,
+     including RBI regulations applicable to NBFCs.
+
+15.2 The Employee shall complete mandatory compliance training.
+
+15.3 The Employee shall report any compliance violations.
+
+================================================================================
+                16. DATA PROTECTION
+================================================================================
+
+16.1 The Employee shall handle personal data in compliance with applicable data
+     protection laws.
+
+16.2 The Employee shall only access data necessary for job duties.
+
+16.3 The Employee shall report any data breaches immediately.
+
+================================================================================
+                17. DISPUTE RESOLUTION
+================================================================================
+
+17.1 Disputes shall be resolved through internal grievance mechanism first.
+
+17.2 If unresolved, disputes shall be referred to arbitration in Mumbai.
+
+17.3 This Agreement shall be governed by laws of India.
+
+================================================================================
+                18. GENERAL
+================================================================================
+
+18.1 This Agreement constitutes the entire employment agreement.
+
+18.2 No modification shall be valid unless in writing signed by both parties.
+
+18.3 If any provision is invalid, remaining provisions continue in effect.
+
+18.4 The Employee acknowledges receiving and understanding all Company policies.
+
+================================================================================
+                SIGNATURES
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement.
+
+For SMARTFINANCE INDIA LIMITED
+
+Sd/-
+___________________________
+Authorized Signatory
+Name:
+Designation: Head - Human Resources
+Date:
+
+EMPLOYEE
+
+Sd/-
+___________________________
+Name:
+Date:
+
+I acknowledge that I have read and understood all terms of this Agreement
+and agree to be bound by them.
+
+Signature: ___________________________
+Date: ___________________________
+
+================================================================================
+
+                    END OF EMPLOYMENT AGREEMENT
+
+================================================================================

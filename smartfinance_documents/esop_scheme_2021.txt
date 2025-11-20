@@ -1,0 +1,378 @@
+================================================================================
+                EMPLOYEE STOCK OPTION PLAN
+                  ESOP SCHEME 2021
+                        OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+            Approved by Board: March 15, 2021
+            Approved by Shareholders: April 10, 2021
+
+================================================================================
+                1. INTRODUCTION
+================================================================================
+
+1.1 NAME
+    This scheme shall be called "SmartFinance India Limited - Employee Stock
+    Option Plan 2021" or "ESOP Scheme 2021".
+
+1.2 PURPOSE
+    The purpose of this Scheme is to:
+    (a) Attract and retain talented employees
+    (b) Align employee interests with shareholders
+    (c) Reward employees for their contribution
+    (d) Create long-term wealth for employees
+
+1.3 EFFECTIVE DATE
+    This Scheme shall be effective from April 10, 2021.
+
+================================================================================
+                2. DEFINITIONS
+================================================================================
+
+2.1 "Board" means the Board of Directors of the Company.
+
+2.2 "Committee" means the Nomination and Remuneration Committee.
+
+2.3 "Company" means SmartFinance India Limited.
+
+2.4 "Employee" means a permanent employee of the Company working in India,
+    including Directors (other than Independent Directors).
+
+2.5 "Exercise" means the act of applying for and being allotted shares
+    pursuant to the Options.
+
+2.6 "Exercise Period" means the period during which an Employee can exercise
+    vested Options.
+
+2.7 "Exercise Price" means the price per share payable by the Employee to
+    exercise the Options.
+
+2.8 "Grant" means the issuance of Options to an Employee under this Scheme.
+
+2.9 "Grant Date" means the date on which Options are granted.
+
+2.10 "Option" means a right granted to an Employee to purchase shares at the
+     Exercise Price.
+
+2.11 "Scheme" means this Employee Stock Option Plan 2021.
+
+2.12 "Vesting" means the process by which Options become exercisable.
+
+2.13 "Vesting Date" means the date on which Options vest.
+
+================================================================================
+                3. ADMINISTRATION
+================================================================================
+
+3.1 COMMITTEE ADMINISTRATION
+    The Scheme shall be administered by the Nomination and Remuneration
+    Committee, which shall have the power to:
+    (a) Grant Options to eligible Employees
+    (b) Determine the number of Options to be granted
+    (c) Determine Exercise Price and Vesting Schedule
+    (d) Interpret provisions of the Scheme
+    (e) Prescribe forms and procedures
+    (f) Make all other determinations necessary for administration
+
+3.2 COMMITTEE COMPOSITION
+    - Chairperson: Ms. Meera Sanghvi (Independent Director)
+    - Member: Mr. Tarun Davda (Nominee Director)
+    - Member: Mr. Rajiv Anand (Independent Director)
+
+================================================================================
+                4. SHARES AVAILABLE
+================================================================================
+
+4.1 SHARE POOL
+    The maximum number of shares that may be issued under this Scheme is
+    6,00,000 (Six Lakh) Equity Shares of face value ₹10 each.
+
+4.2 POOL AS PERCENTAGE
+    This represents 15% of the fully diluted share capital as on the
+    effective date.
+
+4.3 RECYCLING
+    If any Options are forfeited, expire, or are cancelled, such Options
+    shall again become available for grant under this Scheme.
+
+4.4 ADJUSTMENTS
+    The number of shares and Exercise Price shall be adjusted for stock
+    splits, bonus issues, and other capital changes.
+
+================================================================================
+                5. ELIGIBILITY
+================================================================================
+
+5.1 ELIGIBLE EMPLOYEES
+    The following are eligible for grant of Options:
+    (a) Permanent employees of the Company
+    (b) Directors (other than Independent Directors)
+    (c) Employees of subsidiary companies (if any)
+
+5.2 NOT ELIGIBLE
+    The following are not eligible:
+    (a) Independent Directors
+    (b) Consultants and contractors
+    (c) Employees who are promoters or belong to promoter group holding
+        more than 10% of share capital
+
+5.3 CRITERIA
+    The Committee may consider the following for grants:
+    (a) Length of service
+    (b) Performance rating
+    (c) Grade and designation
+    (d) Criticality of role
+    (e) Future potential
+
+================================================================================
+                6. GRANT OF OPTIONS
+================================================================================
+
+6.1 GRANT LETTER
+    Each grant shall be evidenced by a Grant Letter specifying:
+    (a) Number of Options
+    (b) Exercise Price
+    (c) Vesting Schedule
+    (d) Exercise Period
+    (e) Other terms and conditions
+
+6.2 GRANT FREQUENCY
+    Options may be granted at any time as determined by the Committee.
+
+6.3 ANNUAL GRANT CYCLE
+    Typically, Options are granted annually following performance appraisal.
+
+6.4 NO GUARANTEED GRANTS
+    Grants are at the discretion of the Committee and are not guaranteed.
+
+================================================================================
+                7. EXERCISE PRICE
+================================================================================
+
+7.1 DETERMINATION
+    The Exercise Price shall be determined by the Committee but shall not be
+    less than the face value of the shares.
+
+7.2 CURRENT EXERCISE PRICE
+    Based on latest Series A valuation:
+    - Fair Market Value: ₹47.22 per share
+    - Exercise Price for new grants: ₹38.00 per share (discount for employees)
+
+7.3 PRICING FOR DIFFERENT GRANTS
+
+| Grant Year | Exercise Price | Basis                    |
+|------------|----------------|--------------------------|
+| 2021       | ₹10.00         | Face value               |
+| 2022       | ₹25.00         | Pre-Series A valuation   |
+| 2023       | ₹38.00         | Series A discount        |
+| 2024       | ₹38.00         | Series A discount        |
+
+================================================================================
+                8. VESTING
+================================================================================
+
+8.1 VESTING SCHEDULE
+    Options shall vest over a period of 4 years as follows:
+
+    | Cliff/Year | Vesting %  | Cumulative % |
+    |------------|------------|--------------|
+    | Year 1     | 25%        | 25%          |
+    | Year 2     | 25%        | 50%          |
+    | Year 3     | 25%        | 75%          |
+    | Year 4     | 25%        | 100%         |
+
+8.2 CLIFF PERIOD
+    No Options shall vest during the first 12 months from Grant Date
+    (cliff period).
+
+8.3 VESTING DATE
+    Options shall vest on each anniversary of the Grant Date.
+
+8.4 ACCELERATED VESTING
+    The Committee may provide accelerated vesting in the following events:
+    (a) Change of control
+    (b) IPO
+    (c) Death or disability of Employee
+
+================================================================================
+                9. EXERCISE OF OPTIONS
+================================================================================
+
+9.1 EXERCISE PERIOD
+    - Options may be exercised after vesting
+    - Exercise Period: 10 years from Grant Date
+    - Options not exercised within Exercise Period shall lapse
+
+9.2 EXERCISE PROCESS
+    (a) Submit Exercise Application to Company
+    (b) Pay Exercise Price via bank transfer
+    (c) Company to allot shares within 30 days
+    (d) Share certificate or demat credit within 15 days of allotment
+
+9.3 PARTIAL EXERCISE
+    Vested Options may be exercised in whole or in part.
+
+9.4 TAX WITHHOLDING
+    The Company shall deduct applicable taxes (perquisite tax) at exercise.
+
+================================================================================
+                10. TERMINATION OF EMPLOYMENT
+================================================================================
+
+10.1 VOLUNTARY RESIGNATION
+
+     | Status              | Treatment                              |
+     |---------------------|----------------------------------------|
+     | Unvested Options    | Forfeited immediately                  |
+     | Vested, Unexercised | Must exercise within 90 days of LWD    |
+
+10.2 TERMINATION FOR CAUSE
+
+     All Options (vested and unvested) forfeited immediately.
+
+10.3 TERMINATION WITHOUT CAUSE / REDUNDANCY
+
+     | Status              | Treatment                              |
+     |---------------------|----------------------------------------|
+     | Unvested Options    | Pro-rata vesting as on termination date|
+     | Vested, Unexercised | Must exercise within 180 days          |
+
+10.4 DEATH
+
+     | Status              | Treatment                              |
+     |---------------------|----------------------------------------|
+     | Unvested Options    | Immediate full vesting                 |
+     | Vested, Unexercised | Legal heirs may exercise within 1 year |
+
+10.5 DISABILITY
+
+     | Status              | Treatment                              |
+     |---------------------|----------------------------------------|
+     | Unvested Options    | Immediate full vesting                 |
+     | Vested, Unexercised | Must exercise within 1 year            |
+
+10.6 RETIREMENT
+
+     | Status              | Treatment                              |
+     |---------------------|----------------------------------------|
+     | Unvested Options    | Pro-rata vesting                       |
+     | Vested, Unexercised | Must exercise within 1 year            |
+
+================================================================================
+                11. CHANGE OF CONTROL
+================================================================================
+
+11.1 DEFINITION
+     "Change of Control" means:
+     (a) Acquisition of more than 50% of voting shares
+     (b) Merger where Company is not the surviving entity
+     (c) Sale of substantially all assets
+
+11.2 TREATMENT
+     Upon Change of Control:
+     (a) All unvested Options shall immediately vest
+     (b) Employee shall have right to exercise within 30 days
+     (c) Alternatively, Options may be assumed or substituted by acquirer
+
+================================================================================
+                12. NON-TRANSFERABILITY
+================================================================================
+
+12.1 Options are personal to the Employee and are non-transferable.
+
+12.2 Options cannot be pledged, hypothecated, or encumbered.
+
+12.3 Exception: Transfer to legal heirs in case of death.
+
+================================================================================
+                13. LOCK-IN
+================================================================================
+
+13.1 Shares issued upon exercise shall not be subject to any lock-in, except
+     as required by:
+     (a) Shareholders Agreement
+     (b) Applicable law
+     (c) IPO lock-in requirements
+
+================================================================================
+                14. TAXATION
+================================================================================
+
+14.1 PERQUISITE TAX AT EXERCISE
+     - Taxable perquisite = (FMV on exercise - Exercise Price) x Shares
+     - Company to deduct TDS at applicable slab rate
+     - Employee to pay any shortfall
+
+14.2 CAPITAL GAINS TAX AT SALE
+     - Short-term (< 24 months): As per slab rate
+     - Long-term (> 24 months): 20% with indexation
+
+14.3 TAX RESPONSIBILITY
+     All taxes are the Employee's responsibility. Company shall provide
+     Form 12BA and Form 16.
+
+================================================================================
+                15. RIGHTS AS SHAREHOLDER
+================================================================================
+
+15.1 Employees have no rights as shareholders until shares are actually
+     allotted upon exercise.
+
+15.2 Upon allotment, Employees shall have all rights including voting and
+     dividend rights.
+
+================================================================================
+                16. CURRENT POOL STATUS
+================================================================================
+
+As on November 15, 2024:
+
+| Particulars                    | Options   | % of Pool |
+|--------------------------------|-----------|-----------|
+| Total Pool                     | 6,00,000  | 100%      |
+| Granted and Vested             | 1,85,000  | 30.8%     |
+| Granted and Unvested           | 1,65,000  | 27.5%     |
+| Exercised                      | 0         | 0%        |
+| Forfeited/Lapsed               | 25,000    | 4.2%      |
+| Available for Grant            | 2,25,000  | 37.5%     |
+
+================================================================================
+                17. AMENDMENT AND TERMINATION
+================================================================================
+
+17.1 The Board may amend the Scheme at any time subject to:
+     (a) Shareholder approval for material changes
+     (b) No adverse impact on existing grants without Employee consent
+
+17.2 The Board may terminate the Scheme at any time, but existing grants
+     shall continue as per their terms.
+
+================================================================================
+                18. GOVERNING LAW
+================================================================================
+
+18.1 This Scheme shall be governed by and construed in accordance with the
+     laws of India.
+
+18.2 Courts in Mumbai shall have exclusive jurisdiction.
+
+================================================================================
+
+Approved by Board of Directors on March 15, 2021.
+Approved by Shareholders via Special Resolution on April 10, 2021.
+
+
+For SmartFinance India Limited
+
+
+Sd/-
+___________________________
+Vikram Mehta
+Managing Director
+
+================================================================================
+
+                    END OF ESOP SCHEME 2021
+
+================================================================================

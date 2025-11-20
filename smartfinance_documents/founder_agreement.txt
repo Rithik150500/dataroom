@@ -1,0 +1,380 @@
+================================================================================
+                    FOUNDER AGREEMENT
+                          OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+This Founder Agreement ("Agreement") is entered into on June 8, 2020
+
+AMONG:
+
+1. MR. VIKRAM MEHTA, residing at 45, Malabar Hill, Mumbai - 400006
+   (hereinafter referred to as "Founder 1")
+
+2. MS. ANJALI DESHMUKH, residing at 12, Carter Road, Bandra West,
+   Mumbai - 400050 (hereinafter referred to as "Founder 2")
+
+3. MR. ROHAN KAPOOR, residing at 78, Linking Road, Santacruz West,
+   Mumbai - 400054 (hereinafter referred to as "Founder 3")
+
+(Collectively referred to as "Founders" or "Parties")
+
+================================================================================
+                     RECITALS
+================================================================================
+
+A. The Founders have come together to establish and build a digital lending
+   platform to provide accessible credit to underserved segments in India.
+
+B. The Founders intend to incorporate a company under the name "SmartFinance
+   India Limited" (the "Company") to carry on this business.
+
+C. The Founders wish to record their understanding regarding their respective
+   roles, responsibilities, contributions, and the terms governing their
+   relationship as founders of the Company.
+
+================================================================================
+            1. FORMATION OF COMPANY
+================================================================================
+
+1.1 The Founders agree to incorporate the Company under the Companies Act, 2013
+    as a public limited company with registered office in Mumbai.
+
+1.2 The initial authorized share capital shall be ₹1,50,00,000 (One Crore Fifty
+    Lakhs) divided into:
+    - 50,00,000 Equity Shares of ₹10 each
+    - 10,00,000 Preference Shares of ₹100 each
+
+================================================================================
+            2. ROLES AND RESPONSIBILITIES
+================================================================================
+
+2.1 FOUNDER ROLES
+
+| Founder      | Designation               | Primary Responsibility         |
+|--------------|---------------------------|--------------------------------|
+| Vikram Mehta | Managing Director & CEO   | Overall strategy, investor     |
+|              |                           | relations, business development|
+| Anjali       | Whole-time Director & CFO | Finance, compliance, treasury, |
+| Deshmukh     |                           | fundraising                    |
+| Rohan Kapoor | Director & CTO            | Technology, product, data      |
+|              |                           | science                        |
+
+2.2 FULL-TIME COMMITMENT
+    Each Founder shall devote full time and attention to the Company's business
+    and shall not engage in any other business or employment without prior
+    written consent of other Founders.
+
+2.3 KEY DECISIONS
+    The following decisions require unanimous Founder consent:
+    (a) Changes to business plan or strategy
+    (b) Hiring of C-level executives
+    (c) Material contracts exceeding ₹10 lakhs
+    (d) Related party transactions
+    (e) Capital expenditure exceeding ₹25 lakhs
+    (f) Incurring debt exceeding ₹25 lakhs
+    (g) Changes to Founder roles or compensation
+
+================================================================================
+            3. EQUITY OWNERSHIP
+================================================================================
+
+3.1 INITIAL EQUITY ALLOCATION
+
+| Founder          | Shares     | Percentage | Consideration (₹) |
+|------------------|------------|------------|-------------------|
+| Vikram Mehta     | 5,00,000   | 50%        | 50,00,000         |
+| Anjali Deshmukh  | 3,00,000   | 30%        | 30,00,000         |
+| Rohan Kapoor     | 2,00,000   | 20%        | 20,00,000         |
+|------------------|------------|------------|-------------------|
+| Total            | 10,00,000  | 100%       | 1,00,00,000       |
+
+3.2 FOUNDER VESTING
+
+    All Founder shares shall be subject to reverse vesting over 4 years:
+
+    | Period        | Vested Cumulative |
+    |---------------|-------------------|
+    | Cliff (1 year)| 25%               |
+    | Month 13-48   | 2.083% per month  |
+    | After 4 years | 100%              |
+
+3.3 ACCELERATION
+    Vesting shall accelerate 100% upon:
+    (a) Change of control
+    (b) IPO
+    (c) Termination without cause
+    (d) Death or disability
+
+3.4 UNVESTED SHARES ON DEPARTURE
+    If a Founder departs before full vesting:
+    - Unvested shares to be purchased by remaining Founders or Company
+    - Price: Lower of original price or fair market value
+    - Payment: Within 180 days
+
+================================================================================
+            4. INTELLECTUAL PROPERTY
+================================================================================
+
+4.1 Each Founder shall execute an IP Assignment Agreement transferring all
+    intellectual property related to the Company's business.
+
+4.2 The Company shall own all intellectual property developed by Founders.
+
+4.3 Pre-existing IP to be licensed to Company on royalty-free, perpetual basis.
+
+================================================================================
+            5. FOUNDER COMPENSATION
+================================================================================
+
+5.1 INITIAL COMPENSATION
+
+| Founder          | Monthly CTC    | Annual CTC     |
+|------------------|----------------|----------------|
+| Vikram Mehta     | ₹2,50,000      | ₹30,00,000     |
+| Anjali Deshmukh  | ₹2,00,000      | ₹24,00,000     |
+| Rohan Kapoor     | ₹2,00,000      | ₹24,00,000     |
+
+5.2 No Founder shall receive additional compensation (fees, commissions,
+    bonuses) without consent of other Founders.
+
+5.3 Compensation may be revised based on Company performance and upon mutual
+    agreement.
+
+5.4 Each Founder shall bear their own taxes.
+
+================================================================================
+            6. EXPENSES
+================================================================================
+
+6.1 Founders shall be entitled to reimbursement of reasonable business expenses
+    incurred for Company purposes.
+
+6.2 Expenses exceeding ₹50,000 per month require prior approval.
+
+6.3 All expenses must be supported by receipts and documentation.
+
+================================================================================
+            7. NON-COMPETE
+================================================================================
+
+7.1 During the term of this Agreement and for 24 months after departure,
+    no Founder shall:
+    (a) Engage in any Competing Business in India
+    (b) Invest in any Competing Business (except up to 1% in public companies)
+    (c) Provide services to any Competing Business
+
+7.2 "Competing Business" means any business engaged in digital lending,
+    consumer lending, or NBFC operations in India.
+
+================================================================================
+            8. NON-SOLICITATION
+================================================================================
+
+8.1 During the term and for 24 months after departure, no Founder shall:
+    (a) Solicit or recruit any employee of the Company
+    (b) Induce any employee to leave the Company
+    (c) Solicit any customer or partner of the Company
+
+================================================================================
+            9. CONFIDENTIALITY
+================================================================================
+
+9.1 Each Founder shall maintain strict confidentiality of all Company
+    information including but not limited to:
+    - Business plans and strategies
+    - Financial information
+    - Customer and partner data
+    - Technical information
+    - This Agreement
+
+9.2 This obligation shall survive termination indefinitely.
+
+================================================================================
+            10. FOUNDER DEPARTURE
+================================================================================
+
+10.1 VOLUNTARY DEPARTURE
+
+     If a Founder voluntarily departs:
+     (a) Departing Founder forfeits unvested shares
+     (b) Remaining Founders have option to purchase vested shares
+     - Option period: 90 days
+     - Price: Fair market value
+     - Payment: 50% immediately, 50% over 12 months
+
+10.2 TERMINATION FOR CAUSE
+
+     A Founder may be removed for cause by unanimous vote of other Founders:
+     (a) Fraud or dishonesty
+     (b) Material breach of this Agreement
+     (c) Conviction of crime
+     (d) Gross negligence
+     (e) Non-performance of duties
+
+     Consequences:
+     - Immediate termination of employment
+     - Forfeiture of all unvested shares
+     - Vested shares purchased at lower of original price or FMV
+
+10.3 TERMINATION WITHOUT CAUSE
+
+     If a Founder is terminated without cause:
+     (a) Full acceleration of vesting
+     (b) 6 months' salary severance
+     (c) Right to sell shares at fair market value
+
+10.4 DRAG-ALONG AND TAG-ALONG
+
+     Standard drag-along and tag-along rights shall apply to all Founders.
+
+================================================================================
+            11. DECISION MAKING
+================================================================================
+
+11.1 MATTERS REQUIRING UNANIMOUS CONSENT
+
+     As set out in Clause 2.3.
+
+11.2 DEADLOCK RESOLUTION
+
+     If Founders cannot reach unanimous decision:
+     (a) Good faith negotiation for 15 days
+     (b) Mediation by independent mediator for 30 days
+     (c) If unresolved, CEO (Vikram) shall have casting vote, except for:
+         - Changes to this Agreement
+         - Founder compensation
+         - Removal of any Founder
+
+================================================================================
+            12. FUNDRAISING
+================================================================================
+
+12.1 Founders agree to pursue external funding to grow the Company.
+
+12.2 All Founders shall participate in investor discussions and due diligence.
+
+12.3 Terms of external funding require unanimous Founder consent.
+
+12.4 Founders shall execute all documents required by investors.
+
+12.5 Founders acknowledge that external funding will dilute their ownership.
+
+================================================================================
+            13. REPRESENTATIONS AND WARRANTIES
+================================================================================
+
+Each Founder represents and warrants that:
+
+13.1 They have full power and authority to enter into this Agreement.
+
+13.2 They are not subject to any agreement that would prevent performance.
+
+13.3 They have disclosed all material conflicts of interest.
+
+13.4 They will not engage in any activity harmful to the Company.
+
+================================================================================
+            14. INDEMNIFICATION
+================================================================================
+
+14.1 Each Founder shall indemnify and hold harmless the other Founders and
+     the Company against claims arising from their breach of this Agreement.
+
+================================================================================
+            15. TERM AND TERMINATION
+================================================================================
+
+15.1 This Agreement shall come into effect on the date hereof and continue
+     until:
+     (a) Mutual written agreement of all Founders
+     (b) Only one Founder remains
+     (c) Liquidation or dissolution of the Company
+     (d) IPO of the Company
+
+15.2 Provisions regarding confidentiality, non-compete, non-solicitation,
+     and indemnification shall survive termination.
+
+================================================================================
+            16. SUPERSEDING AGREEMENTS
+================================================================================
+
+16.1 This Agreement shall be superseded and replaced by the Shareholders
+     Agreement upon external equity fundraising.
+
+16.2 Upon execution of Shareholders Agreement, conflicting provisions of this
+     Agreement shall be void; consistent provisions shall continue.
+
+================================================================================
+            17. MISCELLANEOUS
+================================================================================
+
+17.1 GOVERNING LAW
+     This Agreement shall be governed by laws of India.
+
+17.2 JURISDICTION
+     Courts in Mumbai shall have exclusive jurisdiction.
+
+17.3 NOTICES
+     All notices shall be in writing and sent to addresses above.
+
+17.4 AMENDMENT
+     This Agreement may be amended only by written instrument signed by all
+     Founders.
+
+17.5 ENTIRE AGREEMENT
+     This Agreement constitutes the entire agreement among the Founders.
+
+17.6 SEVERABILITY
+     Invalid provisions shall be severed; remaining provisions continue.
+
+17.7 WAIVER
+     No waiver of any breach shall constitute waiver of any other breach.
+
+17.8 COUNTERPARTS
+     This Agreement may be executed in counterparts.
+
+================================================================================
+                SIGNATURES
+================================================================================
+
+IN WITNESS WHEREOF, the Founders have executed this Agreement.
+
+
+FOUNDER 1
+
+Sd/-
+___________________________
+Vikram Mehta
+Date: June 8, 2020
+
+
+FOUNDER 2
+
+Sd/-
+___________________________
+Anjali Deshmukh
+Date: June 8, 2020
+
+
+FOUNDER 3
+
+Sd/-
+___________________________
+Rohan Kapoor
+Date: June 8, 2020
+
+
+WITNESS:
+
+Sd/-
+___________________________
+Name: Advocate Neha Joshi
+Address: 304, Maker Chambers IV, Nariman Point, Mumbai - 400021
+Date: June 8, 2020
+
+================================================================================
+
+                    END OF FOUNDER AGREEMENT
+
+================================================================================

@@ -1,0 +1,191 @@
+================================================================================
+                    MEMORANDUM OF ASSOCIATION
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+
+            [Pursuant to Section 4 of Companies Act, 2013]
+================================================================================
+
+                         I. NAME CLAUSE
+
+The name of the Company is SMARTFINANCE INDIA LIMITED.
+
+================================================================================
+                    II. REGISTERED OFFICE CLAUSE
+
+The Registered Office of the Company will be situated in the State of
+MAHARASHTRA.
+
+Current Address: 15th Floor, Tower B, One BKC, Bandra Kurla Complex,
+                 Mumbai - 400051, Maharashtra, India
+
+================================================================================
+                       III. OBJECTS CLAUSE
+================================================================================
+
+A. THE MAIN OBJECTS TO BE PURSUED BY THE COMPANY ON ITS INCORPORATION:
+
+--------------------------------------------------------------------------------
+
+1. To carry on the business of a Non-Banking Financial Company (NBFC) as
+   defined under the Reserve Bank of India Act, 1934, and to engage in
+   lending, financing, and other financial activities as permitted by RBI.
+
+2. To provide personal loans, consumer loans, business loans, and other
+   credit facilities to individuals, sole proprietorships, partnerships,
+   and corporate entities through digital platforms and technology-enabled
+   channels.
+
+3. To develop, own, operate, and maintain digital lending platforms, mobile
+   applications, and web-based solutions for origination, underwriting,
+   disbursement, and servicing of loans.
+
+4. To employ artificial intelligence, machine learning, and data analytics
+   for credit assessment, risk modeling, fraud detection, and customer
+   service automation.
+
+5. To act as a lending service provider (LSP) or digital lending app (DLA)
+   in partnership with banks and other financial institutions as per RBI
+   guidelines on Digital Lending.
+
+6. To engage in co-lending arrangements with banks and other NBFCs for
+   priority sector lending and other loan products.
+
+7. To provide embedded finance solutions, buy-now-pay-later (BNPL) services,
+   and point-of-sale financing to merchants and e-commerce platforms.
+
+--------------------------------------------------------------------------------
+
+B. OBJECTS INCIDENTAL OR ANCILLARY TO THE ATTAINMENT OF MAIN OBJECTS:
+
+--------------------------------------------------------------------------------
+
+1. To acquire, develop, license, and protect intellectual property rights
+   including patents, copyrights, trademarks, and trade secrets related to
+   financial technology.
+
+2. To collect, process, and analyze data for credit scoring, risk assessment,
+   and fraud prevention in compliance with applicable data protection laws.
+
+3. To integrate with credit information companies (CICs) including CIBIL,
+   Experian, Equifax, and CRIF High Mark for credit bureau services.
+
+4. To partner with payment aggregators, payment gateways, and banking
+   correspondents for loan disbursement and collection services.
+
+5. To engage with third-party service providers for KYC verification,
+   e-signing, video KYC, and Aadhaar-based authentication services.
+
+6. To establish customer service centers, collection centers, and branch
+   offices as required for business operations.
+
+7. To raise capital through equity, debt, non-convertible debentures,
+   commercial paper, external commercial borrowings, and securitization
+   of loan assets.
+
+8. To invest surplus funds in permitted investments as per RBI guidelines
+   for NBFCs.
+
+9. To enter into strategic partnerships, joint ventures, and business
+   alliances with domestic and international financial institutions,
+   technology companies, and fintech entities.
+
+10. To acquire, merge with, or invest in other companies, firms, or entities
+    engaged in similar or complementary businesses.
+
+--------------------------------------------------------------------------------
+
+C. OTHER OBJECTS:
+
+--------------------------------------------------------------------------------
+
+1. To provide financial literacy programs, credit counseling, and debt
+   management services to borrowers.
+
+2. To develop and operate insurance distribution platforms as a corporate
+   agent or web aggregator upon obtaining necessary licenses from IRDAI.
+
+3. To engage in wealth management, investment advisory, and mutual fund
+   distribution upon obtaining necessary registrations from SEBI.
+
+4. To operate as an Account Aggregator upon obtaining license from RBI
+   under the Account Aggregator framework.
+
+5. To provide payment services and operate as a payment aggregator upon
+   obtaining authorization from RBI.
+
+6. To engage in cross-border remittances and forex services upon obtaining
+   necessary licenses from RBI.
+
+7. To undertake any other business activity as may be permitted by law and
+   for which necessary licenses or approvals have been obtained.
+
+================================================================================
+                      IV. LIABILITY CLAUSE
+
+The liability of the members is limited to the amount unpaid, if any, on
+the shares held by them.
+
+================================================================================
+                       V. CAPITAL CLAUSE
+================================================================================
+
+The Authorized Share Capital of the Company is ₹15,00,00,000 (Rupees Fifteen
+Crores only) divided into:
+
+| Share Type          | No. of Shares | Face Value | Total Amount     |
+|---------------------|---------------|------------|------------------|
+| Equity Shares       | 50,00,000     | ₹10/-      | ₹5,00,00,000     |
+| Preference Shares   | 10,00,000     | ₹100/-     | ₹10,00,00,000    |
+|---------------------|---------------|------------|------------------|
+| TOTAL               |               |            | ₹15,00,00,000    |
+
+with power to increase or reduce the capital of the Company and to divide
+the shares in the capital for the time being into several classes and to
+attach thereto respectively such preferential, deferred, qualified or special
+rights, privileges, conditions or restrictions as may be determined by or in
+accordance with the regulations of the Company and to vary, modify or abrogate
+any such rights, privileges, conditions or restrictions in such manner and by
+such persons as may for the time being be permitted by the regulations of
+the Company or legislative provisions for the time being in force.
+
+================================================================================
+                    VI. DECLARATION & SUBSCRIPTION
+================================================================================
+
+We, the several persons whose names and addresses are subscribed below, are
+desirous of being formed into a Company in pursuance of this Memorandum of
+Association and we respectively agree to take the number of shares in the
+capital of the Company set opposite our respective names:
+
+--------------------------------------------------------------------------------
+| Name & Address           | Occupation    | Shares | Signature | Date        |
+|--------------------------|---------------|--------|-----------|-------------|
+| Vikram Mehta             | Business      | 5,00,000| Sd/-     | 08-Jun-2020 |
+| 45, Malabar Hill,        |               |        |           |             |
+| Mumbai - 400006          |               |        |           |             |
+|--------------------------|---------------|--------|-----------|-------------|
+| Anjali Deshmukh          | Professional  | 3,00,000| Sd/-     | 08-Jun-2020 |
+| 12, Carter Road,         |               |        |           |             |
+| Bandra West,             |               |        |           |             |
+| Mumbai - 400050          |               |        |           |             |
+|--------------------------|---------------|--------|-----------|-------------|
+| Rohan Kapoor             | Business      | 2,00,000| Sd/-     | 08-Jun-2020 |
+| 78, Linking Road,        |               |        |           |             |
+| Santacruz West,          |               |        |           |             |
+| Mumbai - 400054          |               |        |           |             |
+--------------------------------------------------------------------------------
+
+Witness to the above signatures:
+
+Name: Advocate Neha Joshi
+Address: 304, Maker Chambers IV, Nariman Point, Mumbai - 400021
+Occupation: Advocate
+Signature: Sd/-
+Date: 08-Jun-2020
+
+================================================================================
+
+                    END OF MEMORANDUM OF ASSOCIATION
+
+================================================================================

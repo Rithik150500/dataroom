@@ -1,0 +1,282 @@
+================================================================================
+              TAX REGISTRATION CERTIFICATES
+                        OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+                PAN CARD - COMPANY
+================================================================================
+
+                    INCOME TAX DEPARTMENT
+                      GOVERNMENT OF INDIA
+
+                PERMANENT ACCOUNT NUMBER CARD
+
+--------------------------------------------------------------------------------
+
+| Field                    | Details                                      |
+|--------------------------|----------------------------------------------|
+| Permanent Account Number | AADCS1234A                                   |
+| Name                     | SMARTFINANCE INDIA LIMITED                   |
+| Father's Name            | Not Applicable                               |
+| Date of Birth/Incorp.    | 10/06/2020                                   |
+| Status                   | Company                                      |
+| Signature                | [Authorized Signatory]                       |
+
+--------------------------------------------------------------------------------
+
+Issued at: Mumbai
+Date of Issue: June 15, 2020
+
+This card is valid throughout India.
+
+================================================================================
+                TAN REGISTRATION
+================================================================================
+
+              TAX DEDUCTION AND COLLECTION ACCOUNT NUMBER
+
+--------------------------------------------------------------------------------
+
+| Field                    | Details                                      |
+|--------------------------|----------------------------------------------|
+| TAN                      | MUMS12345A                                   |
+| Name of Deductor         | SMARTFINANCE INDIA LIMITED                   |
+| Address                  | 15th Floor, Tower B, One BKC,                |
+|                          | Bandra Kurla Complex, Mumbai - 400051        |
+| Jurisdiction             | CPC-TDS, Ghaziabad                           |
+
+--------------------------------------------------------------------------------
+
+Category: Company
+Date of Allotment: June 20, 2020
+
+TDS/TCS Filing Requirements:
+- TDS Return: Quarterly (24Q, 26Q, 27Q, 27EQ)
+- Due Date: Within 31 days from end of quarter
+- TCS Return: As applicable
+
+================================================================================
+                GST REGISTRATION
+================================================================================
+
+              GOODS AND SERVICES TAX REGISTRATION CERTIFICATE
+
+                    GOVERNMENT OF INDIA
+
+--------------------------------------------------------------------------------
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| GSTIN                      | 27AADCS1234A1Z5                            |
+| Legal Name                 | SMARTFINANCE INDIA LIMITED                 |
+| Trade Name                 | SMARTFINANCE                               |
+| Constitution               | Public Limited Company                     |
+| State                      | Maharashtra                                |
+| Jurisdiction               | State - Ward 146                           |
+| Date of Registration       | July 1, 2020                               |
+| Date of Validity           | Not Applicable (Regular taxpayer)          |
+| Type of Registration       | Regular                                    |
+
+--------------------------------------------------------------------------------
+
+PRINCIPAL PLACE OF BUSINESS:
+
+15th Floor, Tower B, One BKC,
+Bandra Kurla Complex,
+Mumbai - 400051
+Maharashtra
+
+--------------------------------------------------------------------------------
+
+NATURE OF BUSINESS ACTIVITIES:
+
+| Sr. | Description                                                      |
+|-----|------------------------------------------------------------------|
+| 1   | Financial service activities, except insurance and pension funding|
+| 2   | Other credit granting                                            |
+| 3   | Computer programming, consultancy and related activities         |
+
+--------------------------------------------------------------------------------
+
+PARTICULARS OF AUTHORIZED SIGNATORY:
+
+| Name           | Designation | Mobile       | Email                    |
+|----------------|-------------|--------------|--------------------------|
+| Vikram Mehta   | Director    | 9820XXXXXX   | vikram@smartfinance.in   |
+| Anjali Deshmukh| Director    | 9820XXXXXX   | anjali@smartfinance.in   |
+
+--------------------------------------------------------------------------------
+
+This certificate is generated electronically and does not require signature.
+
+Jurisdictional Office: Division 146, Mumbai
+Download Date: July 5, 2020
+
+================================================================================
+                GST FILINGS STATUS
+================================================================================
+
+| Return | Period      | Filing Date  | Status  | Tax Paid (₹) |
+|--------|-------------|--------------|---------|--------------|
+| GSTR-3B| Oct 2024    | Nov 20, 2024 | Filed   | 12,45,678    |
+| GSTR-3B| Sep 2024    | Oct 20, 2024 | Filed   | 11,23,456    |
+| GSTR-3B| Aug 2024    | Sep 20, 2024 | Filed   | 10,87,654    |
+| GSTR-1 | Oct 2024    | Nov 11, 2024 | Filed   | -            |
+| GSTR-1 | Sep 2024    | Oct 11, 2024 | Filed   | -            |
+| GSTR-9 | FY 2023-24  | Dec 15, 2024 | Due     | -            |
+
+================================================================================
+                PROFESSIONAL TAX REGISTRATION
+================================================================================
+
+              MAHARASHTRA STATE TAX ON PROFESSIONS, TRADES,
+                    CALLINGS AND EMPLOYMENTS ACT, 1975
+
+--------------------------------------------------------------------------------
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| PTEC No.                   | 27XXXXXX123456                             |
+| PTRC No.                   | M/XXXXXX/PT/MH                             |
+| Name                       | SMARTFINANCE INDIA LIMITED                 |
+| Circle                     | Mumbai City                                |
+| Registration Date          | July 15, 2020                              |
+| Certificate Valid Until    | Lifetime                                   |
+
+--------------------------------------------------------------------------------
+
+Monthly PT deduction and payment for employees as per Maharashtra PT rates.
+
+================================================================================
+                STARTUP INDIA RECOGNITION
+================================================================================
+
+              CERTIFICATE OF RECOGNITION
+
+              DEPARTMENT FOR PROMOTION OF INDUSTRY AND
+                    INTERNAL TRADE (DPIIT)
+
+--------------------------------------------------------------------------------
+
+This is to certify that:
+
+SMARTFINANCE INDIA LIMITED
+
+CIN: U65929MH2020PLC345678
+
+has been recognized as a "STARTUP" under the Startup India Initiative.
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Recognition Number         | DIPP12345                                  |
+| Date of Recognition        | September 1, 2020                          |
+| Valid Until                | September 1, 2030 (10 years)               |
+| Nature of Entity           | Private Limited Company                    |
+| Industry Sector            | Financial Technology                       |
+
+--------------------------------------------------------------------------------
+
+BENEFITS AVAILABLE:
+
+1. Self-certification under 6 labour laws and 3 environmental laws
+2. Fast-track patent application (80% rebate in fees)
+3. Income tax exemption under Section 80-IAC (for 3 years)
+4. Tax exemption on investments above fair market value (Angel Tax)
+5. Public procurement relaxation
+6. Faster exit through Insolvency and Bankruptcy Code
+
+--------------------------------------------------------------------------------
+
+Note: Income Tax exemption under Section 80-IAC requires separate application
+to Inter-Ministerial Board.
+
+                                        Sd/-
+                                        Joint Secretary
+                                        DPIIT, Ministry of Commerce
+
+================================================================================
+                MSME REGISTRATION (UDYAM)
+================================================================================
+
+              UDYAM REGISTRATION CERTIFICATE
+
+--------------------------------------------------------------------------------
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Udyam Registration Number  | UDYAM-MH-00-0012345                        |
+| Name of Enterprise         | SMARTFINANCE INDIA LIMITED                 |
+| Type of Enterprise         | Service                                    |
+| Classification             | Medium Enterprise                          |
+| Date of Registration       | August 1, 2023                             |
+| NIC Code                   | 64920 - Other credit granting              |
+
+--------------------------------------------------------------------------------
+
+Investment and Turnover:
+
+| Parameter            | Amount           | Classification  |
+|----------------------|------------------|-----------------|
+| Investment in Plant  | ₹8.5 Crores      | Medium          |
+| and Machinery        |                  |                 |
+| Annual Turnover      | ₹45 Crores       | Medium          |
+|                      | (FY 2022-23)     |                 |
+
+--------------------------------------------------------------------------------
+
+Benefits:
+- Priority sector lending from banks
+- Collateral-free loans under CGTMSE
+- Protection against delayed payments
+- Preference in government tenders
+
+================================================================================
+                LOWER TDS CERTIFICATE
+================================================================================
+
+              CERTIFICATE FOR LOWER/NIL RATE OF TDS
+              UNDER SECTION 197 OF INCOME TAX ACT
+
+--------------------------------------------------------------------------------
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Certificate No.            | LDC/MUM/2024-25/12345                      |
+| Financial Year             | 2024-25                                    |
+| Applicable Section         | 194A (Interest)                            |
+| Lower Rate Approved        | 2% (Instead of 10%)                        |
+| Valid From                 | April 1, 2024                              |
+| Valid Until                | March 31, 2025                             |
+
+--------------------------------------------------------------------------------
+
+This certificate authorizes the following payers to deduct TDS at the lower
+rate of 2% on interest payments:
+
+1. HDFC Bank Limited
+2. ICICI Bank Limited
+3. Yes Bank Limited
+
+Note: Renewal application to be filed before March 1, 2025 for FY 2025-26.
+
+================================================================================
+                TAX COMPLIANCE SUMMARY
+================================================================================
+
+| Tax Type                   | Status      | Last Filing | Next Due      |
+|----------------------------|-------------|-------------|---------------|
+| Income Tax                 | Compliant   | Sep 30, 2024| Jul 31, 2025  |
+| GST (GSTR-3B)              | Compliant   | Nov 20, 2024| Dec 20, 2024  |
+| GST (GSTR-1)               | Compliant   | Nov 11, 2024| Dec 11, 2024  |
+| TDS Return                 | Compliant   | Oct 31, 2024| Jan 31, 2025  |
+| Professional Tax           | Compliant   | Oct 2024    | Nov 2024      |
+| Advance Tax                | Compliant   | Sep 15, 2024| Dec 15, 2024  |
+| ROC Annual Filing          | Compliant   | Nov 27, 2024| Nov 29, 2025  |
+
+================================================================================
+
+                    END OF TAX REGISTRATION CERTIFICATES
+
+================================================================================

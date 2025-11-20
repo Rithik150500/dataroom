@@ -1,0 +1,41 @@
+Shareholder Name,Shareholder Type,Share Class,Number of Shares,Face Value (Rs),Issue Price (Rs),Total Investment (Rs),Ownership %,Fully Diluted %,Vesting Status
+Vikram Mehta,Founder,Equity - Class A,500000,10,10,5000000,13.70%,12.50%,100% Vested
+Anjali Deshmukh,Founder,Equity - Class A,300000,10,10,3000000,8.22%,7.50%,100% Vested
+Rohan Kapoor,Founder,Equity - Class A,200000,10,10,2000000,5.48%,5.00%,100% Vested
+Mumbai Angels Network LLP,Angel Investor,Equity - Class A,250000,10,17.50,4375000,6.85%,6.25%,N/A
+Matrix Partners India II LLP,Venture Capital,Series Seed CCPS,600000,10,25.00,15000000,16.44%,15.00%,N/A
+Sequoia Capital India LLP,Venture Capital,Series A CCPS,1000000,10,47.22,47220000,27.40%,25.00%,N/A
+Tiger Global Management LLC,Venture Capital,Series A CCPS,800000,10,47.22,37776000,21.92%,20.00%,N/A
+ESOP Pool (Unallocated),Employee Pool,Reserved,225000,10,N/A,N/A,N/A,5.63%,Reserved
+ESOP Pool (Granted - Unvested),Employee Pool,Options,165000,10,Various,N/A,N/A,4.13%,Vesting
+Total Issued,,,3650000,,,114371000,100.00%,N/A,
+Total Fully Diluted (incl ESOP),,,4000000,,,,100.00%,
+,,,,,,,,
+CAPITALIZATION SUMMARY,,,,,,,,
+,,,,,,,,
+Authorized Share Capital,,,,,,,150000000,
+Equity Shares (50L x Rs 10),,,,,,,50000000,
+Preference Shares (10L x Rs 100),,,,,,,100000000,
+,,,,,,,,
+Issued and Paid-Up Capital,,,,,,,36500000,
+Securities Premium,,,,,,,103496000,
+Total Paid-Up (incl Premium),,,,,,,139996000,
+,,,,,,,,
+VALUATION SUMMARY,,,,,,,,
+,,,,,,,,
+Round,Date,Pre-Money Valuation (Rs),Amount Raised (Rs),Post-Money Valuation (Rs),Price Per Share (Rs),,
+Founding,Jun-2020,0,10000000,10000000,10.00,,
+Seed,Oct-2020,4375000,8750000,12000000,17.50,,
+Pre-Series A,Jul-2021,48750000,16250000,65000000,25.00,,
+Series A,Mar-2023,295004000,84996000,380000000,47.22,,
+,,,,,,,,
+ESOP DETAILS,,,,,,,,
+,,,,,,,,
+Parameter,Value,,,,,,,
+Total ESOP Pool,600000 shares (15% of FD),,,,,,
+Granted and Vested,185000,,,,,,,
+Granted and Unvested,165000,,,,,,,
+Exercised,0,,,,,,,
+Forfeited/Lapsed,25000,,,,,,,
+Available for Grant,225000,,,,,,,
+Current Exercise Price,38.00,,,,,,,

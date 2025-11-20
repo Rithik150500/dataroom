@@ -1,0 +1,292 @@
+================================================================================
+                    INSURANCE POLICIES
+                          OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+            DIRECTORS & OFFICERS LIABILITY INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Policy Number              | D&O/2024/MUM/123456                        |
+| Insurer                    | HDFC Ergo General Insurance Company Ltd    |
+| Policy Period              | April 1, 2024 to March 31, 2025            |
+| Sum Insured                | ₹10,00,00,000 (Ten Crores)                 |
+| Premium                    | ₹4,25,000 + GST                            |
+| Deductible                 | ₹2,50,000 per claim                        |
+
+COVERAGE:
+
+Side A: Personal liability of Directors & Officers when Company cannot
+        indemnify (e.g., insolvency)
+
+Side B: Reimbursement to Company for indemnification of Directors & Officers
+
+Side C: Entity coverage for securities claims (limited)
+
+INSURED PERSONS:
+- All past, present, and future Directors
+- All past, present, and future Officers
+- Employees in supervisory roles
+
+KEY EXCLUSIONS:
+- Bodily injury or property damage
+- Fraud, dishonesty, or criminal acts
+- Prior and pending litigation
+- Pollution and environmental claims
+- ERISA and employment practices (separate policy)
+- Professional services (E&O coverage separate)
+
+================================================================================
+            CYBER LIABILITY INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Policy Number              | CYB/2024/MUM/789012                        |
+| Insurer                    | Bajaj Allianz General Insurance            |
+| Policy Period              | April 1, 2024 to March 31, 2025            |
+| Sum Insured                | ₹5,00,00,000 (Five Crores)                 |
+| Premium                    | ₹6,50,000 + GST                            |
+| Deductible                 | ₹5,00,000 per claim                        |
+
+COVERAGE:
+
+First Party Coverage:
+- Data breach response costs
+- Business interruption (network failure)
+- Cyber extortion / ransomware
+- Data recovery costs
+- Crisis management / PR costs
+
+Third Party Coverage:
+- Network security liability
+- Privacy liability
+- Regulatory defense and penalties
+- Payment card industry (PCI) fines
+- Media liability
+
+SUB-LIMITS:
+
+| Coverage                   | Sub-Limit                                  |
+|----------------------------|--------------------------------------------|
+| Ransomware                 | ₹1,00,00,000                               |
+| Business Interruption      | ₹2,00,00,000                               |
+| Regulatory Penalties       | ₹1,00,00,000                               |
+| Forensic Investigation     | ₹50,00,000                                 |
+| Notification Costs         | ₹25,00,000                                 |
+
+RETROACTIVE DATE: June 10, 2020 (inception)
+
+================================================================================
+            COMMERCIAL GENERAL LIABILITY INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Policy Number              | CGL/2024/MUM/345678                        |
+| Insurer                    | ICICI Lombard General Insurance            |
+| Policy Period              | April 1, 2024 to March 31, 2025            |
+| Sum Insured                | ₹2,00,00,000 (Two Crores)                  |
+| Premium                    | ₹85,000 + GST                              |
+| Deductible                 | ₹25,000 per claim                          |
+
+COVERAGE:
+- Bodily injury to third parties
+- Property damage to third parties
+- Personal and advertising injury
+- Products and completed operations
+- Medical expenses
+
+LOCATIONS COVERED:
+- 15th Floor, Tower B, One BKC, Mumbai (Registered Office)
+- All premises owned, rented, or occupied in India
+
+================================================================================
+            PROPERTY INSURANCE (OFFICE CONTENTS)
+================================================================================
+
+POLICY DETAILS:
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Policy Number              | FIR/2024/MUM/567890                        |
+| Insurer                    | The New India Assurance Co. Ltd            |
+| Policy Period              | April 1, 2024 to March 31, 2025            |
+| Sum Insured                | ₹1,50,00,000                               |
+| Premium                    | ₹18,000 + GST                              |
+
+COVERAGE:
+- Office furniture and fixtures
+- IT equipment and electronics
+- Data and records
+- Business interruption (6 months)
+
+PERILS COVERED:
+Fire, lightning, explosion, riot, storm, flood, earthquake, burglary, theft
+
+================================================================================
+            GROUP HEALTH INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Policy Number              | GHI/2024/MUM/901234                        |
+| Insurer                    | HDFC Ergo Health Insurance                 |
+| Policy Period              | April 1, 2024 to March 31, 2025            |
+| Sum Insured per Family     | ₹5,00,000                                  |
+| Total Lives Covered        | 450 (Employees + Dependents)               |
+| Premium                    | ₹22,50,000 + GST                           |
+
+COVERAGE:
+- Hospitalization expenses
+- Pre and post hospitalization (60/90 days)
+- Day care procedures (140+)
+- Ambulance charges (₹3,000)
+- Maternity (after 1 year): ₹50,000
+- New born coverage: ₹50,000
+
+NETWORK HOSPITALS: 8,000+ across India
+CASHLESS SETTLEMENT: Available
+CO-PAY: None
+ROOM RENT LIMIT: None
+
+COVERED MEMBERS:
+- All confirmed employees
+- Spouse
+- Up to 2 dependent children (up to 25 years)
+- Parents (optional - employee paid)
+
+================================================================================
+            GROUP TERM LIFE INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Policy Number              | GTL/2024/MUM/234567                        |
+| Insurer                    | HDFC Life Insurance Co. Ltd                |
+| Policy Period              | April 1, 2024 to March 31, 2025            |
+| Sum Assured                | 3x Annual CTC (per employee)               |
+| Total Lives Covered        | 185                                        |
+| Premium                    | ₹8,50,000 + GST                            |
+
+COVERAGE:
+- Death due to any cause (natural or accidental)
+- Terminal illness benefit
+- Accelerated death benefit
+
+NOMINATION:
+Each employee must submit nomination form
+
+================================================================================
+            GROUP PERSONAL ACCIDENT INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Policy Number              | GPA/2024/MUM/345678                        |
+| Insurer                    | Bajaj Allianz General Insurance            |
+| Policy Period              | April 1, 2024 to March 31, 2025            |
+| Sum Insured                | 2x Annual CTC (per employee)               |
+| Total Lives Covered        | 185                                        |
+| Premium                    | ₹2,85,000 + GST                            |
+
+COVERAGE:
+- Accidental death: 100% SI
+- Permanent total disability: 100% SI
+- Permanent partial disability: As per scale
+- Temporary total disability: Weekly benefit
+- Medical expenses: ₹50,000
+
+================================================================================
+            KEYMAN INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Policy Number              | KEY/2024/567890                            |
+| Insurer                    | ICICI Prudential Life Insurance            |
+| Policy Period              | Ongoing (Term: 10 years)                   |
+
+| Keyman              | Sum Assured      | Premium (Annual) |
+|---------------------|------------------|------------------|
+| Vikram Mehta (CEO)  | ₹5,00,00,000     | ₹2,85,000        |
+| Anjali Deshmukh(CFO)| ₹3,00,00,000     | ₹1,65,000        |
+| Rohan Kapoor (CTO)  | ₹3,00,00,000     | ₹1,70,000        |
+
+Tax Treatment:
+- Premium: Deductible as business expense
+- Claim proceeds: Taxable as business income
+
+================================================================================
+            CRIME / FIDELITY INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+| Field                      | Details                                    |
+|----------------------------|--------------------------------------------|
+| Policy Number              | CRM/2024/MUM/456789                        |
+| Insurer                    | Tata AIG General Insurance                 |
+| Policy Period              | April 1, 2024 to March 31, 2025            |
+| Sum Insured                | ₹2,00,00,000                               |
+| Premium                    | ₹95,000 + GST                              |
+| Deductible                 | ₹1,00,000                                  |
+
+COVERAGE:
+- Employee dishonesty / fidelity
+- Funds transfer fraud
+- Computer fraud
+- Forgery or alteration
+- On-premises theft
+- In-transit theft
+
+================================================================================
+            INSURANCE SUMMARY
+================================================================================
+
+| Policy Type                | Sum Insured   | Premium + GST | Insurer       |
+|----------------------------|---------------|---------------|---------------|
+| D&O Liability              | ₹10 Cr        | ₹5,02,000     | HDFC Ergo     |
+| Cyber Liability            | ₹5 Cr         | ₹7,67,000     | Bajaj Allianz |
+| Commercial General Liab.   | ₹2 Cr         | ₹1,00,000     | ICICI Lombard |
+| Property (Office Contents) | ₹1.5 Cr       | ₹21,000       | New India     |
+| Group Health Insurance     | ₹5 L/family   | ₹26,55,000    | HDFC Ergo     |
+| Group Term Life            | 3x CTC        | ₹10,03,000    | HDFC Life     |
+| Group Personal Accident    | 2x CTC        | ₹3,36,000     | Bajaj Allianz |
+| Keyman Insurance           | ₹11 Cr        | ₹7,32,000     | ICICI Pru     |
+| Crime / Fidelity           | ₹2 Cr         | ₹1,12,000     | Tata AIG      |
+|----------------------------|---------------|---------------|---------------|
+| Total Annual Premium       |               | ₹62,28,000    |               |
+
+================================================================================
+            INSURANCE BROKER
+================================================================================
+
+Broker: Marsh India Insurance Brokers Pvt. Ltd.
+Contact: Mr. Rahul Sharma
+Email: rahul.sharma@marsh.com
+Phone: +91 22 4512 3456
+Brokerage: 15% of premium (paid by insurer)
+
+================================================================================
+
+                    END OF INSURANCE POLICIES
+
+================================================================================

@@ -1,0 +1,297 @@
+================================================================================
+                IP ASSIGNMENT AGREEMENTS
+                        OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+            FOUNDER IP ASSIGNMENT AGREEMENT
+================================================================================
+
+This Intellectual Property Assignment Agreement ("Agreement") is made on
+June 10, 2020
+
+BETWEEN:
+
+MR. VIKRAM MEHTA, residing at 45, Malabar Hill, Mumbai - 400006
+(hereinafter referred to as the "Assignor")
+
+AND
+
+SMARTFINANCE INDIA LIMITED, a company incorporated under the Companies Act,
+2013, having its registered office at 15th Floor, Tower B, One BKC, Bandra
+Kurla Complex, Mumbai - 400051
+(hereinafter referred to as the "Company" or "Assignee")
+
+================================================================================
+                     RECITALS
+================================================================================
+
+A. The Assignor is one of the founders of the Company and has developed certain
+   intellectual property, including software code, algorithms, designs, and
+   business concepts prior to and during the incorporation of the Company.
+
+B. The Assignor desires to assign all such intellectual property to the Company
+   to ensure that the Company owns all rights necessary for its business.
+
+C. The Company desires to acquire such intellectual property on the terms set
+   forth herein.
+
+================================================================================
+                1. DEFINITIONS
+================================================================================
+
+1.1 "Assigned IP" means all intellectual property described in Schedule A,
+    including but not limited to:
+    - Software source code and object code
+    - Algorithms and data models
+    - User interface designs
+    - Technical documentation
+    - Business plans and strategies
+    - Customer lists and data
+    - Trade secrets and know-how
+    - Trademarks and service marks
+    - Domain names
+    - Any other intellectual property
+
+1.2 "Derivative Works" means any improvements, modifications, or enhancements
+    to the Assigned IP.
+
+1.3 "Intellectual Property Rights" means all patents, copyrights, trademarks,
+    trade secrets, and other proprietary rights.
+
+================================================================================
+                2. ASSIGNMENT
+================================================================================
+
+2.1 ASSIGNMENT OF IP
+
+    The Assignor hereby irrevocably assigns, transfers, and conveys to the
+    Company, its successors and assigns, all right, title, and interest in
+    and to the Assigned IP, including all Intellectual Property Rights therein.
+
+2.2 SCOPE OF ASSIGNMENT
+
+    The assignment includes:
+    (a) Worldwide, perpetual, exclusive rights
+    (b) Right to use, reproduce, modify, distribute, and display
+    (c) Right to create Derivative Works
+    (d) Right to sublicense
+    (e) Right to enforce Intellectual Property Rights
+    (f) All causes of action and rights to sue for past infringement
+
+2.3 FUTURE DEVELOPMENTS
+
+    Any intellectual property developed by the Assignor in connection with
+    the Company's business after the date hereof shall automatically vest
+    in the Company.
+
+================================================================================
+                3. CONSIDERATION
+================================================================================
+
+3.1 In consideration for the assignment, the Company shall:
+    (a) Issue Equity Shares to the Assignor as per the Subscription Agreement
+    (b) Provide employment/engagement to the Assignor as Managing Director
+
+3.2 The Assignor acknowledges that the consideration is adequate.
+
+================================================================================
+                4. REPRESENTATIONS AND WARRANTIES
+================================================================================
+
+4.1 The Assignor represents and warrants that:
+
+    (a) The Assignor is the sole owner of the Assigned IP.
+
+    (b) The Assigned IP is free from any liens, claims, or encumbrances.
+
+    (c) The Assigned IP does not infringe any third-party rights.
+
+    (d) The Assignor has not granted any licenses to third parties.
+
+    (e) There is no litigation pending or threatened regarding the Assigned IP.
+
+    (f) The Assignor has all necessary rights to make this assignment.
+
+================================================================================
+                5. FURTHER ASSURANCES
+================================================================================
+
+5.1 The Assignor agrees to:
+
+    (a) Execute any additional documents required to perfect the assignment.
+
+    (b) Cooperate with the Company in registration and enforcement of IP rights.
+
+    (c) Provide all source code, documentation, and materials.
+
+    (d) Not challenge the Company's ownership of the Assigned IP.
+
+5.2 Power of Attorney
+
+    The Assignor hereby irrevocably appoints the Company as attorney-in-fact
+    to execute any documents necessary to register or protect the Assigned IP.
+
+================================================================================
+                6. CONFIDENTIALITY
+================================================================================
+
+6.1 The Assignor shall maintain confidentiality of all Assigned IP and shall
+    not disclose it to any third party without the Company's prior consent.
+
+================================================================================
+                7. NON-COMPETE AND NON-SOLICITATION
+================================================================================
+
+7.1 For a period of 24 months from termination of employment/engagement, the
+    Assignor shall not:
+    (a) Engage in any competing business in India
+    (b) Solicit employees or customers of the Company
+    (c) Use or disclose the Assigned IP
+
+================================================================================
+                8. INDEMNIFICATION
+================================================================================
+
+8.1 The Assignor shall indemnify the Company against any claims arising from:
+    (a) Breach of representations and warranties
+    (b) Third-party IP infringement claims
+    (c) Prior unauthorized disclosure of Assigned IP
+
+================================================================================
+                SIGNATURES
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement.
+
+ASSIGNOR
+
+
+Sd/-
+___________________________
+Vikram Mehta
+
+For SMARTFINANCE INDIA LIMITED
+
+
+Sd/-
+___________________________
+Anjali Deshmukh
+Director
+
+WITNESS:
+Sd/- _________________________ Name: _______________ Date: _______________
+
+================================================================================
+                    SCHEDULE A
+              DESCRIPTION OF ASSIGNED IP
+================================================================================
+
+1. SOFTWARE AND CODE
+   - Digital lending platform prototype (Version 0.5)
+   - Credit scoring algorithm (SmartScore v1.0)
+   - Loan origination workflow engine
+   - Customer onboarding modules
+   - API integration frameworks
+
+2. ALGORITHMS AND MODELS
+   - Risk assessment model
+   - Fraud detection rules
+   - Collection prioritization algorithm
+   - Customer segmentation model
+
+3. DESIGNS AND UI/UX
+   - Mobile app wireframes and mockups
+   - Web portal designs
+   - Brand identity concepts
+   - Customer journey maps
+
+4. DOCUMENTATION
+   - System architecture documents
+   - Technical specifications
+   - Business requirement documents
+   - Process flow diagrams
+
+5. BUSINESS ASSETS
+   - Business plan and financial models
+   - Market research and analysis
+   - Competitive intelligence
+   - Partnership strategies
+
+6. DOMAIN NAMES
+   - smartfinance.in
+   - smartfinanceindia.com
+   - getsmartfinance.in
+
+================================================================================
+
+================================================================================
+            EMPLOYEE IP ASSIGNMENT AGREEMENT
+                 (Template for All Employees)
+================================================================================
+
+This Agreement is entered into by each employee upon joining SmartFinance India
+Limited.
+
+KEY TERMS:
+
+1. SCOPE
+   All intellectual property created during employment and related to Company
+   business shall belong to the Company.
+
+2. WORK FOR HIRE
+   All works created within scope of employment are works for hire under
+   Copyright Act.
+
+3. ASSIGNMENT
+   Employee assigns all IP rights that do not vest automatically.
+
+4. DISCLOSURE
+   Employee shall promptly disclose all inventions and developments.
+
+5. ASSISTANCE
+   Employee shall assist with patent applications and registrations.
+
+6. MORAL RIGHTS
+   Employee waives moral rights to the extent permitted by law.
+
+7. RETURN OF MATERIALS
+   Upon termination, employee shall return all Company materials and IP.
+
+8. PRE-EXISTING IP
+   Employee must disclose pre-existing IP at time of joining; such IP excluded
+   from assignment unless used in Company work.
+
+================================================================================
+
+================================================================================
+            CONTRACTOR IP ASSIGNMENT AGREEMENT
+                 (Template for Consultants)
+================================================================================
+
+This Agreement governs intellectual property for all consulting engagements.
+
+KEY TERMS:
+
+1. OWNERSHIP
+   All deliverables and work product belong to the Company.
+
+2. LICENSE TO PRE-EXISTING IP
+   Contractor grants perpetual license for any pre-existing IP incorporated
+   in deliverables.
+
+3. NO OPEN SOURCE
+   Contractor shall not incorporate open source software without approval.
+
+4. SOURCE CODE
+   All source code must be provided to Company.
+
+5. REPRESENTATIONS
+   Contractor represents work does not infringe third-party rights.
+
+================================================================================
+
+                    END OF IP ASSIGNMENT AGREEMENTS
+
+================================================================================
