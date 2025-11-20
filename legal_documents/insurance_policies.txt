@@ -1,0 +1,401 @@
+================================================================================
+                    INSURANCE POLICIES
+                          OF
+              TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+                 INSURANCE COVERAGE SUMMARY
+
+================================================================================
+
+================================================================================
+            DIRECTORS AND OFFICERS LIABILITY INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+Policy Number:                HDFC/DO/2024/123456
+Insurance Company:            HDFC ERGO General Insurance Company Limited
+Policy Period:                April 1, 2024 to March 31, 2025
+Sum Insured:                  Rs. 5,00,00,000 (Rupees Five Crores Only)
+Premium Paid:                 Rs. 1,50,000 + GST
+
+--------------------------------------------------------------------------------
+
+INSURED:
+
+Named Insured:                TechVenture India Private Limited
+Insured Persons:              All past, present, and future Directors and
+                              Officers of the Company
+
+Current Directors:
+1. Mr. Rahul Sharma - Director & CEO
+2. Ms. Priya Mehta - Director & CTO
+3. Mr. Ankit Verma - Non-Executive Director
+4. Mr. Suresh Kumar - Independent Director
+5. Ms. Lakshmi Iyer - Non-Executive Director
+
+Key Managerial Personnel:
+1. Ms. Neha Agarwal - Chief Financial Officer
+2. Mr. Vivek Rao - Company Secretary
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+Side A - Directors & Officers Liability:
+- Personal liability of Directors and Officers when the Company cannot
+  indemnify them
+
+Side B - Corporate Reimbursement:
+- Reimburses the Company for indemnifying Directors and Officers
+
+Side C - Entity Securities Claims:
+- Covers the Company for securities claims (IPO ready coverage)
+
+--------------------------------------------------------------------------------
+
+KEY COVERAGES:
+
+1. Wrongful acts in their capacity as Directors/Officers
+2. Breach of fiduciary duty
+3. Misrepresentation in financial statements
+4. Employment practices liability
+5. Regulatory investigations and inquiries
+6. Defense costs and legal expenses
+
+--------------------------------------------------------------------------------
+
+EXCLUSIONS:
+
+1. Fraud, dishonesty, or criminal acts (if established)
+2. Personal profit or advantage
+3. Prior known circumstances
+4. Bodily injury or property damage
+5. Pollution claims
+6. Professional services liability
+
+--------------------------------------------------------------------------------
+
+DEDUCTIBLE:
+
+Corporate Retention:          Rs. 2,50,000 per claim
+Individual Directors:         Nil (no deductible for Side A claims)
+
+================================================================================
+
+================================================================================
+              PROFESSIONAL INDEMNITY INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+Policy Number:                ICICI/PI/2024/789012
+Insurance Company:            ICICI Lombard General Insurance Company Limited
+Policy Period:                April 1, 2024 to March 31, 2025
+Sum Insured:                  Rs. 2,00,00,000 (Rupees Two Crores Only)
+Premium Paid:                 Rs. 85,000 + GST
+
+--------------------------------------------------------------------------------
+
+INSURED:
+
+Named Insured:                TechVenture India Private Limited
+Business Description:         Software development, SaaS services, IT consulting
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+1. Professional negligence in providing IT services
+2. Errors and omissions in software development
+3. Breach of professional duty
+4. Unintentional breach of confidentiality
+5. Unintentional infringement of intellectual property
+6. Loss or damage to third-party data
+7. Defense costs and legal expenses
+
+--------------------------------------------------------------------------------
+
+EXTENSIONS:
+
+1. Cyber Liability Extension (up to Rs. 50 lakhs)
+   - Data breach notification costs
+   - Forensic investigation costs
+   - Credit monitoring services
+   - Public relations expenses
+
+2. Network Security Extension
+   - Denial of service attacks
+   - Transmission of malicious code
+   - Unauthorized access to systems
+
+--------------------------------------------------------------------------------
+
+EXCLUSIONS:
+
+1. Intentional or deliberate acts
+2. Contractual penalties (unless liability would exist without contract)
+3. Employment disputes
+4. Insolvency or financial failure
+5. Prior known claims
+6. Bodily injury or property damage
+
+--------------------------------------------------------------------------------
+
+DEDUCTIBLE:
+
+Each and every claim:         Rs. 1,00,000
+
+================================================================================
+
+================================================================================
+                  GROUP HEALTH INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+Policy Number:                STAR/GHI/2024/345678
+Insurance Company:            Star Health and Allied Insurance Company Limited
+Policy Period:                April 1, 2024 to March 31, 2025
+Sum Insured:                  Rs. 5,00,000 per employee per year
+Premium Paid:                 Rs. 4,20,000 + GST (for 42 employees)
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+Employees Covered:            42 employees + dependents
+Total Lives Covered:          126 (employees + spouse + 2 children)
+
+--------------------------------------------------------------------------------
+
+BENEFITS:
+
+1. Hospitalization Expenses:
+   - Room rent: Up to Rs. 5,000 per day
+   - ICU: Up to Rs. 10,000 per day
+   - Nursing, medicines, doctor fees: Actual
+   - Surgery and anesthesia: Actual
+
+2. Pre-hospitalization:       30 days before admission
+3. Post-hospitalization:      60 days after discharge
+
+4. Maternity Benefit:
+   - Normal delivery: Rs. 50,000
+   - C-section: Rs. 75,000
+   - Waiting period: 9 months
+
+5. Day Care Procedures:       Covered (367 listed procedures)
+
+6. Ambulance Charges:         Up to Rs. 2,000 per hospitalization
+
+7. Health Check-up:           Once a year (covered under OPD)
+
+8. OPD Coverage:              Rs. 10,000 per employee per year
+
+--------------------------------------------------------------------------------
+
+SPECIAL FEATURES:
+
+1. Cashless hospitalization at 6,000+ network hospitals
+2. No pre-existing disease waiting period for employees
+3. Pre-existing diseases covered from day 1
+4. No sub-limits on room rent
+5. Automatic restoration of sum insured
+6. Coverage for mental illness (under new regulations)
+
+--------------------------------------------------------------------------------
+
+EXCLUSIONS:
+
+1. Cosmetic treatment
+2. Self-inflicted injuries
+3. Treatment for substance abuse
+4. Experimental treatments
+5. Infertility treatment
+6. Dental treatment (unless due to accident)
+
+================================================================================
+
+================================================================================
+                    CYBER INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+Policy Number:                BAJAJ/CYBER/2024/567890
+Insurance Company:            Bajaj Allianz General Insurance Company Limited
+Policy Period:                April 1, 2024 to March 31, 2025
+Sum Insured:                  Rs. 1,00,00,000 (Rupees One Crore Only)
+Premium Paid:                 Rs. 1,20,000 + GST
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+FIRST PARTY COVERAGES:
+
+1. Data Asset Protection:              Up to Rs. 25 lakhs
+   - Cost of restoring data
+   - Data recreation expenses
+
+2. Business Interruption:              Up to Rs. 30 lakhs
+   - Loss of income due to cyber event
+   - Extra expenses to maintain operations
+
+3. Cyber Extortion:                    Up to Rs. 20 lakhs
+   - Ransomware payments
+   - Extortion response costs
+
+4. Incident Response Costs:            Up to Rs. 15 lakhs
+   - Forensic investigation
+   - Public relations
+   - Customer notification
+   - Credit monitoring
+
+5. Regulatory Fines and Penalties:     Up to Rs. 10 lakhs
+   - DPDPA violations
+   - Other regulatory penalties
+
+THIRD PARTY COVERAGES:
+
+6. Network Security Liability:         Full limit
+   - Claims from third parties for security failures
+
+7. Privacy Liability:                  Full limit
+   - Claims for data breaches
+   - Failure to protect personal information
+
+8. Media Liability:                    Up to Rs. 10 lakhs
+   - Defamation, copyright infringement
+   - (Digital content only)
+
+--------------------------------------------------------------------------------
+
+KEY FEATURES:
+
+1. 24x7 incident response hotline
+2. Access to cybersecurity experts
+3. Breach coach and legal counsel
+4. Retroactive coverage (3 years)
+
+--------------------------------------------------------------------------------
+
+DEDUCTIBLE:
+
+Each and every claim:         Rs. 2,00,000
+Waiting period for BI:        12 hours
+
+================================================================================
+
+================================================================================
+                 OFFICE PROPERTY INSURANCE
+================================================================================
+
+POLICY DETAILS:
+
+Policy Number:                TATA/PROP/2024/234567
+Insurance Company:            Tata AIG General Insurance Company Limited
+Policy Period:                April 1, 2024 to March 31, 2025
+Sum Insured:                  Rs. 1,50,00,000 (Rupees One Crore Fifty Lakhs)
+Premium Paid:                 Rs. 35,000 + GST
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+PROPERTY COVERED:
+
+1. Office Furniture and Fixtures:      Rs. 30,00,000
+2. Computers and IT Equipment:         Rs. 80,00,000
+3. Servers and Network Equipment:      Rs. 25,00,000
+4. Other Office Equipment:             Rs. 10,00,000
+5. Valuable Papers and Records:        Rs. 5,00,000
+
+PERILS COVERED:
+
+1. Fire and allied perils
+2. Burglary and theft
+3. Earthquake
+4. Flood and storm
+5. Riot and strike
+6. Malicious damage
+7. Impact damage
+8. Terrorism (add-on)
+
+EXTENSIONS:
+
+1. Electronic Equipment Breakdown
+2. Portable Equipment (outside premises)
+3. Temporary Removal of Contents
+4. Money Insurance (up to Rs. 1 lakh)
+
+--------------------------------------------------------------------------------
+
+EXCLUSIONS:
+
+1. Wear and tear, depreciation
+2. Electrical/mechanical breakdown (except add-on)
+3. War and nuclear risks
+4. Willful negligence
+5. Consequential losses
+
+--------------------------------------------------------------------------------
+
+DEDUCTIBLE:
+
+Fire and allied perils:       Rs. 10,000
+Burglary:                     Rs. 10,000
+Electronic equipment:         Rs. 5,000
+
+================================================================================
+
+================================================================================
+                INSURANCE SCHEDULE SUMMARY
+================================================================================
+
+Policy Type              | Insurer      | Sum Insured    | Premium   | Validity
+-------------------------|--------------|----------------|-----------|----------
+D&O Liability            | HDFC ERGO    | Rs. 5 Cr       | Rs. 1.50L | Mar 2025
+Professional Indemnity   | ICICI Lombard| Rs. 2 Cr       | Rs. 0.85L | Mar 2025
+Group Health             | Star Health  | Rs. 5L/employee| Rs. 4.20L | Mar 2025
+Cyber Insurance          | Bajaj Allianz| Rs. 1 Cr       | Rs. 1.20L | Mar 2025
+Property Insurance       | Tata AIG     | Rs. 1.5 Cr     | Rs. 0.35L | Mar 2025
+-------------------------|--------------|----------------|-----------|----------
+TOTAL ANNUAL PREMIUM                                     | Rs. 8.10L |
+
+All premiums are exclusive of GST at 18%.
+
+================================================================================
+
+                    CLAIMS HISTORY
+
+--------------------------------------------------------------------------------
+| Policy Type          | Year    | Claims Filed | Claims Paid | Status       |
+--------------------------------------------------------------------------------
+| D&O Liability        | 2020-25 | 0            | 0           | No claims    |
+| Professional Indemnity| 2020-25| 0            | 0           | No claims    |
+| Group Health         | 2020-25 | 35           | Rs. 18.5L   | All settled  |
+| Cyber Insurance      | 2020-25 | 0            | 0           | No claims    |
+| Property Insurance   | 2020-25 | 0            | 0           | No claims    |
+--------------------------------------------------------------------------------
+
+Note: Group health claims are for routine hospitalizations and medical expenses
+of employees and their dependents.
+
+================================================================================
+
+                    RENEWAL SCHEDULE
+
+All policies are due for renewal on April 1, 2025.
+
+Insurance Broker: ABC Insurance Brokers Pvt Ltd
+Contact: insurance@abcbrokers.com
+
+Prepared by:
+Ms. Neha Agarwal
+Chief Financial Officer
+Date: November 20, 2025
+
+================================================================================

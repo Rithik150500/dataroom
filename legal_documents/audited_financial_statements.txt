@@ -1,0 +1,367 @@
+================================================================================
+                 AUDITED FINANCIAL STATEMENTS
+                            OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+                  CIN: U72900KA2019PTC123456
+================================================================================
+
+                    FINANCIAL YEARS 2019-2025
+
+================================================================================
+
+================================================================================
+            INDEPENDENT AUDITOR'S REPORT - FY 2023-24
+================================================================================
+
+To the Members of TechVenture India Private Limited
+
+REPORT ON THE AUDIT OF FINANCIAL STATEMENTS
+
+Opinion
+
+We have audited the accompanying financial statements of TechVenture India
+Private Limited ("the Company"), which comprise the Balance Sheet as at
+March 31, 2024, and the Statement of Profit and Loss and Cash Flow Statement
+for the year then ended, and notes to the financial statements.
+
+In our opinion, the accompanying financial statements give a true and fair
+view of the financial position of the Company as at March 31, 2024, and of
+its financial performance and its cash flows for the year then ended in
+accordance with the accounting principles generally accepted in India.
+
+Basis for Opinion
+
+We conducted our audit in accordance with the Standards on Auditing (SAs)
+specified under section 143(10) of the Companies Act, 2013.
+
+Key Audit Matters
+
+Revenue Recognition: We tested the Company's revenue recognition policies
+for SaaS subscriptions and ensured proper cut-off and deferral of revenue.
+
+Conclusion: Revenue recognition is appropriate and in accordance with Ind AS.
+
+Report on Other Legal and Regulatory Requirements
+
+As required by the Companies Act, 2013, we report that:
+(a) We have obtained all the information and explanations necessary
+(b) Proper books of account have been kept
+(c) The Balance Sheet, P&L, and Cash Flow Statement are in agreement with books
+(d) The Company has adequate internal financial controls
+
+
+For XYZ & CO.
+Chartered Accountants
+Firm Registration No.: 012345S
+
+Sd/-
+(CA Ramesh Iyer)
+Partner
+Membership No.: 123456
+UDIN: 24123456ABCDEF1234
+
+Place: Bangalore
+Date: May 15, 2024
+
+================================================================================
+
+================================================================================
+                      BALANCE SHEET
+              AS AT MARCH 31, 2024 AND 2023
+================================================================================
+
+                                              As at         As at
+Particulars                              31.03.2024    31.03.2023
+                                           (Rs.)         (Rs.)
+--------------------------------------------------------------------------------
+
+I. EQUITY AND LIABILITIES
+
+1. SHAREHOLDERS' FUNDS
+   (a) Share Capital                     25,00,000     25,00,000
+   (b) Reserves and Surplus              85,00,000     50,00,000
+                                        -----------   -----------
+   Total Shareholders' Funds            1,10,00,000    75,00,000
+
+2. NON-CURRENT LIABILITIES
+   (a) Long-term Borrowings              50,00,000     50,00,000
+   (b) Deferred Tax Liabilities           2,50,000      1,50,000
+   (c) Long-term Provisions               8,00,000      6,00,000
+                                        -----------   -----------
+   Total Non-Current Liabilities         60,50,000     57,50,000
+
+3. CURRENT LIABILITIES
+   (a) Trade Payables                    15,00,000     12,00,000
+   (b) Other Current Liabilities         25,00,000     18,00,000
+   (c) Short-term Provisions              5,00,000      4,00,000
+                                        -----------   -----------
+   Total Current Liabilities             45,00,000     34,00,000
+
+                                        -----------   -----------
+TOTAL                                   2,15,50,000   1,66,50,000
+                                        ===========   ===========
+
+II. ASSETS
+
+1. NON-CURRENT ASSETS
+   (a) Property, Plant and Equipment     35,00,000     30,00,000
+   (b) Intangible Assets                 20,00,000     15,00,000
+   (c) Long-term Loans and Advances       5,00,000      5,00,000
+                                        -----------   -----------
+   Total Non-Current Assets              60,00,000     50,00,000
+
+2. CURRENT ASSETS
+   (a) Trade Receivables                 45,00,000     35,00,000
+   (b) Cash and Cash Equivalents         85,00,000     60,00,000
+   (c) Short-term Loans and Advances      8,00,000      8,00,000
+   (d) Other Current Assets              17,50,000     13,50,000
+                                        -----------   -----------
+   Total Current Assets                 1,55,50,000   1,16,50,000
+
+                                        -----------   -----------
+TOTAL                                   2,15,50,000   1,66,50,000
+                                        ===========   ===========
+
+================================================================================
+
+================================================================================
+                 STATEMENT OF PROFIT AND LOSS
+           FOR THE YEAR ENDED MARCH 31, 2024 AND 2023
+================================================================================
+
+                                         FY 2023-24    FY 2022-23
+Particulars                                (Rs.)         (Rs.)
+--------------------------------------------------------------------------------
+
+I. REVENUE FROM OPERATIONS
+
+   SaaS Subscription Revenue             4,20,00,000   2,65,00,000
+   Implementation Services                 25,00,000     12,00,000
+   Support and Maintenance                  5,00,000      3,00,000
+                                        -----------   -----------
+   Total Revenue from Operations         4,50,00,000   2,80,00,000
+
+II. OTHER INCOME                           5,00,000      3,00,000
+                                        -----------   -----------
+
+III. TOTAL INCOME (I + II)               4,55,00,000   2,83,00,000
+
+IV. EXPENSES
+
+   Employee Benefits Expense             2,50,00,000   1,80,00,000
+   Cloud Hosting and Infrastructure        45,00,000     35,00,000
+   Marketing and Sales Expenses            50,00,000     30,00,000
+   Professional and Legal Fees             15,00,000     12,00,000
+   Depreciation and Amortization           15,00,000     10,00,000
+   Other Expenses                          35,00,000     13,00,000
+                                        -----------   -----------
+   Total Expenses                        4,10,00,000   2,80,00,000
+
+V. PROFIT BEFORE TAX (III - IV)           45,00,000      3,00,000
+
+VI. TAX EXPENSE
+    Current Tax                           12,00,000        50,000
+    Deferred Tax                           1,00,000        50,000
+                                        -----------   -----------
+    Total Tax Expense                     13,00,000      1,00,000
+
+VII. PROFIT FOR THE YEAR (V - VI)         32,00,000      2,00,000
+                                        ===========   ===========
+
+Earnings Per Share (Face Value Rs. 100)
+   Basic EPS                                  128.00         8.00
+   Diluted EPS                                111.30         6.96
+
+================================================================================
+
+================================================================================
+                    CASH FLOW STATEMENT
+           FOR THE YEAR ENDED MARCH 31, 2024 AND 2023
+================================================================================
+
+                                         FY 2023-24    FY 2022-23
+Particulars                                (Rs.)         (Rs.)
+--------------------------------------------------------------------------------
+
+A. CASH FLOW FROM OPERATING ACTIVITIES
+
+   Net Profit Before Tax                  45,00,000      3,00,000
+   Adjustments for:
+     Depreciation                         15,00,000     10,00,000
+     Interest Income                      (3,00,000)    (2,00,000)
+                                        -----------   -----------
+   Operating Profit before Working
+   Capital Changes                        57,00,000     11,00,000
+
+   Changes in Working Capital:
+     (Increase) in Trade Receivables     (10,00,000)    (8,00,000)
+     (Increase) in Other Assets           (4,00,000)    (3,00,000)
+     Increase in Trade Payables            3,00,000      2,00,000
+     Increase in Other Liabilities         8,00,000      5,00,000
+                                        -----------   -----------
+   Cash Generated from Operations         54,00,000      7,00,000
+   Less: Taxes Paid                      (10,00,000)       (50,000)
+                                        -----------   -----------
+   Net Cash from Operating Activities     44,00,000      6,50,000
+
+B. CASH FLOW FROM INVESTING ACTIVITIES
+
+   Purchase of Fixed Assets              (10,00,000)    (8,00,000)
+   Purchase of Intangibles                (8,00,000)    (5,00,000)
+   Interest Received                       3,00,000      2,00,000
+                                        -----------   -----------
+   Net Cash used in Investing Activities (15,00,000)   (11,00,000)
+
+C. CASH FLOW FROM FINANCING ACTIVITIES
+
+   Proceeds from Borrowings                      -     50,00,000
+                                        -----------   -----------
+   Net Cash from Financing Activities            -     50,00,000
+
+                                        -----------   -----------
+Net Increase in Cash (A+B+C)              29,00,000     45,50,000
+
+Cash at Beginning of Year                 60,00,000     14,50,000
+                                        -----------   -----------
+Cash at End of Year                       89,00,000     60,00,000
+                                        ===========   ===========
+
+================================================================================
+
+================================================================================
+              FIVE-YEAR FINANCIAL SUMMARY
+================================================================================
+
+                    FY19-20   FY20-21   FY21-22   FY22-23   FY23-24
+                    (Rs.)     (Rs.)     (Rs.)     (Rs.)     (Rs.)
+--------------------------------------------------------------------------------
+
+INCOME STATEMENT
+
+Revenue            12,00,000  45,00,000 1,20,00,000 2,80,00,000 4,50,00,000
+Growth %               -        275%       167%       133%       61%
+
+Expenses           30,00,000  77,00,000 1,48,00,000 2,80,00,000 4,10,00,000
+
+EBITDA            (15,00,000)(27,00,000)(18,00,000)  13,00,000  60,00,000
+EBITDA Margin         -          -          -         4.6%      13.3%
+
+Profit/(Loss)     (18,00,000)(32,00,000)(28,00,000)  2,00,000  32,00,000
+Net Margin            -          -          -         0.7%       7.1%
+
+BALANCE SHEET
+
+Total Assets       22,00,000  55,00,000 1,15,00,000 1,66,50,000 2,15,50,000
+Net Worth          20,00,000 (12,00,000)(40,00,000)  75,00,000 1,10,00,000
+Debt                      -          -          -   50,00,000  50,00,000
+
+CASH FLOW
+
+Operating CF       (8,00,000)(20,00,000)(15,00,000)   6,50,000  44,00,000
+Cash Balance       10,00,000  14,50,000  14,50,000  60,00,000  89,00,000
+
+KEY METRICS
+
+Employees                5         12         25         35         42
+Revenue/Employee  2,40,000   3,75,000  4,80,000   8,00,000  10,71,429
+ARR                     -    45,00,000 1,08,00,000 2,52,00,000 4,20,00,000
+Customers               2          8         15         28         42
+Avg Revenue/Cust  6,00,000   5,62,500  8,00,000  10,00,000  10,71,429
+
+--------------------------------------------------------------------------------
+
+Note: Company turned profitable in FY 2022-23 and has shown strong growth
+trajectory. The convertible note of Rs. 50 lakhs was raised in January 2022.
+
+================================================================================
+
+================================================================================
+              NOTES TO FINANCIAL STATEMENTS
+================================================================================
+
+NOTE 1: SIGNIFICANT ACCOUNTING POLICIES
+
+(a) Basis of Preparation
+    The financial statements are prepared in accordance with Indian Accounting
+    Standards (Ind AS) as prescribed under Section 133 of the Companies Act,
+    2013.
+
+(b) Revenue Recognition
+    - SaaS subscription revenue is recognized ratably over the subscription
+      period
+    - Implementation revenue is recognized on completion
+    - Support revenue is recognized over the service period
+
+(c) Property, Plant and Equipment
+    Depreciation is provided on Written Down Value method at rates prescribed
+    under the Companies Act, 2013.
+
+(d) Intangible Assets
+    Software development costs are capitalized and amortized over 5 years.
+
+(e) Employee Benefits
+    - Provident Fund: Defined contribution plan
+    - Gratuity: Defined benefit plan, provision made as per actuarial valuation
+    - Leave encashment: Provision made based on actuarial valuation
+
+NOTE 2: SHARE CAPITAL
+
+                                    31.03.2024    31.03.2023
+Authorized Capital
+50,000 shares of Rs. 100 each       50,00,000     50,00,000
+
+Issued, Subscribed and Paid-up
+25,000 shares of Rs. 100 each       25,00,000     25,00,000
+
+NOTE 3: RESERVES AND SURPLUS
+
+Securities Premium Account           22,50,000     22,50,000
+Retained Earnings                    62,50,000     27,50,000
+                                    -----------   -----------
+Total                                85,00,000     50,00,000
+
+NOTE 4: LONG-TERM BORROWINGS
+
+Convertible Note from Pinnacle
+Ventures LLP (unsecured)             50,00,000     50,00,000
+
+Terms: 8% interest p.a., convertible upon qualified financing or maturity.
+
+NOTE 5: RELATED PARTY TRANSACTIONS
+
+Transactions during the year:
+- Rent paid to Sharma Properties LLP: Rs. 36,00,000
+- Directors' remuneration: Rs. 60,00,000
+
+All transactions are in ordinary course and at arm's length.
+
+NOTE 6: CONTINGENT LIABILITIES
+
+NIL
+
+NOTE 7: SEGMENT REPORTING
+
+The Company operates in a single segment (SaaS software services).
+
+NOTE 8: EVENTS AFTER BALANCE SHEET DATE
+
+The Company is in advanced discussions for Series A funding at a pre-money
+valuation of Rs. 60-75 Crores.
+
+================================================================================
+
+For and on behalf of the Board of Directors
+
+_________________________           _________________________
+Rahul Sharma                        Priya Mehta
+Director & CEO                      Director & CTO
+DIN: 08123456                       DIN: 08234567
+
+_________________________           _________________________
+Neha Agarwal                        Vivek Rao
+Chief Financial Officer             Company Secretary
+
+Place: Bangalore
+Date: May 15, 2024
+
+================================================================================

@@ -1,0 +1,379 @@
+================================================================================
+                 EMPLOYEE HANDBOOK & HR POLICIES
+                            OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+                    TABLE OF CONTENTS
+
+1. Welcome and Company Overview
+2. Code of Conduct
+3. Employment Policies
+4. Leave Policy
+5. Compensation and Benefits
+6. Prevention of Sexual Harassment (POSH) Policy
+7. Work from Home Policy
+8. Information Security Policy
+9. Grievance Redressal
+10. Separation Policy
+
+================================================================================
+
+                 1. WELCOME AND COMPANY OVERVIEW
+
+Welcome to TechVenture India Private Limited!
+
+ABOUT US
+TechVenture is a leading SaaS company providing enterprise software solutions.
+Founded in 2019, we are committed to innovation, excellence, and creating a
+positive workplace culture.
+
+OUR MISSION
+To simplify enterprise operations through innovative software solutions.
+
+OUR VALUES
+- Innovation: We embrace new ideas
+- Integrity: We act with honesty
+- Customer Focus: We prioritize customer success
+- Teamwork: We collaborate effectively
+- Excellence: We strive for quality
+
+================================================================================
+
+                    2. CODE OF CONDUCT
+
+2.1 PROFESSIONAL BEHAVIOR
+All employees shall:
+- Treat colleagues with respect and dignity
+- Maintain professional relationships
+- Communicate openly and honestly
+- Avoid conflicts of interest
+
+2.2 CONFIDENTIALITY
+Employees must protect company confidential information including:
+- Customer data and contracts
+- Financial information
+- Product roadmaps
+- Employee information
+
+2.3 CONFLICTS OF INTEREST
+Employees must:
+- Disclose potential conflicts to HR
+- Avoid personal gain from company relationships
+- Not engage in competing businesses
+
+2.4 USE OF COMPANY RESOURCES
+Company resources (laptops, email, etc.) are for business purposes.
+Limited personal use is permitted.
+
+2.5 SOCIAL MEDIA
+Employees must not:
+- Disclose confidential information
+- Make statements on behalf of company without authorization
+- Post content that damages company reputation
+
+================================================================================
+
+                  3. EMPLOYMENT POLICIES
+
+3.1 EQUAL OPPORTUNITY
+TechVenture is an equal opportunity employer. We do not discriminate based
+on race, religion, gender, age, disability, or any other protected category.
+
+3.2 PROBATION
+- Duration: 3-6 months depending on role
+- Notice period during probation: 15 days
+- Confirmation subject to performance
+
+3.3 WORKING HOURS
+- Standard hours: 9:00 AM - 6:00 PM (with flexibility)
+- Work week: Monday to Friday
+- Core hours (mandatory): 11:00 AM - 4:00 PM
+
+3.4 ATTENDANCE
+- Employees must mark attendance daily
+- Inform manager of any absence
+- Medical certificate required for sick leave > 2 days
+
+3.5 DRESS CODE
+Business casual attire. Professional dress for client meetings.
+
+================================================================================
+
+                    4. LEAVE POLICY
+
+4.1 ANNUAL LEAVE ENTITLEMENT
+
+Leave Type              | Days/Year | Carry Forward | Encashment
+------------------------|-----------|---------------|------------
+Earned/Privilege Leave  | 24        | Max 30 days   | Yes
+Sick/Medical Leave      | 12        | No            | No
+Casual Leave            | 6         | No            | No
+------------------------|-----------|---------------|------------
+Total                   | 42        |               |
+
+4.2 LEAVE ACCRUAL
+- Earned Leave: 2 days per month
+- Sick Leave: 1 day per month
+- Casual Leave: 0.5 days per month
+
+4.3 LEAVE APPLICATION
+- Apply in advance through HRMS
+- Earned Leave: 3 days advance notice
+- Casual Leave: 1 day advance notice
+- Sick Leave: Inform on same day
+
+4.4 SPECIAL LEAVE
+
+Leave Type              | Entitlement
+------------------------|------------------------------------------
+Maternity Leave         | 26 weeks (as per Maternity Benefit Act)
+Paternity Leave         | 5 days
+Marriage Leave          | 5 days
+Bereavement Leave       | 3 days (immediate family)
+Compensatory Off        | For work on holidays/weekends
+
+4.5 PUBLIC HOLIDAYS
+10-12 holidays per year as declared by the company annually.
+
+================================================================================
+
+                5. COMPENSATION AND BENEFITS
+
+5.1 SALARY STRUCTURE
+- Basic Salary
+- House Rent Allowance (HRA)
+- Special Allowance
+- Statutory components (PF, ESI, Gratuity)
+
+5.2 PAYMENT
+- Salary credited by last working day of month
+- Form 16 provided annually
+
+5.3 STATUTORY BENEFITS
+- Provident Fund: 12% of basic (employee + employer)
+- ESI: As applicable
+- Gratuity: After 5 years of service
+- Professional Tax: As per Karnataka slabs
+
+5.4 INSURANCE
+- Group Health Insurance: Rs. 5,00,000 coverage
+- Covers: Employee + Spouse + 2 Children
+
+5.5 ESOP
+Eligible employees may receive stock options as per ESOP Scheme 2020.
+
+5.6 OTHER BENEFITS
+- Annual health check-up
+- Learning and development budget
+- Team outings and events
+
+================================================================================
+
+          6. PREVENTION OF SEXUAL HARASSMENT (POSH) POLICY
+
+6.1 POLICY STATEMENT
+TechVenture is committed to providing a safe workplace free from sexual
+harassment as per the Sexual Harassment of Women at Workplace (Prevention,
+Prohibition and Redressal) Act, 2013.
+
+6.2 DEFINITION OF SEXUAL HARASSMENT
+Sexual harassment includes:
+- Physical contact and advances
+- Demand or request for sexual favors
+- Sexually colored remarks
+- Showing pornography
+- Any unwelcome conduct of sexual nature
+
+6.3 INTERNAL COMPLAINTS COMMITTEE (ICC)
+
+Presiding Officer: Ms. Priya Mehta (Director)
+Members:
+- Ms. Sneha Kapoor (HR Manager)
+- Mr. Arun Kumar (Senior Developer)
+- External Member: Dr. Lakshmi Rao (Advocate)
+
+6.4 COMPLAINT PROCEDURE
+1. Written complaint to ICC within 3 months of incident
+2. ICC to complete inquiry within 90 days
+3. Employer to act on recommendations within 60 days
+
+6.5 CONFIDENTIALITY
+All complaints and proceedings are strictly confidential.
+
+6.6 PROTECTION AGAINST RETALIATION
+No employee shall be retaliated against for filing a complaint in good faith.
+
+6.7 PENALTIES
+- Warning
+- Written apology
+- Withholding promotion/increment
+- Termination
+- Deduction from salary for compensation
+
+6.8 AWARENESS
+- Training for all employees
+- Policy displayed at workplace
+- Annual report filed with District Officer
+
+================================================================================
+
+                 7. WORK FROM HOME POLICY
+
+7.1 ELIGIBILITY
+All employees after confirmation are eligible for WFH.
+
+7.2 HYBRID MODEL
+- Office days: Tuesday, Wednesday, Thursday
+- WFH days: Monday, Friday
+- Flexible based on role and manager approval
+
+7.3 WFH REQUIREMENTS
+- Reliable internet connection
+- Suitable workspace
+- Available during core hours
+- Responsive on communication channels
+
+7.4 EQUIPMENT
+Company provides: Laptop, mouse, headset
+Employee provides: Desk, chair, internet
+
+7.5 COMMUNICATION
+- Daily standups via video call
+- Slack for instant messaging
+- Email for formal communication
+- Video on for meetings
+
+7.6 PERFORMANCE
+Performance expectations remain same regardless of location.
+
+================================================================================
+
+              8. INFORMATION SECURITY POLICY
+
+8.1 PURPOSE
+Protect company and customer data from unauthorized access.
+
+8.2 PASSWORD POLICY
+- Minimum 12 characters
+- Mix of upper, lower, numbers, special characters
+- Change every 90 days
+- No reuse of last 5 passwords
+
+8.3 DATA CLASSIFICATION
+- Public: General information
+- Internal: Employee-only information
+- Confidential: Sensitive business data
+- Restricted: Customer data, credentials
+
+8.4 DEVICE SECURITY
+- Screen lock when away
+- Encrypt hard drives
+- Install company security software
+- Report lost/stolen devices immediately
+
+8.5 EMAIL AND INTERNET
+- No confidential data to personal email
+- No downloading unauthorized software
+- Report suspicious emails to IT
+
+8.6 CLEAN DESK
+- Lock sensitive documents
+- Clear desk at end of day
+- Shred confidential papers
+
+================================================================================
+
+                 9. GRIEVANCE REDRESSAL
+
+9.1 PURPOSE
+Provide fair and transparent mechanism for employee concerns.
+
+9.2 SCOPE
+Covers workplace issues including policies, treatment, working conditions.
+
+9.3 PROCEDURE
+
+Level 1: Immediate Manager
+- Raise concern verbally or in writing
+- Manager to respond within 3 working days
+
+Level 2: HR Department
+- If unresolved, escalate to HR
+- HR to respond within 5 working days
+
+Level 3: Grievance Committee
+- Committee: HR Head, Department Head, Employee Representative
+- Hearing within 10 days
+- Decision within 5 days of hearing
+
+9.4 CONFIDENTIALITY
+All grievances handled confidentially.
+
+9.5 NO RETALIATION
+No adverse action for raising genuine concerns.
+
+================================================================================
+
+                  10. SEPARATION POLICY
+
+10.1 NOTICE PERIOD
+- During probation: 15 days
+- After confirmation: 60 days
+- Recovery of notice period shortfall
+
+10.2 RESIGNATION PROCESS
+1. Submit written resignation to manager
+2. Handover duties and knowledge transfer
+3. Return company assets
+4. Exit interview with HR
+5. Final settlement within 30 days
+
+10.3 TERMINATION
+Company may terminate for:
+- Performance issues (after PIP)
+- Misconduct
+- Violation of policies
+- Redundancy
+
+10.4 FULL AND FINAL SETTLEMENT
+Includes:
+- Salary till last working day
+- Leave encashment
+- Gratuity (if eligible)
+- Reimbursements
+- Deductions (notice recovery, loans, etc.)
+
+10.5 EXIT CHECKLIST
+[ ] Resignation accepted
+[ ] Notice period served/waived
+[ ] Handover completed
+[ ] Assets returned
+[ ] Access revoked
+[ ] Exit interview
+[ ] F&F processed
+[ ] Experience letter issued
+
+================================================================================
+
+                    ACKNOWLEDGMENT
+
+I, _________________________, Employee ID: _________, acknowledge that I have
+received and read the Employee Handbook and HR Policies of TechVenture India
+Private Limited. I understand and agree to comply with all policies contained
+herein.
+
+Signature: _________________________
+Date: _________________________
+
+================================================================================
+
+Document Version: 3.0
+Last Updated: November 1, 2025
+Next Review: November 1, 2026
+
+Approved by:
+Ms. Sneha Kapoor, HR Manager
+Mr. Rahul Sharma, Director
+
+================================================================================

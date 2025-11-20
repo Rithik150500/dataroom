@@ -1,0 +1,308 @@
+================================================================================
+           PARTNERSHIP AND STRATEGIC AGREEMENTS
+                          OF
+              TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+================================================================================
+     1. TECHNOLOGY PARTNERSHIP WITH IIT BANGALORE
+================================================================================
+
+MEMORANDUM OF UNDERSTANDING
+
+Parties:
+1. Indian Institute of Technology, Bangalore (IITB)
+2. TechVenture India Private Limited
+
+Date:                     September 15, 2022
+Term:                     3 years (renewable)
+Status:                   Active
+
+--------------------------------------------------------------------------------
+
+PURPOSE:
+
+To establish a collaborative research partnership for:
+1. Development of AI/ML algorithms for enterprise applications
+2. Joint research projects
+3. Student internship programs
+4. Knowledge exchange
+
+--------------------------------------------------------------------------------
+
+KEY TERMS:
+
+1. RESEARCH COLLABORATION
+   - Joint research in Natural Language Processing (NLP)
+   - Machine Learning models for business process automation
+   - Quarterly progress reviews
+
+2. FUNDING
+   - TechVenture to provide research grant of Rs. 15,00,000 per year
+   - Covers student stipends, equipment, and research expenses
+
+3. INTELLECTUAL PROPERTY
+   - Joint IP for collaborative research
+   - Individual IP for independent work
+   - TechVenture has right of first refusal for commercialization
+
+4. INTERNSHIPS
+   - TechVenture to offer 10 internships per year
+   - Stipend: Rs. 50,000/month
+   - Duration: 3-6 months
+
+5. FACULTY CONSULTATION
+   - Access to faculty expertise
+   - Advisory board participation
+
+6. PUBLICATIONS
+   - Joint papers with proper attribution
+   - Pre-publication review for confidentiality
+
+--------------------------------------------------------------------------------
+
+OUTCOMES TO DATE:
+
+- 2 research papers published
+- 3 patent applications filed (joint)
+- 15 interns hired (5 converted to full-time)
+- ML algorithm for workflow optimization developed
+
+--------------------------------------------------------------------------------
+
+For IIT Bangalore:                    For TechVenture:
+
+_________________________             _________________________
+Prof. K. Raghunath                    Mr. Rahul Sharma
+Dean, Research & Development          Director
+
+================================================================================
+
+================================================================================
+            2. CHANNEL PARTNER MASTER AGREEMENT
+================================================================================
+
+AGREEMENT DETAILS:
+
+Agreement Type:           Non-exclusive Reseller Agreement
+Territory:                India
+Date:                     January 1, 2023
+Term:                     2 years (renewable)
+
+--------------------------------------------------------------------------------
+
+ACTIVE CHANNEL PARTNERS:
+
+Partner 1: CloudTech Solutions Pvt Ltd
+
+Contact:                  Mr. Vikram Desai
+Location:                 Mumbai
+Focus:                    Western India (Maharashtra, Gujarat, Rajasthan)
+Certified Consultants:    5
+Annual Target:            Rs. 2,00,00,000
+Commission:               20% of first year contract value, 10% renewal
+Status:                   Platinum Partner
+
+Partner 2: DigitalEdge Systems
+
+Contact:                  Ms. Ananya Rao
+Location:                 Chennai
+Focus:                    Southern India (TN, KA, KL, AP, TS)
+Certified Consultants:    3
+Annual Target:            Rs. 1,00,00,000
+Commission:               20% of first year contract value, 10% renewal
+Status:                   Gold Partner
+
+--------------------------------------------------------------------------------
+
+KEY TERMS:
+
+1. APPOINTMENT
+   - Non-exclusive right to market and sell TechVenture products
+   - Right to provide implementation and support services
+
+2. PARTNER OBLIGATIONS
+   - Maintain certified consultants
+   - Achieve annual sales targets
+   - Comply with brand guidelines
+   - Provide first-line support to customers
+   - Report sales pipeline quarterly
+
+3. TECHVENTURE OBLIGATIONS
+   - Provide sales and technical training
+   - Marketing support and collateral
+   - Lead sharing in territory
+   - Competitive commission structure
+   - Partner portal access
+
+4. PRICING
+   - Partners purchase at 20-25% discount
+   - Cannot sell below list price
+   - Annual price list updates
+
+5. INTELLECTUAL PROPERTY
+   - License to use TechVenture trademarks
+   - No modification of software
+   - Return of materials on termination
+
+6. SUPPORT
+   - TechVenture provides Level 2 and 3 support
+   - Partners provide Level 1 support
+   - 4-hour response time for critical issues
+
+7. TERMINATION
+   - 90 days notice for convenience
+   - Immediate for material breach
+   - Wind-down of existing customers
+
+--------------------------------------------------------------------------------
+
+PARTNER PROGRAM TIERS:
+
+Tier       | Requirements          | Discount | MDF  | Support
+-----------|----------------------|----------|------|-------------
+Platinum   | 5 certs, Rs.2Cr/year | 25%      | 5%   | Dedicated
+Gold       | 3 certs, Rs.1Cr/year | 22%      | 3%   | Priority
+Silver     | 1 cert, Rs.50L/year  | 20%      | 2%   | Standard
+
+MDF = Marketing Development Funds (% of sales for co-marketing)
+
+--------------------------------------------------------------------------------
+
+FY 2024-25 PARTNER PERFORMANCE:
+
+Partner              | Target      | Achieved    | % of Target
+---------------------|-------------|-------------|------------
+CloudTech Solutions  | Rs. 2.0 Cr  | Rs. 1.5 Cr  | 75%
+DigitalEdge Systems  | Rs. 1.0 Cr  | Rs. 0.8 Cr  | 80%
+
+================================================================================
+
+================================================================================
+              3. API INTEGRATION AGREEMENTS
+================================================================================
+
+ACTIVE INTEGRATIONS:
+
+Integration Partner    | Type         | Status  | Annual Volume
+-----------------------|--------------|---------|---------------
+Zoho                   | Bi-directional| Live   | 500+ syncs/day
+Tally                  | One-way       | Live   | 200+ syncs/day
+Razorpay               | Payments      | Live   | 50+ txns/day
+QuickBooks             | Accounting    | Live   | 100+ syncs/day
+Freshworks             | CRM           | Beta   | Testing
+
+STANDARD INTEGRATION TERMS:
+
+1. API access provided under separate developer agreement
+2. Rate limits: 1,000 requests/hour per customer
+3. No SLA guarantees for third-party APIs
+4. Customer responsible for third-party subscriptions
+5. Data flows per customer configuration
+
+================================================================================
+
+================================================================================
+         4. SERIES A TERM SHEET (UNDER NEGOTIATION)
+================================================================================
+
+INDICATIVE TERM SHEET
+
+Issuer:                   TechVenture India Private Limited
+Round:                    Series A Preferred Stock
+Amount:                   Rs. 15-20 Crores
+
+Lead Investor:            [Under Discussion - 3 VCs interested]
+Expected Closing:         Q1 FY 2025-26
+
+--------------------------------------------------------------------------------
+
+INDICATIVE TERMS:
+
+1. PRE-MONEY VALUATION
+   Range: Rs. 60-75 Crores
+   Implied dilution: 20-25%
+
+2. SECURITY TYPE
+   Series A Convertible Preference Shares
+
+3. LIQUIDATION PREFERENCE
+   1x non-participating preferred
+
+4. ANTI-DILUTION
+   Weighted average broad-based
+
+5. BOARD COMPOSITION
+   - 2 Founder seats
+   - 1 Series A Investor seat
+   - 1 Angel/Existing Investor seat
+   - 1 Independent Director (mutual)
+
+6. PROTECTIVE PROVISIONS (Investor Consent)
+   - Amendment of charter
+   - Issuance of senior/pari passu securities
+   - Dividends
+   - Merger/sale
+   - Debt above threshold
+   - Change of business
+
+7. INFORMATION RIGHTS
+   - Monthly financials
+   - Quarterly board meetings
+   - Annual audited statements
+   - Annual budget approval
+
+8. FOUNDER VESTING
+   - Accelerated vesting of remaining unvested shares
+   - Additional reverse vesting to be discussed
+
+9. ESOP POOL
+   - Expand to 15-20% post-funding
+
+10. KEY CONDITIONS
+    - Completion of legal due diligence
+    - Completion of financial due diligence
+    - Technology audit
+    - Satisfactory customer references
+
+--------------------------------------------------------------------------------
+
+STATUS:
+
+[X] Initial discussions completed
+[X] NDA signed with potential investors
+[X] Data room prepared
+[ ] Due diligence in progress
+[ ] Term sheet finalization
+[ ] Definitive agreements
+[ ] Closing
+
+Expected Timeline: 2-3 months to closing
+
+================================================================================
+
+================================================================================
+                  5. ESCROW AGREEMENT
+================================================================================
+
+(To be executed upon Series A closing)
+
+Purpose: To hold source code in escrow for benefit of customers in case of:
+- Company insolvency
+- Discontinuation of product
+- Material breach of service agreement
+
+Escrow Agent: [To be selected - typically Iron Mountain or similar]
+
+Release Conditions:
+- Bankruptcy or dissolution of TechVenture
+- Material breach not cured in 60 days
+- Discontinuation of product support
+
+================================================================================
+
+Prepared by:
+ABC Legal Associates
+Date: November 20, 2025
+
+================================================================================

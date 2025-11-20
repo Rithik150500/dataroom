@@ -1,0 +1,358 @@
+================================================================================
+                  CONVERTIBLE NOTE AGREEMENT
+================================================================================
+
+THIS CONVERTIBLE NOTE AGREEMENT (the "Agreement") is made on this 15th day
+of January, 2022
+
+BETWEEN
+
+TECHVENTURE INDIA PRIVATE LIMITED, a company incorporated under the Companies
+Act, 2013, having CIN U72900KA2019PTC123456 and its registered office at #42,
+3rd Floor, Koramangala 5th Block, Bangalore - 560095, Karnataka (hereinafter
+referred to as the "Company");
+
+AND
+
+PINNACLE VENTURES LLP, a limited liability partnership registered under the
+LLP Act, 2008, having its office at #567, Cunningham Road, Bangalore - 560052,
+represented by its designated partner Mr. Vijay Rao (hereinafter referred to
+as the "Investor");
+
+The Company and the Investor are hereinafter individually referred to as a
+"Party" and collectively as the "Parties".
+
+================================================================================
+
+                          RECITALS
+
+WHEREAS:
+
+A. The Company is engaged in the business of developing and providing
+   Software as a Service (SaaS) solutions for enterprise resource management.
+
+B. The Company desires to raise funds for working capital and business
+   expansion purposes.
+
+C. The Investor desires to invest in the Company by way of a convertible note.
+
+D. The Parties agree that the investment shall be made on the terms and
+   conditions set forth in this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements
+contained herein, the Parties agree as follows:
+
+================================================================================
+
+                  ARTICLE 1: DEFINITIONS
+
+1.1 "Conversion Event" means any of the following:
+    (a) Qualified Financing
+    (b) Maturity Date
+    (c) Liquidity Event
+
+1.2 "Liquidity Event" means:
+    (a) Sale or merger of the Company
+    (b) Sale of substantially all assets
+    (c) IPO of the Company
+
+1.3 "Maturity Date" means the date that is 24 months from the Investment Date.
+
+1.4 "Note" means the convertible promissory note issued by the Company to
+    the Investor pursuant to this Agreement.
+
+1.5 "Principal Amount" means Rs. 50,00,000 (Rupees Fifty Lakhs Only).
+
+1.6 "Qualified Financing" means an equity financing in which the Company
+    raises at least Rs. 5,00,00,000 (Rupees Five Crores) from institutional
+    investors.
+
+1.7 "Valuation Cap" means Rs. 15,00,00,000 (Rupees Fifteen Crores).
+
+================================================================================
+
+                    ARTICLE 2: INVESTMENT
+
+2.1 PRINCIPAL AMOUNT
+    The Investor agrees to invest the Principal Amount of Rs. 50,00,000
+    (Rupees Fifty Lakhs Only) in the Company by way of a convertible note.
+
+2.2 INVESTMENT DATE
+    The investment shall be made within 7 (seven) days of execution of this
+    Agreement by wire transfer to the Company's bank account:
+
+    Bank: ICICI Bank
+    Account Name: TechVenture India Private Limited
+    Account No.: 123456789012
+    IFSC: ICIC0001234
+
+2.3 USE OF FUNDS
+    The Company shall use the funds for:
+    (a) Working capital requirements
+    (b) Product development and enhancement
+    (c) Sales and marketing expenses
+    (d) General corporate purposes
+
+================================================================================
+
+                     ARTICLE 3: INTEREST
+
+3.1 INTEREST RATE
+    The Principal Amount shall accrue simple interest at the rate of 8%
+    (eight percent) per annum from the Investment Date.
+
+3.2 ACCRUAL
+    Interest shall accrue daily and compound annually. All accrued interest
+    shall be added to the Principal Amount for the purpose of conversion.
+
+3.3 NO CASH PAYMENT
+    Interest shall not be payable in cash and shall only be settled upon
+    conversion or repayment of the Note.
+
+================================================================================
+
+                    ARTICLE 4: CONVERSION
+
+4.1 AUTOMATIC CONVERSION ON QUALIFIED FINANCING
+    Upon a Qualified Financing, the Note (including all accrued interest)
+    shall automatically convert into the same class of shares issued in
+    the Qualified Financing at a price per share equal to the lesser of:
+
+    (a) The price per share in the Qualified Financing multiplied by the
+        Discount Rate (1 - 20% = 0.80); or
+
+    (b) The price per share calculated by dividing the Valuation Cap by
+        the fully diluted capitalization immediately prior to the
+        Qualified Financing.
+
+4.2 CONVERSION AT MATURITY
+    If a Qualified Financing has not occurred by the Maturity Date, the
+    Investor may elect to:
+
+    (a) Convert the Note into equity shares at a valuation of the Valuation
+        Cap; or
+
+    (b) Demand repayment of the Principal Amount plus accrued interest.
+
+4.3 CONVERSION ON LIQUIDITY EVENT
+    If a Liquidity Event occurs before conversion, the Investor shall
+    receive, at its option:
+
+    (a) The greater of:
+        (i) The Principal Amount plus accrued interest multiplied by 2x; or
+        (ii) The amount the Investor would receive if the Note had converted
+             at the Valuation Cap immediately prior to the Liquidity Event;
+
+    OR
+
+    (b) Convert the Note at the Valuation Cap and participate in the
+        Liquidity Event as a shareholder.
+
+================================================================================
+
+               ARTICLE 5: MECHANICS OF CONVERSION
+
+5.1 CONVERSION NOTICE
+    The Company shall provide written notice to the Investor at least 10
+    (ten) days prior to a Conversion Event, including details of the
+    conversion price and number of shares.
+
+5.2 SHARE ISSUANCE
+    Upon conversion, the Company shall:
+    (a) Issue and allot equity shares to the Investor
+    (b) File necessary forms with the Registrar of Companies
+    (c) Issue share certificates within 30 days
+
+5.3 FRACTIONAL SHARES
+    No fractional shares shall be issued. Any fractional shares shall be
+    rounded down to the nearest whole number.
+
+================================================================================
+
+                    ARTICLE 6: REPAYMENT
+
+6.1 REPAYMENT OPTION
+    The Note may be repaid (instead of converted) only:
+    (a) At the election of the Investor on the Maturity Date; or
+    (b) Upon mutual agreement of the Parties.
+
+6.2 PREPAYMENT
+    The Company may not prepay the Note without the Investor's consent.
+
+6.3 SUBORDINATION
+    The Note shall be subordinated to any senior debt of the Company.
+
+================================================================================
+
+            ARTICLE 7: REPRESENTATIONS AND WARRANTIES
+
+7.1 COMPANY REPRESENTATIONS
+    The Company represents and warrants that:
+
+    (a) It is duly incorporated and validly existing under the laws of India;
+    (b) It has the authority to enter into this Agreement;
+    (c) There are no pending material litigations;
+    (d) All financial information provided is true and accurate;
+    (e) The Company is in compliance with applicable laws.
+
+7.2 INVESTOR REPRESENTATIONS
+    The Investor represents and warrants that:
+
+    (a) It has the authority to enter into this Agreement;
+    (b) The funds being invested are not proceeds of illegal activities;
+    (c) The investment is being made for its own account.
+
+================================================================================
+
+                 ARTICLE 8: INFORMATION RIGHTS
+
+8.1 FINANCIAL INFORMATION
+    The Company shall provide to the Investor:
+    (a) Unaudited quarterly financial statements within 30 days of quarter end
+    (b) Audited annual financial statements within 90 days of year end
+    (c) Monthly management reports
+
+8.2 MATERIAL EVENTS
+    The Company shall inform the Investor of any material events within 7 days.
+
+================================================================================
+
+                  ARTICLE 9: COVENANTS
+
+9.1 AFFIRMATIVE COVENANTS
+    The Company agrees to:
+    (a) Maintain proper books and records
+    (b) Comply with all applicable laws
+    (c) Maintain insurance coverage
+    (d) Pay taxes when due
+
+9.2 NEGATIVE COVENANTS
+    Without the Investor's consent, the Company shall not:
+    (a) Issue any senior or pari passu debt
+    (b) Declare or pay dividends
+    (c) Change the nature of its business
+    (d) Enter into related party transactions outside ordinary course
+    (e) Amend its constitutional documents adversely affecting the Investor
+
+================================================================================
+
+               ARTICLE 10: EVENTS OF DEFAULT
+
+10.1 EVENTS OF DEFAULT
+     The following shall constitute Events of Default:
+     (a) Failure to pay any amount when due
+     (b) Breach of any representation, warranty, or covenant
+     (c) Insolvency or bankruptcy of the Company
+     (d) Material adverse change in the Company's business
+
+10.2 CONSEQUENCES
+     Upon an Event of Default, the Investor may:
+     (a) Declare all amounts immediately due and payable; and/or
+     (b) Convert the Note at the Valuation Cap
+
+================================================================================
+
+               ARTICLE 11: GENERAL PROVISIONS
+
+11.1 MOST FAVORED NATION
+     If the Company issues any convertible notes on terms more favorable to
+     the investor, the Investor shall have the right to adopt such terms.
+
+11.2 AMENDMENT
+     This Agreement may be amended only by written agreement of both Parties.
+
+11.3 ASSIGNMENT
+     The Investor may not assign this Note without the Company's consent,
+     except to affiliates.
+
+11.4 GOVERNING LAW
+     This Agreement shall be governed by the laws of India.
+
+11.5 DISPUTE RESOLUTION
+     Any disputes shall be settled by arbitration in Bangalore in accordance
+     with the Arbitration and Conciliation Act, 1996.
+
+================================================================================
+
+                    CONVERSION ILLUSTRATION
+
+EXAMPLE 1: Qualified Financing at Rs. 75 Cr pre-money valuation
+
+Principal + Interest (after 12 months): Rs. 54,00,000
+
+Option A - Discount Method:
+- Price in financing: Rs. 75 Cr / 28,750 FD shares = Rs. 26,087 per share
+- Discounted price: Rs. 26,087 x 0.80 = Rs. 20,870 per share
+- Shares issued: Rs. 54,00,000 / Rs. 20,870 = 259 shares
+
+Option B - Valuation Cap Method:
+- Cap price: Rs. 15 Cr / 28,750 FD shares = Rs. 5,217 per share
+- Shares issued: Rs. 54,00,000 / Rs. 5,217 = 1,035 shares
+
+Investor receives: 1,035 shares (better of the two)
+
+--------------------------------------------------------------------------------
+
+EXAMPLE 2: Conversion at Maturity (no Qualified Financing)
+
+Principal + Interest (after 24 months): Rs. 58,00,000
+
+Conversion at Valuation Cap:
+- Cap price: Rs. 15 Cr / 28,750 FD shares = Rs. 5,217 per share
+- Shares issued: Rs. 58,00,000 / Rs. 5,217 = 1,112 shares
+
+================================================================================
+
+                    NOTE DETAILS SUMMARY
+
+Principal Amount:             Rs. 50,00,000
+Interest Rate:                8% per annum (simple)
+Maturity Date:                January 14, 2024
+Valuation Cap:                Rs. 15,00,00,000
+Discount:                     20%
+
+Investment Date:              January 15, 2022
+Conversion Status:            Pending (Note still outstanding)
+
+Note: As of November 2025, the Company is in discussions for Series A
+funding. Upon closure of Series A, this Note will automatically convert.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date
+first written above.
+
+
+For TECHVENTURE INDIA PRIVATE LIMITED
+(Company)
+
+
+_________________________
+Name: Rahul Sharma
+Designation: Director
+Date: 15th January, 2022
+
+
+
+For PINNACLE VENTURES LLP
+(Investor)
+
+
+_________________________
+Name: Vijay Rao
+Designation: Designated Partner
+Date: 15th January, 2022
+
+
+
+WITNESSES:
+
+1. _________________________
+   Name: Priya Mehta
+   Address: 456 Brigade Road, MG Road, Bangalore - 560001
+
+2. _________________________
+   Name: Vivek Rao
+   Address: 234 HSR Layout, Bangalore - 560102
+
+================================================================================

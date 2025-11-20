@@ -1,0 +1,316 @@
+================================================================================
+              INCOME TAX RETURNS AND TAX AUDIT
+                          OF
+              TECHVENTURE INDIA PRIVATE LIMITED
+                    PAN: AABCT1234F
+================================================================================
+
+================================================================================
+                 INCOME TAX RETURNS SUMMARY
+================================================================================
+
+FILING HISTORY:
+
+--------------------------------------------------------------------------------
+| AY      | Return | Date Filed | Due Date   | Income/Loss  | Tax Paid | Refund |
+--------------------------------------------------------------------------------
+| 2020-21 | ITR-6  | 30.10.2020 | 31.10.2020 | (18,00,000) | NIL      | NIL    |
+| 2021-22 | ITR-6  | 29.10.2021 | 31.10.2021 | (32,00,000) | NIL      | NIL    |
+| 2022-23 | ITR-6  | 28.10.2022 | 31.10.2022 | (28,00,000) | NIL      | NIL    |
+| 2023-24 | ITR-6  | 30.10.2023 | 31.10.2023 |   5,00,000  | 1,50,000 | NIL    |
+| 2024-25 | ITR-6  | 29.10.2024 | 31.10.2024 |  35,00,000  | 12,50,000| NIL    |
+--------------------------------------------------------------------------------
+
+Note: All returns filed within due dates. Company started making profits in
+FY 2022-23.
+
+================================================================================
+
+================================================================================
+            INCOME TAX RETURN - AY 2024-25
+                    (FY 2023-24)
+================================================================================
+
+FORM ITR-6
+For Companies other than companies claiming exemption under section 11
+
+--------------------------------------------------------------------------------
+
+PART A - GENERAL INFORMATION
+
+1. Name: TechVenture India Private Limited
+2. PAN: AABCT1234F
+3. CIN: U72900KA2019PTC123456
+4. Status: Domestic Company
+5. Date of Incorporation: 15.03.2019
+6. Assessment Year: 2024-25
+7. Residential Status: Resident
+
+--------------------------------------------------------------------------------
+
+PART B - COMPUTATION OF TOTAL INCOME
+
+                                                        Amount (Rs.)
+INCOME FROM BUSINESS OR PROFESSION
+
+Profit as per Profit & Loss Account                      45,00,000
+
+Add: Disallowances
+  - Depreciation as per books                            15,00,000
+  - Provision for gratuity (not funded)                   2,00,000
+  - Provision for leave encashment                        1,00,000
+                                                        -----------
+                                                         18,00,000
+
+Less: Allowances
+  - Depreciation as per IT Act                           12,00,000
+  - Gratuity paid                                         1,00,000
+                                                        -----------
+                                                         13,00,000
+
+Net Adjustments                                           5,00,000
+                                                        -----------
+Income from Business                                     50,00,000
+
+INCOME FROM OTHER SOURCES
+
+Interest Income                                           3,00,000
+                                                        -----------
+Total Income from Other Sources                           3,00,000
+
+                                                        -----------
+GROSS TOTAL INCOME                                       53,00,000
+
+Less: Deductions under Chapter VI-A
+  - Section 80IAC (Startup deduction)                    50,00,000
+                                                        -----------
+TOTAL INCOME                                              3,00,000
+                                                        ===========
+
+TAX COMPUTATION
+
+Tax on Rs. 3,00,000 @ 25%                                   75,000
+Add: Surcharge                                               NIL
+Add: Health & Education Cess @ 4%                           3,000
+                                                        -----------
+Total Tax Liability                                         78,000
+
+Less: Advance Tax Paid                                   12,50,000
+Less: TDS Credit                                          2,00,000
+                                                        -----------
+Refund Due                                              (13,72,000)
+
+Note: Company elected to claim 80IAC deduction for AY 2022-23, 2023-24, 2024-25.
+This is the third and final year of deduction.
+
+--------------------------------------------------------------------------------
+
+PART C - CARRY FORWARD OF LOSSES
+
+Brought Forward Business Loss:                           78,00,000
+Set off against current year income:                            -
+Carried forward to next year:                            78,00,000
+
+(Losses can be carried forward for 8 years from the year of loss)
+
+Year of Loss    | Original Loss | Set Off | Balance   | Expires
+----------------|---------------|---------|-----------|--------
+FY 2019-20      | 18,00,000     | NIL     | 18,00,000 | AY28-29
+FY 2020-21      | 32,00,000     | NIL     | 32,00,000 | AY29-30
+FY 2021-22      | 28,00,000     | NIL     | 28,00,000 | AY30-31
+
+================================================================================
+
+================================================================================
+                    TAX AUDIT REPORT
+                      FORM 3CD
+================================================================================
+
+FORM NO. 3CD
+(See rule 6G(2))
+
+Statement of particulars required to be furnished under section 44AB
+of the Income-tax Act, 1961
+
+--------------------------------------------------------------------------------
+
+PART A
+
+1. Name of assessee: TechVenture India Private Limited
+2. Address: #42, 3rd Floor, Koramangala 5th Block, Bangalore - 560095
+3. PAN: AABCT1234F
+4. Previous Year: 01.04.2023 to 31.03.2024
+5. Assessment Year: 2024-25
+6. Relevant Clause of section 44AB: 44AB(a) - Turnover exceeds Rs. 1 Crore
+
+--------------------------------------------------------------------------------
+
+PART B
+
+7. Books of Account Maintained
+   (a) Maintained at: #42, 3rd Floor, Koramangala 5th Block, Bangalore
+   (b) List of books:
+       - Cash Book
+       - Bank Book
+       - Journal
+       - Ledger
+       - Sales Register
+       - Purchase Register
+       - Fixed Assets Register
+       - Stock Register
+
+8. Method of Accounting: Mercantile
+
+9. Method of Valuation of Closing Stock: At lower of cost or NRV
+
+10. Capital Account of Partners: Not Applicable
+
+--------------------------------------------------------------------------------
+
+SIGNIFICANT CLAUSES:
+
+11. Amounts not credited to P&L being:
+    (a) Items in trade: NIL
+    (b) Capital receipts: NIL
+    (c) Credits to suspense: NIL
+
+12. Depreciation
+    As per books: Rs. 15,00,000
+    As per IT Act: Rs. 12,00,000
+    Difference: Rs. 3,00,000
+
+13. Amounts debited to P&L being:
+    (a) Capital expenditure: NIL
+    (b) Personal expenditure: NIL
+    (c) Advertisement in political party: NIL
+
+14. Provisions for gratuity (not allowable as not funded): Rs. 2,00,000
+
+15. Section 40A(2) - Payments to related parties:
+    - Rent to Sharma Properties LLP: Rs. 36,00,000
+      Arm's length confirmed (below market rate)
+
+16. Tax Deducted at Source:
+    Nature         | Amount Paid  | TDS Deducted | Deposited
+    ---------------|--------------|--------------|----------
+    Salary         | 2,50,00,000  | 35,00,000    | 35,00,000
+    Professional   | 15,00,000    | 1,50,000     | 1,50,000
+    Rent           | 36,00,000    | 3,60,000     | 3,60,000
+    Contractors    | 20,00,000    | 2,00,000     | 2,00,000
+
+    All TDS deposited within due dates.
+
+17. Quantitative details of goods: Not Applicable (Service Company)
+
+18. Compliance with TDS/TCS provisions:
+    No defaults in deduction or deposit.
+
+--------------------------------------------------------------------------------
+
+VERIFICATION
+
+Verified and found correct.
+
+For XYZ & CO.
+Chartered Accountants
+FRN: 012345S
+
+Sd/-
+CA Ramesh Iyer
+Partner
+Membership No.: 123456
+UDIN: 24123456ABCDEF1234
+Date: May 15, 2024
+
+================================================================================
+
+================================================================================
+                 TDS COMPLIANCE SUMMARY
+================================================================================
+
+TDS RETURN FILING STATUS (FY 2023-24):
+
+Quarter | Form   | Due Date   | Filed On   | Status    | Demand
+--------|--------|------------|------------|-----------|--------
+Q1      | 24Q    | 31.07.2023 | 28.07.2023 | On Time   | NIL
+Q2      | 24Q    | 31.10.2023 | 29.10.2023 | On Time   | NIL
+Q3      | 24Q    | 31.01.2024 | 28.01.2024 | On Time   | NIL
+Q4      | 24Q    | 31.05.2024 | 28.05.2024 | On Time   | NIL
+
+Form 16 issued to all employees by: June 15, 2024
+Form 16A issued to all deductees: Within 15 days of each quarter
+
+TDS CERTIFICATES ISSUED: 42 (Employees) + 25 (Vendors)
+
+================================================================================
+
+================================================================================
+                ADVANCE TAX COMPLIANCE
+================================================================================
+
+ADVANCE TAX PAYMENTS - FY 2024-25 (AY 2025-26):
+
+Installment | Due Date   | Amount Due  | Amount Paid | Date Paid  | Status
+------------|------------|-------------|-------------|------------|--------
+1st (15%)   | 15.06.2024 | 3,00,000    | 3,00,000    | 14.06.2024 | Paid
+2nd (45%)   | 15.09.2024 | 6,75,000    | 4,00,000    | 13.09.2024 | Paid
+3rd (75%)   | 15.12.2024 | 6,75,000    | 3,50,000    | 14.12.2024 | Paid
+4th (100%)  | 15.03.2025 | 4,75,000    | Due         | -          | Pending
+------------|------------|-------------|-------------|------------|--------
+Total       |            | 21,25,000   | 10,50,000   |            |
+
+Estimated Tax Liability for FY 2024-25: Rs. 21,25,000
+
+================================================================================
+
+================================================================================
+                   TAX ASSESSMENT STATUS
+================================================================================
+
+STATUS OF ASSESSMENTS:
+
+Assessment Year | Status              | Demand | Refund  | Remarks
+----------------|---------------------|--------|---------|------------------
+AY 2020-21      | Completed u/s 143(1)| NIL    | NIL     | Intimation issued
+AY 2021-22      | Completed u/s 143(1)| NIL    | NIL     | Intimation issued
+AY 2022-23      | Completed u/s 143(1)| NIL    | NIL     | Intimation issued
+AY 2023-24      | Completed u/s 143(1)| NIL    | NIL     | Intimation issued
+AY 2024-25      | Under Processing    | -      | Expected| Filed Oct 2024
+
+No scrutiny assessment selected.
+No demand outstanding.
+No tax litigation pending.
+
+================================================================================
+
+================================================================================
+                TAX NOTICES AND RESPONSES
+================================================================================
+
+NOTICES RECEIVED AND RESOLVED:
+
+1. NOTICE U/S 143(1) - PRIMA FACIE ADJUSTMENT
+
+   AY: 2022-23
+   Date of Notice: December 15, 2022
+   Issue: Mismatch in TDS credit
+   Response Filed: December 20, 2022
+   Resolution: Credit allowed after submission of Form 26AS
+
+2. NOTICE FOR VERIFICATION OF 80IAC CLAIM
+
+   AY: 2023-24
+   Date of Notice: January 10, 2024
+   Issue: Verification of startup exemption claim
+   Documents Submitted: DPIIT certificate, 80IAC certificate
+   Resolution: Claim accepted, no further action
+
+Both notices resolved satisfactorily with no demand.
+
+================================================================================
+
+Prepared by:
+M/s. XYZ & Co., Chartered Accountants
+Date: November 20, 2025
+
+================================================================================

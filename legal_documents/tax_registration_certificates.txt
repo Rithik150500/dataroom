@@ -1,0 +1,324 @@
+================================================================================
+                 TAX REGISTRATION CERTIFICATES
+                            OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+================================================================================
+                    PERMANENT ACCOUNT NUMBER (PAN)
+                      INCOME TAX DEPARTMENT
+                       GOVERNMENT OF INDIA
+================================================================================
+
+                        PAN CARD
+
+--------------------------------------------------------------------------------
+
+PERMANENT ACCOUNT NUMBER:     AABCT1234F
+
+Name:                         TECHVENTURE INDIA PRIVATE LIMITED
+
+Date of Incorporation:        15/03/2019
+
+Status:                       Company
+
+--------------------------------------------------------------------------------
+
+                    [PHOTO/LOGO PLACEHOLDER]
+
+--------------------------------------------------------------------------------
+
+                    SIGNATURE OF APPLICANT
+
+                    _________________________
+
+Issued by:                    Income Tax Department
+Date of Issue:                20th March, 2019
+Jurisdiction:                 Bangalore
+
+--------------------------------------------------------------------------------
+
+Note: This PAN is valid throughout India. Please quote this PAN in all
+correspondence and tax-related documents.
+
+================================================================================
+
+================================================================================
+                 TAX DEDUCTION ACCOUNT NUMBER (TAN)
+                      INCOME TAX DEPARTMENT
+                       GOVERNMENT OF INDIA
+================================================================================
+
+                        TAN CERTIFICATE
+
+--------------------------------------------------------------------------------
+
+TAX DEDUCTION ACCOUNT NUMBER: BLRT12345A
+
+Name of Deductor:             TECHVENTURE INDIA PRIVATE LIMITED
+
+Address:                      #42, 3rd Floor, Koramangala 5th Block
+                              Bangalore - 560095
+                              Karnataka
+
+Type of Deductor:             Company
+
+PAN of Deductor:              AABCT1234F
+
+--------------------------------------------------------------------------------
+
+This is to certify that the above-mentioned deductor has been allotted
+Tax Deduction Account Number (TAN) as mentioned above for the purpose of
+deduction and collection of tax at source under the Income Tax Act, 1961.
+
+--------------------------------------------------------------------------------
+
+Issued by:                    Income Tax Department
+Date of Issue:                25th March, 2019
+Assessing Officer:            CIT (TDS), Bangalore
+
+--------------------------------------------------------------------------------
+
+Note: TAN must be quoted in all TDS/TCS returns, challans, and certificates.
+
+================================================================================
+
+================================================================================
+          GOODS AND SERVICES TAX (GST) REGISTRATION CERTIFICATE
+                    CENTRAL BOARD OF INDIRECT TAXES
+                         GOVERNMENT OF INDIA
+================================================================================
+
+                    GST REGISTRATION CERTIFICATE
+
+--------------------------------------------------------------------------------
+
+GSTIN:                        29AABCT1234F1ZW
+
+Legal Name:                   TECHVENTURE INDIA PRIVATE LIMITED
+
+Trade Name:                   TechVenture
+
+Constitution of Business:     Private Limited Company
+
+Address of Principal Place    #42, 3rd Floor, Koramangala 5th Block,
+of Business:                  Bangalore - 560095, Karnataka
+
+Date of Liability:            01st April, 2019
+
+Date of Validity:             From 01st April, 2019
+
+Type of Registration:         Regular
+
+--------------------------------------------------------------------------------
+
+                    PARTICULARS OF AUTHORIZED SIGNATORY
+
+Name:                         Rahul Sharma
+Designation:                  Director
+Mobile Number:                +91-98765-43210
+Email:                        rahul@techventure.in
+
+--------------------------------------------------------------------------------
+
+                    DETAILS OF ADDITIONAL PLACES OF BUSINESS
+
+S.No.   Address                                          State
+--------------------------------------------------------------------------------
+1.      NIL (No additional places of business)
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+                    DETAILS OF GOODS/SERVICES
+
+HSN/SAC Code    Description                              Tax Rate
+--------------------------------------------------------------------------------
+998314          Computer software licensing services     18%
+998315          Computer software design services        18%
+998316          Computer software implementation         18%
+998311          IT consulting services                   18%
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+                    COMPOSITION SCHEME
+
+[ ] Opted for Composition Scheme
+[✓] Regular Taxpayer
+
+--------------------------------------------------------------------------------
+
+This certificate is issued under the provisions of the Central Goods and
+Services Tax Act, 2017 and the Karnataka Goods and Services Tax Act, 2017.
+
+Issued by:
+Superintendent of Central Tax
+Central Goods and Services Tax
+Bangalore East Commissionerate
+
+Date: 01st April, 2019
+
+Digital Signature Certificate
+[Digitally Signed]
+
+--------------------------------------------------------------------------------
+
+                    VERIFICATION DETAILS
+
+Certificate can be verified at: https://www.gst.gov.in
+Search by GSTIN: 29AABCT1234F1ZW
+
+--------------------------------------------------------------------------------
+
+                    GST COMPLIANCE STATUS
+
+Filing Status (Last 12 months):
+
+Month         GSTR-1      GSTR-3B     Status
+--------------------------------------------------------------------------------
+Nov 2025      Filed       Filed       Compliant
+Oct 2025      Filed       Filed       Compliant
+Sep 2025      Filed       Filed       Compliant
+Aug 2025      Filed       Filed       Compliant
+Jul 2025      Filed       Filed       Compliant
+Jun 2025      Filed       Filed       Compliant
+May 2025      Filed       Filed       Compliant
+Apr 2025      Filed       Filed       Compliant
+Mar 2025      Filed       Filed       Compliant
+Feb 2025      Filed       Filed       Compliant
+Jan 2025      Filed       Filed       Compliant
+Dec 2024      Filed       Filed       Compliant
+--------------------------------------------------------------------------------
+
+Annual Returns Filed:
+- GSTR-9 for FY 2023-24: Filed on 31st December, 2024
+- GSTR-9 for FY 2022-23: Filed on 31st December, 2023
+- GSTR-9 for FY 2021-22: Filed on 31st December, 2022
+- GSTR-9 for FY 2020-21: Filed on 31st December, 2021
+- GSTR-9 for FY 2019-20: Filed on 31st December, 2020
+
+Compliance Rating: ⭐⭐⭐⭐⭐ (Excellent)
+
+================================================================================
+
+================================================================================
+              PROFESSIONAL TAX REGISTRATION CERTIFICATE
+                     COMMERCIAL TAXES DEPARTMENT
+                       GOVERNMENT OF KARNATAKA
+================================================================================
+
+                    PROFESSIONAL TAX REGISTRATION
+
+--------------------------------------------------------------------------------
+
+Registration Number:          PTEC/BLR/2019/12345
+
+Name of Employer:             TECHVENTURE INDIA PRIVATE LIMITED
+
+Address:                      #42, 3rd Floor, Koramangala 5th Block
+                              Bangalore - 560095
+                              Karnataka
+
+PAN:                          AABCT1234F
+
+Circle:                       Bangalore South
+
+Date of Registration:         01st April, 2019
+
+--------------------------------------------------------------------------------
+
+This is to certify that the above-named employer has been registered under
+the Karnataka Tax on Professions, Trades, Callings and Employments Act, 1976
+for the purpose of deducting Professional Tax from the salaries of employees.
+
+--------------------------------------------------------------------------------
+
+EMPLOYER OBLIGATIONS:
+
+1. Deduct Professional Tax from employees' salaries as per the slab rates
+2. Deposit the deducted amount by 20th of the following month
+3. File monthly/quarterly returns as applicable
+4. Maintain records of deduction and payment
+
+PROFESSIONAL TAX SLAB (Karnataka):
+
+Monthly Salary              | PT Amount (per month)
+----------------------------|----------------------
+Up to Rs. 15,000            | Nil
+Rs. 15,001 - Rs. 20,000     | Rs. 150
+Above Rs. 20,000            | Rs. 200
+
+--------------------------------------------------------------------------------
+
+Issued by:
+Assistant Commissioner of Commercial Taxes
+Bangalore South Circle
+
+Date: 01st April, 2019
+Seal: [Official Seal]
+
+================================================================================
+
+================================================================================
+                    TAX COMPLIANCE SUMMARY
+================================================================================
+
+INCOME TAX COMPLIANCE:
+
+Assessment Year    | Return Filed | Tax Paid    | Assessment Status
+-------------------|--------------|-------------|-------------------
+AY 2020-21         | 31.10.2020   | Rs. Nil     | Completed
+AY 2021-22         | 31.10.2021   | Rs. Nil     | Completed
+AY 2022-23         | 31.10.2022   | Rs. 1.2 L   | Completed
+AY 2023-24         | 31.10.2023   | Rs. 8.5 L   | Completed
+AY 2024-25         | 31.10.2024   | Rs. 12.5 L  | Under Processing
+
+Tax Audit Status:
+- Tax Audit applicable from FY 2021-22 (Turnover exceeded Rs. 1 Cr)
+- Form 3CD filed for FY 2021-22, 2022-23, 2023-24
+
+Advance Tax Payments (FY 2024-25):
+- 15th June: Rs. 3,00,000
+- 15th September: Rs. 4,00,000
+- 15th December: Rs. 3,50,000
+- 15th March: Rs. 2,00,000 (Due)
+
+TDS COMPLIANCE:
+
+- All TDS returns filed within due dates
+- All TDS certificates (Form 16, 16A) issued to deductees
+- No defaults or late payments
+
+GST COMPLIANCE:
+
+- All returns filed within due dates
+- Input Tax Credit reconciled and matched
+- No outstanding demands or disputes
+
+PROFESSIONAL TAX COMPLIANCE:
+
+- Monthly deductions made from all eligible employees
+- Monthly deposits made to state government
+- Annual return filed
+
+--------------------------------------------------------------------------------
+
+TAX REGISTRATION SUMMARY:
+
+Registration Type    | Number           | Status
+---------------------|------------------|--------
+PAN                  | AABCT1234F       | Active
+TAN                  | BLRT12345A       | Active
+GSTIN                | 29AABCT1234F1ZW  | Active
+Professional Tax     | PTEC/BLR/2019/12345 | Active
+
+Outstanding Tax Demands: NIL
+Pending Assessments: NIL (except current AY)
+Litigation: NIL
+
+Certificate Prepared by:
+M/s. XYZ & Co., Chartered Accountants
+Date: November 20, 2025
+
+================================================================================

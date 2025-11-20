@@ -1,0 +1,385 @@
+================================================================================
+                     LEASE AGREEMENT
+                   FOR OFFICE PREMISES
+================================================================================
+
+THIS LEASE AGREEMENT is made and executed on this 1st day of January, 2023
+
+BETWEEN
+
+SHARMA PROPERTIES LLP, a limited liability partnership registered under the
+Limited Liability Partnership Act, 2008, having its office at 123 Palm Grove,
+Indiranagar, Bangalore - 560038, represented by its Designated Partner
+Mr. Vijay Sharma (hereinafter referred to as the "Lessor" which expression
+shall include his heirs, executors, administrators, legal representatives
+and assigns);
+
+AND
+
+TECHVENTURE INDIA PRIVATE LIMITED, a company incorporated under the Companies
+Act, 2013, having CIN U72900KA2019PTC123456 and its registered office at #42,
+3rd Floor, Koramangala 5th Block, Bangalore - 560095, Karnataka, represented
+by its Director Mr. Rahul Sharma (hereinafter referred to as the "Lessee"
+which expression shall include its successors and assigns).
+
+================================================================================
+
+                          RECITALS
+
+WHEREAS:
+
+A. The Lessor is the owner and in lawful possession of the property described
+   in Schedule I hereto (the "Premises").
+
+B. The Lessee is engaged in the business of software development and has
+   approached the Lessor for taking the Premises on lease for use as its
+   corporate office.
+
+C. The Lessor has agreed to let out and the Lessee has agreed to take on
+   lease the Premises on the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the rent and covenants herein contained,
+the parties agree as follows:
+
+================================================================================
+
+                   ARTICLE 1: LEASE OF PREMISES
+
+1.1 GRANT OF LEASE
+    The Lessor hereby grants to the Lessee, and the Lessee hereby takes from
+    the Lessor, a lease of the Premises described in Schedule I, together with
+    the right to use common areas, amenities, and parking spaces as specified.
+
+1.2 PURPOSE
+    The Premises shall be used by the Lessee solely for the purpose of
+    operating its software development and IT services business as a
+    corporate office. The Lessee shall not use the Premises for any illegal
+    or immoral purpose.
+
+================================================================================
+
+                      ARTICLE 2: TERM
+
+2.1 LEASE TERM
+    The lease shall be for a period of 3 (three) years commencing from
+    January 1, 2023 and ending on December 31, 2025.
+
+2.2 RENEWAL
+    The Lessee shall have the option to renew this lease for an additional
+    term of 3 (three) years, subject to mutual agreement on rent and other
+    terms. The Lessee shall provide written notice of its intention to renew
+    at least 90 days before the expiry of the current term.
+
+2.3 LOCK-IN PERIOD
+    The first 2 (two) years of the lease term shall be the lock-in period.
+    Neither party may terminate the lease during the lock-in period except
+    for breach of this Agreement.
+
+================================================================================
+
+                      ARTICLE 3: RENT
+
+3.1 MONTHLY RENT
+    The Lessee shall pay to the Lessor a monthly rent of Rs. 3,00,000
+    (Rupees Three Lakhs Only), payable in advance on or before the 5th day
+    of each month.
+
+3.2 ESCALATION
+    The rent shall be increased by 5% (five percent) at the end of each year
+    during the lease term. The rent for subsequent years shall be:
+    - Year 1 (2023): Rs. 3,00,000 per month
+    - Year 2 (2024): Rs. 3,15,000 per month
+    - Year 3 (2025): Rs. 3,30,750 per month
+
+3.3 PAYMENT METHOD
+    Rent shall be paid by bank transfer to the Lessor's account:
+    - Account Name: Sharma Properties LLP
+    - Bank: ICICI Bank, Indiranagar Branch
+    - Account No.: 123456789012
+    - IFSC: ICIC0001234
+
+3.4 LATE PAYMENT
+    If rent is not paid within 7 days of the due date, the Lessee shall pay
+    interest at the rate of 18% per annum on the outstanding amount.
+
+3.5 TDS
+    The Lessee shall deduct TDS at the applicable rate on the rent and
+    provide TDS certificate to the Lessor quarterly.
+
+================================================================================
+
+                  ARTICLE 4: SECURITY DEPOSIT
+
+4.1 AMOUNT
+    The Lessee has paid a security deposit of Rs. 9,00,000 (Rupees Nine Lakhs
+    Only), equivalent to 3 months' rent, to the Lessor.
+
+4.2 INTEREST
+    The security deposit shall be interest-free.
+
+4.3 REFUND
+    The security deposit shall be refunded to the Lessee within 30 days of
+    the termination of this lease and vacation of the Premises, after
+    deducting:
+    (a) Any unpaid rent or other charges
+    (b) Cost of repairs for damages beyond normal wear and tear
+    (c) Utility bills and other dues
+
+4.4 ADJUSTMENT
+    The security deposit shall not be adjusted against rent during the lease
+    term without the Lessor's written consent.
+
+================================================================================
+
+            ARTICLE 5: MAINTENANCE AND UTILITIES
+
+5.1 MAINTENANCE CHARGES
+    The Lessee shall pay common area maintenance charges of Rs. 15,000
+    (Rupees Fifteen Thousand Only) per month, which includes:
+    - Security services
+    - Common area cleaning
+    - Lift maintenance
+    - Common area electricity
+    - Water supply
+
+5.2 UTILITIES
+    The Lessee shall pay directly for all utilities consumed in the Premises:
+    - Electricity (separate meter installed)
+    - Internet and telephone
+    - Any other utilities used exclusively by the Lessee
+
+5.3 INTERNAL MAINTENANCE
+    The Lessee shall be responsible for internal maintenance and minor
+    repairs (up to Rs. 10,000 per instance) of the Premises.
+
+5.4 STRUCTURAL REPAIRS
+    The Lessor shall be responsible for structural repairs, major plumbing
+    and electrical repairs, and repairs to common areas.
+
+================================================================================
+
+              ARTICLE 6: IMPROVEMENTS AND ALTERATIONS
+
+6.1 PERMITTED ALTERATIONS
+    The Lessee may make non-structural interior alterations to the Premises
+    with the prior written consent of the Lessor, which shall not be
+    unreasonably withheld.
+
+6.2 LESSOR'S PROPERTY
+    All permanent improvements and fixtures installed by the Lessee shall
+    become the property of the Lessor upon termination of the lease, unless
+    the Lessor requires removal.
+
+6.3 RESTORATION
+    Upon termination, the Lessee shall restore the Premises to its original
+    condition, subject to normal wear and tear, unless otherwise agreed.
+
+================================================================================
+
+                 ARTICLE 7: INSURANCE
+
+7.1 LESSEE'S INSURANCE
+    The Lessee shall maintain the following insurance policies:
+    (a) Property insurance for all furniture, fixtures, and equipment
+    (b) Public liability insurance
+    (c) Any other insurance required by law
+
+7.2 LESSOR'S INSURANCE
+    The Lessor shall maintain building insurance covering fire and natural
+    disasters.
+
+================================================================================
+
+            ARTICLE 8: COMPLIANCE WITH LAWS
+
+8.1 LESSEE'S COMPLIANCE
+    The Lessee shall comply with all applicable laws, regulations, and
+    building rules, and obtain all necessary licenses and permits for its
+    business operations.
+
+8.2 LESSOR'S COMPLIANCE
+    The Lessor shall ensure that the building complies with all applicable
+    building codes, fire safety regulations, and other legal requirements.
+
+================================================================================
+
+                 ARTICLE 9: ASSIGNMENT AND SUBLETTING
+
+9.1 RESTRICTION
+    The Lessee shall not assign this lease or sublet the Premises or any
+    part thereof without the prior written consent of the Lessor.
+
+9.2 GROUP COMPANIES
+    The Lessor's consent shall not be unreasonably withheld for assignment
+    to the Lessee's affiliates or group companies.
+
+================================================================================
+
+                  ARTICLE 10: TERMINATION
+
+10.1 TERMINATION BY NOTICE
+     After the lock-in period, either party may terminate this lease by
+     giving 90 days' prior written notice to the other party.
+
+10.2 TERMINATION FOR BREACH
+     Either party may terminate this lease immediately if the other party:
+     (a) Commits a material breach and fails to cure within 30 days of notice
+     (b) Becomes insolvent or files for bankruptcy
+
+10.3 LESSOR'S RIGHT TO TERMINATE
+     The Lessor may terminate this lease if the Lessee:
+     (a) Fails to pay rent for 2 consecutive months
+     (b) Uses the Premises for illegal purposes
+     (c) Causes substantial damage to the Premises
+
+10.4 HANDOVER
+     Upon termination, the Lessee shall:
+     (a) Vacate and hand over the Premises in good condition
+     (b) Remove all its property and belongings
+     (c) Clear all dues and obtain a no-dues certificate
+
+================================================================================
+
+                  ARTICLE 11: INDEMNITY
+
+11.1 LESSEE'S INDEMNITY
+     The Lessee shall indemnify and hold harmless the Lessor against all
+     claims, losses, and expenses arising from:
+     (a) The Lessee's use of the Premises
+     (b) Any breach of this Agreement by the Lessee
+     (c) Any negligence or willful misconduct of the Lessee
+
+11.2 LESSOR'S INDEMNITY
+     The Lessor shall indemnify and hold harmless the Lessee against all
+     claims arising from any defect in the Lessor's title to the Premises.
+
+================================================================================
+
+                ARTICLE 12: GENERAL PROVISIONS
+
+12.1 ENTIRE AGREEMENT
+     This Agreement constitutes the entire agreement between the parties.
+
+12.2 AMENDMENTS
+     This Agreement may be amended only by written agreement signed by
+     both parties.
+
+12.3 NOTICES
+     All notices shall be in writing and delivered to the addresses
+     specified herein.
+
+12.4 GOVERNING LAW
+     This Agreement shall be governed by the laws of India. Any disputes
+     shall be subject to the exclusive jurisdiction of courts in Bangalore.
+
+12.5 REGISTRATION
+     This Agreement shall be registered with the Sub-Registrar as required
+     under the Registration Act, 1908.
+
+================================================================================
+
+                        SCHEDULE I
+                   DESCRIPTION OF PREMISES
+
+Address:                  #42, 3rd Floor, Koramangala 5th Block,
+                          Bangalore - 560095, Karnataka
+
+Survey Number:            123/4, Koramangala Village
+Building:                 Sunrise Tech Park
+Floor:                    Third Floor (Entire Floor)
+Carpet Area:              3,000 sq. ft.
+Built-up Area:            3,600 sq. ft.
+
+Parking:                  4 (four) car parking spaces in basement
+                          10 (ten) two-wheeler parking spaces
+
+Amenities Included:
+- Fully air-conditioned premises
+- Power backup (DG)
+- 2 (two) dedicated high-speed lifts
+- 24x7 security
+- Fire safety systems
+- Separate electricity meter
+- Intercom facility
+- Access to building cafeteria
+
+Fixtures Included:
+- False ceiling with lighting
+- Flooring (vitrified tiles)
+- Blinds on all windows
+- Pantry with sink and electrical points
+- 2 (two) washrooms (3 WCs each)
+
+Not Included:
+- Furniture
+- IT infrastructure
+- Signage
+
+================================================================================
+
+                        SCHEDULE II
+                       RENT SCHEDULE
+
+Period                    | Monthly Rent | Annual Rent   | Total
+--------------------------|--------------|---------------|-------------
+Year 1 (Jan-Dec 2023)     | Rs. 3,00,000 | Rs. 36,00,000 | Rs. 36,00,000
+Year 2 (Jan-Dec 2024)     | Rs. 3,15,000 | Rs. 37,80,000 | Rs. 37,80,000
+Year 3 (Jan-Dec 2025)     | Rs. 3,30,750 | Rs. 39,69,000 | Rs. 39,69,000
+--------------------------|--------------|---------------|-------------
+Total Rent (3 years)      |              |               | Rs.1,13,49,000
+
+Maintenance Charges: Rs. 15,000 per month (subject to revision)
+
+================================================================================
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on the date
+first written above.
+
+
+For SHARMA PROPERTIES LLP
+(Lessor)
+
+
+_________________________
+Name: Vijay Sharma
+Designation: Designated Partner
+Date: 1st January, 2023
+
+
+
+For TECHVENTURE INDIA PRIVATE LIMITED
+(Lessee)
+
+
+_________________________
+Name: Rahul Sharma
+Designation: Director
+Date: 1st January, 2023
+
+
+
+WITNESSES:
+
+1. _________________________
+   Name: Priya Mehta
+   Address: 456 Brigade Road, MG Road, Bangalore - 560001
+
+2. _________________________
+   Name: Vikram Reddy
+   Address: 567 Jayanagar 4th Block, Bangalore - 560041
+
+================================================================================
+
+                    RELATED PARTY DISCLOSURE
+
+This lease agreement is a related party transaction as:
+- Mr. Rahul Sharma (Director of TechVenture) is the son of Mr. Vijay Sharma
+  (Designated Partner of Sharma Properties LLP)
+- Mr. Rahul Sharma holds 40% interest in Sharma Properties LLP
+
+This transaction has been:
+1. Disclosed to the Board of Directors (Resolution dated December 15, 2022)
+2. Approved by shareholders (AGM dated December 28, 2022)
+3. Determined to be at arm's length (rent is 5% below market rate)
+
+================================================================================

@@ -1,0 +1,389 @@
+================================================================================
+                        PRIVACY POLICY
+                            OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+                   Last Updated: November 15, 2025
+
+================================================================================
+
+                        INTRODUCTION
+
+TechVenture India Private Limited ("TechVenture", "we", "us", or "our")
+respects your privacy and is committed to protecting your personal data.
+This Privacy Policy explains how we collect, use, disclose, and protect
+your personal data when you use our website (www.techventure.in), our SaaS
+platform, and our services (collectively, the "Services").
+
+This Privacy Policy is compliant with:
+- The Digital Personal Data Protection Act, 2023 (DPDPA)
+- The Information Technology Act, 2000
+- The Information Technology (Reasonable Security Practices and Procedures
+  and Sensitive Personal Data or Information) Rules, 2011
+
+================================================================================
+
+                    1. DATA CONTROLLER
+
+TechVenture India Private Limited acts as the Data Fiduciary (Controller)
+for personal data collected through the Services.
+
+Contact Information:
+- Data Protection Officer: Mr. Vivek Rao
+- Email: privacy@techventure.in
+- Address: #42, 3rd Floor, Koramangala 5th Block, Bangalore - 560095
+- Phone: +91-80-4567-8901
+
+================================================================================
+
+               2. PERSONAL DATA WE COLLECT
+
+2.1 INFORMATION YOU PROVIDE TO US:
+
+(a) Account Information:
+    - Name
+    - Email address
+    - Phone number
+    - Company name
+    - Job title
+    - Password (encrypted)
+
+(b) Payment Information:
+    - Billing address
+    - Payment method details (processed by payment gateway)
+
+(c) Communications:
+    - Support tickets
+    - Feedback and surveys
+    - Email correspondence
+
+(d) Content Data:
+    - Data you upload to the platform
+    - Files, documents, and records
+
+2.2 INFORMATION COLLECTED AUTOMATICALLY:
+
+(a) Usage Data:
+    - Features used
+    - Actions taken in the platform
+    - Time spent on features
+
+(b) Device Information:
+    - Browser type and version
+    - Operating system
+    - Device type
+    - Screen resolution
+
+(c) Log Data:
+    - IP address
+    - Access times
+    - Pages viewed
+    - Referring URL
+
+(d) Cookies and Similar Technologies:
+    - Session cookies
+    - Preference cookies
+    - Analytics cookies
+    See our Cookie Policy (Section 8) for more details.
+
+================================================================================
+
+             3. HOW WE USE YOUR PERSONAL DATA
+
+We process your personal data for the following purposes:
+
+3.1 TO PROVIDE AND OPERATE THE SERVICES:
+    - Create and manage your account
+    - Provide access to the platform
+    - Process transactions
+    - Deliver customer support
+
+3.2 TO IMPROVE OUR SERVICES:
+    - Analyze usage patterns
+    - Develop new features
+    - Fix bugs and issues
+    - Conduct research and analytics
+
+3.3 TO COMMUNICATE WITH YOU:
+    - Send service notifications
+    - Respond to inquiries
+    - Send marketing communications (with consent)
+    - Provide updates and news
+
+3.4 TO ENSURE SECURITY:
+    - Protect against unauthorized access
+    - Detect and prevent fraud
+    - Monitor for security threats
+    - Enforce our terms of service
+
+3.5 TO COMPLY WITH LEGAL OBLIGATIONS:
+    - Meet regulatory requirements
+    - Respond to legal requests
+    - Enforce our legal rights
+
+================================================================================
+
+               4. LEGAL BASIS FOR PROCESSING
+
+We process personal data under the following legal bases:
+
+4.1 CONSENT:
+    Where you have given explicit consent for specific purposes (e.g.,
+    marketing communications).
+
+4.2 CONTRACT:
+    Where processing is necessary to perform our contract with you (e.g.,
+    providing the Services).
+
+4.3 LEGAL OBLIGATION:
+    Where processing is necessary to comply with legal requirements (e.g.,
+    tax obligations).
+
+4.4 LEGITIMATE INTERESTS:
+    Where processing is necessary for our legitimate business interests
+    (e.g., security, fraud prevention), provided such interests do not
+    override your rights.
+
+================================================================================
+
+              5. SHARING OF PERSONAL DATA
+
+We may share your personal data with:
+
+5.1 SERVICE PROVIDERS:
+    - Cloud hosting providers (AWS)
+    - Payment processors
+    - Customer support tools
+    - Analytics providers
+    - Email service providers
+
+    All service providers are bound by data protection agreements.
+
+5.2 BUSINESS PARTNERS:
+    - Resellers and channel partners (with your consent)
+    - Integration partners
+
+5.3 LEGAL AND REGULATORY:
+    - Government authorities (when required by law)
+    - Courts and tribunals (in response to legal process)
+    - Regulators and law enforcement
+
+5.4 BUSINESS TRANSFERS:
+    - In connection with merger, acquisition, or sale of assets
+    - Subject to confidentiality obligations
+
+5.5 WITH YOUR CONSENT:
+    - Any other third parties with your explicit consent
+
+We do NOT sell your personal data to third parties.
+
+================================================================================
+
+               6. DATA RETENTION
+
+We retain personal data for as long as necessary for the purposes described
+in this Privacy Policy:
+
+- Account data: Duration of account + 3 years
+- Transaction data: 7 years (as per legal requirements)
+- Usage logs: 12 months
+- Support tickets: 3 years after resolution
+- Marketing preferences: Until consent withdrawn
+
+After the retention period, data is securely deleted or anonymized.
+
+================================================================================
+
+              7. DATA SECURITY
+
+We implement appropriate technical and organizational measures to protect
+your personal data:
+
+TECHNICAL MEASURES:
+- Encryption (TLS 1.2+ in transit, AES-256 at rest)
+- Access controls and authentication
+- Firewalls and intrusion detection
+- Regular security testing
+- Secure development practices
+
+ORGANIZATIONAL MEASURES:
+- Data protection policies
+- Employee training
+- Access restrictions
+- Incident response procedures
+- Regular audits
+
+While we strive to protect your data, no method of transmission or storage
+is 100% secure. We cannot guarantee absolute security.
+
+================================================================================
+
+                    8. COOKIES
+
+We use cookies and similar technologies to enhance your experience:
+
+TYPES OF COOKIES:
+
+(a) Essential Cookies:
+    Required for the platform to function. Cannot be disabled.
+
+(b) Performance Cookies:
+    Help us understand how visitors use the platform.
+
+(c) Functional Cookies:
+    Remember your preferences and settings.
+
+(d) Marketing Cookies:
+    Used to deliver relevant advertisements (with consent).
+
+MANAGING COOKIES:
+You can manage cookie preferences through:
+- Your browser settings
+- Our cookie consent banner
+- Platform privacy settings
+
+Note: Disabling certain cookies may affect functionality.
+
+================================================================================
+
+                9. YOUR RIGHTS
+
+Under applicable data protection laws, you have the following rights:
+
+9.1 RIGHT TO ACCESS:
+    You can request a copy of your personal data.
+
+9.2 RIGHT TO CORRECTION:
+    You can request correction of inaccurate data.
+
+9.3 RIGHT TO ERASURE:
+    You can request deletion of your data (subject to legal obligations).
+
+9.4 RIGHT TO WITHDRAW CONSENT:
+    You can withdraw consent at any time (without affecting prior processing).
+
+9.5 RIGHT TO GRIEVANCE REDRESSAL:
+    You can raise concerns with our Data Protection Officer or the Data
+    Protection Board of India.
+
+HOW TO EXERCISE YOUR RIGHTS:
+- Email: privacy@techventure.in
+- Platform settings: Account > Privacy
+- Written request to our registered office
+
+We will respond to your request within 30 days. We may need to verify your
+identity before processing requests.
+
+================================================================================
+
+            10. INTERNATIONAL DATA TRANSFERS
+
+Your personal data may be transferred to and processed in countries outside
+India where our service providers are located.
+
+For such transfers, we ensure:
+- Compliance with DPDPA requirements
+- Appropriate safeguards (contractual protections)
+- The receiving country provides adequate protection
+
+Primary data processing occurs in India (AWS Mumbai region).
+
+================================================================================
+
+             11. CHILDREN'S PRIVACY
+
+Our Services are not intended for children under 18. We do not knowingly
+collect personal data from children. If you believe we have collected data
+from a child, please contact us immediately.
+
+================================================================================
+
+              12. THIRD-PARTY LINKS
+
+Our platform may contain links to third-party websites. We are not
+responsible for the privacy practices of these websites. We encourage you
+to review their privacy policies.
+
+================================================================================
+
+          13. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. We will notify you of
+material changes by:
+- Email notification
+- Prominent notice on our platform
+- Updating the "Last Updated" date
+
+Your continued use of the Services after changes constitutes acceptance.
+
+================================================================================
+
+                14. CONTACT US
+
+If you have questions, concerns, or complaints about this Privacy Policy
+or our data practices, please contact us:
+
+Data Protection Officer:
+Mr. Vivek Rao
+Email: privacy@techventure.in
+Phone: +91-80-4567-8901
+
+Address:
+TechVenture India Private Limited
+#42, 3rd Floor, Koramangala 5th Block
+Bangalore - 560095
+Karnataka, India
+
+For unresolved concerns, you may contact:
+Data Protection Board of India
+(Once constituted under DPDPA)
+
+================================================================================
+
+                   15. GRIEVANCE OFFICER
+
+In accordance with the Information Technology Act, 2000, we have appointed
+a Grievance Officer:
+
+Name: Mr. Vivek Rao
+Email: grievance@techventure.in
+Phone: +91-80-4567-8901
+
+The Grievance Officer will acknowledge your complaint within 24 hours and
+resolve it within 15 days.
+
+================================================================================
+
+                    CONSENT
+
+By using our Services, you acknowledge that you have read and understood
+this Privacy Policy. Where we process personal data based on consent, we
+will obtain your explicit consent at the time of collection.
+
+You may withdraw your consent at any time by contacting us at
+privacy@techventure.in or through your account settings.
+
+================================================================================
+
+                DOCUMENT HISTORY
+
+Version | Date       | Changes
+--------|------------|------------------------------------------
+1.0     | 15.03.2019 | Initial version
+1.1     | 01.04.2021 | Updated for IT Rules 2011
+2.0     | 15.11.2023 | Updated for DPDPA 2023 compliance
+2.1     | 15.11.2025 | Annual review and updates
+
+================================================================================
+
+For TECHVENTURE INDIA PRIVATE LIMITED
+
+
+_________________________
+Mr. Rahul Sharma
+Director
+
+Date: November 15, 2025
+
+================================================================================

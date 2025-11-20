@@ -1,0 +1,362 @@
+================================================================================
+              ROC FORMS AND REGULATORY FILINGS
+                          OF
+              TECHVENTURE INDIA PRIVATE LIMITED
+                CIN: U72900KA2019PTC123456
+================================================================================
+
+================================================================================
+                    FORM INC-20A
+         DECLARATION FOR COMMENCEMENT OF BUSINESS
+================================================================================
+
+                MINISTRY OF CORPORATE AFFAIRS
+                    GOVERNMENT OF INDIA
+
+FORM INC-20A
+Declaration for Commencement of Business
+
+--------------------------------------------------------------------------------
+
+SRN: A12345678                          Date of Filing: 25th March, 2019
+
+--------------------------------------------------------------------------------
+
+1. COMPANY DETAILS
+
+   (a) Corporate Identity Number (CIN): U72900KA2019PTC123456
+   (b) Global Location Number (GLN): Not applicable
+   (c) Name of the Company: TECHVENTURE INDIA PRIVATE LIMITED
+   (d) Address of Registered Office: #42, 3rd Floor, Koramangala 5th Block,
+       Bangalore - 560095, Karnataka
+   (e) Email ID: info@techventure.in
+
+2. PARTICULARS OF SUBSCRIBERS
+
+   Total number of subscribers to MOA: 2
+
+   Name of Subscriber     | Shares Subscribed | Amount Paid (Rs.)
+   -----------------------|-------------------|------------------
+   Rahul Sharma           | 12,000            | 12,00,000
+   Priya Mehta            | 8,000             | 8,00,000
+   -----------------------|-------------------|------------------
+   Total                  | 20,000            | 20,00,000
+
+3. DECLARATION
+
+   We hereby declare and verify that:
+
+   (a) Every subscriber to the memorandum has paid the value of the shares
+       agreed to be taken by him/her;
+
+   (b) The paid-up share capital of the company is not less than the minimum
+       requirements prescribed under the Companies Act, 2013;
+
+   (c) The registered office of the company has been verified and the company
+       has commenced business from the said address.
+
+4. VERIFICATION
+
+   I, Rahul Sharma, Director of TechVenture India Private Limited, do hereby
+   verify that the contents of this form are true and correct to my knowledge
+   and belief and nothing material has been concealed therefrom.
+
+   Place: Bangalore
+   Date: 25th March, 2019
+
+   Digital Signature: [Digitally Signed]
+   Name: Rahul Sharma
+   DIN: 08123456
+   Designation: Director
+
+--------------------------------------------------------------------------------
+
+CERTIFICATE OF COMMENCEMENT OF BUSINESS
+
+This is to certify that the declaration in Form INC-20A has been filed and
+TechVenture India Private Limited is authorized to commence business with
+effect from 25th March, 2019.
+
+Registrar of Companies
+Karnataka, Bangalore
+
+================================================================================
+
+================================================================================
+                      FORM DIR-12
+              PARTICULARS OF DIRECTORS
+================================================================================
+
+FILING HISTORY - FORM DIR-12
+
+--------------------------------------------------------------------------------
+| SRN        | Date Filed | Type of Change           | Director Name        |
+--------------------------------------------------------------------------------
+| B23456789  | 15.06.2020 | Appointment              | Ankit Verma          |
+| B34567890  | 10.01.2021 | Appointment              | Suresh Kumar         |
+| B45678901  | 20.03.2022 | Appointment              | Lakshmi Iyer         |
+--------------------------------------------------------------------------------
+
+SAMPLE: FORM DIR-12 FOR ANKIT VERMA APPOINTMENT
+
+--------------------------------------------------------------------------------
+
+SRN: B23456789                          Date of Filing: 15th June, 2020
+
+1. COMPANY DETAILS
+   CIN: U72900KA2019PTC123456
+   Name: TechVenture India Private Limited
+
+2. PARTICULARS OF DIRECTOR
+
+   (a) DIN: 08345678
+   (b) Name: Ankit Verma
+   (c) Father's Name: Anil Verma
+   (d) Date of Birth: 10th November, 1985
+   (e) Nationality: Indian
+   (f) Occupation: Business
+   (g) Residential Address: 789 Whitefield Main Road, Bangalore - 560066
+   (h) Email: ankit.verma@email.com
+   (i) Educational Qualifications: MBA, IIM Bangalore
+
+3. NATURE OF CHANGE
+   [✓] Appointment
+   [ ] Cessation
+   [ ] Change in particulars
+
+4. DATE OF APPOINTMENT: 15th June, 2020
+
+5. CATEGORY: Non-Executive Director (Investor Nominee)
+
+6. BOARD RESOLUTION: Resolution passed at Board Meeting dated 15th June, 2020
+
+--------------------------------------------------------------------------------
+
+Verified by:
+Name: Rahul Sharma
+DIN: 08123456
+Designation: Director
+Digital Signature: [Digitally Signed]
+
+================================================================================
+
+================================================================================
+                      FORM SH-7
+               NOTICE TO REGISTRAR OF SHARE CAPITAL
+================================================================================
+
+FILING HISTORY - FORM SH-7
+
+--------------------------------------------------------------------------------
+| SRN        | Date Filed | Event                    | Shares     | Amount    |
+--------------------------------------------------------------------------------
+| C12345678  | 30.06.2020 | Allotment to Angels      | 2,500      | 25,00,000 |
+| C23456789  | 25.11.2025 | ESOP Exercise            | 400        | 40,000    |
+--------------------------------------------------------------------------------
+
+SAMPLE: FORM SH-7 FOR ANGEL INVESTMENT ALLOTMENT
+
+--------------------------------------------------------------------------------
+
+SRN: C12345678                          Date of Filing: 30th June, 2020
+
+1. COMPANY DETAILS
+   CIN: U72900KA2019PTC123456
+   Name: TechVenture India Private Limited
+
+2. PARTICULARS OF INCREASE
+
+   (a) Type of Securities: Equity Shares
+   (b) Number of Shares: 2,500
+   (c) Face Value: Rs. 100 per share
+   (d) Premium: Rs. 900 per share
+   (e) Total Consideration: Rs. 25,00,000
+
+3. CAPITAL STRUCTURE AFTER ALLOTMENT
+
+   Authorized Capital: Rs. 50,00,000
+   Issued Capital: Rs. 22,50,000
+   Subscribed Capital: Rs. 22,50,000
+   Paid-up Capital: Rs. 22,50,000
+
+4. ALLOTTEES
+
+   Name                       | Shares | Amount (Rs.)
+   ---------------------------|--------|-------------
+   Bangalore Angels Network   | 1,500  | 15,00,000
+   Ankit Verma                | 600    | 6,00,000
+   Pradeep Singh              | 400    | 4,00,000
+   ---------------------------|--------|-------------
+   Total                      | 2,500  | 25,00,000
+
+5. SOURCE OF FUNDS: Private Placement to existing shareholders and new investors
+
+--------------------------------------------------------------------------------
+
+================================================================================
+
+================================================================================
+                      FORM MGT-7
+                    ANNUAL RETURN
+================================================================================
+
+FILING HISTORY - FORM MGT-7
+
+--------------------------------------------------------------------------------
+| SRN        | Financial Year | Date Filed | Due Date   | Status    |
+--------------------------------------------------------------------------------
+| D12345678  | 2019-20        | 28.11.2020 | 28.12.2020 | On Time   |
+| D23456789  | 2020-21        | 27.11.2021 | 28.12.2021 | On Time   |
+| D34567890  | 2021-22        | 26.11.2022 | 28.12.2022 | On Time   |
+| D45678901  | 2022-23        | 25.11.2023 | 28.12.2023 | On Time   |
+| D56789012  | 2023-24        | 28.11.2024 | 28.12.2024 | On Time   |
+| D67890123  | 2024-25        | Pending    | 28.12.2025 | Due       |
+--------------------------------------------------------------------------------
+
+ANNUAL RETURN FY 2023-24 (SUMMARY)
+
+--------------------------------------------------------------------------------
+
+1. REGISTRATION AND OTHER DETAILS
+   CIN: U72900KA2019PTC123456
+   Registration Date: 15th March, 2019
+   Category: Private Limited Company
+   AGM Date: 30th September, 2024
+
+2. PRINCIPAL BUSINESS ACTIVITIES
+   NIC Code: 62012 - Software Development
+   % of Turnover: 100%
+
+3. PARTICULARS OF HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES
+   NIL
+
+4. SHARE CAPITAL
+
+   Authorized: Rs. 50,00,000 (50,000 shares of Rs. 100 each)
+   Issued: Rs. 25,00,000 (25,000 shares of Rs. 100 each)
+   Paid-up: Rs. 25,00,000
+
+5. SHAREHOLDING PATTERN
+
+   Category                    | Shares  | %
+   ----------------------------|---------|-------
+   Promoters (Founders)        | 22,500  | 90.00%
+   Public (Angel Investors)    | 2,500   | 10.00%
+   ----------------------------|---------|-------
+   Total                       | 25,000  | 100.00%
+
+6. INDEBTEDNESS
+   Secured Loans: NIL
+   Unsecured Loans: Rs. 50,00,000 (Convertible Note)
+
+7. MEMBERS AND DEBENTURE HOLDERS
+   Total Members: 5
+   Debenture Holders: NIL
+
+8. PROMOTERS, DIRECTORS, KMPs
+
+   Directors: 5
+   KMPs: 3 (CEO, CFO, CS)
+
+9. MEETINGS
+   Board Meetings: 4
+   AGM: 1
+
+10. PENALTIES/PUNISHMENTS: NIL
+
+================================================================================
+
+================================================================================
+                      FORM AOC-4
+                  FINANCIAL STATEMENTS
+================================================================================
+
+FILING HISTORY - FORM AOC-4
+
+--------------------------------------------------------------------------------
+| SRN        | Financial Year | Date Filed | Due Date   | Status    |
+--------------------------------------------------------------------------------
+| E12345678  | 2019-20        | 28.10.2020 | 29.11.2020 | On Time   |
+| E23456789  | 2020-21        | 27.10.2021 | 29.11.2021 | On Time   |
+| E34567890  | 2021-22        | 26.10.2022 | 29.11.2022 | On Time   |
+| E45678901  | 2022-23        | 25.10.2023 | 29.11.2023 | On Time   |
+| E56789012  | 2023-24        | 28.10.2024 | 29.11.2024 | On Time   |
+| E67890123  | 2024-25        | Pending    | 29.11.2025 | Due       |
+--------------------------------------------------------------------------------
+
+FINANCIAL HIGHLIGHTS (From AOC-4 Filings)
+
+--------------------------------------------------------------------------------
+| Year    | Revenue    | Expenses   | Profit/(Loss) | EPS (Rs.) |
+--------------------------------------------------------------------------------
+| 2019-20 | 12,00,000  | 30,00,000  | (18,00,000)   | (9.00)    |
+| 2020-21 | 45,00,000  | 77,00,000  | (32,00,000)   | (14.22)   |
+| 2021-22 | 1,20,00,000| 1,48,00,000| (28,00,000)   | (12.44)   |
+| 2022-23 | 2,80,00,000| 2,75,00,000| 5,00,000      | 2.00      |
+| 2023-24 | 4,50,00,000| 4,15,00,000| 35,00,000     | 14.00     |
+--------------------------------------------------------------------------------
+
+================================================================================
+
+================================================================================
+                      FORM MGT-14
+              FILING OF BOARD RESOLUTIONS
+================================================================================
+
+FILING HISTORY - FORM MGT-14
+
+--------------------------------------------------------------------------------
+| SRN        | Date Filed | Resolution Date | Subject                        |
+--------------------------------------------------------------------------------
+| F12345678  | 20.03.2020 | 20.03.2020      | ESOP Scheme Approval           |
+| F23456789  | 20.06.2020 | 15.06.2020      | Angel Investment Approval      |
+| F34567890  | 05.01.2023 | 15.12.2022      | Related Party Transaction      |
+| F45678901  | 25.01.2024 | 15.01.2024      | Increase in Borrowing Powers   |
+--------------------------------------------------------------------------------
+
+Note: Form MGT-14 is required for resolutions under Section 179(3) and
+Section 180 of the Companies Act, 2013.
+
+================================================================================
+
+================================================================================
+                      DIR-3 KYC
+              DIRECTOR KYC COMPLIANCE
+================================================================================
+
+DIR-3 KYC STATUS (All Directors Current)
+
+--------------------------------------------------------------------------------
+| DIN      | Director Name  | KYC Due Date | Last Filed | Status    |
+--------------------------------------------------------------------------------
+| 08123456 | Rahul Sharma   | 30.09.2025   | 15.09.2025 | Compliant |
+| 08234567 | Priya Mehta    | 30.09.2025   | 15.09.2025 | Compliant |
+| 08345678 | Ankit Verma    | 30.09.2025   | 18.09.2025 | Compliant |
+| 07456789 | Suresh Kumar   | 30.09.2025   | 20.09.2025 | Compliant |
+| 08567890 | Lakshmi Iyer   | 30.09.2025   | 22.09.2025 | Compliant |
+--------------------------------------------------------------------------------
+
+All directors have completed their annual DIR-3 KYC requirements.
+No DIN is deactivated or under disqualification.
+
+================================================================================
+
+                    COMPLIANCE SUMMARY
+
+All ROC filings are current and compliant:
+- Annual Returns (MGT-7): Filed on time for all years
+- Financial Statements (AOC-4): Filed on time for all years
+- Director changes (DIR-12): Filed within 30 days of change
+- Share allotments (SH-7): Filed within 30 days of allotment
+- Board resolutions (MGT-14): Filed within 30 days
+- Director KYC (DIR-3): All directors compliant
+
+Outstanding Filings: NIL
+Pending Filings for FY 2024-25: MGT-7 and AOC-4 (due after AGM)
+
+Prepared by:
+Mr. Vivek Rao
+Company Secretary
+Date: November 20, 2025
+
+================================================================================
