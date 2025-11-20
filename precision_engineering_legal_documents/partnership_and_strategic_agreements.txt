@@ -1,0 +1,391 @@
+================================================================================
+                    PARTNERSHIP AND STRATEGIC AGREEMENTS
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+This document contains templates for strategic partnership agreements for
+Precision Engineering Works Private Limited.
+
+================================================================================
+
+                    PART A: STRATEGIC PARTNERSHIP AGREEMENT
+
+================================================================================
+
+This Strategic Partnership Agreement ("Agreement") is made and entered into on
+this [___] day of [_______________], 20[___] ("Effective Date")
+
+BY AND BETWEEN:
+
+PRECISION ENGINEERING WORKS PRIVATE LIMITED, a company incorporated under the
+Companies Act, 2013, having its registered office at Plot No. 45, SIPCOT
+Industrial Estate, Hosur - 635126, Tamil Nadu (CIN: U28999TN2018PTC125847)
+(hereinafter referred to as "PEW" or "Party A")
+
+AND
+
+[NAME OF PARTNER COMPANY], [a company incorporated under the laws of
+[_______________]], having its [registered office] at
+[_______________________________________________]
+(hereinafter referred to as "Partner" or "Party B")
+
+(PEW and Partner are hereinafter individually referred to as a "Party" and
+collectively as the "Parties")
+
+================================================================================
+
+RECITALS
+
+WHEREAS:
+
+A. PEW is engaged in precision engineering, CNC machining, and manufacturing
+   of precision components;
+
+B. The Partner is engaged in [describe partner's business];
+
+C. The Parties wish to collaborate on [describe purpose of partnership];
+
+D. The Parties believe that such collaboration will be mutually beneficial.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the
+Parties agree as follows:
+
+================================================================================
+
+ARTICLE 1: PURPOSE AND OBJECTIVES
+
+1.1 PURPOSE
+
+    The purpose of this Partnership is to:
+
+    [ ] Joint development of new products
+    [ ] Joint marketing and sales efforts
+    [ ] Technology sharing and licensing
+    [ ] Capacity sharing and manufacturing collaboration
+    [ ] Geographic expansion
+    [ ] Other: [_______________]
+
+1.2 OBJECTIVES
+
+    The Parties shall work together to achieve the following objectives:
+
+    (a) [_______________________________________________]
+    (b) [_______________________________________________]
+    (c) [_______________________________________________]
+
+================================================================================
+
+ARTICLE 2: SCOPE OF COLLABORATION
+
+2.1 AREAS OF COLLABORATION
+
+    The Parties shall collaborate in the following areas:
+
+    (a) [_______________________________________________]
+    (b) [_______________________________________________]
+    (c) [_______________________________________________]
+
+2.2 EXCLUSIVITY
+
+    [ ] This Partnership is non-exclusive
+    [ ] This Partnership is exclusive for [specify scope/territory]
+
+2.3 TERRITORIAL SCOPE
+
+    This Partnership shall apply to:
+
+    [ ] India only
+    [ ] Specified territories: [_______________]
+    [ ] Worldwide
+
+================================================================================
+
+ARTICLE 3: RESPONSIBILITIES
+
+3.1 PEW RESPONSIBILITIES
+
+    PEW shall:
+
+    (a) Provide precision manufacturing capabilities;
+    (b) Ensure quality standards (ISO 9001:2015);
+    (c) Maintain confidentiality of Partner's information;
+    (d) Dedicate resources for partnership activities;
+    (e) [_______________________________________________]
+
+3.2 PARTNER RESPONSIBILITIES
+
+    The Partner shall:
+
+    (a) [_______________________________________________]
+    (b) [_______________________________________________]
+    (c) [_______________________________________________]
+
+3.3 JOINT RESPONSIBILITIES
+
+    The Parties shall jointly:
+
+    (a) Establish a Steering Committee to govern the Partnership;
+    (b) Meet regularly to review progress and resolve issues;
+    (c) Share relevant information and resources;
+    (d) Promote the Partnership in their respective markets.
+
+================================================================================
+
+ARTICLE 4: GOVERNANCE
+
+4.1 STEERING COMMITTEE
+
+    (a) The Parties shall establish a Steering Committee comprising [2] members
+        from each Party;
+    (b) The Steering Committee shall meet [quarterly] or as needed;
+    (c) Decisions shall be made by consensus.
+
+4.2 PROJECT MANAGEMENT
+
+    (a) Each Party shall appoint a Project Manager as single point of contact;
+    (b) Project Managers shall coordinate day-to-day activities;
+    (c) Project status reports shall be shared [monthly].
+
+================================================================================
+
+ARTICLE 5: FINANCIAL ARRANGEMENTS
+
+5.1 COSTS AND EXPENSES
+
+    (a) Each Party shall bear its own costs unless otherwise agreed;
+    (b) Joint costs shall be shared [equally / as per contribution ratio].
+
+5.2 REVENUE SHARING
+
+    [ ] Not applicable (no joint revenue)
+    [ ] Revenue sharing ratio: PEW [___]% : Partner [___]%
+
+5.3 PRICING
+
+    Pricing for goods/services exchanged between Parties shall be at [market
+    rates / cost plus [___]%].
+
+5.4 PAYMENT TERMS
+
+    Payment terms shall be [30] days from invoice.
+
+================================================================================
+
+ARTICLE 6: INTELLECTUAL PROPERTY
+
+6.1 BACKGROUND IP
+
+    Each Party retains ownership of its pre-existing intellectual property.
+
+6.2 JOINTLY DEVELOPED IP
+
+    Intellectual property developed jointly shall be owned:
+
+    [ ] Jointly by both Parties
+    [ ] By one Party with license to the other
+    [ ] As per contribution ratio
+
+6.3 LICENSE GRANTS
+
+    Each Party grants the other a non-exclusive license to use its intellectual
+    property solely for the purposes of this Partnership.
+
+================================================================================
+
+ARTICLE 7: CONFIDENTIALITY
+
+7.1 Each Party shall maintain confidentiality of the other's confidential
+    information.
+
+7.2 Confidential information shall be used only for the purposes of this
+    Partnership.
+
+7.3 Confidentiality obligations survive termination for [5] years.
+
+================================================================================
+
+ARTICLE 8: TERM AND TERMINATION
+
+8.1 TERM
+
+    This Agreement shall be effective from the Effective Date and shall continue
+    for [3] years.
+
+8.2 RENEWAL
+
+    This Agreement may be renewed by mutual written agreement of the Parties.
+
+8.3 TERMINATION
+
+    Either Party may terminate this Agreement:
+
+    (a) By giving [90] days' written notice;
+    (b) Immediately upon material breach not cured within [30] days.
+
+8.4 EFFECT OF TERMINATION
+
+    Upon termination:
+
+    (a) Each Party shall return confidential information;
+    (b) Ongoing projects shall be completed or wound down;
+    (c) Accrued rights and obligations shall survive.
+
+================================================================================
+
+ARTICLE 9: GENERAL PROVISIONS
+
+9.1 This is a non-binding collaboration. Neither Party is an agent of the other.
+
+9.2 This Agreement shall be governed by the laws of India.
+
+9.3 Disputes shall be resolved through arbitration in Chennai.
+
+================================================================================
+
+================================================================================
+
+                    PART B: TECHNOLOGY LICENSE AGREEMENT
+
+================================================================================
+
+This Technology License Agreement ("Agreement") is made and entered into on this
+[___] day of [_______________], 20[___]
+
+BY AND BETWEEN:
+
+[NAME OF LICENSOR], having its [registered office] at
+[_______________________________________________]
+(hereinafter referred to as the "Licensor")
+
+AND
+
+PRECISION ENGINEERING WORKS PRIVATE LIMITED, a company incorporated under the
+Companies Act, 2013, having its registered office at Plot No. 45, SIPCOT
+Industrial Estate, Hosur - 635126, Tamil Nadu (CIN: U28999TN2018PTC125847)
+(hereinafter referred to as the "Licensee" or "PEW")
+
+================================================================================
+
+ARTICLE 1: LICENSE GRANT
+
+1.1 The Licensor hereby grants to the Licensee a [non-exclusive / exclusive]
+    license to use the Technology described in Schedule A.
+
+1.2 The license includes the right to:
+
+    (a) Use the Technology for manufacturing;
+    (b) Make products using the Technology;
+    (c) Sell products made using the Technology.
+
+1.3 Territory: [India / Specified territories]
+
+================================================================================
+
+ARTICLE 2: LICENSE FEE AND ROYALTIES
+
+2.1 License Fee: Rs. [_______________] payable as follows:
+    - [50%] on execution of Agreement
+    - [50%] on transfer of know-how
+
+2.2 Royalty: [___]% of net sales of licensed products
+
+2.3 Minimum Annual Royalty: Rs. [_______________]
+
+2.4 Royalty payments shall be made [quarterly] within [30] days of quarter end.
+
+================================================================================
+
+ARTICLE 3: TECHNOLOGY TRANSFER
+
+3.1 The Licensor shall provide:
+
+    (a) Technical documentation and drawings;
+    (b) Training at Licensor's facility for [___] person-days;
+    (c) On-site technical assistance for [___] days;
+    (d) Ongoing technical support.
+
+================================================================================
+
+ARTICLE 4: QUALITY AND STANDARDS
+
+4.1 The Licensee shall manufacture products in accordance with the Licensor's
+    quality standards.
+
+4.2 The Licensor may audit the Licensee's manufacturing processes.
+
+================================================================================
+
+ARTICLE 5: INTELLECTUAL PROPERTY
+
+5.1 The Licensor retains all ownership rights in the Technology.
+
+5.2 Any improvements developed by the Licensee shall be [owned by Licensee /
+    owned by Licensor / jointly owned].
+
+================================================================================
+
+ARTICLE 6: TERM AND TERMINATION
+
+6.1 This Agreement shall be effective for [5] years.
+
+6.2 Either Party may terminate for material breach not cured within [60] days.
+
+================================================================================
+
+================================================================================
+
+                    PART C: DISTRIBUTION AGREEMENT
+
+================================================================================
+
+[Summary - Key terms for distribution partnerships]
+
+1.  APPOINTMENT: Appointment as [exclusive / non-exclusive] distributor for
+    [territory].
+
+2.  PRODUCTS: Precision machined components and assemblies.
+
+3.  TERRITORY: [_______________]
+
+4.  TARGETS: Minimum annual purchase of Rs. [_______________]
+
+5.  PRICING: [___]% discount from list price
+
+6.  PAYMENT: [Advance payment / 30 days credit]
+
+7.  EXCLUSIVITY OBLIGATIONS: Not to distribute competing products
+
+8.  MARKETING: Joint marketing activities, trade show participation
+
+9.  TERM: [2] years, renewable
+
+10. TERMINATION: [90] days' notice or immediately for breach
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date
+first written above.
+
+FOR PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+Authorized Signatory
+Name: ____________________________
+Designation: ____________________________
+Date: ____________________________
+
+
+FOR [NAME OF PARTNER]
+
+____________________________
+Authorized Signatory
+Name: ____________________________
+Designation: ____________________________
+Date: ____________________________
+
+================================================================================

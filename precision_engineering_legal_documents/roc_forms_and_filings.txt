@@ -1,0 +1,381 @@
+================================================================================
+                    ROC FORMS AND FILINGS
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+                    REGISTRAR OF COMPANIES, TAMIL NADU AT CHENNAI
+
+================================================================================
+
+This document contains a record of all statutory forms and filings made by
+Precision Engineering Works Private Limited with the Registrar of Companies
+(ROC) since incorporation.
+
+================================================================================
+
+                    INDEX OF ROC FILINGS
+
+================================================================================
+
+A. INCORPORATION FILINGS
+B. ANNUAL FILINGS
+C. EVENT-BASED FILINGS
+D. OTHER FILINGS
+
+================================================================================
+
+A. INCORPORATION FILINGS
+
+================================================================================
+
+1. SPICE+ (INC-32)
+   Form: Simplified Proforma for Incorporating Company Electronically Plus
+   Purpose: Application for incorporation of company
+   Filed On: 10th July, 2018
+   SRN: S12345678
+   Status: Approved
+
+   Details:
+   - Company Name Reserved: PRECISION ENGINEERING WORKS PRIVATE LIMITED
+   - Type: Private Company Limited by Shares
+   - Capital: Authorized Rs. 50,00,000 | Subscribed Rs. 25,00,000
+   - Directors: 2 (Vikram Rajan, Anand Kumar)
+   - Subscribers: 2 (same as Directors)
+
+--------------------------------------------------------------------------------
+
+2. MOA/AOA (INC-33/INC-34)
+   Form: Electronic Memorandum and Articles of Association
+   Purpose: Memorandum and Articles attached with SPICE+
+   Filed On: 10th July, 2018
+   SRN: S12345678
+   Status: Approved
+
+--------------------------------------------------------------------------------
+
+3. Certificate of Incorporation
+   Issued On: 15th July, 2018
+   CIN Assigned: U28999TN2018PTC125847
+
+================================================================================
+
+B. ANNUAL FILINGS
+
+================================================================================
+
+FINANCIAL YEAR 2018-19:
+
+1. Form AOC-4
+   Purpose: Filing of Financial Statements and Documents
+   Financial Year: 2018-19 (15.07.2018 to 31.03.2019)
+   Filed On: 25th October, 2019
+   SRN: S23456789
+   Status: Approved
+
+   Attachments:
+   - Balance Sheet
+   - Statement of Profit and Loss
+   - Cash Flow Statement
+   - Notes to Accounts
+   - Directors' Report
+   - Auditors' Report
+
+--------------------------------------------------------------------------------
+
+2. Form MGT-7
+   Purpose: Annual Return
+   Financial Year: 2018-19
+   Filed On: 28th November, 2019
+   SRN: S23456790
+   Status: Approved
+
+   Details:
+   - AGM Date: 28th September, 2019
+   - Registered Office: No change
+   - Share Capital: No change
+   - Members: 2
+   - Debentures: Nil
+   - Indebtedness: As per return
+
+--------------------------------------------------------------------------------
+
+FINANCIAL YEAR 2019-20:
+
+1. Form AOC-4
+   Purpose: Filing of Financial Statements and Documents
+   Financial Year: 2019-20 (01.04.2019 to 31.03.2020)
+   Filed On: 27th November, 2020
+   SRN: S34567891
+   Status: Approved
+
+--------------------------------------------------------------------------------
+
+2. Form MGT-7A
+   Purpose: Annual Return (Abridged for Small Company)
+   Financial Year: 2019-20
+   Filed On: 29th November, 2020
+   SRN: S34567892
+   Status: Approved
+
+   Details:
+   - AGM Date: 25th September, 2020
+   - Registered Office: No change
+   - Share Capital: No change
+   - Members: 2
+
+--------------------------------------------------------------------------------
+
+FINANCIAL YEAR 2020-21:
+
+1. Form AOC-4
+   Filed On: 28th October, 2021
+   SRN: S45678912
+   Status: Approved
+
+--------------------------------------------------------------------------------
+
+2. Form MGT-7A
+   Filed On: 29th November, 2021
+   SRN: S45678913
+   Status: Approved
+
+--------------------------------------------------------------------------------
+
+FINANCIAL YEAR 2021-22:
+
+1. Form AOC-4
+   Filed On: 27th October, 2022
+   SRN: S56789123
+   Status: Approved
+
+--------------------------------------------------------------------------------
+
+2. Form MGT-7A
+   Filed On: 28th November, 2022
+   SRN: S56789124
+   Status: Approved
+
+--------------------------------------------------------------------------------
+
+FINANCIAL YEAR 2022-23:
+
+1. Form AOC-4
+   Filed On: 28th October, 2023
+   SRN: S67891234
+   Status: Approved
+
+--------------------------------------------------------------------------------
+
+2. Form MGT-7A
+   Filed On: 29th November, 2023
+   SRN: S67891235
+   Status: Approved
+
+================================================================================
+
+C. EVENT-BASED FILINGS
+
+================================================================================
+
+1. Form DIR-12
+   Purpose: Particulars of appointment of Directors and KMP
+   Filed On: 31st July, 2018
+   SRN: S12345679
+   Status: Approved
+
+   Details:
+   - Vikram Rajan appointed as Managing Director
+   - Anand Kumar appointed as Whole-time Director
+
+--------------------------------------------------------------------------------
+
+2. Form ADT-1
+   Purpose: Appointment of Auditor
+   Filed On: 15th August, 2018
+   SRN: S12345680
+   Status: Approved
+
+   Details:
+   - Auditor: M/s. Kumar & Associates, Chartered Accountants
+   - Membership No.: 012345
+   - Term: 5 years (FY 2018-19 to FY 2022-23)
+
+--------------------------------------------------------------------------------
+
+3. Form INC-22
+   Purpose: Notice of situation or change of situation of registered office
+   Filed On: Not required (address same as in incorporation)
+   Status: Not Applicable
+
+--------------------------------------------------------------------------------
+
+4. Form CHG-1
+   Purpose: Registration of Charge (other than debentures)
+   Filed On: 25th October, 2019
+   SRN: S23456791
+   Status: Approved
+
+   Details:
+   - Charge ID: 100567890
+   - Charge Holder: State Bank of India
+   - Amount: Rs. 75,00,000
+   - Property: CNC machinery
+   - Type: Hypothecation
+
+--------------------------------------------------------------------------------
+
+5. Form CHG-1
+   Purpose: Registration of Charge
+   Filed On: 30th March, 2021
+   SRN: S34567893
+   Status: Approved
+
+   Details:
+   - Charge ID: 100789012
+   - Charge Holder: HDFC Bank Ltd.
+   - Amount: Rs. 1,50,00,000
+   - Property: Current assets
+   - Type: Hypothecation
+
+--------------------------------------------------------------------------------
+
+6. Form MR-1
+   Purpose: Return of appointment of Managing Director
+   Filed On: 31st July, 2018
+   SRN: S12345681
+   Status: Approved
+
+   Details:
+   - Name: Vikram Rajan
+   - DIN: 08567234
+   - Term: 5 years
+
+--------------------------------------------------------------------------------
+
+7. Form MGT-14
+   Purpose: Filing of Resolutions and Agreements
+   Filed On: Various dates (as per below)
+
+   a) 25th September, 2019 - SRN: S23456792
+      - Appointment of first statutory auditor
+      - Adoption of first financial statements
+
+   b) 20th September, 2020 - SRN: S34567894
+      - Approval of related party transactions
+
+   c) 15th April, 2023 - SRN: S67891236
+      - Re-appointment of Managing Director
+
+--------------------------------------------------------------------------------
+
+8. Form ADT-1
+   Purpose: Re-appointment of Auditor
+   Filed On: 28th September, 2023
+   SRN: S67891237
+   Status: Approved
+
+   Details:
+   - Auditor: M/s. Kumar & Associates, Chartered Accountants
+   - Term: 5 years (FY 2023-24 to FY 2027-28)
+
+--------------------------------------------------------------------------------
+
+9. Form DIR-3 KYC
+   Purpose: KYC of Directors
+   Filed On: Annually before 30th September
+   Status: Complied for all years
+
+================================================================================
+
+D. OTHER FILINGS
+
+================================================================================
+
+1. Form BEN-2
+   Purpose: Declaration of Significant Beneficial Owner
+   Filed On: 30th September, 2019
+   SRN: S23456793
+   Status: Approved
+
+   Details:
+   - Significant Beneficial Owners declared
+   - No changes since incorporation
+
+--------------------------------------------------------------------------------
+
+2. Form DPT-3
+   Purpose: Return of Deposits
+   Filed On: 30th June (annually)
+   Status: Filed - NIL return (no deposits accepted)
+
+--------------------------------------------------------------------------------
+
+3. Form MSME-1
+   Purpose: Return of outstanding payments to MSMEs
+   Filed On: 31st October (half-yearly)
+   Status: Filed - NIL return (no outstanding payments)
+
+================================================================================
+
+                    COMPLIANCE CALENDAR
+
+================================================================================
+
+Form          | Due Date                    | Filing Frequency
+--------------+-----------------------------+--------------------
+AOC-4         | Within 30 days of AGM       | Annual
+MGT-7/MGT-7A  | Within 60 days of AGM       | Annual
+ADT-1         | Within 15 days of AGM       | On appointment
+DIR-3 KYC     | On or before 30th September | Annual
+DPT-3         | On or before 30th June      | Annual
+MSME-1        | 31st October, 30th April    | Half-yearly
+CHG-1         | Within 30 days of creation  | Event-based
+CHG-4         | Within 30 days of satisfaction | Event-based
+
+================================================================================
+
+                    PENALTIES AND ADDITIONAL FEES
+
+================================================================================
+
+No penalties or additional fees have been paid by the Company for any delayed
+or non-compliant filings.
+
+All filings have been made within the prescribed time limits.
+
+================================================================================
+
+                    REGISTERED OFFICE ADDRESS
+
+================================================================================
+
+Plot No. 45, SIPCOT Industrial Estate
+Hosur - 635126
+Tamil Nadu
+
+No change in registered office since incorporation.
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that all statutory filings with the Registrar of Companies
+have been made within the prescribed time limits and the Company is in
+compliance with the filing requirements under the Companies Act, 2013.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________              ____________________________
+Vikram Rajan                              S. Preethi
+Managing Director                         Company Secretary
+DIN: 08567234                            ACS: 45678
+
+Place: Hosur
+Date: ____________________________
+
+================================================================================

@@ -1,0 +1,377 @@
+================================================================================
+                    INSURANCE POLICIES
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+                    INSURANCE PORTFOLIO SUMMARY
+
+================================================================================
+
+Policy Type                     | Insurer           | Policy Number    | Premium
+--------------------------------+-------------------+------------------+---------
+Standard Fire & Special Perils  | New India Assurance| 12345678901     | 85,000
+Machinery Breakdown             | United India Ins.  | 23456789012     | 45,000
+Group Health Insurance          | ICICI Lombard     | 34567890123     | 1,20,000
+Public Liability                | Bajaj Allianz     | 45678901234     | 35,000
+Workmen Compensation           | Oriental Insurance| 56789012345     | 28,000
+Marine (Stock Throughput)       | TATA AIG          | 67890123456     | 22,000
+Commercial Vehicle              | HDFC ERGO         | 78901234567     | 18,000
+Directors & Officers Liability  | ICICI Lombard     | 89012345678     | 40,000
+--------------------------------+-------------------+------------------+---------
+Total Annual Premium           |                   |                  | 3,93,000
+
+================================================================================
+
+                    1. STANDARD FIRE & SPECIAL PERILS INSURANCE
+
+================================================================================
+
+Policy Number          : 12345678901
+Insurer               : The New India Assurance Co. Ltd.
+Policy Period         : 1st April, 2023 to 31st March, 2024
+Sum Insured           : Rs. 2,50,00,000/-
+Premium               : Rs. 85,000/- (including GST)
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+A. Property Covered:
+
+   Description                    | Sum Insured (Rs.)
+   -------------------------------+------------------
+   Factory Building               | 50,00,000
+   Plant & Machinery              | 1,25,00,000
+   Furniture & Fixtures           | 10,00,000
+   Stocks (Raw Material, WIP, FG) | 50,00,000
+   Other Contents                 | 15,00,000
+   -------------------------------+------------------
+   Total                          | 2,50,00,000
+
+B. Perils Covered:
+
+   - Fire
+   - Lightning
+   - Explosion/Implosion
+   - Aircraft Damage
+   - Riot, Strike, Malicious Damage
+   - Storm, Tempest, Flood, Inundation
+   - Impact Damage
+   - Subsidence and Landslide
+   - Bursting of Water Tanks and Pipes
+   - Leakage from Automatic Sprinkler Installations
+   - Bush Fire
+   - Earthquake (Fire and Shock)
+
+C. Add-on Covers:
+
+   - Terrorism Cover
+   - Architects, Surveyors and Consulting Engineers Fees
+   - Removal of Debris
+   - Loss of Rent
+   - Deterioration of Stocks in Cold Storage
+
+--------------------------------------------------------------------------------
+
+EXCLUSIONS:
+
+- War and nuclear perils
+- Willful destruction
+- Electrical/mechanical breakdown (covered separately)
+- Loss of data/software
+- Consequential losses
+
+--------------------------------------------------------------------------------
+
+DEDUCTIBLE: Rs. 10,000/- per claim
+
+================================================================================
+
+                    2. MACHINERY BREAKDOWN INSURANCE
+
+================================================================================
+
+Policy Number          : 23456789012
+Insurer               : United India Insurance Co. Ltd.
+Policy Period         : 1st April, 2023 to 31st March, 2024
+Sum Insured           : Rs. 1,25,00,000/-
+Premium               : Rs. 45,000/- (including GST)
+
+--------------------------------------------------------------------------------
+
+MACHINERY COVERED:
+
+Item                              | Make/Model      | Sum Insured (Rs.)
+----------------------------------+-----------------+------------------
+5-Axis CNC Machining Center       | DMG MORI        | 45,00,000
+CNC Turning Center                | Mazak           | 35,00,000
+Surface Grinder                   | Praga           | 15,00,000
+Cylindrical Grinder               | HMT             | 12,00,000
+VMC (Vertical Machining Center)   | BFW             | 10,00,000
+CMM (Coordinate Measuring Machine)| Zeiss           | 8,00,000
+----------------------------------+-----------------+------------------
+Total                             |                 | 1,25,00,000
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+- Sudden and unforeseen physical damage
+- Faulty design, material, or workmanship
+- Defects in casting or material
+- Short circuit, electrical disturbance
+- Failure of safety devices
+- Physical explosion of boilers
+- Tearing apart due to centrifugal force
+- Entry of foreign objects
+
+--------------------------------------------------------------------------------
+
+DEDUCTIBLE: Rs. 25,000/- or 5% of claim amount, whichever is higher
+
+================================================================================
+
+                    3. GROUP HEALTH INSURANCE
+
+================================================================================
+
+Policy Number          : 34567890123
+Insurer               : ICICI Lombard General Insurance Co. Ltd.
+Policy Period         : 1st April, 2023 to 31st March, 2024
+Premium               : Rs. 1,20,000/- (including GST)
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+A. Employee Coverage:
+   - All permanent employees: 55 members
+   - Sum Insured per Employee: Rs. 3,00,000/-
+
+B. Family Floater (Optional at Employee Cost):
+   - Employee + Spouse + 2 Children
+
+C. Benefits:
+
+   Benefit                        | Limit (Rs.)
+   -------------------------------+-------------
+   Hospitalization                | 3,00,000
+   Pre-Hospitalization (30 days)  | Included
+   Post-Hospitalization (60 days) | Included
+   Day Care Procedures            | Included
+   Ambulance Charges              | 2,000
+   Maternity                      | 50,000
+   New Born Baby Cover            | 50,000
+   Domiciliary Hospitalization    | 10% of SI
+   Personal Accident              | 3,00,000
+   Critical Illness               | 1,00,000
+
+--------------------------------------------------------------------------------
+
+NETWORK HOSPITALS: 5,000+ hospitals across India
+
+CASHLESS FACILITY: Available at network hospitals
+
+CO-PAY: 10% for employees above 45 years
+
+================================================================================
+
+                    4. PUBLIC LIABILITY INSURANCE
+
+================================================================================
+
+Policy Number          : 45678901234
+Insurer               : Bajaj Allianz General Insurance Co. Ltd.
+Policy Period         : 1st April, 2023 to 31st March, 2024
+Sum Insured           : Rs. 1,00,00,000/-
+Premium               : Rs. 35,000/- (including GST)
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+- Third-party bodily injury
+- Third-party property damage
+- Legal costs and expenses
+- Medical expenses
+
+--------------------------------------------------------------------------------
+
+LIMIT OF INDEMNITY:
+
+Any One Accident       : Rs. 50,00,000/-
+Aggregate Limit        : Rs. 1,00,00,000/-
+
+--------------------------------------------------------------------------------
+
+ACTIVITIES COVERED:
+
+- Manufacturing operations
+- Use of machinery and equipment
+- Handling of materials
+- Visitor injuries on premises
+
+================================================================================
+
+                    5. WORKMEN COMPENSATION INSURANCE
+
+================================================================================
+
+Policy Number          : 56789012345
+Insurer               : The Oriental Insurance Co. Ltd.
+Policy Period         : 1st April, 2023 to 31st March, 2024
+Premium               : Rs. 28,000/- (including GST)
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+Under the Workmen's Compensation Act, 1923:
+
+- Death: As per Act (50% of monthly wages x relevant factor)
+- Permanent Total Disability: As per Act
+- Permanent Partial Disability: As per % of disability
+- Temporary Disability: Half-monthly payments
+
+--------------------------------------------------------------------------------
+
+EMPLOYEES COVERED: All workmen as defined under the Act
+
+ANNUAL WAGES: Rs. 78,00,000/- (estimated)
+
+OCCUPATIONAL DISEASES: Covered as per Schedule III of the Act
+
+================================================================================
+
+                    6. MARINE INSURANCE (STOCK THROUGHPUT)
+
+================================================================================
+
+Policy Number          : 67890123456
+Insurer               : TATA AIG General Insurance Co. Ltd.
+Policy Period         : 1st April, 2023 to 31st March, 2024
+Sum Insured           : Rs. 50,00,000/-
+Premium               : Rs. 22,000/- (including GST)
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+- Raw materials in transit (inward)
+- Finished goods in transit (outward)
+- Stock at third-party locations
+- Inter-branch transfers
+
+--------------------------------------------------------------------------------
+
+TRANSIT MODES: Road, Rail, Air, Sea
+
+GEOGRAPHICAL SCOPE: Within India
+
+BASIS: All risks basis (Institute Cargo Clauses A)
+
+================================================================================
+
+                    7. COMMERCIAL VEHICLE INSURANCE
+
+================================================================================
+
+Policy Number          : 78901234567
+Insurer               : HDFC ERGO General Insurance Co. Ltd.
+Policy Period         : 1st April, 2023 to 31st March, 2024
+Premium               : Rs. 18,000/- (including GST)
+
+--------------------------------------------------------------------------------
+
+VEHICLES COVERED:
+
+Vehicle               | Reg. No.       | IDV (Rs.)   | Coverage
+----------------------+----------------+-------------+-----------
+Tata Ace (Pickup)    | TN 21 AB 1234  | 3,50,000    | Comprehensive
+Mahindra Bolero      | TN 21 CD 5678  | 6,00,000    | Comprehensive
+
+--------------------------------------------------------------------------------
+
+COVERAGE: Own Damage + Third Party Liability + Personal Accident
+
+================================================================================
+
+                    8. DIRECTORS & OFFICERS LIABILITY INSURANCE
+
+================================================================================
+
+Policy Number          : 89012345678
+Insurer               : ICICI Lombard General Insurance Co. Ltd.
+Policy Period         : 1st April, 2023 to 31st March, 2024
+Sum Insured           : Rs. 1,00,00,000/-
+Premium               : Rs. 40,000/- (including GST)
+
+--------------------------------------------------------------------------------
+
+INSURED PERSONS:
+
+- All Directors (past, present, and future)
+- Officers and Key Managerial Personnel
+- Employees in managerial capacity
+
+--------------------------------------------------------------------------------
+
+COVERAGE:
+
+- Defense costs
+- Settlement amounts
+- Judgments and awards
+- Regulatory investigations
+- Employment practices liability
+- Company reimbursement
+
+================================================================================
+
+                    INSURANCE CONTACTS
+
+================================================================================
+
+Broker: M/s. Insurance Solutions Pvt. Ltd.
+Contact Person: Mr. Suresh Kumar
+Phone: +91-98765-12345
+Email: suresh@insurancesolutions.com
+
+For Claims:
+- Fire/Marine: claims.fire@newindia.co.in
+- Health: health.claims@icicilombard.com
+- Motor: motor.claims@hdfcergo.com
+
+================================================================================
+
+                    RENEWAL SCHEDULE
+
+================================================================================
+
+Policy Type                     | Renewal Due
+--------------------------------+------------------
+All Policies                    | 1st April, 2024
+
+Renewal reminders will be sent 45 days before expiry.
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that the above insurance policies are currently in force and
+premiums have been paid.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+R. Venkatesh
+Chief Financial Officer
+
+Place: Hosur
+Date: ____________________________
+
+================================================================================

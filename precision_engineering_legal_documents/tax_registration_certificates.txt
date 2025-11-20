@@ -1,0 +1,311 @@
+================================================================================
+                    TAX REGISTRATION CERTIFICATES
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+                    1. PERMANENT ACCOUNT NUMBER (PAN)
+
+================================================================================
+
+                    INCOME TAX DEPARTMENT
+                    GOVERNMENT OF INDIA
+
+--------------------------------------------------------------------------------
+
+PERMANENT ACCOUNT NUMBER: AABCP1234K
+
+Name                    : PRECISION ENGINEERING WORKS PRIVATE LIMITED
+Date of Incorporation   : 15/07/2018
+Status                  : Company
+Area Code               : Chennai
+AO Type                 : Ward
+Range Code              : 15
+AO Number               : 2
+Jurisdiction            : Chennai
+
+Communication Address:
+Plot No. 45, SIPCOT Industrial Estate
+Hosur - 635126
+Tamil Nadu
+
+--------------------------------------------------------------------------------
+
+This card is valid throughout India.
+
+Date of Issue: 20th July, 2018
+
+================================================================================
+
+                    2. TAX DEDUCTION AND COLLECTION ACCOUNT NUMBER (TAN)
+
+================================================================================
+
+                    INCOME TAX DEPARTMENT
+                    GOVERNMENT OF INDIA
+
+--------------------------------------------------------------------------------
+
+TAN: CHEP12345A
+
+Name                    : PRECISION ENGINEERING WORKS PRIVATE LIMITED
+Status                  : Company
+Address                 : Plot No. 45, SIPCOT Industrial Estate
+                         Hosur - 635126, Tamil Nadu
+
+Jurisdictional Details:
+Area Code               : Chennai
+AO Type                 : Circle
+Range Code              : TDS
+AO Number               : 1
+
+--------------------------------------------------------------------------------
+
+This TAN is for the purpose of deducting and collecting tax at source.
+
+Date of Issue: 25th July, 2018
+
+================================================================================
+
+                    3. GOODS AND SERVICES TAX (GST) REGISTRATION
+
+================================================================================
+
+                    CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS
+                    GOVERNMENT OF INDIA
+
+--------------------------------------------------------------------------------
+
+                    GST REGISTRATION CERTIFICATE
+
+GSTIN: 33AABCP1234K1ZQ
+
+Legal Name              : PRECISION ENGINEERING WORKS PRIVATE LIMITED
+Trade Name              : PRECISION ENGINEERING WORKS
+Constitution            : Private Limited Company
+Date of Liability       : 15th July, 2018
+Effective Date of Reg.  : 15th July, 2018
+Type of Registration    : Regular
+PAN                     : AABCP1234K
+CIN                     : U28999TN2018PTC125847
+
+Principal Place of Business:
+Plot No. 45, SIPCOT Industrial Estate
+Hosur, Krishnagiri District
+Tamil Nadu - 635126
+
+Nature of Business:
+- Manufacturer
+- Supplier of Services
+
+Products/Services:
+- Machine tools and parts (HSN 8466)
+- Machinery parts (HSN 8483)
+- Machining services (SAC 9988)
+
+Authorized Signatory:
+Name: Vikram Rajan
+Designation: Managing Director
+
+--------------------------------------------------------------------------------
+
+This certificate is valid until cancelled.
+
+Date of Issue: 15th July, 2018
+Place: Chennai
+
+                    [Digital Signature]
+                    Superintendent
+                    Central GST, Hosur Range
+
+================================================================================
+
+                    4. PROFESSIONAL TAX REGISTRATION
+
+================================================================================
+
+                    COMMERCIAL TAXES DEPARTMENT
+                    GOVERNMENT OF TAMIL NADU
+
+--------------------------------------------------------------------------------
+
+                    PROFESSIONAL TAX ENROLLMENT CERTIFICATE
+
+Registration Number: PTEN/TN/HOS/2018/12345
+
+Name of Employer        : PRECISION ENGINEERING WORKS PRIVATE LIMITED
+Address                 : Plot No. 45, SIPCOT Industrial Estate
+                         Hosur - 635126, Tamil Nadu
+Constitution            : Private Limited Company
+PAN                     : AABCP1234K
+GSTIN                   : 33AABCP1234K1ZQ
+
+Date of Enrollment      : 1st August, 2018
+Valid From              : 1st August, 2018
+
+Circle Office           : Hosur
+Division                : Krishnagiri
+
+--------------------------------------------------------------------------------
+
+The employer is liable to deduct Professional Tax from the salaries of
+employees as per the Tamil Nadu Tax on Professions, Trades, Callings and
+Employments Act, 1992.
+
+Tax Slabs (Monthly Salary):
+- Up to Rs. 21,000: Nil
+- Rs. 21,001 to Rs. 30,000: Rs. 100
+- Rs. 30,001 to Rs. 45,000: Rs. 235
+- Rs. 45,001 to Rs. 60,000: Rs. 510
+- Rs. 60,001 to Rs. 75,000: Rs. 760
+- Above Rs. 75,000: Rs. 1,095
+
+Date of Issue: 10th August, 2018
+
+                    Commercial Tax Officer
+                    Hosur
+
+================================================================================
+
+                    5. IMPORT EXPORT CODE (IEC)
+
+================================================================================
+
+                    DIRECTORATE GENERAL OF FOREIGN TRADE
+                    MINISTRY OF COMMERCE AND INDUSTRY
+                    GOVERNMENT OF INDIA
+
+--------------------------------------------------------------------------------
+
+                    IMPORTER-EXPORTER CODE (IEC) CERTIFICATE
+
+IEC Number: 0518012345
+
+Name                    : PRECISION ENGINEERING WORKS PRIVATE LIMITED
+Address                 : Plot No. 45, SIPCOT Industrial Estate
+                         Hosur - 635126, Tamil Nadu
+PAN                     : AABCP1234K
+Date of Issue           : 15th October, 2018
+
+Nature of Concern       : Private Limited Company
+
+Branch Addresses:
+1. Plot No. 45, SIPCOT Industrial Estate, Hosur - 635126 (Head Office)
+
+Bank Details:
+Bank Name               : HDFC Bank Ltd.
+Branch                  : Hosur Branch
+Account No.             : 50200012345678
+IFSC Code               : HDFC0001234
+AD Code                 : 0000123
+
+Products for Export:
+- Precision machined components
+- CNC turned parts
+- Engineering goods
+
+--------------------------------------------------------------------------------
+
+This IEC is valid until cancelled.
+
+Note: The importer/exporter must update DGFT of any changes within 90 days.
+
+                    [Digital Signature]
+                    Joint DGFT
+                    Chennai
+
+================================================================================
+
+                    6. SHOPS AND ESTABLISHMENT REGISTRATION
+
+================================================================================
+
+(See separate document: shop_establishment_license.txt)
+
+================================================================================
+
+                    7. MSME/UDYAM REGISTRATION
+
+================================================================================
+
+                    MINISTRY OF MICRO, SMALL AND MEDIUM ENTERPRISES
+                    GOVERNMENT OF INDIA
+
+--------------------------------------------------------------------------------
+
+                    UDYAM REGISTRATION CERTIFICATE
+
+Udyam Registration Number: UDYAM-TN-12-0012345
+
+Name of Enterprise      : PRECISION ENGINEERING WORKS PRIVATE LIMITED
+Type of Organization    : Private Limited Company
+Address                 : Plot No. 45, SIPCOT Industrial Estate
+                         Hosur - 635126, Tamil Nadu
+District                : Krishnagiri
+State                   : Tamil Nadu
+Mobile                  : +91-98765-43210
+Email                   : info@precisionengworks.com
+
+Date of Incorporation/Registration: 15/07/2018
+Date of Commencement of Production: 01/08/2018
+
+Major Activity          : Manufacturing
+NIC 2 Digit Code        : 28 - Manufacture of Machinery and Equipment n.e.c.
+NIC 4 Digit Code        : 2822 - Manufacture of Metal Forming Machinery
+NIC 5 Digit Code        : 28222 - Manufacture of Machine Tools
+
+Category as per MSME Classification:
+- Based on Investment in Plant & Machinery: SMALL ENTERPRISE
+- Based on Annual Turnover: SMALL ENTERPRISE
+
+Investment in Plant & Machinery: Rs. 2,50,00,000/-
+Annual Turnover (Previous Year): Rs. 3,50,00,000/-
+
+--------------------------------------------------------------------------------
+
+Enterprise Classification: SMALL ENTERPRISE
+
+This certificate is valid until cancelled or revised.
+
+Date of Udyam Registration: 1st July, 2020
+
+                    [Digital Signature]
+                    Ministry of MSME
+
+================================================================================
+
+                    SUMMARY OF TAX REGISTRATIONS
+
+================================================================================
+
+Registration Type               | Registration Number      | Issuing Authority
+--------------------------------+--------------------------+--------------------
+Permanent Account Number (PAN)  | AABCP1234K              | Income Tax Dept.
+TAN                            | CHEP12345A              | Income Tax Dept.
+GSTIN                          | 33AABCP1234K1ZQ         | Central GST
+Professional Tax               | PTEN/TN/HOS/2018/12345  | TN Commercial Taxes
+Import Export Code             | 0518012345              | DGFT
+Udyam Registration             | UDYAM-TN-12-0012345     | Ministry of MSME
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that the above tax registration details are accurate and
+the registrations are currently valid.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+Vikram Rajan
+Managing Director
+DIN: 08567234
+
+Place: Hosur
+Date: ____________________________
+
+================================================================================

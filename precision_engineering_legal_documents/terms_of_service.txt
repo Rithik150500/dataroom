@@ -1,0 +1,350 @@
+================================================================================
+                    TERMS OF SERVICE
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+                    TERMS OF SERVICE
+
+Last Updated: [Date]
+Effective Date: 1st August, 2018
+
+================================================================================
+
+1. INTRODUCTION
+
+These Terms of Service ("Terms") govern your use of the website, services, and
+products of Precision Engineering Works Private Limited ("Company," "we," "us,"
+or "our").
+
+By accessing our website or engaging our services, you agree to be bound by
+these Terms. If you do not agree, please do not use our services.
+
+================================================================================
+
+2. COMPANY INFORMATION
+
+Precision Engineering Works Private Limited
+CIN: U28999TN2018PTC125847
+Registered Office: Plot No. 45, SIPCOT Industrial Estate, Hosur - 635126,
+                   Tamil Nadu
+Email: info@precisionengworks.com
+Phone: +91-4344-XXXXXX
+
+================================================================================
+
+3. SERVICES
+
+3.1 We provide the following services:
+
+    (a) CNC machining (turning, milling, grinding)
+    (b) Precision component manufacturing
+    (c) Prototype development
+    (d) Tool and die making
+    (e) Quality inspection services
+    (f) Surface treatment and finishing
+
+3.2 Service availability may vary. We reserve the right to modify or discontinue
+    services at any time.
+
+================================================================================
+
+4. QUOTATIONS AND ORDERS
+
+4.1 QUOTATIONS
+
+    (a) Quotations are valid for [30] days unless otherwise specified;
+    (b) Quotations are based on information provided and may change if
+        requirements change;
+    (c) Quotations exclude taxes unless explicitly stated.
+
+4.2 ORDERS
+
+    (a) Orders are confirmed upon issuance of written Purchase Order;
+    (b) Orders are subject to our acceptance;
+    (c) Once accepted, orders cannot be cancelled without our consent;
+    (d) We may require advance payment or security for new customers.
+
+4.3 CHANGES
+
+    (a) Changes to orders must be requested in writing;
+    (b) We will inform you of any cost or schedule impact;
+    (c) Unauthorized changes may result in rejection.
+
+================================================================================
+
+5. CUSTOMER RESPONSIBILITIES
+
+5.1 You agree to:
+
+    (a) Provide complete and accurate specifications and drawings;
+    (b) Clearly communicate quality requirements and tolerances;
+    (c) Provide necessary approvals in a timely manner;
+    (d) Accept delivery as per agreed schedule;
+    (e) Pay invoices as per agreed terms.
+
+5.2 Delays caused by your failure to provide information or approvals may result
+    in schedule extensions and additional costs.
+
+================================================================================
+
+6. PRICING AND PAYMENT
+
+6.1 PRICING
+
+    (a) Prices are quoted in Indian Rupees unless otherwise specified;
+    (b) Prices exclude GST and other applicable taxes;
+    (c) Prices may be adjusted for material cost changes exceeding [10%];
+    (d) Custom tooling and setup charges may apply.
+
+6.2 PAYMENT TERMS
+
+    (a) Standard payment terms: [30] days from invoice date;
+    (b) New customers: Advance payment or Letter of Credit may be required;
+    (c) Late payments attract interest at [18%] per annum;
+    (d) We may suspend work for overdue accounts.
+
+6.3 TAXES
+
+    (a) You are responsible for all applicable taxes;
+    (b) GST will be charged at applicable rates;
+    (c) Provide GST registration number for input tax credit.
+
+================================================================================
+
+7. DELIVERY
+
+7.1 DELIVERY SCHEDULE
+
+    (a) Delivery dates are estimates unless confirmed as firm;
+    (b) We will notify you of potential delays;
+    (c) Force majeure events may extend delivery schedules.
+
+7.2 DELIVERY TERMS
+
+    (a) Standard delivery: Ex-Works (EXW) our facility;
+    (b) Risk passes to you upon dispatch from our facility;
+    (c) Freight and insurance are your responsibility unless otherwise agreed.
+
+7.3 INSPECTION
+
+    (a) Inspect goods upon receipt;
+    (b) Report any damage or discrepancy within [3] days;
+    (c) Claims made after [3] days may not be accepted.
+
+================================================================================
+
+8. QUALITY AND WARRANTY
+
+8.1 QUALITY COMMITMENT
+
+    (a) We are ISO 9001:2015 certified;
+    (b) Products are manufactured as per your specifications;
+    (c) We provide inspection reports and certificates as required.
+
+8.2 WARRANTY
+
+    (a) Products are warranted for [12] months from delivery;
+    (b) Warranty covers defects in material and workmanship;
+    (c) Warranty does not cover wear and tear, misuse, or your design defects.
+
+8.3 WARRANTY CLAIMS
+
+    (a) Notify us of defects within warranty period;
+    (b) Return defective products for inspection;
+    (c) We will repair or replace defective products at our option.
+
+8.4 LIMITATION
+
+    Our liability is limited to repair, replacement, or refund of the defective
+    product. We are not liable for consequential damages.
+
+================================================================================
+
+9. INTELLECTUAL PROPERTY
+
+9.1 YOUR IP
+
+    (a) You retain ownership of your designs and specifications;
+    (b) We will not use your IP for other customers without consent;
+    (c) Provide only IP that you have the right to use.
+
+9.2 OUR IP
+
+    (a) We retain ownership of our processes and know-how;
+    (b) Products manufactured are based on your specifications;
+    (c) Any tooling or fixtures we develop remain our property unless paid for
+        by you.
+
+9.3 INDEMNITY
+
+    You agree to indemnify us against any claims that your designs infringe
+    third-party intellectual property rights.
+
+================================================================================
+
+10. CONFIDENTIALITY
+
+10.1 We will maintain confidentiality of your technical and business information.
+
+10.2 We may disclose information to subcontractors and employees on a need-to-
+     know basis.
+
+10.3 Confidentiality obligations do not apply to publicly available information.
+
+================================================================================
+
+11. LIMITATION OF LIABILITY
+
+11.1 TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+
+     (a) WE DISCLAIM ALL IMPLIED WARRANTIES;
+     (b) WE ARE NOT LIABLE FOR INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES;
+     (c) OUR TOTAL LIABILITY SHALL NOT EXCEED THE ORDER VALUE.
+
+11.2 These limitations apply regardless of the cause of action.
+
+================================================================================
+
+12. INDEMNIFICATION
+
+You agree to indemnify and hold us harmless from any claims arising from:
+
+(a) Your breach of these Terms;
+(b) Your violation of any law;
+(c) Your infringement of third-party rights;
+(d) Your use of products we manufacture.
+
+================================================================================
+
+13. FORCE MAJEURE
+
+Neither party shall be liable for delays or failures caused by events beyond
+reasonable control, including natural disasters, war, labor disputes, epidemics,
+government actions, or supply chain disruptions.
+
+================================================================================
+
+14. TERMINATION
+
+14.1 We may terminate our relationship if:
+
+     (a) You breach these Terms;
+     (b) You fail to pay invoices when due;
+     (c) You become insolvent or bankrupt.
+
+14.2 Upon termination:
+
+     (a) All outstanding payments become due;
+     (b) We may retain your tooling and materials until payment;
+     (c) Confidentiality obligations survive.
+
+================================================================================
+
+15. WEBSITE USE
+
+15.1 ACCEPTABLE USE
+
+     (a) Use the website only for lawful purposes;
+     (b) Do not attempt to gain unauthorized access;
+     (c) Do not interfere with website operation.
+
+15.2 CONTENT
+
+     (a) Website content is for informational purposes;
+     (b) We may update content without notice;
+     (c) Product images may not exactly represent actual products.
+
+15.3 LINKS
+
+     Links to third-party websites are provided for convenience. We are not
+     responsible for third-party content.
+
+================================================================================
+
+16. PRIVACY
+
+Your privacy is important to us. Please review our Privacy Policy for
+information on how we collect, use, and protect your personal data.
+
+================================================================================
+
+17. DISPUTE RESOLUTION
+
+17.1 GOVERNING LAW
+
+     These Terms shall be governed by the laws of India.
+
+17.2 ARBITRATION
+
+     Any dispute shall be resolved through arbitration in Chennai under the
+     Arbitration and Conciliation Act, 1996.
+
+17.3 JURISDICTION
+
+     Courts in Hosur, Tamil Nadu shall have jurisdiction for any matters not
+     subject to arbitration.
+
+================================================================================
+
+18. GENERAL PROVISIONS
+
+18.1 ENTIRE AGREEMENT
+
+     These Terms, along with any Purchase Order, constitute the entire
+     agreement.
+
+18.2 AMENDMENTS
+
+     We may update these Terms. Continued use constitutes acceptance of changes.
+
+18.3 SEVERABILITY
+
+     If any provision is invalid, the remaining provisions shall continue.
+
+18.4 WAIVER
+
+     Failure to enforce any provision shall not constitute a waiver.
+
+18.5 ASSIGNMENT
+
+     You may not assign your rights without our consent.
+
+18.6 NOTICES
+
+     Notices shall be sent to the addresses specified in the order or to:
+
+     Precision Engineering Works Private Limited
+     Plot No. 45, SIPCOT Industrial Estate
+     Hosur - 635126, Tamil Nadu
+     Email: legal@precisionengworks.com
+
+================================================================================
+
+19. CONTACT US
+
+For questions about these Terms, please contact:
+
+Email: info@precisionengworks.com
+Phone: +91-4344-XXXXXX
+
+================================================================================
+
+By using our services, you acknowledge that you have read, understood, and
+agree to be bound by these Terms of Service.
+
+================================================================================
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+Vikram Rajan
+Managing Director
+
+Date: ____________________________
+
+================================================================================

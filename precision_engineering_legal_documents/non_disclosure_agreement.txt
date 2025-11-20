@@ -1,0 +1,307 @@
+================================================================================
+                    NON-DISCLOSURE AGREEMENT
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                    [STANDARD TEMPLATE]
+
+================================================================================
+
+This Non-Disclosure Agreement ("Agreement") is made and entered into on this
+[___] day of [_______________], 20[___] ("Effective Date")
+
+BY AND BETWEEN:
+
+PRECISION ENGINEERING WORKS PRIVATE LIMITED, a company incorporated under the
+Companies Act, 2013, having its registered office at Plot No. 45, SIPCOT
+Industrial Estate, Hosur - 635126, Tamil Nadu (CIN: U28999TN2018PTC125847)
+(hereinafter referred to as the "Disclosing Party")
+
+AND
+
+[NAME OF RECEIVING PARTY], [a company incorporated under the laws of
+[_______________] / an individual residing at [_______________]], having its
+[registered office / address] at [_______________________________________________]
+(hereinafter referred to as the "Receiving Party")
+
+(The Disclosing Party and the Receiving Party are hereinafter individually
+referred to as a "Party" and collectively as the "Parties")
+
+================================================================================
+
+RECITALS
+
+WHEREAS:
+
+A. The Disclosing Party is engaged in the business of precision engineering,
+   manufacturing, CNC machining, and related services;
+
+B. The Receiving Party is [describe the relationship - potential customer,
+   vendor, partner, investor, etc.];
+
+C. In connection with [describe purpose - e.g., "evaluating a potential business
+   relationship," "providing manufacturing services," etc.] (the "Purpose"),
+   the Disclosing Party may disclose certain confidential and proprietary
+   information to the Receiving Party;
+
+D. The Parties wish to establish the terms under which such Confidential
+   Information will be disclosed and protected.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the
+Parties agree as follows:
+
+================================================================================
+
+ARTICLE 1: DEFINITIONS
+
+1.1 "Confidential Information" means all non-public information, technical data,
+    or know-how disclosed by the Disclosing Party to the Receiving Party,
+    whether orally, in writing, electronically, or by any other means, including
+    but not limited to:
+
+    (a) Technical information: designs, drawings, specifications, tolerances,
+        manufacturing processes, machining parameters, tooling designs, quality
+        standards, inspection methods, and engineering data;
+
+    (b) Business information: customer lists, pricing, costs, quotes, business
+        plans, strategies, forecasts, and financial information;
+
+    (c) Proprietary information: trade secrets, inventions, patents, copyrights,
+        formulas, algorithms, and know-how;
+
+    (d) Third-party information: information received from third parties under
+        obligation of confidentiality;
+
+    (e) Any other information designated as confidential or that reasonably
+        should be understood to be confidential.
+
+1.2 "Representatives" means the directors, officers, employees, agents,
+    consultants, and advisors of the Receiving Party who have a need to know
+    the Confidential Information for the Purpose.
+
+================================================================================
+
+ARTICLE 2: OBLIGATIONS OF THE RECEIVING PARTY
+
+2.1 NON-DISCLOSURE
+
+    The Receiving Party agrees to:
+
+    (a) Hold all Confidential Information in strict confidence;
+    (b) Not disclose any Confidential Information to any third party without
+        prior written consent of the Disclosing Party;
+    (c) Use the Confidential Information solely for the Purpose;
+    (d) Not use the Confidential Information for any other purpose, including
+        competitive purposes;
+    (e) Restrict disclosure to Representatives who have a need to know.
+
+2.2 PROTECTION
+
+    The Receiving Party shall protect the Confidential Information using at
+    least the same degree of care it uses to protect its own confidential
+    information, but in no event less than reasonable care.
+
+2.3 REPRESENTATIVES
+
+    The Receiving Party shall:
+
+    (a) Inform its Representatives of the confidential nature of the information;
+    (b) Ensure Representatives comply with the terms of this Agreement;
+    (c) Be responsible for any breach by its Representatives.
+
+2.4 NO COPIES
+
+    The Receiving Party shall not copy or reproduce the Confidential Information
+    except as necessary for the Purpose.
+
+================================================================================
+
+ARTICLE 3: EXCLUSIONS
+
+3.1 The obligations under this Agreement shall not apply to information that:
+
+    (a) Was already known to the Receiving Party prior to disclosure, as
+        evidenced by written records;
+    (b) Is or becomes publicly available through no fault of the Receiving Party;
+    (c) Is independently developed by the Receiving Party without use of or
+        reference to the Confidential Information;
+    (d) Is lawfully obtained from a third party without restriction on
+        disclosure;
+    (e) Is required to be disclosed by law, court order, or governmental
+        authority, provided the Receiving Party gives prompt notice to the
+        Disclosing Party and cooperates in seeking protective measures.
+
+================================================================================
+
+ARTICLE 4: RETURN OF CONFIDENTIAL INFORMATION
+
+4.1 Upon the Disclosing Party's request or upon termination of this Agreement,
+    the Receiving Party shall promptly:
+
+    (a) Return all tangible materials containing Confidential Information;
+    (b) Destroy all copies, notes, and summaries; and
+    (c) Certify in writing that all Confidential Information has been returned
+        or destroyed.
+
+4.2 Notwithstanding the above, the Receiving Party may retain one copy for
+    legal archival purposes, subject to continued confidentiality obligations.
+
+================================================================================
+
+ARTICLE 5: NO LICENSE OR WARRANTY
+
+5.1 NO LICENSE
+
+    Nothing in this Agreement grants the Receiving Party any license or right
+    to use the Confidential Information except as expressly set forth herein.
+
+5.2 NO WARRANTY
+
+    The Disclosing Party makes no representation or warranty as to the accuracy,
+    completeness, or fitness for a particular purpose of the Confidential
+    Information. The Receiving Party relies on the information at its own risk.
+
+5.3 NO OBLIGATION
+
+    This Agreement does not obligate either Party to enter into any further
+    agreement or transaction.
+
+================================================================================
+
+ARTICLE 6: OWNERSHIP
+
+6.1 All Confidential Information shall remain the property of the Disclosing
+    Party.
+
+6.2 The Receiving Party acquires no rights in the Confidential Information
+    except the limited right to use it for the Purpose.
+
+================================================================================
+
+ARTICLE 7: TERM AND TERMINATION
+
+7.1 TERM
+
+    This Agreement shall be effective from the Effective Date and shall
+    continue for a period of [2 / 3 / 5] years unless terminated earlier.
+
+7.2 TERMINATION
+
+    Either Party may terminate this Agreement by giving 30 days' written notice
+    to the other Party.
+
+7.3 SURVIVAL
+
+    The confidentiality obligations shall survive termination of this Agreement
+    for a period of [3 / 5] years.
+
+================================================================================
+
+ARTICLE 8: REMEDIES
+
+8.1 The Receiving Party acknowledges that any breach may cause irreparable harm
+    to the Disclosing Party for which monetary damages may be inadequate.
+
+8.2 The Disclosing Party shall be entitled to seek injunctive relief, specific
+    performance, or other equitable remedies in addition to any other remedies
+    available at law.
+
+8.3 The Receiving Party shall indemnify the Disclosing Party against any losses,
+    damages, or expenses arising from breach of this Agreement.
+
+================================================================================
+
+ARTICLE 9: GENERAL PROVISIONS
+
+9.1 ENTIRE AGREEMENT
+
+    This Agreement constitutes the entire agreement between the Parties with
+    respect to the subject matter hereof and supersedes all prior agreements.
+
+9.2 AMENDMENT
+
+    This Agreement may be amended only by a written instrument signed by both
+    Parties.
+
+9.3 WAIVER
+
+    No waiver of any provision shall be deemed a waiver of any other provision
+    or a continuing waiver.
+
+9.4 SEVERABILITY
+
+    If any provision is held invalid, the remaining provisions shall continue
+    in full force and effect.
+
+9.5 ASSIGNMENT
+
+    This Agreement may not be assigned without the prior written consent of the
+    other Party.
+
+9.6 GOVERNING LAW
+
+    This Agreement shall be governed by the laws of India.
+
+9.7 DISPUTE RESOLUTION
+
+    Any dispute arising out of this Agreement shall be resolved through
+    arbitration in Chennai under the Arbitration and Conciliation Act, 1996.
+    The arbitration shall be conducted by a sole arbitrator mutually appointed
+    by the Parties.
+
+9.8 NOTICES
+
+    All notices shall be in writing and delivered to the addresses specified
+    herein.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date
+first written above.
+
+FOR PRECISION ENGINEERING WORKS PRIVATE LIMITED
+(Disclosing Party)
+
+____________________________
+Authorized Signatory
+Name: ____________________________
+Designation: ____________________________
+Date: ____________________________
+
+
+FOR [NAME OF RECEIVING PARTY]
+(Receiving Party)
+
+____________________________
+Authorized Signatory
+Name: ____________________________
+Designation: ____________________________
+Date: ____________________________
+
+================================================================================
+
+SCHEDULE A: DESCRIPTION OF PURPOSE
+
+Purpose of Disclosure:
+[_______________________________________________________________________________]
+[_______________________________________________________________________________]
+[_______________________________________________________________________________]
+
+================================================================================
+
+SCHEDULE B: SPECIFIC CONFIDENTIAL INFORMATION
+
+The following categories of information shall be considered Confidential
+Information under this Agreement:
+
+[ ] Technical drawings and CAD files
+[ ] Manufacturing process specifications
+[ ] Tooling and fixture designs
+[ ] Quality inspection procedures
+[ ] Customer lists and pricing
+[ ] Business plans and projections
+[ ] Patent applications and inventions
+[ ] Other: [_______________________________________________]
+
+================================================================================

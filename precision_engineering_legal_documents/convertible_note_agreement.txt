@@ -1,0 +1,416 @@
+================================================================================
+                    CONVERTIBLE NOTE AGREEMENT
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+This Convertible Note Agreement ("Agreement") is made and entered into on this
+[___] day of [_______________], 20[___] ("Effective Date")
+
+BY AND BETWEEN:
+
+PRECISION ENGINEERING WORKS PRIVATE LIMITED, a company incorporated under the
+Companies Act, 2013, having its registered office at Plot No. 45, SIPCOT
+Industrial Estate, Hosur - 635126, Tamil Nadu (CIN: U28999TN2018PTC125847)
+(hereinafter referred to as the "Company")
+
+AND
+
+[NAME OF INVESTOR], [a company incorporated under the laws of [_______________] /
+an individual residing at [_______________]], having its [registered office /
+address] at [_______________________________________________]
+(hereinafter referred to as the "Investor")
+
+(The Company and the Investor are hereinafter individually referred to as a
+"Party" and collectively as the "Parties")
+
+================================================================================
+
+RECITALS
+
+WHEREAS:
+
+A. The Company is engaged in the business of precision engineering, CNC
+   machining, and manufacturing of precision components;
+
+B. The Company desires to raise funds for working capital, capital expenditure,
+   and business expansion;
+
+C. The Investor desires to invest in the Company by way of a convertible note;
+
+D. The Parties wish to record the terms and conditions of such investment.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the
+Parties agree as follows:
+
+================================================================================
+
+ARTICLE 1: DEFINITIONS
+
+1.1 "Conversion Date" means the date on which the Note is converted into Equity
+    Shares.
+
+1.2 "Conversion Price" means the price per Equity Share at which the Note
+    converts, calculated as per Article 4.
+
+1.3 "Equity Shares" means the equity shares of the Company with a face value of
+    Rs. 10/- each.
+
+1.4 "Maturity Date" means [24] months from the Issue Date.
+
+1.5 "Next Equity Financing" means the next round of equity financing by the
+    Company resulting in gross proceeds of at least Rs. [1,00,00,000/-].
+
+1.6 "Note" means the convertible note issued under this Agreement.
+
+1.7 "Principal Amount" means Rs. [_______________] (Rupees [_______________]
+    Only).
+
+1.8 "Valuation Cap" means Rs. [_______________] (Rupees [_______________] Only).
+
+================================================================================
+
+ARTICLE 2: INVESTMENT
+
+2.1 ISSUANCE OF NOTE
+
+    The Company agrees to issue, and the Investor agrees to subscribe to, a
+    convertible note for the Principal Amount.
+
+2.2 DISBURSEMENT
+
+    The Investor shall transfer the Principal Amount to the Company's bank
+    account within [7] days of execution of this Agreement.
+
+2.3 USE OF FUNDS
+
+    The Company shall use the funds for:
+
+    (a) Working capital requirements;
+    (b) Purchase of machinery and equipment;
+    (c) Business expansion and marketing;
+    (d) General corporate purposes.
+
+2.4 ACKNOWLEDGMENT
+
+    Upon receipt of the Principal Amount, the Company shall issue a receipt and
+    the Note certificate to the Investor.
+
+================================================================================
+
+ARTICLE 3: INTEREST
+
+3.1 The Note shall carry simple interest at the rate of [8%] per annum.
+
+3.2 Interest shall accrue from the date of disbursement until conversion or
+    repayment.
+
+3.3 Accrued interest shall be added to the Principal Amount for the purpose of
+    calculating the number of shares upon conversion.
+
+================================================================================
+
+ARTICLE 4: CONVERSION
+
+4.1 AUTOMATIC CONVERSION
+
+    The Note shall automatically convert into Equity Shares upon the occurrence
+    of the Next Equity Financing.
+
+4.2 CONVERSION PRICE
+
+    The Conversion Price shall be the lower of:
+
+    (a) The price per share paid by investors in the Next Equity Financing
+        multiplied by [0.80] (20% discount); or
+    (b) The Valuation Cap divided by the fully diluted share capital of the
+        Company immediately prior to the Next Equity Financing.
+
+4.3 NUMBER OF SHARES
+
+    The number of Equity Shares to be issued upon conversion shall be:
+
+    (Principal Amount + Accrued Interest) / Conversion Price
+
+4.4 FRACTIONAL SHARES
+
+    Any fractional shares shall be rounded down to the nearest whole number.
+
+4.5 CONVERSION MECHANICS
+
+    Upon conversion:
+
+    (a) The Company shall issue Equity Shares to the Investor;
+    (b) The Note shall be cancelled;
+    (c) The Investor shall execute subscription documents;
+    (d) The Investor shall be entitled to the same rights as other investors
+        in the Next Equity Financing.
+
+================================================================================
+
+ARTICLE 5: OPTIONAL CONVERSION
+
+5.1 CONVERSION ON MATURITY
+
+    If the Next Equity Financing has not occurred by the Maturity Date, the
+    Investor may elect to:
+
+    (a) Convert the Note at a price based on the Valuation Cap; or
+    (b) Extend the Maturity Date by [12] months.
+
+5.2 CONVERSION ON CHANGE OF CONTROL
+
+    If a Change of Control occurs before conversion, the Investor may elect to:
+
+    (a) Convert the Note at a price based on the Valuation Cap; or
+    (b) Receive repayment of the Principal Amount plus accrued interest plus
+        a premium of [50%].
+
+5.3 VOLUNTARY CONVERSION
+
+    The Investor may elect to convert the Note at any time at a price based on
+    the Valuation Cap, with [30] days' prior notice.
+
+================================================================================
+
+ARTICLE 6: REPAYMENT
+
+6.1 DEFAULT REPAYMENT
+
+    If the Note has not converted by the extended Maturity Date, the Company
+    shall repay the Principal Amount plus accrued interest within [30] days.
+
+6.2 PREPAYMENT
+
+    The Company may prepay the Note with the Investor's consent.
+
+6.3 REPAYMENT PRIORITY
+
+    The Note shall rank:
+
+    (a) Senior to all equity shareholders;
+    (b) Pari passu with other convertible note holders;
+    (c) Subordinate to secured creditors.
+
+================================================================================
+
+ARTICLE 7: REPRESENTATIONS AND WARRANTIES
+
+7.1 COMPANY REPRESENTATIONS
+
+    The Company represents and warrants that:
+
+    (a) It is duly incorporated and validly existing;
+    (b) It has the authority to enter into this Agreement;
+    (c) This Agreement is binding and enforceable;
+    (d) No consents are required other than those already obtained;
+    (e) There is no litigation that would materially affect the Company;
+    (f) The Company is in compliance with applicable laws;
+    (g) The Company's financial statements are accurate;
+    (h) The Company owns or has rights to its intellectual property;
+    (i) There are no undisclosed liabilities.
+
+7.2 INVESTOR REPRESENTATIONS
+
+    The Investor represents and warrants that:
+
+    (a) It has the authority to enter into this Agreement;
+    (b) It is an accredited investor / sophisticated investor;
+    (c) It has reviewed the Company's business and financials;
+    (d) It understands the risks of this investment;
+    (e) Funds invested are from legitimate sources.
+
+================================================================================
+
+ARTICLE 8: COVENANTS
+
+8.1 AFFIRMATIVE COVENANTS
+
+    The Company shall:
+
+    (a) Maintain its corporate existence;
+    (b) Comply with all applicable laws;
+    (c) Maintain adequate insurance;
+    (d) Keep proper books of account;
+    (e) Provide quarterly financial statements to the Investor;
+    (f) Notify the Investor of any material adverse events;
+    (g) Use funds for the agreed purposes.
+
+8.2 NEGATIVE COVENANTS
+
+    Without Investor's consent, the Company shall not:
+
+    (a) Issue any securities senior to or pari passu with the Note (except
+        for notes on substantially similar terms up to Rs. [_______________]);
+    (b) Declare or pay dividends;
+    (c) Make any loans to related parties;
+    (d) Enter into any material contracts outside ordinary course;
+    (e) Sell or dispose of substantial assets;
+    (f) Amend the charter documents in a manner adverse to the Investor.
+
+================================================================================
+
+ARTICLE 9: INFORMATION RIGHTS
+
+9.1 The Company shall provide to the Investor:
+
+    (a) Quarterly unaudited financial statements within [30] days of quarter end;
+    (b) Annual audited financial statements within [90] days of year end;
+    (c) Annual budget and business plan;
+    (d) Capitalization table;
+    (e) Notice of any material events.
+
+9.2 The Investor shall have the right to inspect the Company's books and records
+    upon reasonable notice.
+
+================================================================================
+
+ARTICLE 10: EVENTS OF DEFAULT
+
+10.1 The following shall constitute Events of Default:
+
+     (a) Failure to pay any amount when due;
+     (b) Breach of any representation or warranty;
+     (c) Breach of any covenant not cured within [30] days;
+     (d) Insolvency or bankruptcy of the Company;
+     (e) Material adverse change in the Company's business;
+     (f) Change of control without compliance with this Agreement.
+
+10.2 Upon an Event of Default, the Investor may:
+
+     (a) Declare the Note immediately due and payable;
+     (b) Convert the Note at the Valuation Cap;
+     (c) Exercise any other remedies available at law.
+
+================================================================================
+
+ARTICLE 11: TRANSFER RESTRICTIONS
+
+11.1 The Note may not be transferred without the Company's prior written
+     consent.
+
+11.2 Permitted transfers include transfers to Affiliates of the Investor.
+
+11.3 Any transfer must comply with applicable securities laws.
+
+================================================================================
+
+ARTICLE 12: CONFIDENTIALITY
+
+12.1 Each Party shall maintain confidentiality of the other's confidential
+     information.
+
+12.2 This Agreement and its terms are confidential except as required by law.
+
+12.3 Confidentiality obligations survive termination for [5] years.
+
+================================================================================
+
+ARTICLE 13: GENERAL PROVISIONS
+
+13.1 GOVERNING LAW
+
+     This Agreement shall be governed by the laws of India.
+
+13.2 DISPUTE RESOLUTION
+
+     Any dispute shall be resolved through arbitration in Chennai under the
+     Arbitration and Conciliation Act, 1996.
+
+13.3 ENTIRE AGREEMENT
+
+     This Agreement constitutes the entire agreement between the Parties.
+
+13.4 AMENDMENT
+
+     This Agreement may be amended only in writing signed by both Parties.
+
+13.5 WAIVER
+
+     No waiver of any provision shall be deemed a waiver of any other provision.
+
+13.6 SEVERABILITY
+
+     If any provision is invalid, the remaining provisions shall continue.
+
+13.7 NOTICES
+
+     All notices shall be in writing to the addresses specified herein.
+
+13.8 COUNTERPARTS
+
+     This Agreement may be executed in counterparts.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date
+first written above.
+
+FOR PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+Vikram Rajan
+Managing Director
+DIN: 08567234
+Date: ____________________________
+
+
+FOR [NAME OF INVESTOR]
+
+____________________________
+Authorized Signatory
+Name: ____________________________
+Designation: ____________________________
+Date: ____________________________
+
+In the presence of:
+
+Witness 1:
+Name: ____________________________
+Address: ____________________________
+Signature: ____________________________
+
+Witness 2:
+Name: ____________________________
+Address: ____________________________
+Signature: ____________________________
+
+================================================================================
+
+SCHEDULE A: NOTE CERTIFICATE
+
+================================================================================
+
+                    CONVERTIBLE NOTE CERTIFICATE
+
+                    PRECISION ENGINEERING WORKS PRIVATE LIMITED
+                         CIN: U28999TN2018PTC125847
+
+Certificate No.: CN-[___]
+
+This certifies that [NAME OF INVESTOR] is the holder of a Convertible Note
+with the following terms:
+
+Principal Amount: Rs. [_______________]
+Interest Rate: [8%] per annum (simple interest)
+Issue Date: [_______________]
+Maturity Date: [_______________]
+Valuation Cap: Rs. [_______________]
+Discount: [20%]
+
+This Note is subject to the terms and conditions of the Convertible Note
+Agreement dated [_______________] between the Company and the Investor.
+
+Issued under the Common Seal of the Company this [___] day of [_______________],
+20[___].
+
+[COMMON SEAL]
+
+____________________________              ____________________________
+Director                                  Director
+
+================================================================================

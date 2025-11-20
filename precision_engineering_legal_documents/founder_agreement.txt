@@ -1,0 +1,446 @@
+================================================================================
+                    FOUNDER AGREEMENT
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+This Founder Agreement ("Agreement") is entered into on this 10th day of July,
+2018 ("Effective Date")
+
+BY AND BETWEEN:
+
+1. VIKRAM RAJAN, S/o Mr. Rajan Krishnan, aged about 33 years, residing at
+   No. 12, Anna Nagar East, Chennai - 600102, Tamil Nadu
+   (hereinafter referred to as "Founder 1")
+
+   AND
+
+2. ANAND KUMAR, S/o Mr. Kumar Venkat, aged about 32 years, residing at
+   No. 78, T. Nagar, Chennai - 600017, Tamil Nadu
+   (hereinafter referred to as "Founder 2")
+
+(Founder 1 and Founder 2 are hereinafter individually referred to as a "Founder"
+and collectively as the "Founders")
+
+================================================================================
+
+RECITALS
+
+WHEREAS:
+
+A. The Founders have agreed to incorporate a Private Limited Company under the
+   Companies Act, 2013 to carry on the business of precision engineering,
+   manufacturing, and CNC machining services;
+
+B. The Company was incorporated on July 15, 2018 as Precision Engineering Works
+   Private Limited with Corporate Identity Number U28999TN2018PTC125847;
+
+C. The Founders wish to set forth their respective rights, duties, and
+   obligations towards each other and the Company, including their respective
+   roles, equity ownership, vesting schedules, and other matters;
+
+D. The Founders wish to record the terms of their understanding and agreement
+   regarding their mutual relationship as co-founders of the Company.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set
+forth herein, and for other good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, the Founders agree as follows:
+
+================================================================================
+
+ARTICLE 1: DEFINITIONS
+
+1.1 "Affiliate" means any entity that directly or indirectly controls, is
+    controlled by, or is under common control with a party.
+
+1.2 "Board" means the Board of Directors of the Company.
+
+1.3 "Business" means the business of precision engineering, CNC machining,
+    manufacturing of precision components, and related services.
+
+1.4 "Confidential Information" means all non-public information relating to
+    the Company's business, technology, operations, finances, or affairs.
+
+1.5 "Intellectual Property" means all patents, trademarks, copyrights, trade
+    secrets, designs, technical know-how, processes, and other proprietary
+    rights.
+
+1.6 "Vesting Period" means the period during which a Founder's shares vest as
+    specified in this Agreement.
+
+================================================================================
+
+ARTICLE 2: THE COMPANY AND BUSINESS
+
+2.1 COMPANY DETAILS
+    Name: Precision Engineering Works Private Limited
+    CIN: U28999TN2018PTC125847
+    Registered Office: Plot No. 45, SIPCOT Industrial Estate, Hosur - 635126,
+                       Tamil Nadu
+
+2.2 BUSINESS OBJECTIVES
+    The Company shall carry on the Business as set forth in its Memorandum of
+    Association, which includes but is not limited to:
+
+    (a) Precision engineering and manufacturing of components;
+    (b) CNC machining, turning, milling, and grinding services;
+    (c) Tool and die manufacturing;
+    (d) Prototype development and production;
+    (e) Quality inspection and metrology services;
+    (f) Any other related business as may be decided by the Board.
+
+2.3 BUSINESS PLAN
+    The Founders shall work together to develop and execute the Business Plan
+    attached hereto as Schedule A.
+
+================================================================================
+
+ARTICLE 3: EQUITY OWNERSHIP
+
+3.1 INITIAL SHAREHOLDING
+    The initial shareholding of the Founders shall be as follows:
+
+    Founder        | No. of Shares | Percentage | Paid-up Amount
+    ---------------+---------------+------------+---------------
+    Vikram Rajan   | 1,25,000      | 50%        | Rs. 12,50,000
+    Anand Kumar    | 1,25,000      | 50%        | Rs. 12,50,000
+    ---------------+---------------+------------+---------------
+    Total          | 2,50,000      | 100%       | Rs. 25,00,000
+
+3.2 CAPITAL CONTRIBUTION
+    Each Founder has contributed capital to the Company as set forth above.
+    Any additional capital contribution shall be determined by mutual agreement
+    of the Founders and approved by the Board.
+
+3.3 NO DILUTION WITHOUT CONSENT
+    The shareholding of a Founder shall not be diluted without such Founder's
+    written consent, except in case of:
+    (a) Issuance of shares under an approved ESOP scheme; or
+    (b) Fund raising approved by both Founders.
+
+================================================================================
+
+ARTICLE 4: VESTING OF SHARES
+
+4.1 VESTING SCHEDULE
+    The shares held by each Founder shall vest as follows:
+
+    (a) 25% of the shares shall vest on completion of 12 months from the
+        Effective Date ("Cliff Period");
+    (b) Remaining 75% shall vest in equal monthly installments over the next
+        36 months following the Cliff Period.
+
+4.2 TOTAL VESTING PERIOD
+    The total vesting period shall be 48 months (4 years) from the Effective
+    Date.
+
+4.3 ACCELERATION OF VESTING
+    The unvested shares shall immediately vest in full upon:
+
+    (a) A Change of Control of the Company;
+    (b) Death or permanent disability of a Founder;
+    (c) Termination without cause by the Board;
+    (d) Any other event as mutually agreed by the Founders.
+
+4.4 FORFEITURE OF UNVESTED SHARES
+    If a Founder ceases to be associated with the Company before complete
+    vesting, the unvested shares shall be forfeited and either:
+
+    (a) Transferred to the remaining Founder at the original issue price; or
+    (b) Cancelled by the Company.
+
+================================================================================
+
+ARTICLE 5: ROLES AND RESPONSIBILITIES
+
+5.1 FOUNDER 1 - VIKRAM RAJAN
+
+    (a) Designation: Managing Director
+    (b) Key Responsibilities:
+        - Overall business strategy and vision
+        - Technology and product development
+        - Client relationships and business development
+        - Manufacturing operations and quality control
+        - Research and development initiatives
+
+    (c) Remuneration: Rs. 1,50,000/- per month
+    (d) Time Commitment: Full-time
+
+5.2 FOUNDER 2 - ANAND KUMAR
+
+    (a) Designation: Whole-time Director
+    (b) Key Responsibilities:
+        - Operations management and production planning
+        - Supply chain and vendor management
+        - Finance, accounting, and compliance
+        - Human resources and administration
+        - Equipment procurement and maintenance
+
+    (c) Remuneration: Rs. 1,25,000/- per month
+    (d) Time Commitment: Full-time
+
+5.3 REVIEW OF ROLES
+    The roles and responsibilities may be reviewed and modified by mutual
+    agreement of the Founders based on the Company's evolving needs.
+
+================================================================================
+
+ARTICLE 6: DECISION MAKING
+
+6.1 BOARD COMPOSITION
+    The Board shall initially comprise the two Founders. Additional Directors
+    may be appointed with mutual consent of the Founders.
+
+6.2 RESERVED MATTERS
+    The following matters shall require unanimous consent of all Founders:
+
+    (a) Amendment to the Memorandum or Articles of Association;
+    (b) Issuance of new shares or securities;
+    (c) Any merger, acquisition, or sale of the Company;
+    (d) Entering into any debt exceeding Rs. 50,00,000/-;
+    (e) Appointment or removal of senior management;
+    (f) Entering into contracts exceeding Rs. 25,00,000/-;
+    (g) Change in the nature of business;
+    (h) Any related party transactions;
+    (i) Approval of annual business plan and budget;
+    (j) Declaration of dividends.
+
+6.3 DEADLOCK RESOLUTION
+    In case of a deadlock between the Founders on any matter, the Founders
+    shall attempt to resolve the dispute through good faith negotiations. If
+    unresolved within 30 days, the matter shall be referred to mediation.
+
+================================================================================
+
+ARTICLE 7: NON-COMPETE AND NON-SOLICITATION
+
+7.1 NON-COMPETE
+    During the term of this Agreement and for a period of 2 years after
+    cessation of association with the Company, each Founder agrees not to:
+
+    (a) Directly or indirectly engage in any business competitive with the
+        Company's Business;
+    (b) Own, manage, or be employed by any competing business;
+    (c) Assist any person or entity in competing with the Company.
+
+7.2 NON-SOLICITATION
+    During the term and for 2 years thereafter, each Founder agrees not to:
+
+    (a) Solicit or attempt to solicit any customer or client of the Company;
+    (b) Induce or attempt to induce any employee to leave the Company;
+    (c) Interfere with the Company's relationships with suppliers or vendors.
+
+7.3 GEOGRAPHICAL SCOPE
+    The non-compete restrictions shall apply within India.
+
+================================================================================
+
+ARTICLE 8: INTELLECTUAL PROPERTY
+
+8.1 ASSIGNMENT TO COMPANY
+    Each Founder hereby assigns to the Company all right, title, and interest
+    in and to any Intellectual Property created, developed, or conceived by
+    such Founder in connection with the Business.
+
+8.2 PRE-EXISTING IP
+    Any Intellectual Property owned by a Founder prior to the Effective Date
+    and contributed to the Company shall be listed in Schedule B. Such IP shall
+    be licensed to the Company on a perpetual, royalty-free basis.
+
+8.3 WORK PRODUCT
+    All work product, inventions, designs, processes, and technical know-how
+    developed by any Founder during the term shall be the exclusive property
+    of the Company.
+
+================================================================================
+
+ARTICLE 9: CONFIDENTIALITY
+
+9.1 CONFIDENTIALITY OBLIGATION
+    Each Founder shall maintain the confidentiality of all Confidential
+    Information and shall not disclose such information to any third party
+    without the Company's prior written consent.
+
+9.2 EXCEPTIONS
+    The confidentiality obligation shall not apply to information that:
+
+    (a) Is or becomes publicly available without breach of this Agreement;
+    (b) Was known to the Founder prior to disclosure;
+    (c) Is independently developed without use of Confidential Information;
+    (d) Is required to be disclosed by law or court order.
+
+9.3 SURVIVAL
+    The confidentiality obligations shall survive termination of this Agreement
+    for a period of 5 years.
+
+================================================================================
+
+ARTICLE 10: EXIT AND TRANSFER OF SHARES
+
+10.1 RIGHT OF FIRST REFUSAL
+     If a Founder wishes to sell or transfer shares, the other Founder shall
+     have the right of first refusal to purchase such shares on the same terms.
+
+10.2 TAG-ALONG RIGHT
+     If a Founder sells shares to a third party, the other Founder shall have
+     the right to participate in such sale on the same terms and conditions.
+
+10.3 DRAG-ALONG RIGHT
+     If Founders holding 75% or more of the shares agree to sell the Company,
+     the remaining Founders shall be required to participate in such sale.
+
+10.4 BUY-OUT ON EXIT
+     If a Founder wishes to exit the Company, the remaining Founder shall have
+     the option to buy out such Founder's shares at fair market value
+     determined by an independent valuer.
+
+================================================================================
+
+ARTICLE 11: FOUNDER EXIT
+
+11.1 VOLUNTARY EXIT
+     A Founder may exit by giving 90 days' prior written notice to the other
+     Founder and the Company.
+
+11.2 REMOVAL FOR CAUSE
+     A Founder may be removed for cause, including:
+
+     (a) Material breach of this Agreement;
+     (b) Fraud, dishonesty, or misconduct;
+     (c) Conviction for a criminal offense;
+     (d) Willful neglect of duties;
+     (e) Breach of fiduciary duties.
+
+11.3 CONSEQUENCES OF EXIT
+     Upon exit, the departing Founder shall:
+
+     (a) Forfeit all unvested shares;
+     (b) Transfer unvested shares to the Company or other Founder;
+     (c) Resign from all positions held in the Company;
+     (d) Continue to be bound by confidentiality and non-compete obligations.
+
+================================================================================
+
+ARTICLE 12: REPRESENTATIONS AND WARRANTIES
+
+12.1 Each Founder represents and warrants that:
+
+     (a) He has the legal capacity to enter into this Agreement;
+     (b) This Agreement constitutes a valid and binding obligation;
+     (c) He is not bound by any agreement that would prevent performance;
+     (d) He has not made any misrepresentation regarding his qualifications;
+     (e) He will devote full time and attention to the Company's business.
+
+================================================================================
+
+ARTICLE 13: GENERAL PROVISIONS
+
+13.1 ENTIRE AGREEMENT
+     This Agreement constitutes the entire agreement between the Founders and
+     supersedes all prior agreements and understandings.
+
+13.2 AMENDMENT
+     This Agreement may be amended only by a written instrument signed by all
+     Founders.
+
+13.3 WAIVER
+     No waiver of any provision shall be deemed a waiver of any other provision
+     or a continuing waiver.
+
+13.4 SEVERABILITY
+     If any provision is held invalid, the remaining provisions shall continue
+     in full force and effect.
+
+13.5 GOVERNING LAW
+     This Agreement shall be governed by the laws of India.
+
+13.6 DISPUTE RESOLUTION
+     Any dispute arising out of this Agreement shall be resolved through
+     arbitration in Chennai under the Arbitration and Conciliation Act, 1996.
+     The arbitration shall be conducted by a sole arbitrator mutually appointed
+     by the Founders.
+
+13.7 NOTICES
+     All notices shall be in writing and delivered to the addresses specified
+     herein or such other address as may be designated in writing.
+
+13.8 COUNTERPARTS
+     This Agreement may be executed in counterparts, each of which shall be
+     deemed an original.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Founders have executed this Agreement as of the date
+first written above.
+
+FOUNDER 1:
+
+____________________________
+VIKRAM RAJAN
+Date: 10th July, 2018
+
+In the presence of:
+Witness 1:
+Name: ____________________________
+Address: ____________________________
+Signature: ____________________________
+
+
+FOUNDER 2:
+
+____________________________
+ANAND KUMAR
+Date: 10th July, 2018
+
+In the presence of:
+Witness 2:
+Name: ____________________________
+Address: ____________________________
+Signature: ____________________________
+
+================================================================================
+
+SCHEDULE A: BUSINESS PLAN
+
+[Business Plan Summary]
+
+1. Vision: To become a leading precision engineering company in South India
+   serving automotive, aerospace, and industrial sectors.
+
+2. Mission: To deliver high-quality precision components with exceptional
+   accuracy, reliability, and customer service.
+
+3. Target Markets:
+   - Automotive OEMs and Tier-1 suppliers
+   - Aerospace and defense companies
+   - Medical device manufacturers
+   - Industrial machinery manufacturers
+
+4. Key Differentiators:
+   - Advanced CNC machining capabilities
+   - Strict quality control (ISO 9001:2015)
+   - Quick turnaround times
+   - Competitive pricing
+
+5. Financial Projections:
+   - Year 1: Revenue Rs. 1 Crore, Break-even
+   - Year 2: Revenue Rs. 2.5 Crores, Profit margin 10%
+   - Year 3: Revenue Rs. 5 Crores, Profit margin 15%
+
+================================================================================
+
+SCHEDULE B: PRE-EXISTING INTELLECTUAL PROPERTY
+
+1. Vikram Rajan:
+   - Proprietary CNC programming techniques for complex geometries
+   - Design templates for automotive transmission components
+
+2. Anand Kumar:
+   - Production planning and scheduling methodologies
+   - Vendor evaluation and qualification processes
+
+================================================================================

@@ -1,0 +1,337 @@
+================================================================================
+                    PRIVACY POLICY
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+                    PRIVACY POLICY
+
+Last Updated: [Date]
+Effective Date: 1st August, 2018
+
+================================================================================
+
+1. INTRODUCTION
+
+Precision Engineering Works Private Limited ("Company," "we," "us," or "our")
+respects your privacy and is committed to protecting your personal data. This
+Privacy Policy explains how we collect, use, disclose, and safeguard your
+information when you interact with us.
+
+This Privacy Policy applies to:
+- Our website (www.precisionengworks.com)
+- Our business operations and services
+- Our employment processes
+- Our vendor and customer relationships
+
+================================================================================
+
+2. DATA CONTROLLER
+
+The data controller for your personal data is:
+
+Precision Engineering Works Private Limited
+Plot No. 45, SIPCOT Industrial Estate
+Hosur - 635126, Tamil Nadu
+Email: privacy@precisionengworks.com
+Phone: +91-4344-XXXXXX
+
+Data Protection Officer: [Name]
+Email: dpo@precisionengworks.com
+
+================================================================================
+
+3. PERSONAL DATA WE COLLECT
+
+3.1 INFORMATION YOU PROVIDE
+
+(a) Contact Information: Name, email address, phone number, postal address
+(b) Identity Information: PAN, Aadhaar, passport, driving license
+(c) Professional Information: Company name, designation, department
+(d) Financial Information: Bank account details, GST number, payment information
+(e) Employment Information: Resume, qualifications, employment history
+(f) Communication: Emails, inquiries, feedback
+
+3.2 INFORMATION WE COLLECT AUTOMATICALLY
+
+(a) Device Information: IP address, browser type, operating system
+(b) Usage Information: Pages visited, time spent, links clicked
+(c) Location Information: General location based on IP address
+
+3.3 INFORMATION FROM THIRD PARTIES
+
+(a) Business partners and vendors
+(b) Credit reference agencies
+(c) Public databases and registries
+
+================================================================================
+
+4. HOW WE USE YOUR PERSONAL DATA
+
+4.1 We use your personal data for the following purposes:
+
+(a) SERVICE DELIVERY
+    - Processing customer orders and inquiries
+    - Manufacturing and quality control
+    - Shipping and delivery of products
+    - Technical support and after-sales service
+
+(b) BUSINESS OPERATIONS
+    - Managing vendor and supplier relationships
+    - Processing payments and invoices
+    - Maintaining business records
+    - Conducting audits and compliance
+
+(c) EMPLOYMENT
+    - Recruitment and hiring
+    - Employee onboarding and management
+    - Payroll and benefits administration
+    - Performance management
+
+(d) COMMUNICATION
+    - Responding to inquiries and requests
+    - Sending order confirmations and updates
+    - Marketing communications (with consent)
+    - Important notices and announcements
+
+(e) LEGAL COMPLIANCE
+    - Tax reporting and filings
+    - Regulatory compliance
+    - Legal proceedings and disputes
+    - Fraud prevention
+
+(f) BUSINESS IMPROVEMENT
+    - Analyzing website usage
+    - Improving products and services
+    - Research and development
+    - Market analysis
+
+================================================================================
+
+5. LEGAL BASIS FOR PROCESSING
+
+5.1 We process your personal data based on the following legal grounds:
+
+(a) CONSENT: Where you have given explicit consent for specific purposes
+(b) CONTRACT: Where processing is necessary for a contract with you
+(c) LEGAL OBLIGATION: Where we must comply with legal requirements
+(d) LEGITIMATE INTERESTS: Where we have valid business reasons
+
+5.2 You may withdraw your consent at any time by contacting us.
+
+================================================================================
+
+6. DISCLOSURE OF PERSONAL DATA
+
+6.1 We may share your personal data with:
+
+(a) SERVICE PROVIDERS
+    - IT and cloud service providers
+    - Payment processors
+    - Logistics and shipping companies
+    - Professional advisors (legal, accounting)
+
+(b) BUSINESS PARTNERS
+    - Customers and clients (for order fulfillment)
+    - Suppliers and vendors
+    - Subcontractors
+
+(c) AUTHORITIES
+    - Tax authorities
+    - Regulatory bodies
+    - Law enforcement agencies
+    - Courts and tribunals
+
+(d) CORPORATE TRANSACTIONS
+    - Potential buyers or investors (under NDA)
+    - Mergers, acquisitions, or reorganizations
+
+6.2 We require all third parties to maintain confidentiality and security of
+    your personal data.
+
+================================================================================
+
+7. DATA RETENTION
+
+7.1 We retain personal data only for as long as necessary for the purposes for
+    which it was collected.
+
+7.2 Retention periods:
+
+    - Customer data: 7 years after last transaction (for tax/legal purposes)
+    - Employee data: 7 years after employment ends
+    - Recruitment data: 1 year (if not hired)
+    - Website logs: 1 year
+    - Marketing data: Until consent is withdrawn
+
+7.3 After the retention period, personal data will be securely deleted or
+    anonymized.
+
+================================================================================
+
+8. DATA SECURITY
+
+8.1 We implement appropriate technical and organizational measures to protect
+    your personal data, including:
+
+    (a) Encryption of data in transit and at rest
+    (b) Access controls and authentication
+    (c) Firewalls and intrusion detection systems
+    (d) Regular security assessments
+    (e) Employee training on data protection
+    (f) Physical security of our facilities
+
+8.2 While we strive to protect your data, no method of transmission over the
+    Internet is 100% secure.
+
+================================================================================
+
+9. YOUR RIGHTS
+
+9.1 Under applicable data protection laws, you have the following rights:
+
+(a) RIGHT TO ACCESS
+    You can request a copy of your personal data we hold.
+
+(b) RIGHT TO CORRECTION
+    You can request correction of inaccurate or incomplete data.
+
+(c) RIGHT TO ERASURE
+    You can request deletion of your personal data in certain circumstances.
+
+(d) RIGHT TO RESTRICTION
+    You can request restriction of processing in certain circumstances.
+
+(e) RIGHT TO DATA PORTABILITY
+    You can request transfer of your data to another organization.
+
+(f) RIGHT TO OBJECT
+    You can object to processing based on legitimate interests or for
+    marketing purposes.
+
+(g) RIGHT TO WITHDRAW CONSENT
+    You can withdraw consent at any time where processing is based on consent.
+
+(h) RIGHT TO COMPLAIN
+    You can lodge a complaint with the Data Protection Board of India.
+
+9.2 To exercise your rights, please contact us at privacy@precisionengworks.com.
+
+9.3 We will respond to your request within 30 days.
+
+================================================================================
+
+10. COOKIES AND TRACKING
+
+10.1 Our website uses cookies and similar technologies to enhance your
+     experience.
+
+10.2 Types of cookies we use:
+
+     (a) Essential Cookies: Necessary for website functionality
+     (b) Analytics Cookies: To understand how visitors use our website
+     (c) Marketing Cookies: To deliver relevant advertisements
+
+10.3 You can control cookies through your browser settings.
+
+================================================================================
+
+11. THIRD-PARTY LINKS
+
+11.1 Our website may contain links to third-party websites.
+
+11.2 We are not responsible for the privacy practices of these websites.
+
+11.3 We encourage you to read the privacy policies of any website you visit.
+
+================================================================================
+
+12. INTERNATIONAL DATA TRANSFERS
+
+12.1 Your personal data may be transferred to and processed in countries outside
+     India.
+
+12.2 We ensure appropriate safeguards are in place for such transfers in
+     compliance with applicable laws.
+
+================================================================================
+
+13. CHILDREN'S PRIVACY
+
+13.1 Our services are not directed to individuals under 18 years of age.
+
+13.2 We do not knowingly collect personal data from children.
+
+13.3 If we become aware of such collection, we will take steps to delete the
+     information.
+
+================================================================================
+
+14. MARKETING COMMUNICATIONS
+
+14.1 With your consent, we may send you marketing communications about our
+     products and services.
+
+14.2 You can opt out of marketing communications at any time by:
+     - Clicking "unsubscribe" in our emails
+     - Contacting us at marketing@precisionengworks.com
+
+14.3 Opting out of marketing will not affect service-related communications.
+
+================================================================================
+
+15. CHANGES TO THIS POLICY
+
+15.1 We may update this Privacy Policy from time to time.
+
+15.2 We will notify you of material changes by posting the updated policy on
+     our website.
+
+15.3 The "Last Updated" date at the top indicates when the policy was last
+     revised.
+
+15.4 Your continued use of our services after changes indicates acceptance of
+     the updated policy.
+
+================================================================================
+
+16. CONTACT US
+
+If you have any questions about this Privacy Policy or our data practices,
+please contact us at:
+
+Precision Engineering Works Private Limited
+Attn: Data Protection Officer
+Plot No. 45, SIPCOT Industrial Estate
+Hosur - 635126, Tamil Nadu
+
+Email: privacy@precisionengworks.com
+Phone: +91-4344-XXXXXX
+
+================================================================================
+
+17. COMPLIANCE WITH APPLICABLE LAWS
+
+This Privacy Policy is designed to comply with:
+
+- Digital Personal Data Protection Act, 2023 (DPDPA)
+- Information Technology Act, 2000
+- Information Technology (Reasonable Security Practices and Procedures and
+  Sensitive Personal Data or Information) Rules, 2011
+- Other applicable data protection regulations
+
+================================================================================
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+Vikram Rajan
+Managing Director
+
+Date: ____________________________
+
+================================================================================
