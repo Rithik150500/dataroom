@@ -1,0 +1,822 @@
+================================================================================
+                    SHAREHOLDERS' AGREEMENT
+                  BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+THIS SHAREHOLDERS' AGREEMENT is made and entered into on this 1st day of
+April, 2020
+
+BETWEEN
+
+1. DR. RAMESH NARAYAN KULKARNI, aged 58 years, residing at 45, Hiranandani
+   Gardens, Powai, Mumbai - 400076 (hereinafter referred to as "Promoter 1"
+   which expression shall include his heirs, executors, administrators, and
+   permitted assigns);
+
+2. MRS. SUNITA RAMESH KULKARNI, aged 55 years, residing at 45, Hiranandani
+   Gardens, Powai, Mumbai - 400076 (hereinafter referred to as "Promoter 2"
+   which expression shall include her heirs, executors, administrators, and
+   permitted assigns);
+
+3. MR. ANIL SHANKAR JOSHI, aged 52 years, residing at 12, Raheja Residency,
+   Thane West - 400601 (hereinafter referred to as "Co-Founder" which
+   expression shall include his heirs, executors, administrators, and
+   permitted assigns);
+
+4. PHARMA GROWTH FUND I, a SEBI-registered Alternative Investment Fund
+   (Category II), acting through its Investment Manager PharmaVentures Asset
+   Management LLP, having its registered office at 14th Floor, Express Towers,
+   Nariman Point, Mumbai - 400021 (hereinafter referred to as "Investor" which
+   expression shall include its successors and permitted assigns);
+
+AND
+
+5. BIOPHARMA INDUSTRIES LIMITED, a public company limited by shares,
+   incorporated under the Companies Act, having its registered office at
+   Plot No. 234-235, MIDC Industrial Area, Thane-Belapur Road, Rabale,
+   Thane - 400701 (hereinafter referred to as the "Company" which expression
+   shall include its successors and permitted assigns).
+
+Promoter 1, Promoter 2, and Co-Founder are collectively referred to as
+"Promoters" and individually as "Promoter".
+
+Promoters and Investor are collectively referred to as "Shareholders" and
+individually as "Shareholder".
+
+================================================================================
+
+RECITALS
+--------
+
+A. The Company is engaged in the business of manufacturing pharmaceutical
+   formulations and is a licensed drug manufacturer under the Drugs and
+   Cosmetics Act, 1940.
+
+B. The Company operates two manufacturing facilities - one in Thane, Maharashtra
+   (tablets and capsules) and another in Baddi, Himachal Pradesh (liquid orals).
+
+C. The Company holds WHO-GMP certification for its Thane facility and has
+   filed multiple ANDAs with the US FDA for the US generic market.
+
+D. The Investor has agreed to invest Rs. 30,00,00,000/- (Rupees Thirty Crores
+   only) in the Company by way of subscription to equity shares.
+
+E. The parties wish to record their mutual rights and obligations with respect
+   to the management and operation of the Company and their inter se rights
+   as shareholders.
+
+NOW THEREFORE, in consideration of the mutual covenants and agreements
+contained herein and for other good and valuable consideration, the parties
+agree as follows:
+
+================================================================================
+
+ARTICLE 1 - DEFINITIONS AND INTERPRETATION
+-----------------------------------------
+
+1.1 DEFINITIONS
+
+    Unless the context otherwise requires, the following terms shall have the
+    meanings assigned to them:
+
+    "Act" means the Companies Act, 2013 and rules made thereunder.
+
+    "Affiliate" means with respect to any Person, any other Person that
+    directly or indirectly controls, is controlled by, or is under common
+    control with such Person.
+
+    "Articles" means the Articles of Association of the Company.
+
+    "Board" means the Board of Directors of the Company.
+
+    "Business Day" means any day other than Saturday, Sunday, or a public
+    holiday in Mumbai.
+
+    "Capital" means the total paid-up equity share capital of the Company.
+
+    "Drug Licenses" means all manufacturing licenses, import licenses,
+    product registrations, and regulatory approvals held by the Company
+    under the Drugs and Cosmetics Act and rules made thereunder.
+
+    "Encumbrance" means any mortgage, charge, pledge, lien, security interest,
+    or other encumbrance of any kind.
+
+    "Exit Event" means an IPO, Strategic Sale, or Secondary Sale as defined
+    in this Agreement.
+
+    "GMP" means Good Manufacturing Practice as defined in Schedule M of the
+    Drugs and Cosmetics Rules.
+
+    "IPO" means an initial public offering of equity shares of the Company on
+    a recognized stock exchange in India.
+
+    "Person" includes any individual, corporation, partnership, trust, or
+    other entity.
+
+    "Promoter Shareholding" means the aggregate shareholding of all Promoters.
+
+    "Reserved Matters" means the matters listed in Article 7 requiring
+    Investor consent.
+
+    "Securities" means equity shares, preference shares, convertible
+    instruments, warrants, options, or any other securities of the Company.
+
+    "Shares" means equity shares of Rs. 10/- each in the capital of the Company.
+
+    "Strategic Sale" means a sale of the Company to a strategic buyer
+    resulting in change of control.
+
+    "Transfer" includes sale, assignment, gift, pledge, encumbrance, or any
+    other disposition.
+
+1.2 INTERPRETATION
+
+    (a) Words importing one gender include all genders.
+    (b) Words importing the singular include the plural and vice versa.
+    (c) Headings are for convenience only and shall not affect interpretation.
+    (d) References to Articles are to articles of this Agreement.
+
+================================================================================
+
+ARTICLE 2 - INVESTMENT
+---------------------
+
+2.1 INVESTMENT AMOUNT
+
+    The Investor shall invest Rs. 30,00,00,000/- (Rupees Thirty Crores only)
+    in the Company by subscribing to 15,00,000 (Fifteen Lakh) equity shares
+    of Rs. 10/- each at a premium of Rs. 190/- per share, i.e., at a price
+    of Rs. 200/- per share.
+
+2.2 PRE-MONEY VALUATION
+
+    The parties agree that the pre-money equity valuation of the Company is
+    Rs. 170,00,00,000/- (Rupees One Hundred Seventy Crores only).
+
+2.3 POST-MONEY VALUATION
+
+    The post-money equity valuation of the Company, after the Investment,
+    shall be Rs. 200,00,00,000/- (Rupees Two Hundred Crores only).
+
+2.4 UTILIZATION OF FUNDS
+
+    The Investment proceeds shall be utilized by the Company for:
+    (a) Capacity expansion at Baddi facility - Rs. 12 Crores
+    (b) US FDA preparation and ANDA filings - Rs. 8 Crores
+    (c) Working capital for new product launches - Rs. 7 Crores
+    (d) General corporate purposes - Rs. 3 Crores
+
+2.5 CONDITIONS PRECEDENT
+
+    The obligation of the Investor to complete the Investment is subject to
+    satisfaction of conditions precedent including:
+    (a) Completion of due diligence to Investor's satisfaction
+    (b) All regulatory approvals obtained
+    (c) No material adverse change in Company's business or prospects
+    (d) No breach of representations and warranties
+    (e) Amendment of Articles to incorporate investor rights
+
+================================================================================
+
+ARTICLE 3 - SHAREHOLDING PATTERN
+-------------------------------
+
+3.1 POST-INVESTMENT SHAREHOLDING
+
+    Upon completion of the Investment, the shareholding pattern shall be:
+
+    Shareholder                    Shares        Percentage
+    -----------------------------------------------------------
+    Dr. Ramesh N. Kulkarni        1,00,00,000   50.00%
+    Mrs. Sunita R. Kulkarni         35,00,000   17.50%
+    Mr. Anil S. Joshi               20,00,000   10.00%
+    Pharma Growth Fund I            15,00,000    7.50%
+    Other Shareholders              30,00,000   15.00%
+    -----------------------------------------------------------
+    TOTAL                         2,00,00,000  100.00%
+
+3.2 PROMOTER MINIMUM SHAREHOLDING
+
+    The Promoters collectively agree to maintain a minimum shareholding of
+    51% (Fifty-One Percent) of the Capital at all times until an Exit Event,
+    unless otherwise agreed by the Investor in writing.
+
+================================================================================
+
+ARTICLE 4 - REPRESENTATIONS AND WARRANTIES
+-----------------------------------------
+
+4.1 REPRESENTATIONS BY PROMOTERS AND COMPANY
+
+    The Promoters and the Company jointly and severally represent and warrant:
+
+    (a) CORPORATE MATTERS
+        - Company is duly incorporated and validly existing
+        - Company has power to conduct its business
+        - Execution of this Agreement is duly authorized
+
+    (b) DRUG LICENSES AND REGULATORY COMPLIANCE
+        - All Drug Licenses are valid, subsisting, and not under suspension
+        - Company is in material compliance with the Drugs and Cosmetics Act
+        - Manufacturing facilities comply with Schedule M (GMP) requirements
+        - No show cause notice or prosecution pending under drug laws
+        - WHO-GMP certificate for Thane facility is valid
+        - All product approvals are in good standing
+        - Pharmacovigilance system is in place
+
+    (c) QUALITY AND SAFETY
+        - No product recall in last 3 years due to quality defects
+        - No serious adverse drug reactions attributable to Company's products
+        - All process validations and stability studies are current
+        - Quality control laboratory is adequately equipped and staffed
+
+    (d) INTELLECTUAL PROPERTY
+        - Company has valid trademark registrations for its brand names
+        - No patent infringement claims pending
+        - Freedom to operate opinions obtained for all products
+
+    (e) FINANCIAL MATTERS
+        - Financial statements fairly present the financial position
+        - No undisclosed liabilities
+        - Tax returns filed and taxes paid
+        - No material litigation
+
+    (f) ENVIRONMENTAL COMPLIANCE
+        - All environmental clearances obtained
+        - Consent to operate from pollution control boards valid
+        - Effluent treatment plant functioning properly
+
+    (g) EMPLOYEES
+        - Key technical staff (Technical Director, QA Head, QC Head) employed
+        - No labor disputes or pending claims
+        - ESOP scheme properly administered
+
+4.2 REPRESENTATIONS BY INVESTOR
+
+    The Investor represents and warrants:
+    (a) It is a SEBI-registered AIF with authority to make this Investment
+    (b) Execution of this Agreement is duly authorized
+    (c) Funds for Investment are available
+
+4.3 SURVIVAL OF REPRESENTATIONS
+
+    The representations and warranties shall survive Closing for a period of
+    3 (three) years.
+
+================================================================================
+
+ARTICLE 5 - GOVERNANCE
+---------------------
+
+5.1 BOARD COMPOSITION
+
+    The Board shall consist of:
+    (a) 3 (three) Directors nominated by Promoters
+    (b) 1 (one) Director nominated by Investor
+    (c) 2 (two) Independent Directors mutually agreed
+
+    Total Board strength: 6 (six) Directors
+
+5.2 PROMOTER NOMINEE DIRECTORS
+
+    The Promoters shall be entitled to nominate:
+    - Dr. Ramesh Kulkarni as Managing Director
+    - Mrs. Sunita Kulkarni as Whole-Time Director
+    - One additional Director
+
+5.3 INVESTOR NOMINEE DIRECTOR
+
+    The Investor shall be entitled to nominate 1 (one) Director to the Board
+    for as long as it holds at least 5% of the Capital.
+
+5.4 INDEPENDENT DIRECTORS
+
+    The 2 (two) Independent Directors shall be appointed by mutual agreement
+    of the Promoters and Investor.
+
+5.5 BOARD MEETINGS
+
+    (a) The Board shall meet at least once every quarter
+    (b) Quorum shall require presence of Investor Nominee Director for
+        Reserved Matters
+    (c) 7 days' notice required for Board meetings (may be waived)
+    (d) Video conferencing permitted
+
+5.6 COMMITTEES
+
+    The following Board Committees shall be constituted:
+    (a) Audit Committee - Investor Nominee Director to be a member
+    (b) Nomination and Remuneration Committee
+    (c) CSR Committee
+    (d) Risk Management Committee
+
+5.7 OBSERVER RIGHTS
+
+    The Investor shall have the right to appoint one observer to attend Board
+    meetings and Committee meetings without voting rights.
+
+================================================================================
+
+ARTICLE 6 - MANAGEMENT
+---------------------
+
+6.1 KEY MANAGERIAL PERSONNEL
+
+    The following shall be designated as Key Managerial Personnel:
+    (a) Managing Director - Dr. Ramesh Kulkarni
+    (b) Chief Financial Officer - As appointed by Board
+    (c) Company Secretary - As appointed by Board
+
+6.2 KEY TECHNICAL PERSONNEL
+
+    Given the regulated nature of the business, the following shall be
+    designated as Key Technical Personnel requiring Investor notification
+    for any change:
+    (a) Technical Director (as required under Drug License)
+    (b) Head of Quality Assurance
+    (c) Head of Quality Control
+    (d) Head of Regulatory Affairs
+    (e) Production Manager (for each facility)
+
+6.3 MANAGEMENT COMPENSATION
+
+    The compensation of Managing Director and Whole-Time Director shall be
+    approved by the Nomination and Remuneration Committee and shall be
+    competitive with industry standards.
+
+6.4 BUSINESS PLAN
+
+    The Company shall prepare and submit to the Board an annual business plan
+    including:
+    (a) Revenue and profit projections
+    (b) New product launches
+    (c) Regulatory filings (domestic and international)
+    (d) Capacity expansion plans
+    (e) Capital expenditure budget
+    (f) Working capital requirements
+
+================================================================================
+
+ARTICLE 7 - RESERVED MATTERS
+---------------------------
+
+7.1 INVESTOR CONSENT REQUIRED
+
+    The following matters shall require prior written consent of the Investor:
+
+    (a) CORPORATE STRUCTURE
+        - Amendment of Memorandum or Articles
+        - Change in authorized or paid-up capital
+        - Issue of new Securities (except under ESOP)
+        - Merger, amalgamation, demerger
+        - Winding up or dissolution
+
+    (b) FINANCIAL MATTERS
+        - Borrowings exceeding Rs. 10 Crores individually or Rs. 25 Crores
+          in aggregate (beyond existing facilities)
+        - Investments exceeding Rs. 5 Crores
+        - Related party transactions exceeding Rs. 1 Crore annually
+        - Change of statutory auditors
+        - Declaration of dividend
+
+    (c) BUSINESS MATTERS
+        - Change in nature of business
+        - Entry into new line of business
+        - Acquisition of business or assets exceeding Rs. 10 Crores
+        - Sale or transfer of material assets
+        - Grant of exclusive licenses
+
+    (d) REGULATORY AND COMPLIANCE
+        - Surrender or non-renewal of Drug Licenses
+        - Any action that may result in suspension of Drug License
+        - Settlement of regulatory proceedings
+        - Voluntary product recall
+
+    (e) PERSONNEL
+        - Change in Managing Director or Whole-Time Director
+        - Compensation increase exceeding 20% in any year for KMPs
+        - Material changes to ESOP scheme
+
+7.2 DEEMED CONSENT
+
+    If the Investor does not respond within 15 (fifteen) Business Days of
+    receiving a request for consent, consent shall be deemed to have been given.
+
+================================================================================
+
+ARTICLE 8 - INFORMATION RIGHTS
+-----------------------------
+
+8.1 PERIODIC INFORMATION
+
+    The Company shall provide to the Investor:
+
+    (a) MONTHLY (within 15 days of month end)
+        - Management Information System (MIS) report
+        - Production and sales data
+        - Order book position
+
+    (b) QUARTERLY (within 30 days of quarter end)
+        - Unaudited financial statements
+        - Regulatory compliance certificate
+        - Update on pending regulatory matters
+        - Quality metrics (batch failures, complaints, ADRs)
+        - Update on ANDA/registration filings
+
+    (c) ANNUALLY (within 60 days of year end)
+        - Audited financial statements
+        - Directors' Report
+        - Annual Return
+
+8.2 EVENT-BASED INFORMATION
+
+    The Company shall promptly inform the Investor of:
+    (a) Any show cause notice under drug laws
+    (b) Any regulatory inspection (within 2 days of notice)
+    (c) Results of regulatory inspections (within 2 days of completion)
+    (d) Any product quality issue or recall
+    (e) Any material litigation
+    (f) Any change in Key Technical Personnel
+    (g) Any material adverse event
+
+8.3 INSPECTION RIGHTS
+
+    The Investor shall have the right to:
+    (a) Inspect books and records of the Company upon reasonable notice
+    (b) Visit manufacturing facilities upon reasonable notice
+    (c) Meet with management and Key Technical Personnel
+    (d) Conduct quality and regulatory due diligence through experts
+
+================================================================================
+
+ARTICLE 9 - TRANSFER OF SHARES
+-----------------------------
+
+9.1 LOCK-IN PERIOD
+
+    (a) The Promoters shall not Transfer any Shares for a period of 3 (three)
+        years from Closing ("Promoter Lock-in Period")
+    (b) The Investor shall not Transfer any Shares for a period of 1 (one)
+        year from Closing ("Investor Lock-in Period")
+
+9.2 RIGHT OF FIRST REFUSAL (ROFR)
+
+    After the Lock-in Period, if any Shareholder ("Selling Shareholder")
+    wishes to Transfer Shares to a third party:
+
+    (a) The Selling Shareholder shall first offer such Shares to other
+        Shareholders pro-rata to their shareholding
+    (b) The offer shall be in writing specifying the number of Shares, price,
+        and other terms
+    (c) Other Shareholders shall have 30 days to accept the offer
+    (d) If not accepted, the Selling Shareholder may sell to third party on
+        terms no more favorable than offered to other Shareholders
+    (e) Sale to third party must be completed within 90 days
+
+9.3 TAG-ALONG RIGHT
+
+    If Promoters propose to sell Shares to a third party such that their
+    aggregate holding would fall below 51%, the Investor shall have the right
+    to participate in such sale on the same terms and conditions, pro-rata to
+    their shareholding.
+
+9.4 DRAG-ALONG RIGHT
+
+    If Shareholders holding at least 75% of the Capital approve a Strategic
+    Sale, they shall have the right to require all other Shareholders to
+    sell their Shares on the same terms and conditions.
+
+9.5 PERMITTED TRANSFERS
+
+    The following Transfers shall be exempt from ROFR:
+    (a) Transfer by Promoter to immediate family members or family trust
+    (b) Transfer by Investor to its Affiliates
+    (c) Transfer pursuant to an Exit Event
+
+    Provided that the transferee agrees in writing to be bound by this Agreement.
+
+================================================================================
+
+ARTICLE 10 - EXIT RIGHTS
+-----------------------
+
+10.1 EXIT TIMELINE
+
+     The parties agree to pursue an Exit Event within 5 (five) years from
+     Closing ("Exit Period").
+
+10.2 PREFERRED EXIT ROUTE
+
+     The preferred Exit Event shall be an IPO on a recognized stock exchange
+     in India.
+
+10.3 IPO COMMITMENT
+
+     (a) The Promoters and the Company shall use best efforts to complete an
+         IPO within the Exit Period
+     (b) The IPO shall be on a recognized stock exchange (BSE/NSE)
+     (c) The Investor shall have the right to include its Shares in the IPO
+         as part of an offer for sale
+     (d) The Company shall bear all expenses of the IPO
+
+10.4 IPO TERMS
+
+     (a) The IPO shall be at a valuation acceptable to the Investor
+     (b) The Investor shall have the right to appoint one investment banker
+         to the IPO
+     (c) The Investor shall have customary registration rights
+     (d) Lock-in post-IPO shall be as per SEBI regulations
+
+10.5 ALTERNATIVE EXIT
+
+     If an IPO is not completed within the Exit Period, the Investor shall
+     have the right to:
+     (a) Require the Company/Promoters to find a buyer for its Shares at a
+         price not less than the Investment Amount plus 15% IRR compounded
+         annually ("Floor Price")
+     (b) Drag the Promoters into a Strategic Sale
+     (c) Sell its Shares in a secondary sale with tag-along for Promoters
+
+10.6 PROMOTER PUT OPTION
+
+     After completion of 7 (seven) years from Closing, if no Exit Event has
+     occurred, the Investor shall have the right to require the Promoters to
+     purchase its Shares at the Floor Price.
+
+================================================================================
+
+ARTICLE 11 - ANTI-DILUTION
+-------------------------
+
+11.1 ANTI-DILUTION PROTECTION
+
+     If the Company issues new Shares at a price lower than the price paid
+     by the Investor (Rs. 200 per Share), the Investor shall be entitled to:
+     (a) Weighted average anti-dilution protection
+     (b) Additional Shares to be issued to Investor at par value to maintain
+         effective price
+
+11.2 EXEMPTIONS
+
+     Anti-dilution protection shall not apply to:
+     (a) Shares issued under ESOP (up to 7.5% of Capital)
+     (b) Shares issued with Investor consent
+     (c) Shares issued in an IPO
+
+================================================================================
+
+ARTICLE 12 - ESOP
+----------------
+
+12.1 ESOP POOL
+
+     The Company may create an ESOP pool of up to 7.5% (Seven and a Half
+     Percent) of the Capital for employees.
+
+12.2 ESOP TERMS
+
+     The ESOP scheme shall be administered by the Nomination and Remuneration
+     Committee with the following guidelines:
+     (a) Options to be granted at fair market value
+     (b) Vesting period of at least 3 years
+     (c) Key Technical Personnel to be included in ESOP grants
+     (d) Clawback provisions for regulatory non-compliance
+
+================================================================================
+
+ARTICLE 13 - NON-COMPETE AND NON-SOLICIT
+---------------------------------------
+
+13.1 NON-COMPETE
+
+     During the term of this Agreement and for a period of 2 (two) years
+     after ceasing to be a Shareholder, the Promoters shall not directly or
+     indirectly:
+     (a) Engage in any business that competes with the Company's business
+     (b) Acquire interest in any competing pharmaceutical manufacturing company
+
+13.2 NON-SOLICIT
+
+     During the term of this Agreement and for a period of 2 (two) years
+     thereafter, the Promoters shall not solicit or induce any employee or
+     Key Technical Personnel to leave the Company.
+
+13.3 EXCEPTIONS
+
+     The restrictions in this Article shall not apply to:
+     (a) Holding up to 5% of listed securities of a competing company
+     (b) Activities with prior written consent of the Investor
+
+================================================================================
+
+ARTICLE 14 - CONFIDENTIALITY
+---------------------------
+
+14.1 CONFIDENTIAL INFORMATION
+
+     Each party shall keep confidential all information relating to the
+     business, operations, financial condition, and affairs of the Company
+     and other parties.
+
+14.2 EXCEPTIONS
+
+     Confidentiality obligations shall not apply to information:
+     (a) Already in public domain
+     (b) Required to be disclosed by law or regulatory authority
+     (c) Disclosed to professional advisers under confidentiality obligations
+     (d) Disclosed to Investor's limited partners under confidentiality
+
+14.3 SURVIVAL
+
+     Confidentiality obligations shall survive termination of this Agreement
+     for a period of 3 (three) years.
+
+================================================================================
+
+ARTICLE 15 - INDEMNIFICATION
+---------------------------
+
+15.1 INDEMNIFICATION BY PROMOTERS
+
+     The Promoters shall jointly and severally indemnify the Investor against
+     any losses arising from:
+     (a) Breach of representations and warranties
+     (b) Breach of covenants under this Agreement
+     (c) Pre-Closing tax liabilities
+     (d) Pre-Closing litigation and regulatory matters
+
+15.2 INDEMNIFICATION LIMITATIONS
+
+     (a) Minimum claim threshold: Rs. 10 Lakhs individually, Rs. 50 Lakhs
+         aggregate
+     (b) Maximum liability: Rs. 30 Crores (equal to Investment Amount)
+     (c) Time limit: 3 years from Closing for general matters; 7 years for
+         tax and regulatory matters
+
+15.3 INDEMNIFICATION PROCEDURE
+
+     The Investor shall:
+     (a) Promptly notify Promoters of any claim
+     (b) Allow Promoters to defend third party claims
+     (c) Cooperate in the defense
+     (d) Not settle claims without Promoter consent
+
+================================================================================
+
+ARTICLE 16 - TERMINATION
+-----------------------
+
+16.1 TERMINATION EVENTS
+
+     This Agreement shall terminate upon:
+     (a) Completion of an IPO (subject to post-IPO provisions)
+     (b) Acquisition of all Shares by any party
+     (c) Winding up of the Company
+     (d) Mutual written agreement of all parties
+
+16.2 SURVIVING PROVISIONS
+
+     The following provisions shall survive termination:
+     (a) Confidentiality
+     (b) Indemnification
+     (c) Non-compete and Non-solicit
+     (d) Governing Law and Dispute Resolution
+
+================================================================================
+
+ARTICLE 17 - DISPUTE RESOLUTION
+------------------------------
+
+17.1 AMICABLE SETTLEMENT
+
+     The parties shall attempt to resolve any dispute amicably through
+     senior management discussions for a period of 30 days.
+
+17.2 ARBITRATION
+
+     If not resolved amicably, disputes shall be settled by arbitration:
+     (a) Seat of arbitration: Mumbai
+     (b) Rules: Arbitration and Conciliation Act, 1996
+     (c) Number of arbitrators: 3 (one each appointed by parties, third by
+         the two arbitrators)
+     (d) Language: English
+     (e) Award shall be final and binding
+
+17.3 INJUNCTIVE RELIEF
+
+     Notwithstanding the above, parties may seek injunctive relief from
+     courts for breach of confidentiality or non-compete obligations.
+
+================================================================================
+
+ARTICLE 18 - GENERAL PROVISIONS
+------------------------------
+
+18.1 ENTIRE AGREEMENT
+
+     This Agreement constitutes the entire agreement between the parties and
+     supersedes all prior agreements, understandings, and negotiations.
+
+18.2 AMENDMENT
+
+     This Agreement may only be amended by written instrument signed by all
+     parties.
+
+18.3 WAIVER
+
+     No waiver of any provision shall be effective unless in writing. Waiver
+     of any breach shall not constitute waiver of any subsequent breach.
+
+18.4 SEVERABILITY
+
+     If any provision is held invalid, the remaining provisions shall
+     continue in full force and effect.
+
+18.5 ASSIGNMENT
+
+     No party may assign this Agreement without written consent of other
+     parties, except:
+     (a) Investor may assign to its Affiliates
+     (b) Promoters may assign to Permitted Transferees
+
+18.6 NOTICES
+
+     All notices shall be in writing and delivered by hand, courier, or email:
+
+     To Company/Promoters:
+     BioPharma Industries Limited
+     Plot No. 234-235, MIDC Industrial Area
+     Thane-Belapur Road, Rabale, Thane - 400701
+     Email: corporate@biopharma.com
+     Attention: Managing Director
+
+     To Investor:
+     Pharma Growth Fund I
+     c/o PharmaVentures Asset Management LLP
+     14th Floor, Express Towers
+     Nariman Point, Mumbai - 400021
+     Email: legal@pharmaventures.com
+     Attention: Fund Manager
+
+18.7 GOVERNING LAW
+
+     This Agreement shall be governed by and construed in accordance with
+     the laws of India.
+
+18.8 COUNTERPARTS
+
+     This Agreement may be executed in counterparts, each of which shall be
+     deemed an original.
+
+================================================================================
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date
+first written above.
+
+SIGNED AND DELIVERED BY
+
+For Dr. Ramesh Narayan Kulkarni:
+
+Signature: _______________________
+Name: Dr. Ramesh Narayan Kulkarni
+Date: April 1, 2020
+
+For Mrs. Sunita Ramesh Kulkarni:
+
+Signature: _______________________
+Name: Mrs. Sunita Ramesh Kulkarni
+Date: April 1, 2020
+
+For Mr. Anil Shankar Joshi:
+
+Signature: _______________________
+Name: Mr. Anil Shankar Joshi
+Date: April 1, 2020
+
+For Pharma Growth Fund I:
+
+Signature: _______________________
+Name: Mr. Vivek Sharma
+Designation: Fund Manager, PharmaVentures Asset Management LLP
+Date: April 1, 2020
+
+For BioPharma Industries Limited:
+
+Signature: _______________________
+Name: Dr. Ramesh Narayan Kulkarni
+Designation: Managing Director
+Date: April 1, 2020
+
+WITNESSES:
+
+1. Signature: _______________________
+   Name:
+   Address:
+
+2. Signature: _______________________
+   Name:
+   Address:
+
+================================================================================
+                    END OF SHAREHOLDERS' AGREEMENT
+================================================================================

@@ -1,0 +1,383 @@
+================================================================================
+                    ENVIRONMENTAL CLEARANCES AND COMPLIANCE
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+                    MAHARASHTRA POLLUTION CONTROL BOARD
+                    (Established under the Water (Prevention and Control
+                    of Pollution) Act, 1974)
+
+================================================================================
+
+DOCUMENT 1: CONSENT TO OPERATE (COMBINED CONSENT)
+
+================================================================================
+
+CONSENT NUMBER: MPCB/CO/TNA/2024/12345
+
+CONSENT TYPE: Combined Consent to Operate
+              (Under Water Act, Air Act, and Hazardous Waste Rules)
+
+--------------------------------------------------------------------------------
+
+INDUSTRY DETAILS:
+
+Name of Unit:           BIOPHARMA INDUSTRIES LIMITED
+Category:               RED (Pharmaceutical Manufacturing)
+Industry Code:          2423 (Manufacture of Pharmaceuticals)
+
+Address:                Plot No. 234-235, MIDC Industrial Area
+                        Thane-Belapur Road, Rabale
+                        Thane - 400701, Maharashtra
+
+MIDC Plot Details:
+- Plot Area:            12,000 sq. meters
+- Built-up Area:        7,897 sq. meters (85,000 sq. ft.)
+- Green Belt Area:      1,200 sq. meters (10% of plot)
+
+GPS Coordinates:        19.1234° N, 73.0234° E
+
+Contact Person:         Mr. Vikram Singh (Environmental Officer)
+Phone:                  +91-22-2568-XXXX
+Email:                  environment@biopharma.com
+
+--------------------------------------------------------------------------------
+
+CONSENT VALIDITY:
+
+Issue Date:             January 1, 2024
+Valid Until:            December 31, 2025
+Renewal Period:         Annual (for RED category industries)
+
+Previous Consent No:    MPCB/CO/TNA/2023/11234
+Previous Valid Until:   December 31, 2023
+
+--------------------------------------------------------------------------------
+
+PRODUCT DETAILS:
+
+Products Manufactured:  Pharmaceutical Formulations
+                       (Tablets, Capsules, Film-coated tablets)
+
+Raw Materials Used:     Active Pharmaceutical Ingredients (APIs)
+                       Excipients (Lactose, Starch, MCC, etc.)
+                       Solvents (IPA, Methanol, Acetone)
+                       Packaging materials
+
+Annual Production:      2.4 Billion tablets/capsules
+
+Working Hours:          24 hours x 7 days (3 shifts)
+Total Manpower:         426 employees
+
+--------------------------------------------------------------------------------
+
+WATER CONSUMPTION AND DISCHARGE:
+
+1. WATER CONSUMPTION:
+
+   Source of Water:     MIDC water supply
+   Daily Consumption:   150 KLD (Kilo Liters per Day)
+
+   Breakdown:
+   - Process water (Purified Water):    80 KLD
+   - Utility water:                     40 KLD
+   - Domestic use:                      30 KLD
+
+2. EFFLUENT GENERATION AND TREATMENT:
+
+   Total Effluent Generated:  120 KLD
+
+   Breakdown:
+   - Process effluent:        60 KLD
+   - Utility effluent:        35 KLD
+   - Domestic sewage:         25 KLD
+
+3. EFFLUENT TREATMENT PLANT (ETP):
+
+   ETP Capacity:        150 KLD
+   Technology:          Primary treatment + Secondary (Activated Sludge Process)
+                       + Tertiary (Sand filter + Carbon filter)
+
+   Treatment Stages:
+   a) Collection tank and screening
+   b) Equalization tank
+   c) pH correction
+   d) Primary clarifier
+   e) Aeration tank (ASP)
+   f) Secondary clarifier
+   g) Sand filtration
+   h) Activated carbon adsorption
+   i) Chlorination
+   j) Treated water storage
+
+4. TREATED EFFLUENT DISPOSAL:
+
+   Mode of Disposal:    Discharge to MIDC Common Effluent Collection System
+   Connection:          CETP Thane-Belapur
+
+   Alternate Use:       50% recycled for gardening and utility purposes
+
+--------------------------------------------------------------------------------
+
+EFFLUENT QUALITY STANDARDS (CONDITIONS):
+
+The treated effluent discharged shall conform to the following standards:
+
+Parameter               Standard Limit    Monitoring Frequency
+------------------------------------------------------------------------
+pH                      6.5 - 8.5         Daily
+BOD (3 days at 27°C)    < 30 mg/L         Weekly
+COD                     < 250 mg/L        Weekly
+Total Suspended Solids  < 100 mg/L        Weekly
+Oil and Grease          < 10 mg/L         Monthly
+Total Dissolved Solids  < 2100 mg/L       Monthly
+Ammoniacal Nitrogen     < 50 mg/L         Monthly
+Phenolic Compounds      < 1 mg/L          Monthly
+Sulphates               < 1000 mg/L       Monthly
+Chlorides               < 1000 mg/L       Monthly
+Colour                  Colourless        Daily
+Odour                   Unobjectionable   Daily
+
+--------------------------------------------------------------------------------
+
+AIR EMISSIONS:
+
+1. SOURCES OF AIR EMISSIONS:
+
+   a) Boiler Stack (For steam generation)
+      - Fuel: PNG (Piped Natural Gas)
+      - Capacity: 2 TPH
+      - Stack Height: 15 meters
+
+   b) DG Set Stack (Emergency power)
+      - Capacity: 500 KVA
+      - Fuel: Diesel
+      - Stack Height: 12 meters
+
+   c) Process Vents (With scrubbers)
+      - Solvent recovery system with >95% recovery efficiency
+      - Scrubbers for dust and VOC control
+
+2. AIR EMISSION STANDARDS:
+
+   Parameter                     Standard Limit    Applicable To
+   ------------------------------------------------------------------------
+   Particulate Matter            < 50 mg/Nm³       Boiler, DG Set
+   SO2                           < 100 mg/Nm³      Boiler, DG Set
+   NOx                           < 100 mg/Nm³      Boiler, DG Set
+   CO                            < 350 mg/Nm³      DG Set
+   VOCs                          As per CPCB norms Process vents
+
+3. AIR POLLUTION CONTROL EQUIPMENT:
+
+   - Bag filters for dust collection
+   - Wet scrubbers for solvent vapors
+   - Solvent recovery system with condenser
+   - Activated carbon adsorption for residual VOCs
+
+--------------------------------------------------------------------------------
+
+HAZARDOUS WASTE MANAGEMENT:
+
+1. HAZARDOUS WASTE AUTHORIZATION:
+
+   Authorization Number:  MPCB/HW/TNA/2024/5678
+   Valid Until:          December 31, 2025
+
+   Categories Authorized (As per HW Rules, 2016):
+   - Category 33.3: Spent solvents
+   - Category 34.3: Residues from distillation
+   - Category 35.2: Off-specification pharmaceutical products
+   - Category 36.1: Chemical sludge from ETP
+   - Category 1.1:  Used oil
+
+2. HAZARDOUS WASTE GENERATION:
+
+   Waste Type                    Quantity (MT/annum)  Disposal Mode
+   ------------------------------------------------------------------------
+   Spent solvents                45                   Recovery/Recycling
+   Distillation residues         12                   Incineration
+   Expired/Rejected products     8                    Incineration
+   ETP sludge                    25                   TSDF landfill
+   Used oil                      2                    Recycling
+
+3. HAZARDOUS WASTE DISPOSAL:
+
+   Authorized TSDF:     Maharashtra Enviro Power Limited (MEPL)
+                       TTC Industrial Area, Navi Mumbai
+
+   Agreement:          Valid until March 31, 2026
+   Manifest System:    All waste dispatched with 6-part manifest form
+   Records:            Maintained for 3 years as per rules
+
+4. STORAGE OF HAZARDOUS WASTE:
+
+   - Dedicated covered storage area: 200 sq. meters
+   - Impervious flooring with containment
+   - Proper labeling and segregation
+   - Maximum storage period: 90 days
+
+--------------------------------------------------------------------------------
+
+COMPLIANCE CONDITIONS:
+
+1. GENERAL CONDITIONS:
+
+   a) The unit shall operate and maintain all pollution control equipment
+      in proper working condition at all times.
+
+   b) Any changes in product, process, or capacity shall require prior
+      approval from MPCB.
+
+   c) The unit shall not cause any nuisance to the surrounding area.
+
+   d) The unit shall permit entry to MPCB officers for inspection at any
+      time.
+
+   e) The unit shall display this consent at a conspicuous place.
+
+2. MONITORING AND REPORTING:
+
+   a) Quarterly monitoring of effluent quality by MPCB-recognized lab
+
+   b) Half-yearly monitoring of stack emissions
+
+   c) Online Continuous Effluent Monitoring System (OCEMS) to be installed
+      and connected to MPCB server (if production > threshold)
+
+   d) Annual Environmental Audit Report to be submitted
+
+   e) Monthly hazardous waste returns to be submitted online
+
+3. SPECIFIC CONDITIONS:
+
+   a) Solvent recovery system shall maintain minimum 95% recovery efficiency
+
+   b) Zero Liquid Discharge (ZLD) to be explored for implementation
+
+   c) Rainwater harvesting system to be maintained in working condition
+
+   d) Green belt development to be maintained at minimum 10% of plot area
+
+   e) All environmental clearance conditions to be complied with
+
+--------------------------------------------------------------------------------
+
+ENVIRONMENTAL CLEARANCE STATUS:
+
+Environmental Clearance (EC) under EIA Notification, 2006:
+
+- EC Required:          Yes (Pharmaceutical manufacturing > threshold)
+- EC Reference:         SEIAA/EC/MH/2018/3456
+- Date of EC:           September 15, 2018
+- Valid Until:          September 14, 2028
+- EC Conditions:        Complied
+
+--------------------------------------------------------------------------------
+
+FEES PAID:
+
+Consent Fee:            Rs. 1,50,000/-
+Hazardous Waste Fee:    Rs. 25,000/-
+Water Cess:             As per actual consumption (paid quarterly)
+
+--------------------------------------------------------------------------------
+
+COMPLIANCE HISTORY:
+
+Year    Inspection Date    Observations         Status
+------------------------------------------------------------------------
+2021    March 15, 2021     Minor - ETP record   Complied
+2022    June 20, 2022      Nil                  Clean
+2023    August 8, 2023     Minor - Manifest     Complied
+2024    May 12, 2024       Nil                  Clean
+
+No show cause notices or directions issued in last 5 years.
+No prosecution under environmental laws.
+
+--------------------------------------------------------------------------------
+
+CERTIFICATION:
+
+This Consent to Operate is granted subject to the provisions of:
+- Water (Prevention and Control of Pollution) Act, 1974
+- Air (Prevention and Control of Pollution) Act, 1981
+- Environment (Protection) Act, 1986
+- Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016
+
+This consent may be revoked or suspended if any of the conditions are violated.
+
+                                             [SEAL OF MPCB]
+
+                                             Sd/-
+                                             Regional Officer
+                                             Maharashtra Pollution Control Board
+                                             Thane Regional Office
+
+Date: January 1, 2024
+
+================================================================================
+
+DOCUMENT 2: FIRE SAFETY CERTIFICATE
+
+================================================================================
+
+CERTIFICATE NUMBER: FSC/TNA/2024/789
+
+Issued By:              Chief Fire Officer
+                        Thane Municipal Corporation
+
+Validity:               January 1, 2024 to December 31, 2026
+
+This is to certify that BioPharma Industries Limited at Plot No. 234-235,
+MIDC Industrial Area, Thane, has complied with the fire safety requirements
+under the Maharashtra Fire Prevention and Life Safety Measures Act, 2006.
+
+Fire Safety Measures in Place:
+- Fire detection and alarm system covering all areas
+- Automatic sprinkler system in manufacturing and warehouse areas
+- Fire extinguishers (ABC type) at required locations
+- Fire hydrant system with adequate water storage (100,000 liters)
+- Emergency exits clearly marked and unobstructed
+- Fire evacuation plan displayed
+- Fire drills conducted quarterly
+- Trained fire fighting team of 15 personnel
+
+                                             Sd/-
+                                             Chief Fire Officer
+                                             Thane Municipal Corporation
+
+================================================================================
+
+DOCUMENT 3: FACTORY LICENSE
+
+================================================================================
+
+LICENSE NUMBER: FAC/TNA/2013/4567
+
+Issued Under:           Factories Act, 1948
+
+License Holder:         BioPharma Industries Limited
+Factory Manager:        Dr. Ramesh Narayan Kulkarni
+
+Valid Until:            December 31, 2025
+
+Registered Workers:     426
+Maximum Workers per Shift: 180
+
+Certified Processes:    Manufacture of pharmaceutical formulations
+
+Conditions:
+- Safety Officer appointed (required for >500 workers - appointed voluntarily)
+- Occupational Health Center maintained
+- Personal Protective Equipment provided to all workers
+- Annual health checkup for all workers
+- Welfare amenities as per Act
+
+                                             Sd/-
+                                             Inspector of Factories
+                                             Thane Division
+
+================================================================================
+                    END OF ENVIRONMENTAL CLEARANCES
+================================================================================

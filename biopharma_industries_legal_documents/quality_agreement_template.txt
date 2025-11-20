@@ -1,0 +1,539 @@
+================================================================================
+                    QUALITY AGREEMENT
+                    API SUPPLIER QUALIFICATION
+================================================================================
+
+                    QUALITY AGREEMENT
+
+Between
+
+BIOPHARMA INDUSTRIES LIMITED ("Buyer")
+and
+[API SUPPLIER NAME] ("Supplier")
+
+================================================================================
+
+This Quality Agreement ("Agreement") is made and entered into on this [DATE]
+day of [MONTH], [YEAR]
+
+BETWEEN
+
+BIOPHARMA INDUSTRIES LIMITED, a company incorporated under the Companies Act,
+having its registered office at Plot No. 234-235, MIDC Industrial Area,
+Thane-Belapur Road, Rabale, Thane - 400701, Maharashtra, India (hereinafter
+referred to as the "Buyer" or "BioPharma")
+
+AND
+
+[SUPPLIER NAME], a company incorporated under [JURISDICTION], having its
+registered office at [ADDRESS] (hereinafter referred to as the "Supplier")
+
+RECITALS
+--------
+
+A. The Buyer is engaged in the manufacture of pharmaceutical formulations and
+   is licensed under the Drugs and Cosmetics Act, 1940.
+
+B. The Supplier is engaged in the manufacture of Active Pharmaceutical
+   Ingredients (APIs) and excipients.
+
+C. The Buyer wishes to purchase API/excipients from the Supplier for use in
+   its pharmaceutical manufacturing operations.
+
+D. The parties wish to establish quality responsibilities and communication
+   channels to ensure the quality of supplied materials meets regulatory and
+   pharmacopeial standards.
+
+NOW THEREFORE, in consideration of the mutual covenants contained herein,
+the parties agree as follows:
+
+================================================================================
+
+ARTICLE 1: PURPOSE AND SCOPE
+---------------------------
+
+1.1 PURPOSE
+
+    The purpose of this Agreement is to define the quality responsibilities
+    of each party to ensure that materials supplied by the Supplier meet the
+    quality requirements of the Buyer and comply with applicable regulatory
+    standards including:
+
+    - Indian Pharmacopoeia (IP)
+    - United States Pharmacopeia (USP)
+    - British Pharmacopoeia (BP)
+    - European Pharmacopoeia (Ph. Eur.)
+    - ICH Guidelines
+    - Schedule M of Drugs and Cosmetics Rules (India)
+    - WHO-GMP requirements
+
+1.2 SCOPE
+
+    This Agreement covers the following material(s) supplied by the Supplier:
+
+    Material Name:          [API/EXCIPIENT NAME]
+    CAS Number:             [CAS NUMBER]
+    Grade:                  [Pharmacopeial grade - IP/USP/BP/Ph.Eur.]
+    Intended Use:           Active Pharmaceutical Ingredient for oral solid
+                            dosage forms
+    DMF Reference:          [DMF Number, if applicable]
+
+1.3 RELATIONSHIP TO COMMERCIAL AGREEMENT
+
+    This Quality Agreement supplements but does not supersede the commercial
+    supply agreement between the parties. In case of conflict, the terms
+    more favorable to product quality shall prevail.
+
+================================================================================
+
+ARTICLE 2: REGULATORY REQUIREMENTS
+---------------------------------
+
+2.1 SUPPLIER CERTIFICATIONS
+
+    The Supplier represents and warrants that it holds the following
+    certifications:
+
+    (a) Drug Manufacturing License: [License Number]
+    (b) WHO-GMP Certificate: [Certificate Number]
+    (c) US FDA Registration (if applicable): FEI [Number]
+    (d) CEP (Certificate of Suitability) - for EU markets
+    (e) ISO Certification: [If applicable]
+
+2.2 DRUG MASTER FILE (DMF)
+
+    The Supplier has filed a Drug Master File with:
+    - CDSCO India: DMF Number [Number]
+    - US FDA: DMF Number [Number]
+    - [Other authorities as applicable]
+
+    The Supplier authorizes the Buyer to reference the DMF for regulatory
+    filings.
+
+2.3 REGULATORY INSPECTIONS
+
+    The Supplier shall:
+    (a) Notify the Buyer of any regulatory inspection within 48 hours
+    (b) Provide copies of inspection reports and observations
+    (c) Inform the Buyer of any adverse regulatory action
+    (d) Permit the Buyer to accompany during inspections if requested by
+        regulatory authorities
+
+================================================================================
+
+ARTICLE 3: SPECIFICATIONS AND TESTING
+------------------------------------
+
+3.1 SPECIFICATIONS
+
+    The material shall comply with the specifications set out in Annexure A.
+
+    The specifications include:
+    - Identity tests
+    - Assay limits
+    - Related substances / impurity profile
+    - Residual solvents
+    - Heavy metals
+    - Microbial limits
+    - Physical characteristics (particle size, bulk density, etc.)
+
+3.2 CERTIFICATE OF ANALYSIS (CoA)
+
+    The Supplier shall provide a Certificate of Analysis with each batch:
+
+    CoA Requirements:
+    (a) Batch number and manufacturing date
+    (b) Expiry/Retest date
+    (c) Test results for all specification parameters
+    (d) Pharmacopeial reference (IP/USP/BP)
+    (e) Analyst signature and date
+    (f) QA approval signature
+
+3.3 TESTING RESPONSIBILITIES
+
+    Testing Party                 Supplier    Buyer
+    -----------------------------------------------
+    Identity                      Yes         Yes
+    Assay                         Yes         Yes
+    Related Substances            Yes         Yes
+    Residual Solvents             Yes         No*
+    Heavy Metals                  Yes         No*
+    Microbial Limits              Yes         Yes
+    Physical Tests                Yes         Yes
+
+    * Buyer may test periodically or when concerns arise
+
+3.4 REFERENCE STANDARDS
+
+    The Supplier shall use pharmacopeial reference standards or qualified
+    working standards traceable to pharmacopeial standards.
+
+3.5 TEST METHODS
+
+    The Supplier shall use validated analytical methods as per ICH Q2(R1).
+    Method validation reports shall be available for audit.
+
+================================================================================
+
+ARTICLE 4: MANUFACTURING AND PROCESS CONTROLS
+--------------------------------------------
+
+4.1 MANUFACTURING SITE
+
+    The material shall be manufactured at:
+    [Site Name and Address]
+
+    Manufacturing shall not be transferred to another site without prior
+    written approval from the Buyer.
+
+4.2 GMP COMPLIANCE
+
+    The Supplier shall manufacture the material in compliance with:
+    (a) Current Good Manufacturing Practices (cGMP)
+    (b) ICH Q7 - GMP for APIs
+    (c) Applicable pharmacopeial requirements
+    (d) Supplier's registered manufacturing process
+
+4.3 PROCESS VALIDATION
+
+    The Supplier shall:
+    (a) Validate all critical manufacturing processes
+    (b) Maintain validation status through ongoing verification
+    (c) Revalidate upon significant process changes
+    (d) Provide validation summaries upon request
+
+4.4 CLEANING VALIDATION
+
+    The Supplier shall:
+    (a) Validate cleaning procedures for equipment
+    (b) Establish and justify residue limits
+    (c) Prevent cross-contamination
+
+4.5 CHANGE CONTROL
+
+    The Supplier shall not make any of the following changes without prior
+    written approval from the Buyer (minimum 60 days advance notice):
+
+    (a) Change in manufacturing site
+    (b) Change in synthesis route or process
+    (c) Change in critical raw material source
+    (d) Change in specifications
+    (e) Change in packaging
+    (f) Change in testing methods (if affecting results)
+    (g) Change in equipment affecting product quality
+
+    Change notification shall include impact assessment and supporting data.
+
+================================================================================
+
+ARTICLE 5: DOCUMENTATION AND RECORDS
+-----------------------------------
+
+5.1 BATCH RECORDS
+
+    The Supplier shall:
+    (a) Maintain complete batch manufacturing records
+    (b) Retain records for minimum 1 year after expiry or 5 years from
+        manufacture, whichever is longer
+    (c) Provide copies upon request (within 5 business days)
+
+5.2 TRACEABILITY
+
+    The Supplier shall maintain traceability of:
+    (a) All raw materials used
+    (b) Manufacturing equipment
+    (c) Personnel involved
+    (d) Environmental conditions
+    (e) Distribution to customers
+
+5.3 STABILITY DATA
+
+    The Supplier shall:
+    (a) Conduct stability studies per ICH guidelines
+    (b) Establish and justify shelf life / retest period
+    (c) Provide stability data upon request
+    (d) Notify of any stability failure
+
+================================================================================
+
+ARTICLE 6: PACKAGING AND LABELING
+--------------------------------
+
+6.1 PACKAGING REQUIREMENTS
+
+    The material shall be packaged in:
+    - Container: [HDPE drums / Fiber drums with PE liner]
+    - Closure: [Tamper-evident seal]
+    - Pack size: [25 kg / 50 kg]
+
+    Packaging shall protect the material from moisture, light, and
+    contamination during storage and transportation.
+
+6.2 LABELING REQUIREMENTS
+
+    Each container shall be labeled with:
+    (a) Material name and grade
+    (b) Batch number
+    (c) Manufacturing date
+    (d) Expiry/Retest date
+    (e) Net weight
+    (f) Storage conditions
+    (g) Manufacturer name and address
+    (h) "For pharmaceutical use" or equivalent
+    (i) Safety/handling precautions
+
+6.3 SHIPPING DOCUMENTATION
+
+    Each shipment shall include:
+    (a) Certificate of Analysis
+    (b) Packing list
+    (c) Safety Data Sheet (SDS)
+    (d) Country of origin certificate (if required)
+
+================================================================================
+
+ARTICLE 7: SUPPLIER QUALIFICATION AND AUDITS
+-------------------------------------------
+
+7.1 INITIAL QUALIFICATION
+
+    Prior to first supply, the Supplier has been qualified through:
+    (a) Questionnaire review
+    (b) Document review (licenses, certificates, DMF)
+    (c) On-site GMP audit
+    (d) Sample testing and qualification
+
+    Initial Audit Date: [DATE]
+    Audit Outcome: [Approved / Approved with conditions]
+
+7.2 PERIODIC AUDITS
+
+    The Buyer reserves the right to conduct periodic audits:
+    (a) Regular audits: Every 2-3 years
+    (b) For-cause audits: At any time if quality concerns arise
+
+    The Supplier shall provide reasonable access to facilities, records, and
+    personnel during audits.
+
+7.3 AUDIT FINDINGS AND CAPA
+
+    The Supplier shall:
+    (a) Respond to audit findings within 30 days
+    (b) Implement corrective and preventive actions
+    (c) Provide evidence of CAPA effectiveness
+
+================================================================================
+
+ARTICLE 8: QUALITY ISSUES AND COMPLAINTS
+---------------------------------------
+
+8.1 NON-CONFORMING MATERIAL
+
+    If the Buyer finds material non-conforming to specifications:
+    (a) Buyer shall notify Supplier within 15 days of receipt
+    (b) Supplier shall investigate and respond within 15 days
+    (c) Supplier shall replace non-conforming material at no cost
+    (d) Supplier shall conduct root cause analysis and implement CAPA
+
+8.2 CUSTOMER COMPLAINTS
+
+    If the Buyer receives complaints related to Supplier's material:
+    (a) Buyer shall notify Supplier within 5 business days
+    (b) Supplier shall investigate and respond within 15 days
+    (c) Supplier shall provide investigation report
+    (d) Both parties shall collaborate on CAPA if required
+
+8.3 FIELD ALERTS AND RECALLS
+
+    If a quality issue requires field action:
+    (a) Supplier shall notify Buyer immediately
+    (b) Both parties shall cooperate in investigation
+    (c) Supplier shall support any recall with documentation and resources
+    (d) Supplier shall bear costs if recall is due to Supplier's fault
+
+================================================================================
+
+ARTICLE 9: CONFIDENTIALITY
+-------------------------
+
+9.1 CONFIDENTIAL INFORMATION
+
+    Each party shall keep confidential all information received from the
+    other party including:
+    (a) Technical information and know-how
+    (b) Manufacturing processes
+    (c) Specifications and test methods
+    (d) Business information
+    (e) Regulatory filings
+
+9.2 EXCEPTIONS
+
+    Confidentiality obligations do not apply to information:
+    (a) Already in public domain
+    (b) Required to be disclosed to regulatory authorities
+    (c) Required by law
+
+9.3 SURVIVAL
+
+    Confidentiality obligations survive termination for 5 years.
+
+================================================================================
+
+ARTICLE 10: COMMUNICATION AND CONTACTS
+-------------------------------------
+
+10.1 QUALITY CONTACTS
+
+     For BioPharma (Buyer):
+     Name:       Mrs. Deepika Sunil Jain
+     Title:      Head of Quality Assurance
+     Email:      qa.head@biopharma.com
+     Phone:      +91-22-2568-XXXX
+
+     For [Supplier]:
+     Name:       [Name]
+     Title:      [Title]
+     Email:      [Email]
+     Phone:      [Phone]
+
+10.2 EMERGENCY CONTACTS
+
+     For urgent quality matters (recalls, safety issues):
+     BioPharma: +91-98XXX-XXXXX (24/7)
+     Supplier:  [24/7 Emergency Number]
+
+10.3 REGULAR COMMUNICATION
+
+     The parties shall hold quality review meetings:
+     - Frequency: Quarterly (or as needed)
+     - Topics: Quality metrics, complaints, changes, audits
+
+================================================================================
+
+ARTICLE 11: TERM AND TERMINATION
+-------------------------------
+
+11.1 TERM
+
+     This Agreement shall be effective from [DATE] and shall continue for
+     a period of 3 (three) years unless terminated earlier.
+
+11.2 RENEWAL
+
+     This Agreement shall automatically renew for successive 1-year periods
+     unless either party provides 90 days' written notice of non-renewal.
+
+11.3 TERMINATION FOR CAUSE
+
+     Either party may terminate this Agreement immediately if:
+     (a) The other party materially breaches this Agreement and fails to
+         cure within 30 days of notice
+     (b) The other party's manufacturing license is suspended or cancelled
+     (c) The other party becomes insolvent or bankrupt
+
+11.4 CONSEQUENCES OF TERMINATION
+
+     Upon termination:
+     (a) Supplier shall complete pending orders unless otherwise agreed
+     (b) Confidentiality and records retention obligations survive
+     (c) Pending quality investigations shall be completed
+
+================================================================================
+
+ARTICLE 12: GENERAL PROVISIONS
+-----------------------------
+
+12.1 GOVERNING LAW
+
+     This Agreement shall be governed by the laws of India.
+
+12.2 DISPUTE RESOLUTION
+
+     Disputes shall be resolved through good faith negotiations. If unresolved,
+     disputes shall be subject to arbitration in Mumbai under the Arbitration
+     and Conciliation Act, 1996.
+
+12.3 AMENDMENT
+
+     This Agreement may only be amended by written instrument signed by both
+     parties.
+
+12.4 ENTIRE AGREEMENT
+
+     This Agreement, together with its Annexures, constitutes the entire
+     agreement between the parties regarding quality matters.
+
+================================================================================
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date
+first written above.
+
+FOR BIOPHARMA INDUSTRIES LIMITED:
+
+Signature: _______________________
+Name: Mrs. Deepika Sunil Jain
+Title: Head of Quality Assurance
+Date: [DATE]
+
+Signature: _______________________
+Name: Dr. Ramesh Narayan Kulkarni
+Title: Managing Director
+Date: [DATE]
+
+FOR [SUPPLIER NAME]:
+
+Signature: _______________________
+Name: [Name]
+Title: [Title]
+Date: [DATE]
+
+Signature: _______________________
+Name: [Name]
+Title: [Title]
+Date: [DATE]
+
+================================================================================
+
+ANNEXURE A: SPECIFICATIONS
+-------------------------
+
+Material: [API NAME]
+Grade: [IP/USP/BP/Ph.Eur.]
+
+Parameter                    Specification              Test Method
+------------------------------------------------------------------------
+Description                  [White crystalline powder] Visual
+Identification A (IR)        Matches reference          IP/USP
+Identification B (HPLC)      RT matches reference       In-house
+Assay                        98.0 - 102.0%              HPLC (IP/USP)
+Related Substances
+  - Any individual impurity  NMT 0.2%                   HPLC
+  - Total impurities         NMT 1.0%                   HPLC
+Residual Solvents            Per ICH Q3C                GC
+Heavy Metals                 NMT 20 ppm                 ICP-OES
+Sulphated Ash                NMT 0.1%                   IP/USP
+Loss on Drying               NMT 0.5%                   IP/USP
+Microbial Limits
+  - TAMC                     NMT 1000 CFU/g             IP/USP
+  - TYMC                     NMT 100 CFU/g              IP/USP
+  - E. coli                  Absent/g                   IP/USP
+  - Salmonella               Absent/10g                 IP/USP
+Particle Size (D90)          NMT 100 microns            Laser diffraction
+
+================================================================================
+
+ANNEXURE B: LIST OF CRITICAL RAW MATERIALS
+-----------------------------------------
+
+[List of starting materials and key intermediates for the API]
+
+================================================================================
+
+ANNEXURE C: APPROVED SUBCONTRACTORS
+----------------------------------
+
+[List of approved contract testing labs, packaging vendors, etc.]
+
+================================================================================
+                    END OF QUALITY AGREEMENT
+================================================================================

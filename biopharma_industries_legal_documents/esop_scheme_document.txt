@@ -1,0 +1,571 @@
+================================================================================
+                    EMPLOYEE STOCK OPTION SCHEME 2020
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+                    ESOP SCHEME DOCUMENT
+
+================================================================================
+
+BIOPHARMA INDUSTRIES LIMITED
+CIN: U24230MH2012PLC234567
+
+Employee Stock Option Scheme 2020
+("BioPharma ESOP 2020" or "Scheme")
+
+Approved by Board of Directors: December 15, 2019
+Approved by Shareholders: January 15, 2020
+Effective Date: April 1, 2020
+
+================================================================================
+
+ARTICLE 1: INTRODUCTION AND OBJECTIVES
+-------------------------------------
+
+1.1 NAME OF THE SCHEME
+
+    This Scheme shall be called "BioPharma Industries Limited - Employee Stock
+    Option Scheme 2020" or "BioPharma ESOP 2020".
+
+1.2 OBJECTIVES
+
+    The objectives of the Scheme are:
+
+    (a) To attract, retain, and motivate talented employees including Key
+        Technical Personnel critical for regulatory compliance
+
+    (b) To align the interests of employees with those of shareholders
+
+    (c) To reward employees for their contribution to Company's growth
+
+    (d) To enable employees to participate in long-term wealth creation
+
+    (e) To create a sense of ownership among employees
+
+1.3 EFFECTIVE DATE
+
+    The Scheme shall come into effect from April 1, 2020.
+
+================================================================================
+
+ARTICLE 2: DEFINITIONS
+---------------------
+
+2.1 "Act" means the Companies Act, 2013 and rules made thereunder.
+
+2.2 "Board" means the Board of Directors of the Company.
+
+2.3 "Committee" means the Nomination and Remuneration Committee constituted
+    by the Board to administer this Scheme.
+
+2.4 "Company" means BioPharma Industries Limited.
+
+2.5 "Employee" means:
+    (a) A permanent employee of the Company working in India or abroad; or
+    (b) A Director of the Company (excluding Independent Directors); or
+    (c) An employee of a subsidiary or holding company
+
+    But does not include:
+    (a) An employee who is a Promoter or belongs to the Promoter Group; or
+    (b) A Director who holds more than 10% of the outstanding equity shares
+
+2.6 "Exercise" means the process by which the Grantee converts the vested
+    Options into equity shares by paying the Exercise Price.
+
+2.7 "Exercise Period" means the period within which the Grantee must exercise
+    the vested Options.
+
+2.8 "Exercise Price" means the price per share payable by the Grantee to
+    exercise the Options.
+
+2.9 "Fair Market Value" means the value of the equity shares determined by
+    the Committee based on a valuation report from a registered valuer.
+
+2.10 "Grant" means the issue of Options to an Employee under this Scheme.
+
+2.11 "Grant Date" means the date on which Options are granted to an Employee.
+
+2.12 "Grantee" means an Employee who has been granted Options under the Scheme.
+
+2.13 "Option" means a right but not an obligation granted to an Employee to
+     apply for equity shares of the Company at the Exercise Price.
+
+2.14 "Option Agreement" means the agreement entered into between the Company
+     and the Grantee setting out the terms and conditions of the Grant.
+
+2.15 "Vesting" means the process by which the Grantee acquires the right to
+     exercise the Options.
+
+2.16 "Vesting Period" means the period during which the Options vest in the
+     Grantee.
+
+================================================================================
+
+ARTICLE 3: ADMINISTRATION
+------------------------
+
+3.1 NOMINATION AND REMUNERATION COMMITTEE
+
+    The Scheme shall be administered by the Nomination and Remuneration
+    Committee ("Committee") constituted by the Board.
+
+3.2 COMPOSITION OF COMMITTEE
+
+    The Committee shall consist of at least three Directors, of which at
+    least half shall be Independent Directors.
+
+    Current Composition:
+    - Mr. Sandeep Kumar Agarwal (Chairman) - Independent Director
+    - Mrs. Priya Suresh Menon - Independent Director
+    - Dr. Ramesh Narayan Kulkarni - Managing Director
+
+3.3 POWERS OF COMMITTEE
+
+    The Committee shall have the authority to:
+    (a) Determine eligibility of Employees
+    (b) Determine the number of Options to be granted
+    (c) Determine the Exercise Price
+    (d) Determine the vesting schedule
+    (e) Construe and interpret the Scheme
+    (f) Establish procedures for administration
+    (g) Modify or amend the terms of outstanding Options
+    (h) Suspend or terminate the Scheme
+    (i) Delegate powers to Company Secretary for administration
+
+3.4 DECISIONS FINAL
+
+    All decisions of the Committee shall be final, conclusive, and binding
+    on all Grantees.
+
+================================================================================
+
+ARTICLE 4: SHARES AVAILABLE UNDER THE SCHEME
+-------------------------------------------
+
+4.1 MAXIMUM SHARES
+
+    The maximum number of equity shares that may be issued under this Scheme
+    shall be 15,00,000 (Fifteen Lakh) shares, representing 7.5% of the paid-up
+    equity capital of the Company as on the date of shareholder approval.
+
+4.2 SOURCE OF SHARES
+
+    Shares for the Scheme shall be made available through fresh issue by the
+    Company. Secondary acquisition from the market is not envisaged.
+
+4.3 LAPSED OPTIONS
+
+    Options that are forfeited, lapsed, or cancelled shall be available for
+    future grants under the Scheme.
+
+4.4 ADJUSTMENT FOR CORPORATE ACTIONS
+
+    In case of any corporate action such as bonus issue, stock split, or
+    rights issue, the Committee shall make appropriate adjustments to the
+    number of Options and/or Exercise Price to prevent dilution or enlargement.
+
+================================================================================
+
+ARTICLE 5: ELIGIBILITY
+---------------------
+
+5.1 ELIGIBLE EMPLOYEES
+
+    The following Employees shall be eligible for grant of Options:
+
+    (a) All permanent employees who have completed at least one year of
+        service with the Company
+
+    (b) Directors of the Company (excluding Independent Directors and
+        Promoter Directors)
+
+    (c) Employees designated as "Key Technical Personnel" for regulatory
+        purposes
+
+    (d) Employees in managerial or supervisory positions
+
+5.2 PRIORITY FOR KEY TECHNICAL PERSONNEL
+
+    Given the critical nature of technical personnel for a pharmaceutical
+    manufacturing company, the following employees shall be given priority
+    in Option grants:
+
+    - Technical Director (Approved Person under Drug License)
+    - Head of Quality Assurance
+    - Head of Quality Control
+    - Head of Regulatory Affairs
+    - R&D Head
+    - Production Managers
+
+5.3 INELIGIBLE PERSONS
+
+    The following persons shall not be eligible:
+    (a) Promoters or persons belonging to Promoter Group
+    (b) Directors holding more than 10% of outstanding shares
+    (c) Independent Directors
+    (d) Employees on probation (unless specifically approved)
+    (e) Employees under notice period
+
+================================================================================
+
+ARTICLE 6: GRANT OF OPTIONS
+--------------------------
+
+6.1 GRANT APPROVAL
+
+    Options shall be granted by the Committee based on:
+    (a) Employee's performance and potential
+    (b) Criticality of role
+    (c) Retention requirements
+    (d) Company guidelines and limits
+    (e) Regulatory compliance importance of the role
+
+6.2 OPTION AGREEMENT
+
+    Upon grant, the Grantee shall execute an Option Agreement specifying:
+    (a) Number of Options granted
+    (b) Grant Date
+    (c) Exercise Price
+    (d) Vesting schedule
+    (e) Exercise Period
+    (f) Other terms and conditions
+
+6.3 MAXIMUM GRANT TO SINGLE EMPLOYEE
+
+    No single Employee shall be granted Options exceeding 1% of the issued
+    capital of the Company at the time of grant.
+
+6.4 GRANT FREQUENCY
+
+    The Committee may grant Options at any time during the year. Annual grant
+    cycles are typically in April (after performance appraisal).
+
+================================================================================
+
+ARTICLE 7: EXERCISE PRICE
+------------------------
+
+7.1 DETERMINATION OF EXERCISE PRICE
+
+    The Exercise Price shall be determined by the Committee, which may be:
+    (a) Fair Market Value on the Grant Date; or
+    (b) A discount to Fair Market Value (not exceeding 20%); or
+    (c) Face value of shares (Rs. 10 per share)
+
+7.2 FAIR MARKET VALUE
+
+    Fair Market Value shall be determined based on a valuation report from
+    a registered valuer using accepted valuation methodologies.
+
+7.3 CURRENT EXERCISE PRICE
+
+    For grants made in FY 2025-26:
+    - Fair Market Value: Rs. 200 per share
+    - Exercise Price: Rs. 200 per share (at FMV)
+
+    (Based on valuation as of April 1, 2025)
+
+================================================================================
+
+ARTICLE 8: VESTING
+-----------------
+
+8.1 VESTING SCHEDULE
+
+    Options shall vest over a period of 3 (three) years from the Grant Date
+    as follows:
+
+    End of Year    Vesting Percentage    Cumulative Vesting
+    ------------------------------------------------------
+    Year 1         33.33%                33.33%
+    Year 2         33.33%                66.66%
+    Year 3         33.34%                100.00%
+
+8.2 CLIFF VESTING
+
+    No Options shall vest before completion of one year from the Grant Date
+    (cliff period).
+
+8.3 CONDITIONS FOR VESTING
+
+    Vesting is subject to:
+    (a) Continued employment with the Company
+    (b) Satisfactory performance ratings
+    (c) No material breach of employment agreement
+    (d) No regulatory violations attributable to the Employee
+
+8.4 ACCELERATED VESTING
+
+    The Committee may accelerate vesting in the following circumstances:
+    (a) Death of the Grantee
+    (b) Permanent disability
+    (c) Retirement
+    (d) Change of control of the Company
+    (e) At Committee's discretion for exceptional performance
+
+================================================================================
+
+ARTICLE 9: EXERCISE OF OPTIONS
+-----------------------------
+
+9.1 EXERCISE PERIOD
+
+    Vested Options may be exercised within a period of 3 (three) years from
+    the date of vesting.
+
+9.2 EXERCISE PROCESS
+
+    To exercise Options, the Grantee shall:
+    (a) Submit Exercise Notice to the Company
+    (b) Pay the aggregate Exercise Price
+    (c) Complete necessary documentation
+    (d) Comply with tax deduction requirements
+
+9.3 MINIMUM EXERCISE
+
+    The minimum number of Options that may be exercised at any time shall be
+    100 Options.
+
+9.4 ALLOTMENT OF SHARES
+
+    Upon valid exercise and receipt of Exercise Price, the Company shall
+    allot equity shares within 30 days.
+
+9.5 LOCK-IN PERIOD
+
+    There shall be no lock-in period for shares acquired through exercise
+    of Options.
+
+================================================================================
+
+ARTICLE 10: EFFECT OF TERMINATION OF EMPLOYMENT
+----------------------------------------------
+
+10.1 VOLUNTARY RESIGNATION
+
+     If a Grantee resigns voluntarily:
+     (a) Unvested Options shall be forfeited on the last working day
+     (b) Vested but unexercised Options must be exercised within 90 days
+         of last working day, failing which they shall lapse
+     (c) Options exercised remain valid
+
+10.2 TERMINATION FOR CAUSE
+
+     If a Grantee is terminated for cause (misconduct, fraud, regulatory
+     violation, etc.):
+     (a) All unvested Options shall be forfeited immediately
+     (b) All vested but unexercised Options shall be forfeited
+     (c) Committee may require buyback of exercised shares at Exercise Price
+
+10.3 TERMINATION WITHOUT CAUSE
+
+     If a Grantee is terminated without cause (redundancy, restructuring):
+     (a) Unvested Options shall be forfeited
+     (b) Vested Options must be exercised within 180 days of termination
+
+10.4 RETIREMENT
+
+     Upon retirement (at superannuation age):
+     (a) All outstanding Options shall vest immediately
+     (b) Must be exercised within 1 year of retirement
+
+10.5 DEATH
+
+     Upon death of a Grantee:
+     (a) All outstanding Options shall vest immediately
+     (b) Legal heirs may exercise within 1 year of death
+
+10.6 PERMANENT DISABILITY
+
+     Upon permanent disability:
+     (a) All outstanding Options shall vest immediately
+     (b) Must be exercised within 1 year of disability
+
+================================================================================
+
+ARTICLE 11: CLAWBACK PROVISIONS
+------------------------------
+
+11.1 CLAWBACK FOR REGULATORY VIOLATIONS
+
+     Given the regulated nature of pharmaceutical manufacturing, the Company
+     reserves the right to clawback Options/Shares in the following cases:
+
+     (a) If the Company's Drug Manufacturing License is suspended or cancelled
+         due to acts or omissions of the Grantee
+
+     (b) If regulatory prosecution is initiated against the Grantee for GMP
+         violations
+
+     (c) If material quality failure or product recall occurs due to Grantee's
+         negligence
+
+     (d) If pharmacovigilance violations occur under Grantee's responsibility
+
+11.2 CLAWBACK FOR FRAUD OR MISCONDUCT
+
+     Options/Shares may be clawed back if the Grantee is found guilty of:
+     (a) Fraud or embezzlement
+     (b) Material misstatement of financial information
+     (c) Gross misconduct
+     (d) Breach of confidentiality
+
+11.3 CLAWBACK MECHANISM
+
+     Clawback may be effected by:
+     (a) Forfeiture of unvested Options
+     (b) Forfeiture of vested but unexercised Options
+     (c) Requirement to repay gains from exercise of Options
+     (d) Buyback of shares at Exercise Price
+
+================================================================================
+
+ARTICLE 12: TAX IMPLICATIONS
+---------------------------
+
+12.1 TAX LIABILITY
+
+     The Grantee shall be solely responsible for all tax obligations arising
+     from the grant, vesting, exercise, or sale of Options/Shares.
+
+12.2 TAX TREATMENT (FOR INFORMATION)
+
+     Current tax treatment under Indian tax laws:
+
+     (a) AT GRANT: No tax implication
+
+     (b) AT VESTING: No tax implication
+
+     (c) AT EXERCISE: The difference between Fair Market Value on exercise
+         date and Exercise Price is taxed as perquisite (salary income).
+         Company shall deduct TDS.
+
+     (d) AT SALE: Capital gains tax on difference between sale price and
+         Fair Market Value on exercise date.
+         - Short-term (held < 24 months): Added to income, taxed at slab rate
+         - Long-term (held > 24 months): 20% with indexation
+
+12.3 TDS DEDUCTION
+
+     The Company shall deduct TDS on perquisite value at exercise and deposit
+     with Income Tax Department.
+
+================================================================================
+
+ARTICLE 13: RIGHTS OF GRANTEES
+-----------------------------
+
+13.1 NO SHAREHOLDER RIGHTS UNTIL EXERCISE
+
+     Until Options are exercised and shares are allotted:
+     (a) Grantee has no voting rights
+     (b) Grantee has no dividend rights
+     (c) Grantee has no right to participate in bonus or rights issues
+
+13.2 NOT TRANSFERABLE
+
+     Options are personal to the Grantee and are not transferable except:
+     (a) By will or laws of inheritance
+     (b) To legal heirs upon death
+
+13.3 NO RIGHT TO EMPLOYMENT
+
+     Grant of Options does not confer any right to continued employment with
+     the Company.
+
+================================================================================
+
+ARTICLE 14: SCHEME AMENDMENT AND TERMINATION
+-------------------------------------------
+
+14.1 AMENDMENT
+
+     The Board/Committee may amend the Scheme from time to time. However,
+     amendments that adversely affect outstanding Options shall require
+     consent of affected Grantees.
+
+14.2 TERMINATION
+
+     The Board may terminate the Scheme at any time. Termination shall not
+     affect Options already granted.
+
+14.3 SHAREHOLDER APPROVAL
+
+     Certain amendments may require shareholder approval as per Companies Act.
+
+================================================================================
+
+ARTICLE 15: DISCLOSURES
+----------------------
+
+15.1 ANNUAL DISCLOSURES
+
+     The Company shall make disclosures in the Directors' Report regarding:
+     (a) Total Options granted, vested, exercised, lapsed during the year
+     (b) Exercise Price
+     (c) Employee-wise details for senior management
+     (d) Diluted EPS
+
+15.2 REGISTER OF OPTION HOLDERS
+
+     The Company shall maintain a Register of Option Holders with:
+     (a) Name and address of Grantee
+     (b) Number of Options granted
+     (c) Grant Date and Exercise Price
+     (d) Vesting and exercise details
+
+================================================================================
+
+ARTICLE 16: CURRENT STATUS OF THE SCHEME
+---------------------------------------
+
+16.1 OPTIONS POOL
+
+     Total Options authorized:        15,00,000
+     Options granted to date:          8,50,000
+     Options exercised:                2,20,000
+     Options lapsed/forfeited:           80,000
+     Options outstanding (unvested):   3,50,000
+     Options outstanding (vested):     2,00,000
+     Options available for grant:      6,50,000
+
+16.2 KEY GRANTS TO TECHNICAL PERSONNEL
+
+     Employee                Position           Options    Exercise Price
+     -------------------------------------------------------------------
+     Dr. Rajendra Patil      Technical Director   50,000   Rs. 150
+     Mrs. Deepika Jain       Head - QA            40,000   Rs. 150
+     Dr. Anita Shah          Head - QC            40,000   Rs. 150
+     Mr. Suresh Sharma       Production Manager   30,000   Rs. 175
+     Ms. Priya Desai         Regulatory Manager   25,000   Rs. 175
+     [Other employees]       Various           5,65,000   Various
+
+================================================================================
+
+ARTICLE 17: APPLICABLE LAW
+-------------------------
+
+17.1 GOVERNING LAW
+
+     This Scheme shall be governed by and construed in accordance with the
+     laws of India.
+
+17.2 COMPLIANCE
+
+     The Scheme shall be implemented in compliance with:
+     (a) Companies Act, 2013 and rules
+     (b) Income Tax Act and rules
+     (c) SEBI regulations (if applicable in future)
+     (d) Other applicable laws
+
+================================================================================
+
+ANNEXURE: FORM OF OPTION AGREEMENT
+---------------------------------
+
+[Template of Option Agreement to be executed with each Grantee - available
+separately]
+
+================================================================================
+                    END OF ESOP SCHEME DOCUMENT
+================================================================================

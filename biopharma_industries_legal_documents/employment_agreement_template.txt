@@ -1,0 +1,502 @@
+================================================================================
+                    EMPLOYMENT AGREEMENT
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+                    EMPLOYMENT CONTRACT
+                    FOR KEY TECHNICAL PERSONNEL
+
+================================================================================
+
+This Employment Agreement ("Agreement") is made and entered into on this
+[DATE] day of [MONTH], [YEAR]
+
+BETWEEN
+
+BIOPHARMA INDUSTRIES LIMITED, a company incorporated under the Companies Act,
+having its registered office at Plot No. 234-235, MIDC Industrial Area,
+Thane-Belapur Road, Rabale, Thane - 400701, Maharashtra (hereinafter referred
+to as the "Company" or "Employer")
+
+AND
+
+[EMPLOYEE NAME], residing at [ADDRESS] (hereinafter referred to as the
+"Employee")
+
+The Company and the Employee are hereinafter individually referred to as
+"Party" and collectively as "Parties".
+
+================================================================================
+
+RECITALS
+--------
+
+A. The Company is engaged in the manufacture of pharmaceutical formulations
+   and is a licensed drug manufacturer under the Drugs and Cosmetics Act, 1940.
+
+B. The Company requires qualified technical personnel for its manufacturing
+   and quality operations as mandated under Schedule M of the Drugs and
+   Cosmetics Rules.
+
+C. The Employee possesses the requisite qualifications, skills, and experience
+   for the position and is willing to be employed by the Company on the terms
+   and conditions set forth herein.
+
+NOW THEREFORE, in consideration of the mutual covenants contained herein, the
+Parties agree as follows:
+
+================================================================================
+
+ARTICLE 1: APPOINTMENT AND POSITION
+----------------------------------
+
+1.1 POSITION
+
+    The Company hereby appoints the Employee as [DESIGNATION], and the
+    Employee hereby accepts such appointment.
+
+    Designation:        [HEAD OF QUALITY CONTROL / HEAD OF QUALITY ASSURANCE /
+                        PRODUCTION MANAGER / TECHNICAL DIRECTOR]
+    Department:         [Quality Control / Quality Assurance / Production /
+                        Technical Operations]
+    Reporting To:       [Managing Director / Technical Director]
+    Location:           [Thane / Baddi]
+
+1.2 DATE OF JOINING
+
+    The Employee shall commence employment with effect from [DATE].
+
+1.3 PROBATION PERIOD
+
+    The Employee shall be on probation for a period of six (6) months from
+    the date of joining. During the probation period, either party may
+    terminate this Agreement by giving fifteen (15) days' notice.
+
+    Upon successful completion of probation, the Employee shall be confirmed
+    in service.
+
+1.4 REGULATORY APPOINTMENT
+
+    [For applicable positions only]
+
+    The Employee is appointed as the [Approved Technical Head / QC Head / QA Head]
+    for the purpose of the Company's Drug Manufacturing License No. [LICENSE NO].
+
+    The Employee acknowledges that this is a statutory position under the
+    Drugs and Cosmetics Act and understands the regulatory responsibilities
+    associated with this role.
+
+================================================================================
+
+ARTICLE 2: DUTIES AND RESPONSIBILITIES
+-------------------------------------
+
+2.1 GENERAL DUTIES
+
+    The Employee shall:
+    (a) Perform duties assigned by the Company diligently and faithfully
+    (b) Comply with Company policies, procedures, and SOPs
+    (c) Devote full time and attention to Company's business during working hours
+    (d) Act in the best interests of the Company at all times
+    (e) Not engage in any activity that conflicts with Company interests
+
+2.2 SPECIFIC DUTIES (POSITION-SPECIFIC)
+
+    [FOR HEAD OF QUALITY CONTROL]
+    (a) Supervise all quality control testing activities
+    (b) Ensure compliance with pharmacopeial specifications and in-house standards
+    (c) Review and approve batch testing records
+    (d) Maintain quality control laboratory in GMP-compliant condition
+    (e) Validate analytical methods
+    (f) Manage stability studies program
+    (g) Investigate out-of-specification results
+    (h) Ensure instrument calibration and maintenance
+    (i) Train and supervise QC personnel
+
+    [FOR HEAD OF QUALITY ASSURANCE]
+    (a) Ensure overall GMP compliance of manufacturing operations
+    (b) Review and approve batch manufacturing records
+    (c) Manage change control and deviation systems
+    (d) Oversee CAPA program
+    (e) Conduct internal audits and vendor audits
+    (f) Prepare for and support regulatory inspections
+    (g) Release batches for sale after QC approval
+    (h) Maintain document control system
+    (i) Manage product complaint handling and recall procedures
+
+    [FOR PRODUCTION MANAGER]
+    (a) Plan and execute production operations
+    (b) Ensure production as per batch manufacturing records
+    (c) Maintain production area in GMP-compliant condition
+    (d) Manage production personnel and training
+    (e) Ensure in-process controls during manufacturing
+    (f) Optimize production efficiency and yield
+    (g) Coordinate with QC and QA departments
+    (h) Manage equipment maintenance and calibration
+
+2.3 REGULATORY RESPONSIBILITIES
+
+    The Employee understands and acknowledges that:
+    (a) The Company operates under strict regulatory oversight
+    (b) Non-compliance can result in license suspension and prosecution
+    (c) The Employee may be personally liable for regulatory violations
+    (d) The Employee must report any compliance concerns to management
+
+================================================================================
+
+ARTICLE 3: COMPENSATION AND BENEFITS
+-----------------------------------
+
+3.1 SALARY
+
+    The Employee shall receive an annual Cost to Company (CTC) of
+    Rs. [AMOUNT] (Rupees [AMOUNT IN WORDS] only), payable monthly.
+
+    Salary Structure:
+    -------------------------------------------------
+    Component                    Monthly (Rs.)  Annual (Rs.)
+    -------------------------------------------------
+    Basic Salary                 [AMOUNT]       [AMOUNT]
+    House Rent Allowance         [AMOUNT]       [AMOUNT]
+    Special Allowance            [AMOUNT]       [AMOUNT]
+    Leave Travel Allowance       [AMOUNT]       [AMOUNT]
+    Medical Allowance            [AMOUNT]       [AMOUNT]
+    Employer's PF Contribution   [AMOUNT]       [AMOUNT]
+    Gratuity Provision           [AMOUNT]       [AMOUNT]
+    -------------------------------------------------
+    TOTAL CTC                    [AMOUNT]       [AMOUNT]
+    -------------------------------------------------
+
+3.2 SALARY REVIEW
+
+    The Employee's salary shall be reviewed annually based on:
+    (a) Individual performance
+    (b) Company performance
+    (c) Market benchmarks
+    (d) Regulatory compliance record
+
+3.3 STATUTORY BENEFITS
+
+    The Employee shall be entitled to:
+    (a) Provident Fund as per EPF Act
+    (b) ESI (if applicable) as per ESI Act
+    (c) Gratuity as per Payment of Gratuity Act
+    (d) Professional Tax deduction as per state laws
+
+3.4 OTHER BENEFITS
+
+    (a) Medical Insurance: Group mediclaim for self, spouse, and two children
+        Sum Insured: Rs. 5,00,000 per annum
+
+    (b) Personal Accident Insurance: Rs. 25,00,000
+
+    (c) Leave Encashment: As per Company policy
+
+3.5 EMPLOYEE STOCK OPTIONS
+
+    The Employee may be granted stock options under the Company's ESOP Scheme
+    2020, subject to eligibility criteria and approval by the Nomination and
+    Remuneration Committee.
+
+================================================================================
+
+ARTICLE 4: WORKING HOURS AND LEAVE
+---------------------------------
+
+4.1 WORKING HOURS
+
+    Regular working hours: 9:00 AM to 6:00 PM, Monday to Saturday
+    (with half-day on alternate Saturdays)
+
+    The Employee may be required to work beyond regular hours for:
+    (a) Regulatory inspections
+    (b) Production exigencies
+    (c) Quality investigations
+    (d) Other business needs
+
+4.2 LEAVE ENTITLEMENT
+
+    Annual Leave Entitlement:
+    - Earned Leave: 21 days
+    - Casual Leave: 7 days
+    - Sick Leave: 7 days
+    - National Holidays: As declared by Company
+
+    Leave accumulation and encashment as per Company policy.
+
+================================================================================
+
+ARTICLE 5: CONFIDENTIALITY
+-------------------------
+
+5.1 CONFIDENTIAL INFORMATION
+
+    The Employee acknowledges that during employment, they will have access
+    to Confidential Information including:
+    (a) Formulation compositions and processes
+    (b) Analytical methods and validation data
+    (c) Manufacturing know-how and trade secrets
+    (d) Bioequivalence study data
+    (e) Customer and supplier information
+    (f) Pricing and commercial information
+    (g) Business strategies and plans
+    (h) Regulatory filings and correspondence
+
+5.2 CONFIDENTIALITY OBLIGATIONS
+
+    The Employee shall:
+    (a) Not disclose Confidential Information to any person without authorization
+    (b) Use Confidential Information only for Company's business purposes
+    (c) Take all reasonable measures to protect confidentiality
+    (d) Return all confidential materials upon termination
+    (e) Not retain copies of confidential documents
+
+5.3 SURVIVAL
+
+    Confidentiality obligations shall survive termination of employment for
+    a period of five (5) years or until the information becomes public
+    (whichever is earlier).
+
+================================================================================
+
+ARTICLE 6: INTELLECTUAL PROPERTY
+-------------------------------
+
+6.1 ASSIGNMENT OF IP
+
+    The Employee hereby assigns to the Company all right, title, and interest
+    in any intellectual property created during employment, including:
+    (a) Inventions, discoveries, and improvements
+    (b) Formulations and processes
+    (c) Analytical methods
+    (d) Technical reports and documentation
+    (e) Software and databases
+
+6.2 DISCLOSURE
+
+    The Employee shall promptly disclose to the Company any intellectual
+    property created during employment.
+
+6.3 ASSISTANCE
+
+    The Employee shall assist the Company in obtaining patents, trademarks,
+    or other protection for intellectual property, including executing
+    necessary documents.
+
+================================================================================
+
+ARTICLE 7: NON-COMPETE AND NON-SOLICIT
+-------------------------------------
+
+7.1 NON-COMPETE
+
+    During employment and for a period of twelve (12) months after termination,
+    the Employee shall not:
+    (a) Engage in or be employed by any competing pharmaceutical manufacturing
+        company within India
+    (b) Start or invest in a competing business
+    (c) Provide consulting services to a competitor
+
+    "Competing business" means any entity engaged in manufacture of
+    pharmaceutical formulations in similar therapeutic categories.
+
+7.2 NON-SOLICIT
+
+    During employment and for a period of twelve (12) months after termination,
+    the Employee shall not:
+    (a) Solicit or induce any employee of the Company to leave
+    (b) Solicit business from Company's customers or suppliers
+    (c) Interfere with Company's business relationships
+
+7.3 REASONABLENESS
+
+    The Employee acknowledges that these restrictions are reasonable and
+    necessary to protect the Company's legitimate business interests.
+
+================================================================================
+
+ARTICLE 8: TERMINATION
+---------------------
+
+8.1 TERMINATION BY COMPANY
+
+    The Company may terminate this Agreement:
+
+    (a) WITH NOTICE: By giving three (3) months' written notice or payment
+        of salary in lieu thereof
+
+    (b) WITHOUT NOTICE: For cause, including:
+        - Gross misconduct or negligence
+        - Breach of confidentiality
+        - Regulatory violation due to Employee's fault
+        - Fraud or dishonesty
+        - Conviction of criminal offense
+        - Material breach of this Agreement
+
+8.2 TERMINATION BY EMPLOYEE
+
+    The Employee may terminate this Agreement by giving three (3) months'
+    written notice.
+
+8.3 NOTICE PERIOD OBLIGATIONS
+
+    During the notice period, the Employee shall:
+    (a) Continue to perform duties diligently
+    (b) Complete handover of responsibilities
+    (c) Train replacement personnel
+    (d) Return all Company property
+
+8.4 REGULATORY IMPLICATIONS
+
+    [For statutory positions]
+
+    The Employee acknowledges that resignation may affect the Company's
+    Drug Manufacturing License. The Employee agrees to:
+    (a) Give adequate notice to allow replacement recruitment
+    (b) Assist in regulatory filings for change of approved person
+    (c) Cooperate during transition period
+
+8.5 EXIT FORMALITIES
+
+    Upon termination, the Employee shall:
+    (a) Return all Company property, documents, and equipment
+    (b) Clear all outstanding advances
+    (c) Complete exit interview
+    (d) Sign no-dues certificate
+    (e) Return ID card and access credentials
+
+================================================================================
+
+ARTICLE 9: REPRESENTATIONS AND WARRANTIES
+----------------------------------------
+
+9.1 BY EMPLOYEE
+
+    The Employee represents and warrants that:
+    (a) Qualifications and experience stated are true and accurate
+    (b) Not bound by any agreement that would prevent employment
+    (c) Not subject to any non-compete restrictions from previous employer
+    (d) Pharmacy registration (if applicable) is valid and in good standing
+    (e) No criminal convictions or pending proceedings
+
+9.2 CONSEQUENCES OF MISREPRESENTATION
+
+    Any material misrepresentation may result in immediate termination and
+    recovery of damages.
+
+================================================================================
+
+ARTICLE 10: GENERAL PROVISIONS
+-----------------------------
+
+10.1 ENTIRE AGREEMENT
+
+     This Agreement constitutes the entire agreement between the Parties and
+     supersedes all prior discussions and agreements.
+
+10.2 AMENDMENT
+
+     This Agreement may only be amended by written instrument signed by both
+     Parties.
+
+10.3 WAIVER
+
+     No waiver of any provision shall be effective unless in writing.
+
+10.4 SEVERABILITY
+
+     If any provision is held invalid, the remaining provisions shall continue
+     in force.
+
+10.5 GOVERNING LAW
+
+     This Agreement shall be governed by the laws of India.
+
+10.6 DISPUTE RESOLUTION
+
+     Any dispute shall first be attempted to be resolved amicably. If
+     unresolved, disputes shall be subject to the exclusive jurisdiction of
+     courts in Thane, Maharashtra.
+
+10.7 NOTICES
+
+     All notices shall be in writing and sent to the addresses specified
+     herein.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date
+first written above.
+
+FOR BIOPHARMA INDUSTRIES LIMITED:
+
+Signature: _______________________
+Name: Dr. Ramesh Narayan Kulkarni
+Designation: Managing Director
+Date: [DATE]
+
+EMPLOYEE:
+
+Signature: _______________________
+Name: [EMPLOYEE NAME]
+Date: [DATE]
+
+WITNESS 1:
+
+Signature: _______________________
+Name:
+Address:
+
+WITNESS 2:
+
+Signature: _______________________
+Name:
+Address:
+
+================================================================================
+
+ANNEXURE A: EMPLOYEE DETAILS
+---------------------------
+
+Full Name:                  [NAME]
+Date of Birth:              [DOB]
+Father's/Husband's Name:    [NAME]
+Address:                    [ADDRESS]
+Phone:                      [NUMBER]
+Email:                      [EMAIL]
+PAN:                        [PAN]
+Aadhaar:                    [AADHAAR]
+Bank Account:               [ACCOUNT DETAILS]
+
+Educational Qualifications:
+- [DEGREE], [INSTITUTION], [YEAR]
+- [DEGREE], [INSTITUTION], [YEAR]
+
+Professional Registrations:
+- Pharmacy Council Registration No.: [NUMBER]
+- Valid Until: [DATE]
+
+Previous Employment:
+- [COMPANY], [DESIGNATION], [PERIOD]
+- [COMPANY], [DESIGNATION], [PERIOD]
+
+================================================================================
+
+ANNEXURE B: JOB DESCRIPTION
+--------------------------
+
+Position:                   [DESIGNATION]
+Department:                 [DEPARTMENT]
+Reports To:                 [REPORTING MANAGER]
+Direct Reports:             [NUMBER]
+
+Key Performance Indicators:
+1. [KPI 1]
+2. [KPI 2]
+3. [KPI 3]
+4. [KPI 4]
+5. [KPI 5]
+
+================================================================================
+                    END OF EMPLOYMENT AGREEMENT
+================================================================================

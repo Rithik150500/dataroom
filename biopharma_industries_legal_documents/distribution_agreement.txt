@@ -1,0 +1,395 @@
+================================================================================
+                    DISTRIBUTION AND MARKETING AGREEMENT
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+                    EXCLUSIVE DISTRIBUTION AGREEMENT
+
+================================================================================
+
+This Distribution Agreement ("Agreement") is made and entered into on this
+[DATE] day of [MONTH], [YEAR]
+
+BETWEEN
+
+BIOPHARMA INDUSTRIES LIMITED, a company incorporated under the Companies Act,
+having its registered office at Plot No. 234-235, MIDC Industrial Area,
+Thane-Belapur Road, Rabale, Thane - 400701, Maharashtra, India (hereinafter
+referred to as the "Principal" or "BioPharma")
+
+AND
+
+[DISTRIBUTOR NAME], a company incorporated under [JURISDICTION], having its
+registered office at [ADDRESS] (hereinafter referred to as the "Distributor")
+
+================================================================================
+
+RECITALS
+--------
+
+A. The Principal is engaged in the manufacture of pharmaceutical formulations
+   and holds all necessary licenses under the Drugs and Cosmetics Act, 1940.
+
+B. The Principal desires to appoint the Distributor for distribution and
+   marketing of its products in the Territory defined herein.
+
+C. The Distributor has the necessary infrastructure, licenses, and capability
+   to distribute pharmaceutical products in the Territory.
+
+D. The parties wish to enter into this Agreement to define the terms and
+   conditions of the distribution arrangement.
+
+NOW THEREFORE, in consideration of the mutual covenants contained herein,
+the parties agree as follows:
+
+================================================================================
+
+ARTICLE 1: DEFINITIONS
+---------------------
+
+1.1 "Products" means the pharmaceutical formulations manufactured by the
+    Principal as listed in Schedule A.
+
+1.2 "Territory" means [STATE/REGION/COUNTRY] as specified in Schedule B.
+
+1.3 "Trademarks" means the trade names, brand names, and logos of the
+    Principal as listed in Schedule C.
+
+1.4 "Minimum Purchase Commitment" means the minimum value/quantity of
+    Products to be purchased by the Distributor annually.
+
+1.5 "Net Sales" means gross sales less discounts, returns, and taxes.
+
+================================================================================
+
+ARTICLE 2: APPOINTMENT
+---------------------
+
+2.1 EXCLUSIVE APPOINTMENT
+
+    The Principal hereby appoints the Distributor as its exclusive distributor
+    for the Products in the Territory, and the Distributor accepts such
+    appointment.
+
+2.2 EXCLUSIVITY
+
+    During the term of this Agreement, the Principal shall not:
+    (a) Appoint any other distributor in the Territory
+    (b) Sell Products directly in the Territory except to the Distributor
+
+2.3 NON-COMPETE
+
+    During the term of this Agreement, the Distributor shall not:
+    (a) Distribute products that compete with the Products
+    (b) Manufacture pharmaceutical products of similar categories
+
+================================================================================
+
+ARTICLE 3: TERM
+--------------
+
+3.1 INITIAL TERM
+
+    This Agreement shall be effective from [DATE] and shall continue for a
+    period of 3 (three) years unless terminated earlier.
+
+3.2 RENEWAL
+
+    This Agreement shall automatically renew for successive 1-year periods
+    unless either party provides 90 days' written notice of non-renewal.
+
+================================================================================
+
+ARTICLE 4: OBLIGATIONS OF PRINCIPAL
+----------------------------------
+
+4.1 PRODUCT SUPPLY
+
+    The Principal shall:
+    (a) Manufacture and supply Products in accordance with orders
+    (b) Ensure Products meet pharmacopeial specifications
+    (c) Provide Certificate of Analysis with each batch
+    (d) Maintain adequate production capacity
+
+4.2 REGULATORY COMPLIANCE
+
+    The Principal shall:
+    (a) Maintain all necessary Drug Manufacturing Licenses
+    (b) Ensure GMP compliance of manufacturing facility
+    (c) Provide regulatory support for product registration in Territory
+    (d) Comply with NPPA pricing regulations (for domestic sales)
+
+4.3 QUALITY WARRANTY
+
+    The Principal warrants that all Products:
+    (a) Are manufactured in accordance with GMP
+    (b) Meet pharmacopeial specifications
+    (c) Are free from defects in materials and workmanship
+    (d) Have shelf life of at least [12] months at time of delivery
+
+4.4 MARKETING SUPPORT
+
+    The Principal shall provide:
+    (a) Product literature and promotional materials
+    (b) Training on product features and benefits
+    (c) Medical information support
+    (d) Co-funding for marketing activities (as agreed)
+
+4.5 TRADEMARK LICENSE
+
+    The Principal grants the Distributor a non-exclusive, royalty-free license
+    to use the Trademarks solely for distribution of Products in Territory.
+
+================================================================================
+
+ARTICLE 5: OBLIGATIONS OF DISTRIBUTOR
+------------------------------------
+
+5.1 DISTRIBUTION
+
+    The Distributor shall:
+    (a) Use best efforts to promote and sell Products in the Territory
+    (b) Maintain adequate inventory (minimum 1 month stock)
+    (c) Establish and maintain distribution network
+    (d) Achieve Minimum Purchase Commitment
+
+5.2 REGULATORY COMPLIANCE
+
+    The Distributor shall:
+    (a) Obtain and maintain all necessary distribution licenses
+    (b) Comply with all applicable laws including drug regulations
+    (c) Not sell Products outside the Territory
+    (d) Maintain proper records as required by law
+
+5.3 STORAGE AND HANDLING
+
+    The Distributor shall:
+    (a) Store Products in appropriate conditions
+    (b) Maintain cold chain for temperature-sensitive products
+    (c) Follow FIFO (First In First Out) principle
+    (d) Not sell expired or damaged products
+
+5.4 SALES REPORTING
+
+    The Distributor shall provide to the Principal:
+    (a) Monthly sales reports (quantity and value by product)
+    (b) Inventory reports
+    (c) Market information and competitor intelligence
+    (d) Customer feedback
+
+5.5 PHARMACOVIGILANCE
+
+    The Distributor shall:
+    (a) Report any adverse drug reactions to the Principal within 48 hours
+    (b) Cooperate in product recalls
+    (c) Maintain complaint records
+
+================================================================================
+
+ARTICLE 6: ORDERS AND DELIVERY
+-----------------------------
+
+6.1 ORDERS
+
+    (a) Orders shall be placed in writing with minimum 30 days lead time
+    (b) Orders shall specify products, quantities, and delivery schedule
+    (c) Principal shall confirm orders within 5 business days
+
+6.2 DELIVERY
+
+    (a) Products shall be delivered [Ex-Works/FOB/CIF] [Location]
+    (b) Risk of loss passes to Distributor upon delivery
+    (c) Minimum order value: Rs. [AMOUNT]
+
+6.3 ACCEPTANCE
+
+    (a) Distributor shall inspect Products within 7 days of receipt
+    (b) Any defects shall be notified in writing within 15 days
+    (c) Products not rejected within 15 days shall be deemed accepted
+
+================================================================================
+
+ARTICLE 7: PRICING AND PAYMENT
+-----------------------------
+
+7.1 PRICING
+
+    (a) Prices are as per Schedule D (Transfer Price List)
+    (b) Prices are exclusive of GST and transportation
+    (c) Prices may be revised with 60 days' notice
+
+7.2 PAYMENT TERMS
+
+    (a) Payment: [30/45/60] days from invoice date
+    (b) Payment mode: [Bank transfer/LC]
+    (c) Interest on delayed payment: 18% per annum
+
+7.3 MINIMUM PURCHASE COMMITMENT
+
+    Year 1: Rs. [AMOUNT]
+    Year 2: Rs. [AMOUNT]
+    Year 3: Rs. [AMOUNT]
+
+    Failure to achieve MPC may result in loss of exclusivity or termination.
+
+================================================================================
+
+ARTICLE 8: INTELLECTUAL PROPERTY
+-------------------------------
+
+8.1 OWNERSHIP
+
+    All intellectual property rights in the Products and Trademarks belong
+    to the Principal and shall remain with the Principal.
+
+8.2 RESTRICTIONS
+
+    The Distributor shall not:
+    (a) Alter or remove Trademarks from Products
+    (b) Register any Trademarks in its own name
+    (c) Use Principal's IP for any other purpose
+
+================================================================================
+
+ARTICLE 9: CONFIDENTIALITY
+-------------------------
+
+9.1 CONFIDENTIAL INFORMATION
+
+    Each party shall keep confidential all proprietary information received
+    from the other party including pricing, customer lists, and business
+    strategies.
+
+9.2 SURVIVAL
+
+    Confidentiality obligations survive termination for 3 years.
+
+================================================================================
+
+ARTICLE 10: INDEMNIFICATION
+--------------------------
+
+10.1 BY PRINCIPAL
+
+     The Principal shall indemnify the Distributor against claims arising from:
+     (a) Product defects
+     (b) Infringement of third-party IP rights
+     (c) Breach of regulatory compliance by Principal
+
+10.2 BY DISTRIBUTOR
+
+     The Distributor shall indemnify the Principal against claims arising from:
+     (a) Mishandling or improper storage of Products
+     (b) Actions of Distributor's employees or agents
+     (c) Breach of applicable laws by Distributor
+
+================================================================================
+
+ARTICLE 11: TERMINATION
+----------------------
+
+11.1 TERMINATION FOR CONVENIENCE
+
+     Either party may terminate this Agreement by giving 90 days' written
+     notice.
+
+11.2 TERMINATION FOR CAUSE
+
+     Either party may terminate immediately if:
+     (a) The other party materially breaches this Agreement and fails to
+         cure within 30 days of notice
+     (b) The other party becomes insolvent or bankrupt
+     (c) The other party's license is suspended or cancelled
+
+11.3 CONSEQUENCES OF TERMINATION
+
+     Upon termination:
+     (a) Distributor shall return all promotional materials
+     (b) Distributor may sell remaining inventory for 90 days
+     (c) Principal may repurchase inventory at transfer price
+     (d) All amounts due shall be settled within 30 days
+
+================================================================================
+
+ARTICLE 12: DISPUTE RESOLUTION
+-----------------------------
+
+12.1 GOVERNING LAW
+
+     This Agreement shall be governed by the laws of India.
+
+12.2 ARBITRATION
+
+     Disputes shall be settled by arbitration in Mumbai under the Arbitration
+     and Conciliation Act, 1996.
+
+================================================================================
+
+ARTICLE 13: GENERAL PROVISIONS
+-----------------------------
+
+13.1 ENTIRE AGREEMENT
+
+     This Agreement constitutes the entire agreement between the parties.
+
+13.2 AMENDMENT
+
+     This Agreement may only be amended by written instrument signed by both
+     parties.
+
+13.3 ASSIGNMENT
+
+     Neither party may assign this Agreement without prior written consent.
+
+13.4 NOTICES
+
+     All notices shall be in writing and sent to the addresses specified herein.
+
+13.5 FORCE MAJEURE
+
+     Neither party shall be liable for delays due to force majeure events.
+
+================================================================================
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date
+first written above.
+
+FOR BIOPHARMA INDUSTRIES LIMITED:
+
+Signature: _______________________
+Name: Dr. Ramesh Narayan Kulkarni
+Title: Managing Director
+Date:
+
+FOR [DISTRIBUTOR NAME]:
+
+Signature: _______________________
+Name:
+Title:
+Date:
+
+================================================================================
+
+SCHEDULE A: LIST OF PRODUCTS
+---------------------------
+
+[Product list with brand names, pack sizes, and transfer prices]
+
+SCHEDULE B: TERRITORY
+--------------------
+
+[Geographic definition - state, region, or country]
+
+SCHEDULE C: TRADEMARKS
+---------------------
+
+[List of brand names and logos]
+
+SCHEDULE D: TRANSFER PRICE LIST
+------------------------------
+
+[Product-wise transfer prices]
+
+================================================================================
+                    END OF DISTRIBUTION AGREEMENT
+================================================================================

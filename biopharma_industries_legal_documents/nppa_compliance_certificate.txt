@@ -1,0 +1,372 @@
+================================================================================
+                    NPPA COMPLIANCE DOCUMENTATION
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+                    NATIONAL PHARMACEUTICAL PRICING AUTHORITY
+                    (Ministry of Chemicals and Fertilizers, Government of India)
+
+================================================================================
+
+COMPANY REGISTRATION WITH NPPA
+
+================================================================================
+
+REGISTRATION DETAILS:
+
+NPPA Registration Number:   NPPA/MH/2013/5678
+Company Name:               BioPharma Industries Limited
+CIN:                        U24230MH2012PLC234567
+Registration Date:          June 15, 2013
+Status:                     Active
+
+Registered Office:          Plot No. 234-235, MIDC Industrial Area
+                            Thane-Belapur Road, Rabale
+                            Thane - 400701, Maharashtra
+
+Authorized Signatory:       Mr. Rajesh Sharma (Chief Financial Officer)
+                            Email: cfo@biopharma.com
+                            Phone: +91-22-2568-XXXX
+
+================================================================================
+
+DRUG PRICE CONTROL ORDER (DPCO) 2013 COMPLIANCE
+
+================================================================================
+
+OVERVIEW:
+
+The Company manufactures pharmaceutical formulations, of which certain products
+fall under the National List of Essential Medicines (NLEM) and are subject to
+price control under the Drug Prices Control Order (DPCO), 2013.
+
+PRICE-CONTROLLED PRODUCTS:
+
+Total Products Manufactured:           47
+Products under Price Control (NLEM):   18
+Non-price-controlled Products:         29
+
+================================================================================
+
+SCHEDULED FORMULATIONS (PRICE-CONTROLLED PRODUCTS)
+
+================================================================================
+
+The following products manufactured by the Company are included in the First
+Schedule of DPCO, 2013 (National List of Essential Medicines) and are subject
+to ceiling price:
+
+S.No  Product Name                     Ceiling Price    MRP      Pack Size
+                                       (per unit)       (per unit)
+--------------------------------------------------------------------------------
+1.    Metformin Hydrochloride          Rs. 1.85         Rs. 1.75  Per tablet
+      500mg Tablet
+
+2.    Metformin Hydrochloride          Rs. 2.12         Rs. 2.00  Per tablet
+      850mg Tablet
+
+3.    Metformin Hydrochloride          Rs. 2.65         Rs. 2.50  Per tablet
+      1000mg Tablet
+
+4.    Amlodipine Besylate              Rs. 1.24         Rs. 1.15  Per tablet
+      5mg Tablet
+
+5.    Amlodipine Besylate              Rs. 1.89         Rs. 1.75  Per tablet
+      10mg Tablet
+
+6.    Atenolol 50mg Tablet             Rs. 0.82         Rs. 0.75  Per tablet
+
+7.    Atenolol 100mg Tablet            Rs. 1.38         Rs. 1.25  Per tablet
+
+8.    Losartan Potassium               Rs. 3.42         Rs. 3.25  Per tablet
+      50mg Tablet
+
+9.    Omeprazole 20mg Capsule          Rs. 2.89         Rs. 2.75  Per capsule
+
+10.   Pantoprazole 40mg Tablet         Rs. 3.45         Rs. 3.25  Per tablet
+
+11.   Ranitidine 150mg Tablet          Rs. 1.12         Rs. 1.00  Per tablet
+
+12.   Paracetamol 500mg Tablet         Rs. 0.85         Rs. 0.75  Per tablet
+
+13.   Ibuprofen 400mg Tablet           Rs. 1.45         Rs. 1.35  Per tablet
+
+14.   Amoxicillin 250mg Capsule        Rs. 3.28         Rs. 3.10  Per capsule
+
+15.   Amoxicillin 500mg Capsule        Rs. 5.82         Rs. 5.50  Per capsule
+
+16.   Ciprofloxacin 500mg Tablet       Rs. 4.67         Rs. 4.50  Per tablet
+
+17.   Albendazole 400mg Tablet         Rs. 3.12         Rs. 2.95  Per tablet
+
+18.   Ferrous Sulphate +               Rs. 1.24         Rs. 1.15  Per tablet
+      Folic Acid Tablet
+
+--------------------------------------------------------------------------------
+
+PRICING FORMULA (As per DPCO, 2013):
+
+Ceiling Price = (Sum of prices of all brands with >1% market share) /
+                (Number of such brands)
+
+Ceiling Price is calculated by NPPA based on market data and notified in
+official gazette.
+
+RETAIL PRICE FORMULA:
+
+Maximum Retail Price = Ceiling Price + Retailer Margin (16%) + GST
+
+--------------------------------------------------------------------------------
+
+ANNUAL PRICE REVISION:
+
+Prices of scheduled formulations can be increased annually only to the extent
+of change in Wholesale Price Index (WPI).
+
+WPI-based Price Increase History:
+
+Year        WPI Increase    Price Revision Applied
+-----------------------------------------------
+2020-21     1.32%           Yes - March 2021
+2021-22     3.45%           Yes - April 2022
+2022-23     5.67%           Yes - April 2023
+2023-24     4.12%           Yes - April 2024
+2024-25     3.85%           Yes - April 2025
+
+================================================================================
+
+NON-SCHEDULED FORMULATIONS
+
+================================================================================
+
+For non-price-controlled products, the Company is required to comply with
+Paragraph 20 of DPCO, 2013:
+
+PRICE INCREASE CAP:
+
+- Maximum price increase allowed: 10% in any 12-month period
+- Calculated on manufacturer's MRP (excluding GST)
+
+The Company's non-scheduled products and pricing:
+
+S.No  Product Name                     MRP          Last Price    Increase
+                                       (Current)    Revision      (%)
+--------------------------------------------------------------------------------
+1.    Atorvastatin 10mg Tablet         Rs. 8.50     Apr 2024      8.5%
+2.    Atorvastatin 20mg Tablet         Rs. 12.00    Apr 2024      8.5%
+3.    Rosuvastatin 10mg Tablet         Rs. 15.00    Apr 2024      9.0%
+4.    Azithromycin 250mg Tablet        Rs. 28.00    Jul 2025      7.5%
+5.    Azithromycin 500mg Tablet        Rs. 45.00    Jul 2025      7.5%
+6.    Cefixime 200mg Tablet            Rs. 38.00    Aug 2025      8.0%
+7.    Cefpodoxime 200mg Tablet         Rs. 52.00    Apr 2024      9.5%
+8.    Pantoprazole 40mg +
+      Domperidone 30mg SR Cap          Rs. 12.50    Sep 2025      N/A (New)
+...   (Complete list maintained)
+
+All price increases are within the 10% annual cap as per DPCO, 2013.
+
+================================================================================
+
+QUARTERLY RETURNS FILED WITH NPPA
+
+================================================================================
+
+As per Para 24 of DPCO, 2013, the Company files quarterly returns with NPPA
+providing information on:
+
+1. Production quantity of scheduled formulations
+2. Stock position
+3. Sales quantity and value
+4. Interstate stock transfers
+
+RETURN FILING STATUS:
+
+Quarter              Filing Due Date    Filed On       Status
+--------------------------------------------------------------------------------
+Q1 FY 2024-25       July 15, 2024      July 12, 2024   Timely
+Q2 FY 2024-25       Oct 15, 2024       Oct 10, 2024    Timely
+Q3 FY 2024-25       Jan 15, 2025       Jan 12, 2025    Timely
+Q4 FY 2024-25       Apr 15, 2025       Apr 14, 2025    Timely
+Q1 FY 2025-26       July 15, 2025      July 10, 2025   Timely
+Q2 FY 2025-26       Oct 15, 2025       Oct 12, 2025    Timely
+
+All returns filed through NPPA's online Integrated Pharmaceutical Database
+Management System (IPDMS).
+
+================================================================================
+
+ANNUAL RETURNS (FORM V)
+
+================================================================================
+
+As per Para 25 of DPCO, 2013, the Company files Annual Return (Form V)
+providing audited information on:
+
+1. Total turnover
+2. Category-wise sales (scheduled vs non-scheduled)
+3. Product-wise production, sales, and closing stock
+4. Profit margins
+
+FORM V FILING STATUS:
+
+Financial Year       Filing Due Date    Filed On       Status
+--------------------------------------------------------------------------------
+FY 2022-23          May 31, 2023       May 28, 2023   Timely
+FY 2023-24          May 31, 2024       May 25, 2024   Timely
+FY 2024-25          May 31, 2025       May 29, 2025   Timely
+
+================================================================================
+
+TRADE MARGIN RATIONALIZATION
+
+================================================================================
+
+As per NPPA's Trade Margin Rationalization orders, the following products
+manufactured by the Company have been brought under margin capping:
+
+PRODUCTS UNDER TRADE MARGIN RATIONALIZATION:
+
+These are non-scheduled medicines used in treatment of cancer, diabetes,
+cardiovascular diseases, etc., where MRP to retailer purchase price ratio
+exceeds 35%.
+
+Currently, the Company does not manufacture any products falling under
+Trade Margin Rationalization orders.
+
+================================================================================
+
+OVERCHARGING CASES AND COMPLIANCE
+
+================================================================================
+
+OVERCHARGING STATUS:
+
+The Company has NO overcharging cases pending with NPPA or DPCO enforcement
+authorities.
+
+COMPLIANCE CERTIFICATE:
+
+This is to certify that BioPharma Industries Limited:
+
+1. Has not charged prices exceeding the ceiling price for any scheduled
+   formulation
+
+2. Has not increased prices of non-scheduled formulations by more than 10%
+   in any 12-month period
+
+3. Has filed all quarterly and annual returns with NPPA within due dates
+
+4. Has maintained proper records of production, sales, and pricing as
+   required under DPCO, 2013
+
+5. Has not received any show cause notice or penalty order from NPPA for
+   overcharging
+
+VERIFICATION:
+
+Period Covered:     April 1, 2020 to September 30, 2025
+Verified By:        M/s. DEF & Co., Chartered Accountants (Statutory Auditors)
+Date of Certificate: October 10, 2025
+
+                                             Sd/-
+                                             Mr. Rajesh Sharma
+                                             Chief Financial Officer
+
+================================================================================
+
+PRICE NOTIFICATIONS AND COMPLIANCE
+
+================================================================================
+
+The Company monitors the following NPPA notifications for price compliance:
+
+1. Ceiling Price Notifications (for scheduled formulations)
+2. WPI-based annual price revision notifications
+3. Trade margin rationalization orders
+4. Para 19 price fixation orders
+5. New additions to NLEM
+
+RECENT PRICE NOTIFICATIONS AFFECTING COMPANY:
+
+Notification No.           Date           Impact on Company
+--------------------------------------------------------------------------------
+S.O. 2345(E)              Apr 1, 2025     WPI increase 3.85% - Applied
+S.O. 1234(E)              Jan 15, 2025    New ceiling for Omeprazole - Complied
+S.O. 5678(E)              Oct 10, 2024    New ceiling for Losartan - Complied
+
+================================================================================
+
+PRICE DISPLAY AND LABELING COMPLIANCE
+
+================================================================================
+
+As per DPCO, 2013 and Legal Metrology Act:
+
+1. Maximum Retail Price (MRP) is printed on all product labels
+2. MRP is inclusive of all taxes
+3. Unit sale price is displayed for scheduled formulations
+4. "Price to Retailer" is printed for scheduled formulations
+5. Generic name is printed in larger font than brand name
+
+COMPLIANCE STATUS: Fully Compliant
+
+================================================================================
+
+CONTACT INFORMATION FOR NPPA MATTERS
+
+================================================================================
+
+Company Representative:
+
+Name:               Mr. Rajesh Sharma
+Designation:        Chief Financial Officer
+Email:              cfo@biopharma.com
+Phone:              +91-22-2568-XXXX
+Mobile:             +91-98XXX-XXXXX
+
+NPPA Correspondence Address:
+
+National Pharmaceutical Pricing Authority
+3rd & 5th Floor, YMCA Cultural Centre Building
+1, Jai Singh Road, New Delhi - 110001
+Phone: 011-2336-1897
+Email: nppa-dop@gov.in
+Website: www.nppaindia.nic.in
+
+================================================================================
+
+UNDERTAKING
+
+================================================================================
+
+We, BioPharma Industries Limited, hereby undertake that:
+
+1. We shall comply with all provisions of the Drug Prices Control Order, 2013
+   and amendments thereto.
+
+2. We shall not charge prices exceeding the ceiling price for scheduled
+   formulations.
+
+3. We shall not increase prices of non-scheduled formulations by more than
+   10% in any 12-month period without prior approval.
+
+4. We shall file all returns and reports as required under DPCO, 2013.
+
+5. We shall maintain records of production, sales, and pricing for a period
+   of 5 years.
+
+6. We shall cooperate with NPPA authorities for any inspection or verification.
+
+7. In case of any overcharging, we shall deposit the overcharged amount along
+   with interest and penalty as determined by NPPA.
+
+                                             Sd/-
+                                             Dr. Ramesh Narayan Kulkarni
+                                             Managing Director
+
+Date: November 1, 2025
+Place: Thane, Maharashtra
+
+================================================================================
+                    END OF NPPA COMPLIANCE DOCUMENTATION
+================================================================================

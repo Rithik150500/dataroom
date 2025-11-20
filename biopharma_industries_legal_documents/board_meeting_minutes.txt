@@ -1,0 +1,605 @@
+================================================================================
+                    BOARD MEETING MINUTES
+                  BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+CIN: U24230MH2012PLC234567
+Registered Office: Plot No. 234-235, MIDC Industrial Area, Thane-Belapur Road,
+                   Rabale, Thane - 400701, Maharashtra
+
+================================================================================
+                    MEETING NO. 48 - BOARD OF DIRECTORS
+================================================================================
+
+Date:          September 15, 2025
+Time:          3:00 PM to 6:30 PM IST
+Venue:         Board Room, Registered Office, Thane
+
+--------------------------------------------------------------------------------
+
+DIRECTORS PRESENT:
+
+1. Dr. Ramesh Narayan Kulkarni     - Managing Director (Chairman of the Meeting)
+2. Mrs. Sunita Ramesh Kulkarni     - Whole-Time Director
+3. Mr. Anil Shankar Joshi          - Independent Director
+4. Mrs. Priya Suresh Menon         - Independent Director
+5. Dr. Vikram Anand Rao            - Non-Executive Director
+6. Mr. Sandeep Kumar Agarwal       - Independent Director
+
+DIRECTORS ABSENT WITH LEAVE:
+
+Nil
+
+IN ATTENDANCE:
+
+1. Mr. Rajesh Sharma               - Chief Financial Officer
+2. Ms. Kavita Patel               - Company Secretary
+
+--------------------------------------------------------------------------------
+
+LEAVE OF ABSENCE:
+
+All Directors were present at the meeting. No leave of absence was granted.
+
+--------------------------------------------------------------------------------
+
+QUORUM:
+
+The Company Secretary confirmed that the required quorum was present throughout
+the meeting in terms of Section 174 of the Companies Act, 2013.
+
+--------------------------------------------------------------------------------
+
+CHAIRMAN:
+
+Dr. Ramesh Narayan Kulkarni, Managing Director, with the consent of all members
+present, took the Chair.
+
+--------------------------------------------------------------------------------
+
+AGENDA ITEMS:
+
+================================================================================
+
+ITEM NO. 1: CONFIRMATION OF MINUTES OF PREVIOUS MEETING
+-----------------------------------------------------
+
+The Chairman placed before the Board the minutes of the 47th Meeting of the
+Board of Directors held on June 10, 2025.
+
+RESOLVED THAT the minutes of the 47th Meeting of the Board of Directors held
+on June 10, 2025, be and are hereby confirmed and approved.
+
+The minutes were signed by the Chairman.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 2: REVIEW OF ACTION ITEMS FROM PREVIOUS MEETING
+-------------------------------------------------------
+
+The Company Secretary presented the status of action items from the previous
+meeting:
+
+1. US FDA Pre-Submission Meeting - Completed. Meeting held on August 20, 2025.
+   FDA provided positive feedback on ANDA submission timeline.
+
+2. WHO-GMP Re-certification Audit - Completed successfully on August 28-30, 2025.
+   Certificate renewal received with zero critical observations.
+
+3. Baddi Facility Expansion - Construction 75% complete. On track for
+   December 2025 completion.
+
+4. New Product Launch - Azithromycin 500mg tablets launched in July 2025.
+   Initial market response positive.
+
+The Board noted the status of action items.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 3: REVIEW OF QUARTERLY FINANCIAL RESULTS (Q2 FY 2025-26)
+----------------------------------------------------------------
+
+Mr. Rajesh Sharma, CFO, presented the unaudited financial results for the
+quarter ended September 30, 2025:
+
+KEY HIGHLIGHTS:
+
+                                    Q2 FY26    Q2 FY25    YoY Growth
+Revenue from Operations            Rs. 89 Cr   Rs. 78 Cr    14.1%
+EBITDA                             Rs. 10.2 Cr Rs. 8.1 Cr   25.9%
+EBITDA Margin                      11.5%       10.4%        110 bps
+Net Profit                         Rs. 5.8 Cr  Rs. 4.2 Cr   38.1%
+Net Profit Margin                  6.5%        5.4%         110 bps
+
+SEGMENT-WISE REVENUE:
+
+Domestic Formulations:             Rs. 52 Cr (58%)
+Export Formulations:               Rs. 37 Cr (42%)
+
+KEY OBSERVATIONS:
+
+1. Export revenue grew 22% YoY driven by increased demand from African markets
+2. Domestic growth was 8% due to price erosion in anti-diabetic segment
+3. Raw material costs reduced by 3% due to better procurement strategies
+4. R&D expenses increased to Rs. 2.4 Cr (2.7% of revenue) for new ANDA filings
+
+The Board discussed the financial performance and noted the following:
+- Strong export performance needs to be sustained with new market registrations
+- Domestic market requires focus on new product launches in specialty segments
+- Working capital management has improved with receivables days reducing to 62
+
+RESOLVED THAT the unaudited financial results for the quarter ended
+September 30, 2025, be and are hereby approved and taken on record.
+
+FURTHER RESOLVED THAT the financial results be submitted to the Stock Exchanges
+(if applicable) and published in newspapers as required.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 4: US FDA ANDA FILING STATUS UPDATE
+-------------------------------------------
+
+Dr. Ramesh Kulkarni presented an update on US FDA regulatory activities:
+
+CURRENT ANDA PORTFOLIO STATUS:
+
+1. Metformin Hydrochloride ER 500mg/750mg/1000mg - APPROVED (June 2024)
+2. Amlodipine Besylate 2.5mg/5mg/10mg - APPROVED (January 2025)
+3. Atorvastatin Calcium 10mg/20mg/40mg/80mg - Under Review (Filed Dec 2024)
+4. Omeprazole DR 20mg/40mg - Under Review (Filed March 2025)
+5. Losartan Potassium 25mg/50mg/100mg - Tentative Approval (April 2025)
+6. Lisinopril 5mg/10mg/20mg/40mg - Tentative Approval (August 2025)
+7. Gabapentin 100mg/300mg/400mg - Deficiency Letter Received (July 2025)
+8. Metoprolol Succinate ER 25mg/50mg/100mg/200mg - Filed September 2025
+
+GABAPENTIN DEFICIENCY LETTER UPDATE:
+
+- FDA issued Complete Response Letter citing dissolution data concerns
+- Company has reviewed the observations and identified root cause
+- Revised dissolution method validated
+- Amendment to be filed by October 31, 2025
+- Legal opinion confirms no patent barriers upon approval
+
+NEW ANDA FILINGS PLANNED:
+
+- 4 additional ANDAs planned for FY 2025-26
+- Focus on high-value generic molecules with limited competition
+- R&D team has completed bioequivalence studies for 2 products
+
+The Board discussed the US market strategy and noted:
+- Priority to be given to resolving Gabapentin deficiency
+- Pre-submission meetings with FDA for complex generics
+- Importance of US FDA facility inspection preparation
+
+RESOLVED THAT the US FDA ANDA filing status be and is hereby noted and the
+management be authorized to take all necessary actions for successful approvals.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 5: WHO-GMP RE-CERTIFICATION AND QUALITY UPDATE
+------------------------------------------------------
+
+Mrs. Sunita Kulkarni presented the quality and regulatory compliance update:
+
+WHO-GMP RE-CERTIFICATION (THANE FACILITY):
+
+- Audit conducted: August 28-30, 2025
+- Audit team: 3 WHO inspectors
+- Outcome: Certificate renewed for 3 years (Valid until August 2028)
+- Observations: Zero critical, 2 minor observations (both closed)
+
+MINOR OBSERVATIONS AND CLOSURE:
+
+1. Temperature excursion in stability chamber (power fluctuation) -
+   UPS capacity upgraded, backup generator added
+2. One SOP pending periodic review - Completed and approved
+
+STATE DRUG CONTROLLER INSPECTION (THANE):
+
+- Routine inspection: July 15, 2025
+- Outcome: No adverse observations
+- License renewed for 5 years (Valid until March 2028)
+
+BADDI FACILITY INSPECTION:
+
+- Himachal Pradesh Drug Controller inspection: August 5, 2025
+- Minor observation on equipment log maintenance - Corrected immediately
+- Facility compliant with all regulatory requirements
+
+QUALITY METRICS Q2 FY26:
+
+- Batch Failure Rate: 0.2% (Target: <1%)
+- Customer Complaints: 12 (vs 18 in Q2 FY25)
+- Product Recalls: Nil
+- OOS (Out of Specification) Investigations: 8 (all closed satisfactorily)
+- CAPA Closure Rate: 94%
+
+ADVERSE DRUG REACTION REPORTING:
+
+- ADRs reported to CDSCO in Q2: 4 (all non-serious, expected reactions)
+- No safety signals identified requiring label updates
+
+RESOLVED THAT the quality and regulatory compliance status be and is hereby
+noted with satisfaction.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 6: BADDI FACILITY EXPANSION PROJECT UPDATE
+--------------------------------------------------
+
+Dr. Ramesh Kulkarni presented the status of the Baddi manufacturing facility
+expansion project:
+
+PROJECT OVERVIEW:
+
+- Objective: Increase liquid oral production capacity by 50%
+- Investment: Rs. 28 Crores
+- New Capacity: Additional 100 million bottles per annum
+- Construction Start: January 2025
+- Expected Completion: December 2025
+- Commercial Production: February 2026
+
+CURRENT STATUS:
+
+- Civil construction: 85% complete
+- Utility installation (HVAC, water systems, ETP): 60% complete
+- Equipment procurement: All orders placed, delivery scheduled Oct-Nov 2025
+- Regulatory filing: Site Master File update prepared for CDSCO submission
+
+KEY MILESTONES ACHIEVED:
+
+1. Environment clearance from Himachal Pradesh Pollution Control Board - Obtained
+2. Factory plan approval - Obtained
+3. Structural audit clearance - Completed
+4. Major equipment (filling lines, labeling machines) - Shipped from suppliers
+
+CHALLENGES:
+
+- Slight delay in HVAC contractor delivery (2 weeks)
+- Impact assessment: Minimal, will be recovered in commissioning phase
+
+FINANCIAL UPDATE:
+
+- Budget: Rs. 28 Crores
+- Spent to date: Rs. 19.5 Crores (70%)
+- Committed but not spent: Rs. 7.5 Crores
+- Expected to be within budget
+
+RESOLVED THAT the Baddi facility expansion project status be and is hereby
+noted and the management be authorized to complete the project within the
+approved budget and timeline.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 7: NEW PRODUCT LAUNCHES AND PIPELINE
+--------------------------------------------
+
+Mrs. Sunita Kulkarni presented the product launch update:
+
+RECENT PRODUCT LAUNCHES (Q1-Q2 FY26):
+
+1. Azithromycin 500mg Tablets (July 2025)
+   - Target market: Domestic institutional and retail
+   - First quarter sales: Rs. 1.2 Crores
+   - Market response: Positive
+
+2. Cefixime 200mg Dispersible Tablets (August 2025)
+   - Export focus: Africa and Southeast Asia
+   - Initial orders: Rs. 2.8 Crores
+
+3. Pantoprazole 40mg + Domperidone 30mg SR Capsules (September 2025)
+   - Specialty gastroenterology segment
+   - Premium pricing strategy
+
+PIPELINE PRODUCTS (FY 2025-26):
+
+1. Rosuvastatin Calcium 5mg/10mg/20mg/40mg Tablets - Q3 launch
+2. Telmisartan 20mg/40mg/80mg Tablets - Q3 launch
+3. Montelukast 10mg + Levocetirizine 5mg Tablets - Q4 launch
+4. Dapagliflozin 5mg/10mg Tablets - Filing with DCGI in progress
+
+R&D PIPELINE STRENGTH:
+
+- Products under development: 15
+- Bioequivalence studies planned in FY26: 6
+- ANDA filings planned: 4
+
+RESOLVED THAT the product launch and pipeline update be and is hereby noted
+and the R&D and regulatory teams be commended for their efforts.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 8: EXPORT MARKET EXPANSION STRATEGY
+-------------------------------------------
+
+Dr. Vikram Rao presented the export strategy and market expansion plans:
+
+CURRENT EXPORT MARKETS:
+
+- Active registrations in 23 countries
+- Key markets: Kenya, Nigeria, Philippines, Vietnam, Sri Lanka
+- Export revenue FY25: Rs. 112 Crores (38% of total revenue)
+- Export revenue H1 FY26: Rs. 68 Crores (42% of half-year revenue)
+
+NEW MARKET ENTRY PLANS:
+
+1. BRAZIL (ANVISA Registration)
+   - Products: 5 formulations
+   - Filing: Q3 FY26
+   - Expected approval: FY 2027-28
+   - Market potential: Rs. 15 Crores annually
+
+2. MEXICO (COFEPRIS Registration)
+   - Products: 3 formulations
+   - Filing: Q4 FY26
+   - Expected approval: FY 2027-28
+
+3. EAST AFRICA (Tanzania, Uganda, Rwanda)
+   - Leverage existing Kenya registration
+   - EAC harmonization process
+   - Expected timeline: Q1 FY27
+
+STRATEGIC PARTNERSHIPS:
+
+- Discussions ongoing with 2 European distributors for semi-regulated markets
+- Potential in-licensing opportunity for specialty product from EU company
+
+EXPORT GROWTH TARGET:
+
+- FY 2025-26: Rs. 135 Crores (20% growth)
+- FY 2026-27: Rs. 175 Crores (30% growth) - supported by US approvals
+
+The Board discussed and provided the following guidance:
+- Prioritize markets with clear regulatory pathway and good margins
+- Strengthen quality team for handling multiple regulatory audits
+- Consider dedicated export manufacturing block for US/EU markets
+
+RESOLVED THAT the export market expansion strategy be and is hereby approved
+and the management be authorized to pursue the new market registrations.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 9: RELATED PARTY TRANSACTIONS
+-------------------------------------
+
+The Company Secretary presented the related party transactions for review:
+
+RELATED PARTY TRANSACTIONS Q2 FY26:
+
+1. Dr. Ramesh Kulkarni - Managerial Remuneration
+   - Amount: Rs. 25 Lakhs per quarter
+   - Approved by shareholders at AGM 2024
+
+2. Mrs. Sunita Kulkarni - Managerial Remuneration
+   - Amount: Rs. 18 Lakhs per quarter
+   - Approved by shareholders at AGM 2024
+
+3. Kulkarni Properties LLP (Firm in which Directors are Partners)
+   - Office rental at Thane: Rs. 3 Lakhs per month
+   - Total Q2: Rs. 9 Lakhs
+   - At arm's length based on valuation report
+
+All transactions are at arm's length and in the ordinary course of business.
+
+Mr. Anil Joshi, Chairman of the Audit Committee, confirmed that all related
+party transactions have been reviewed by the Audit Committee and found to be
+in compliance with the Company's policy.
+
+RESOLVED THAT the related party transactions for Q2 FY 2025-26 be and are
+hereby ratified.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 10: COMPLIANCE CERTIFICATE
+----------------------------------
+
+The Company Secretary presented the quarterly compliance certificate confirming
+compliance with:
+
+- Companies Act, 2013 and rules made thereunder
+- Drugs and Cosmetics Act, 1940 and rules made thereunder
+- Central and State Drug License conditions
+- Schedule M (Good Manufacturing Practices)
+- Environmental laws and pollution control board conditions
+- Labor laws and factory act requirements
+- Tax laws and GST compliance
+- NPPA pricing regulations
+
+STATUTORY FILINGS:
+
+- All quarterly forms filed with RoC on time
+- GST returns filed for July, August, September 2025
+- TDS returns filed for Q1 FY26
+- PF and ESI contributions deposited on time
+
+NO MATERIAL LITIGATION OR REGULATORY ACTIONS:
+
+- No new show cause notices received
+- No adverse regulatory orders
+- Product liability cases status unchanged (2 pending, both likely to be dismissed)
+
+RESOLVED THAT the compliance certificate be and is hereby noted with satisfaction.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 11: CORPORATE SOCIAL RESPONSIBILITY (CSR) UPDATE
+--------------------------------------------------------
+
+Mr. Sandeep Agarwal, Chairman of the CSR Committee, presented the CSR update:
+
+CSR OBLIGATION FY 2025-26:
+
+- Average net profit (last 3 years): Rs. 14.5 Crores
+- CSR obligation (2%): Rs. 29 Lakhs
+
+CSR PROJECTS UNDERTAKEN:
+
+1. Healthcare Camp in Rural Thane (Rs. 8 Lakhs)
+   - Free health checkup and medicines for 2,000 villagers
+   - Completed in August 2025
+
+2. Scholarship Program for Pharmacy Students (Rs. 10 Lakhs)
+   - 50 scholarships of Rs. 20,000 each
+   - Selection in progress
+
+3. Tree Plantation Drive (Rs. 5 Lakhs)
+   - Target: 5,000 trees
+   - Completed: 3,200 trees
+
+4. Digital Literacy Program in Baddi (Rs. 6 Lakhs)
+   - Computer training for rural youth
+   - Program ongoing
+
+TOTAL CSR SPENT H1 FY26: Rs. 15 Lakhs
+REMAINING OBLIGATION: Rs. 14 Lakhs (to be spent in H2)
+
+RESOLVED THAT the CSR update be and is hereby noted and the management be
+directed to complete the remaining CSR spend in H2 FY26.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 12: RISK MANAGEMENT UPDATE
+----------------------------------
+
+Dr. Vikram Rao, Chairman of the Risk Management Committee, presented the
+risk register update:
+
+KEY RISKS AND MITIGATION:
+
+1. REGULATORY RISK (HIGH)
+   - Risk: Drug license suspension, FDA warning letter
+   - Mitigation: Robust quality systems, continuous audit readiness
+   - Status: Well controlled
+
+2. QUALITY FAILURE RISK (HIGH)
+   - Risk: Product recall due to quality defect
+   - Mitigation: Enhanced testing, process validation, stability monitoring
+   - Status: Well controlled
+
+3. API SUPPLY CHAIN RISK (MEDIUM)
+   - Risk: Disruption in API supply from China/India suppliers
+   - Mitigation: Dual sourcing for critical APIs, 3-month inventory
+   - Status: Under control
+
+4. PRICE CONTROL RISK (MEDIUM)
+   - Risk: More products brought under DPCO price control
+   - Mitigation: Diversification to non-controlled specialty products
+   - Status: Being addressed
+
+5. CURRENCY RISK (LOW-MEDIUM)
+   - Risk: INR appreciation affecting export realization
+   - Mitigation: Natural hedge through import content, forward contracts
+   - Status: Under control
+
+6. CYBERSECURITY RISK (MEDIUM)
+   - Risk: Data breach, ransomware attack
+   - Mitigation: IT security upgrades, employee awareness training
+   - Status: Enhanced controls implemented
+
+NEW RISK IDENTIFIED:
+
+- US FDA facility inspection: First FDA inspection is high-stakes event
+- Mitigation: Mock audit by FDA consultant, comprehensive preparation
+- Target inspection readiness: January 2026
+
+RESOLVED THAT the risk management update be and is hereby noted and the
+Risk Management Committee be directed to focus on FDA inspection preparedness.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 13: APPOINTMENT OF INTERNAL AUDITOR FOR FY 2025-26
+----------------------------------------------------------
+
+The Company Secretary presented the proposal to appoint Internal Auditor:
+
+RECOMMENDATION:
+
+- M/s. ABC & Associates, Chartered Accountants, Mumbai
+- Internal Auditor for FY 2024-25, proposed for continuation
+- Fee: Rs. 4 Lakhs per annum (same as previous year)
+- Scope: Quarterly internal audit covering all functions
+
+The Audit Committee has recommended the appointment.
+
+RESOLVED THAT pursuant to Section 138 of the Companies Act, 2013, M/s. ABC &
+Associates, Chartered Accountants, Mumbai, be and are hereby appointed as
+Internal Auditor of the Company for the financial year 2025-26 at a fee of
+Rs. 4,00,000/- plus applicable taxes and out-of-pocket expenses.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 14: RATIFICATION OF INVESTMENTS AND BANKING OPERATIONS
+--------------------------------------------------------------
+
+The Company Secretary presented the investment and banking operations update:
+
+FIXED DEPOSITS:
+
+- Bank Fixed Deposits: Rs. 15 Crores (Weighted average interest: 7.2%)
+- Maturity: 6-12 months, aligned with working capital needs
+
+WORKING CAPITAL FACILITIES:
+
+- Fund-based limit: Rs. 45 Crores (Utilized: Rs. 32 Crores)
+- Non-fund based limit: Rs. 20 Crores (Utilized: Rs. 8 Crores)
+- Interest rate: MCLR + 0.75%
+
+TERM LOAN:
+
+- Outstanding: Rs. 18 Crores (for Baddi expansion)
+- Interest rate: 9.5% p.a.
+- Repayment: Monthly installments over 5 years starting April 2026
+
+RESOLVED THAT the investments and banking operations be and are hereby ratified.
+
+--------------------------------------------------------------------------------
+
+ITEM NO. 15: ANY OTHER BUSINESS
+------------------------------
+
+1. ANNUAL GENERAL MEETING:
+
+   The Board noted that the Annual General Meeting for FY 2024-25 is scheduled
+   for September 28, 2025, at 11:00 AM at the registered office.
+
+2. DIRECTORS' REPORT:
+
+   The draft Directors' Report for FY 2024-25 was circulated to all Directors.
+   Comments to be provided by September 20, 2025.
+
+3. DIVIDEND:
+
+   The Board recommended a final dividend of Rs. 1.50 per equity share (15%)
+   for FY 2024-25, subject to approval at AGM. Total outflow: Rs. 4.27 Crores.
+
+4. NEXT BOARD MEETING:
+
+   The next meeting of the Board will be held on December 15, 2025, to approve
+   Q3 FY26 results.
+
+--------------------------------------------------------------------------------
+
+VOTE OF THANKS:
+
+The Chairman thanked all Directors for their valuable participation and
+declared the meeting closed at 6:30 PM.
+
+                                        Sd/-
+                              Dr. Ramesh Narayan Kulkarni
+                              Managing Director & Chairman
+                              DIN: 00123456
+
+================================================================================
+
+Minutes recorded by:
+
+Sd/-
+Ms. Kavita Patel
+Company Secretary
+ICSI Membership No.: ACS 34567
+
+Date: September 16, 2025
+
+================================================================================
+                    END OF BOARD MEETING MINUTES
+================================================================================
