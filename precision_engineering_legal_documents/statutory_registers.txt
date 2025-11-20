@@ -1,0 +1,336 @@
+================================================================================
+                    STATUTORY REGISTERS
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+                    INDEX OF STATUTORY REGISTERS
+
+1. Register of Members (MGT-1)
+2. Register of Directors and Key Managerial Personnel (DIR-12)
+3. Register of Charges (CHG-7)
+4. Register of Loans, Guarantees, Security and Acquisitions (MBP-2)
+5. Register of Contracts with Related Parties (MBP-4)
+6. Register of Investments (MBP-3)
+7. Register of Deposits
+
+================================================================================
+
+                    REGISTER OF MEMBERS
+                         (Form MGT-1)
+
+================================================================================
+
+S.No.: 001
+Folio No.: PEW/001
+
+Name: VIKRAM RAJAN
+Father's/Husband's Name: Mr. Rajan Krishnan
+Nationality: Indian
+Occupation: Engineer
+Address: No. 12, Anna Nagar East, Chennai - 600102, Tamil Nadu
+Email: vikram.rajan@precisionengworks.com
+Phone: +91-98765-43210
+
+Date of Entry as Member: 15th July, 2018
+Shares Held:
+  - Share Certificate No.: 001
+  - Distinctive Nos.: 1 to 125000
+  - No. of Shares: 1,25,000 Equity Shares
+  - Amount Paid per Share: Rs. 10/-
+  - Total Amount Paid: Rs. 12,50,000/-
+
+Joint Holders: None
+Nomination: Mrs. Priya Rajan (Wife)
+
+================================================================================
+
+S.No.: 002
+Folio No.: PEW/002
+
+Name: ANAND KUMAR
+Father's/Husband's Name: Mr. Kumar Venkat
+Nationality: Indian
+Occupation: Engineer
+Address: No. 78, T. Nagar, Chennai - 600017, Tamil Nadu
+Email: anand.kumar@precisionengworks.com
+Phone: +91-98765-43211
+
+Date of Entry as Member: 15th July, 2018
+Shares Held:
+  - Share Certificate No.: 002
+  - Distinctive Nos.: 125001 to 250000
+  - No. of Shares: 1,25,000 Equity Shares
+  - Amount Paid per Share: Rs. 10/-
+  - Total Amount Paid: Rs. 12,50,000/-
+
+Joint Holders: None
+Nomination: Mrs. Lakshmi Kumar (Wife)
+
+================================================================================
+
+                    REGISTER OF DIRECTORS AND KEY MANAGERIAL PERSONNEL
+                              (Form DIR-12)
+
+================================================================================
+
+DIRECTOR 1:
+
+Name: VIKRAM RAJAN
+DIN: 08567234
+Date of Birth: 15th March, 1985
+Father's Name: Mr. Rajan Krishnan
+Nationality: Indian
+Occupation: Engineer
+PAN: AXXPR1234K
+Address: No. 12, Anna Nagar East, Chennai - 600102, Tamil Nadu
+Email: vikram.rajan@precisionengworks.com
+
+Designation: Managing Director
+Date of Appointment: 15th July, 2018
+Date of Cessation: -
+Term: 5 years (Renewable)
+
+Educational Qualifications:
+  - B.Tech in Mechanical Engineering, IIT Madras
+  - M.Tech in Manufacturing Engineering, IIT Madras
+
+Previous Directorships: None
+
+Directorships in Other Companies: None
+
+================================================================================
+
+DIRECTOR 2:
+
+Name: ANAND KUMAR
+DIN: 08567235
+Date of Birth: 22nd June, 1986
+Father's Name: Mr. Kumar Venkat
+Nationality: Indian
+Occupation: Engineer
+PAN: AXXPK5678L
+Address: No. 78, T. Nagar, Chennai - 600017, Tamil Nadu
+Email: anand.kumar@precisionengworks.com
+
+Designation: Whole-time Director
+Date of Appointment: 15th July, 2018
+Date of Cessation: -
+Term: 5 years (Renewable)
+
+Educational Qualifications:
+  - B.E. in Production Engineering, Anna University
+  - MBA in Operations Management, IIM Bangalore
+
+Previous Directorships: None
+
+Directorships in Other Companies: None
+
+================================================================================
+
+KEY MANAGERIAL PERSONNEL:
+
+S.No. | Name          | Designation              | Date of      | Date of
+      |               |                          | Appointment  | Cessation
+------+---------------+--------------------------+--------------+------------
+1     | Vikram Rajan  | Managing Director        | 15/07/2018   | -
+2     | Anand Kumar   | Whole-time Director      | 15/07/2018   | -
+3     | R. Venkatesh  | Chief Financial Officer  | 01/04/2019   | -
+4     | S. Preethi    | Company Secretary        | 01/04/2020   | -
+
+================================================================================
+
+                    REGISTER OF CHARGES
+                         (Form CHG-7)
+
+================================================================================
+
+S.No.  : 001
+Date of Creation: 10th October, 2019
+
+Particulars of Charge:
+  - Charge ID: 100567890
+  - Type of Charge: Hypothecation
+  - Amount Secured: Rs. 75,00,000/-
+  - Description: Term Loan for purchase of CNC machinery
+
+Charge Holder:
+  - Name: State Bank of India
+  - Address: Industrial Finance Branch, Chennai - 600001
+
+Property Charged:
+  - 5-Axis CNC Machining Center (Make: DMG MORI)
+  - CNC Turning Center (Make: Mazak)
+  - All present and future machinery and equipment
+
+Date of Modification: -
+Date of Satisfaction: -
+
+================================================================================
+
+S.No.  : 002
+Date of Creation: 15th March, 2021
+
+Particulars of Charge:
+  - Charge ID: 100789012
+  - Type of Charge: Hypothecation
+  - Amount Secured: Rs. 1,50,00,000/-
+  - Description: Working Capital Facility
+
+Charge Holder:
+  - Name: HDFC Bank Ltd.
+  - Address: SME Banking Branch, Hosur - 635109
+
+Property Charged:
+  - Stock-in-trade
+  - Book debts
+  - All current assets, present and future
+
+Date of Modification: -
+Date of Satisfaction: -
+
+================================================================================
+
+                    REGISTER OF LOANS, GUARANTEES, SECURITY AND ACQUISITIONS
+                              (MBP-2)
+
+================================================================================
+
+S.No.: 001
+Date of Board Resolution: 5th October, 2019
+
+Type: Loan
+Amount: Rs. 75,00,000/-
+Purpose: Term Loan for CNC machinery
+
+Lender Details:
+  - Name: State Bank of India
+  - Address: Industrial Finance Branch, Chennai
+
+Security Given: Hypothecation of machinery
+Rate of Interest: 10.5% p.a.
+Tenure: 5 years
+Repayment: Monthly EMI
+
+================================================================================
+
+S.No.: 002
+Date of Board Resolution: 10th March, 2021
+
+Type: Working Capital Facility
+Amount: Rs. 1,50,00,000/-
+Purpose: Working capital requirements
+
+Lender Details:
+  - Name: HDFC Bank Ltd.
+  - Address: SME Banking Branch, Hosur
+
+Security Given: Hypothecation of current assets
+Rate of Interest: 9.75% p.a.
+Tenure: Renewal every year
+Repayment: On demand
+
+================================================================================
+
+                    REGISTER OF CONTRACTS WITH RELATED PARTIES
+                              (MBP-4)
+
+================================================================================
+
+S.No.: 001
+Date of Contract: 1st August, 2018
+
+Related Party: Vikram Rajan (Managing Director)
+
+Nature of Contract: Appointment as Managing Director
+Terms:
+  - Remuneration: Rs. 1,50,000/- per month
+  - Other Benefits: As per Company policy
+  - Term: 5 years
+
+Date of Board Approval: 15th July, 2018
+Date of Shareholder Approval: Not required (within limits)
+
+================================================================================
+
+S.No.: 002
+Date of Contract: 1st August, 2018
+
+Related Party: Anand Kumar (Whole-time Director)
+
+Nature of Contract: Appointment as Whole-time Director
+Terms:
+  - Remuneration: Rs. 1,25,000/- per month
+  - Other Benefits: As per Company policy
+  - Term: 5 years
+
+Date of Board Approval: 15th July, 2018
+Date of Shareholder Approval: Not required (within limits)
+
+================================================================================
+
+S.No.: 003
+Date of Contract: 1st January, 2020
+
+Related Party: Rajan Engineering Supplies (Proprietor: Mr. Rajan Krishnan,
+               Father of Vikram Rajan)
+
+Nature of Contract: Purchase of raw materials (steel, aluminum)
+Terms:
+  - Value: Up to Rs. 50,00,000/- per annum
+  - Pricing: At arm's length (market rate)
+  - Payment: 30 days credit
+
+Date of Board Approval: 28th December, 2019
+Date of Shareholder Approval: Not required (within limits)
+
+================================================================================
+
+                    REGISTER OF INVESTMENTS
+                              (MBP-3)
+
+================================================================================
+
+S.No.: 001
+Date of Investment: 1st April, 2020
+
+Type: Fixed Deposit
+Institution: State Bank of India
+Amount: Rs. 25,00,000/-
+Interest Rate: 6.5% p.a.
+Maturity Date: 1st April, 2025
+Nominee: Company
+
+Purpose: Reserve fund for future expansion
+
+================================================================================
+
+                    REGISTER OF DEPOSITS
+
+================================================================================
+
+The Company has not accepted any deposits within the meaning of Section 73 of
+the Companies Act, 2013 and the Companies (Acceptance of Deposits) Rules, 2014.
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that the above Statutory Registers are maintained as per the
+requirements of the Companies Act, 2013 and the rules made thereunder.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+[Sd/-]                                    [Sd/-]
+Vikram Rajan                              S. Preethi
+Managing Director                         Company Secretary
+DIN: 08567234                            ACS: 45678
+
+Place: Hosur
+Date: As on date
+
+================================================================================

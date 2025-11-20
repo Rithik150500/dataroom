@@ -1,0 +1,315 @@
+================================================================================
+                    PATENT APPLICATIONS AND REGISTRATIONS
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+                    PATENT PORTFOLIO SUMMARY
+
+================================================================================
+
+Total Patents Filed       : 3
+Patents Granted          : 1
+Patents Pending          : 2
+Patents Abandoned        : 0
+International Filings    : 0 (planned for 2024)
+
+================================================================================
+
+                    PATENT 1: GRANTED
+
+================================================================================
+
+Title: AUTOMATED WORKPIECE ALIGNMENT SYSTEM FOR CNC MACHINING CENTERS
+
+Patent Number           : 345678
+Application Number      : 201941023456
+Filing Date            : 15th June, 2019
+Publication Date       : 20th December, 2019
+Grant Date             : 10th August, 2021
+Expiry Date            : 14th June, 2039
+
+--------------------------------------------------------------------------------
+
+Inventors:
+1. Vikram Rajan (Managing Director)
+2. Anand Kumar (Whole-time Director)
+3. R. Krishnamurthy (Senior Manufacturing Engineer)
+
+--------------------------------------------------------------------------------
+
+Technical Field:
+
+The invention relates to an automated system for aligning workpieces in CNC
+machining centers, and more particularly to a vision-based system that
+automatically detects workpiece position and orientation and adjusts the machine
+coordinates for precise machining.
+
+--------------------------------------------------------------------------------
+
+Abstract:
+
+An automated workpiece alignment system for CNC machining centers comprising a
+vision sensor unit, a processing unit, and a coordinate adjustment module. The
+vision sensor captures images of the workpiece mounted on the machine table.
+The processing unit analyzes the images to determine the exact position and
+orientation of the workpiece relative to the reference datum. The coordinate
+adjustment module automatically updates the machine coordinate system to
+compensate for any misalignment, ensuring accurate machining without manual
+intervention. The system reduces setup time by 40% and improves first-article
+inspection pass rate to 98%.
+
+--------------------------------------------------------------------------------
+
+Claims (Summary):
+
+Claim 1: An automated workpiece alignment system comprising...
+Claim 2: The system of claim 1, wherein the vision sensor includes...
+Claim 3: The system of claim 1, further comprising a calibration module...
+[15 claims total]
+
+--------------------------------------------------------------------------------
+
+Status: GRANTED and IN FORCE
+Annual Fee Due: 14th June, 2024 (4th year)
+
+================================================================================
+
+                    PATENT 2: PENDING
+
+================================================================================
+
+Title: HIGH-EFFICIENCY COOLANT DELIVERY SYSTEM FOR PRECISION GRINDING
+
+Application Number      : 202141034567
+Filing Date            : 15th August, 2021
+Publication Date       : 17th February, 2022
+Current Status         : Under Examination
+Expected Grant         : Q2 2024
+
+--------------------------------------------------------------------------------
+
+Inventors:
+1. Vikram Rajan (Managing Director)
+2. S. Ramesh (Senior Process Engineer)
+
+--------------------------------------------------------------------------------
+
+Technical Field:
+
+The invention relates to a coolant delivery system for precision grinding
+operations that optimizes coolant flow, pressure, and nozzle positioning for
+maximum effectiveness and minimum waste.
+
+--------------------------------------------------------------------------------
+
+Abstract:
+
+A high-efficiency coolant delivery system for precision grinding operations
+comprising an intelligent flow controller, multiple nozzle array, and a sensor
+feedback mechanism. The system monitors grinding parameters in real-time and
+automatically adjusts coolant flow rate and nozzle angles to maintain optimal
+grinding zone temperature. The invention reduces coolant consumption by 30%,
+improves surface finish quality, and extends grinding wheel life by 25%.
+
+--------------------------------------------------------------------------------
+
+Examination Status:
+
+- First Examination Report (FER) received: 10th March, 2023
+- Response to FER filed: 5th June, 2023
+- Hearing scheduled: Pending
+- Amendments proposed: Claims 1-3, 7, 12
+
+--------------------------------------------------------------------------------
+
+Status: EXAMINATION IN PROGRESS
+
+================================================================================
+
+                    PATENT 3: PENDING
+
+================================================================================
+
+Title: MODULAR QUICK-CHANGE TOOLING SYSTEM FOR MULTI-AXIS MACHINING
+
+Application Number      : 202241045678
+Filing Date            : 1st December, 2022
+Publication Date       : 2nd June, 2023
+Current Status         : Awaiting First Examination Report
+
+--------------------------------------------------------------------------------
+
+Inventors:
+1. Anand Kumar (Whole-time Director)
+2. P. Venkatesan (Tool Room Manager)
+3. K. Sudhakar (CNC Programmer)
+
+--------------------------------------------------------------------------------
+
+Technical Field:
+
+The invention relates to a modular tooling system that enables rapid tool
+changes in multi-axis CNC machining centers without compromising on accuracy
+and repeatability.
+
+--------------------------------------------------------------------------------
+
+Abstract:
+
+A modular quick-change tooling system for multi-axis CNC machining centers
+comprising a standardized tool holder interface, precision locating mechanism,
+and automatic clamping system. The system enables tool changes in under 10
+seconds while maintaining positional accuracy of 2 microns. The modular design
+allows different tool types to be used with the same holder, reducing tooling
+inventory costs by 40%.
+
+--------------------------------------------------------------------------------
+
+Status: AWAITING EXAMINATION
+
+================================================================================
+
+                    INVENTION DISCLOSURE PIPELINE
+
+================================================================================
+
+The following inventions are under evaluation for patent filing:
+
+--------------------------------------------------------------------------------
+
+ID: INV-2023-001
+Title: Adaptive Feed Rate Control for Hard Material Machining
+Inventor: R. Krishnamurthy
+Date Disclosed: 15th March, 2023
+Status: Prior Art Search in Progress
+Recommendation: TBD
+
+--------------------------------------------------------------------------------
+
+ID: INV-2023-002
+Title: Vibration Damping Chuck for Micro-Machining
+Inventor: Vikram Rajan, S. Ramesh
+Date Disclosed: 1st July, 2023
+Status: Patent Committee Review
+Recommendation: File Provisional Application
+
+--------------------------------------------------------------------------------
+
+ID: INV-2023-003
+Title: Smart Tool Wear Monitoring Using Acoustic Emission
+Inventor: K. Sudhakar, P. Venkatesan
+Date Disclosed: 15th September, 2023
+Status: Technical Documentation
+Recommendation: TBD
+
+================================================================================
+
+                    PATENT MAINTENANCE SCHEDULE
+
+================================================================================
+
+Patent/Application | Due Date     | Fee Type        | Amount (INR) | Status
+-------------------+--------------+-----------------+--------------+--------
+345678             | 14 Jun 2024  | 4th Year Fee    | 4,000        | Upcoming
+201941023456       | --           | --              | --           | Granted
+202141034567       | --           | --              | --           | Pending
+202241045678       | --           | --              | --           | Pending
+
+================================================================================
+
+                    PATENT AGENT DETAILS
+
+================================================================================
+
+Patent Agent: [Name of Patent Attorney]
+Registration No.: IN/PA-XXXX
+Firm: [Patent Attorney Firm Name]
+Address: [Address]
+Phone: [Phone Number]
+Email: [Email]
+
+================================================================================
+
+                    IP COMMITTEE
+
+================================================================================
+
+The Company has constituted an IP Committee to evaluate inventions and make
+filing decisions. The committee comprises:
+
+1. Vikram Rajan - Chairman (Managing Director)
+2. Anand Kumar - Member (Whole-time Director)
+3. R. Krishnamurthy - Member (Senior Manufacturing Engineer)
+4. External Patent Counsel - Advisor
+
+Meetings: Quarterly or as required
+
+================================================================================
+
+                    PATENT POLICY
+
+================================================================================
+
+1. INVENTION DISCLOSURE
+
+   All employees must disclose inventions within 30 days of conception using
+   the Invention Disclosure Form.
+
+2. EVALUATION CRITERIA
+
+   Inventions are evaluated based on:
+   - Technical merit and novelty
+   - Commercial potential
+   - Strategic importance
+   - Cost of protection
+
+3. INVENTOR RECOGNITION
+
+   Inventors of granted patents receive:
+   - Certificate of recognition
+   - Cash reward of Rs. 25,000 per granted patent
+   - Annual inventor bonus based on patent value
+
+4. CONFIDENTIALITY
+
+   All inventions must be kept confidential until patent application is filed.
+   Public disclosure before filing may result in loss of patent rights.
+
+================================================================================
+
+                    FREEDOM TO OPERATE
+
+================================================================================
+
+The Company conducts freedom-to-operate (FTO) analysis for new products and
+processes to ensure that operations do not infringe third-party patents.
+
+Recent FTO Studies:
+
+1. Aerospace Component Manufacturing Process - FTO Clear (March 2023)
+2. Automotive Transmission Parts Production - FTO Clear (August 2023)
+3. Medical Device Component Machining - FTO In Progress
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that the above patent portfolio information is accurate and
+complete as of the date mentioned below.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+Vikram Rajan
+Managing Director
+DIN: 08567234
+
+Place: Hosur
+Date: ____________________________
+
+================================================================================

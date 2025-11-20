@@ -1,0 +1,286 @@
+================================================================================
+                    TAX RETURNS AND AUDIT REPORTS
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+                         PAN: AABCP1234K
+
+================================================================================
+
+                    SUMMARY OF TAX COMPLIANCE
+
+================================================================================
+
+INCOME TAX RETURNS FILED:
+
+Assessment Year | Return Type | Date of Filing | Acknowledgment No.
+----------------+-------------+----------------+--------------------
+2019-20         | ITR-6       | 30/09/2019     | 123456789012345
+2020-21         | ITR-6       | 31/10/2020     | 234567890123456
+2021-22         | ITR-6       | 31/10/2021     | 345678901234567
+2022-23         | ITR-6       | 31/10/2022     | 456789012345678
+2023-24         | ITR-6       | 31/10/2023     | 567890123456789
+
+================================================================================
+
+                    TAX AUDIT REPORT
+                    ASSESSMENT YEAR 2023-24
+                    (Form 3CD)
+
+================================================================================
+
+                    FORM NO. 3CA
+              AUDIT REPORT UNDER SECTION 44AB OF THE INCOME-TAX ACT, 1961
+
+--------------------------------------------------------------------------------
+
+1. I have examined the balance sheet as at 31st March, 2023 and the profit and
+   loss account for the year ended on that date attached herewith, of
+   M/s. Precision Engineering Works Private Limited.
+
+2. Based on my audit, I report that:
+
+   (a) I have obtained all the information and explanations which, to the best
+       of my knowledge and belief, were necessary for the purposes of my audit.
+
+   (b) In my opinion, proper books of account have been kept by the assessee so
+       far as appears from my examination of those books.
+
+   (c) The Balance Sheet and the Profit and Loss Account dealt with by this
+       report are in agreement with the books of account.
+
+   (d) In my opinion, the Profit and Loss Account and Balance Sheet comply with
+       the accounting standards referred to in sub-section (3C) of section 211
+       of the Companies Act, 1956.
+
+3. The statement of particulars required to be furnished under section 44AB is
+   annexed herewith in Form No. 3CD.
+
+For M/s. Kumar & Associates
+Chartered Accountants
+FRN: 012345S
+
+____________________________
+K. Ramesh
+Partner
+Membership No.: 234567
+
+Place: Chennai
+Date: 28th September, 2023
+
+================================================================================
+
+                    FORM NO. 3CD
+              STATEMENT OF PARTICULARS REQUIRED TO BE FURNISHED
+              UNDER SECTION 44AB OF THE INCOME-TAX ACT, 1961
+
+================================================================================
+
+PART A
+
+1. Name of the assessee: PRECISION ENGINEERING WORKS PRIVATE LIMITED
+2. Address: Plot No. 45, SIPCOT Industrial Estate, Hosur - 635126, Tamil Nadu
+3. Permanent Account Number: AABCP1234K
+4. Status: Company
+5. Previous year: 01/04/2022 to 31/03/2023
+6. Assessment year: 2023-24
+7. Relevant clause of section 44AB under which audit is required: 44AB(a)
+
+--------------------------------------------------------------------------------
+
+PART B
+
+8.  (a) If firm or AOP, whether registered: Not Applicable
+    (b) If not, has any application been made: Not Applicable
+
+9.  (a) Books of account prescribed: Not Applicable
+    (b) Books maintained: Cash Book, Bank Book, Journal, Ledger, Stock Register,
+        Sales Register, Purchase Register
+
+10. Method of accounting employed in the previous year: Mercantile
+
+11. (a) Method of valuation of closing stock:
+        Raw Materials: At cost (FIFO basis)
+        Work-in-progress: At cost plus proportionate overheads
+        Finished Goods: At cost or NRV, whichever is lower
+
+    (b) Details of deviation from method of valuation: NIL
+
+12. Amounts not credited to the P&L Account:
+
+    Description                              | Amount (Rs.)
+    -----------------------------------------+-------------
+    Capital Subsidies                        | NIL
+    Value of perquisites not considered      | NIL
+
+================================================================================
+
+PARTICULARS OF INCOME AND EXPENDITURE
+
+13. Total turnover/gross receipts:
+    - Manufacturing: Rs. 3,85,00,000
+
+14. Gross profit/turnover ratio for previous year: 52.00%
+    Gross profit/turnover ratio for preceding year: 51.60%
+
+15. (a) Expenditure incurred making any payment to:
+        (i) Resident for which tax not deducted: Rs. 2,50,000
+        (ii) Non-resident for which tax not deducted: NIL
+
+    (b) Expenditure disallowed u/s 40(a)(ia): Rs. 2,50,000
+
+16. Amounts debited to P&L Account subject to disallowance:
+
+    Section | Particulars              | Amount (Rs.) | Disallowed (Rs.)
+    --------+--------------------------+--------------+------------------
+    40(a)(i)| Payments to non-residents| NIL          | NIL
+    40(a)(ia)| TDS default            | 2,50,000     | 2,50,000
+    40(b)   | Partners' salary/interest| N/A          | N/A
+    40A(3)  | Cash payments > 10,000  | 85,000       | 85,000
+
+17. Depreciation allowable under Income Tax Act:
+
+    Asset Class   | Rate  | WDV Opening | Additions  | WDV Closing | Depreciation
+    --------------+-------+-------------+------------+-------------+-------------
+    Building      | 10%   | 15,00,000   | NIL        | 13,50,000   | 1,50,000
+    Plant & Mach. | 15%   | 95,00,000   | 30,00,000  | 1,06,25,000 | 18,75,000
+    Furniture     | 10%   | 5,00,000    | 2,00,000   | 6,30,000    | 70,000
+    Computers     | 40%   | 3,00,000    | NIL        | 1,80,000    | 1,20,000
+    --------------+-------+-------------+------------+-------------+-------------
+    Total         |       | 1,18,00,000 | 32,00,000  | 1,27,85,000 | 22,15,000
+
+18. Amounts admissible under sections 30 to 43D:
+
+    Section | Description                      | Amount (Rs.)
+    --------+----------------------------------+-------------
+    32      | Depreciation                     | 22,15,000
+    36(1)(iii)| Interest on borrowings         | 18,50,000
+    37      | Other expenses                   | 1,36,00,000
+
+================================================================================
+
+TAX COMPUTATION
+
+19. Particulars of tax paid:
+
+    Tax Type                  | Amount (Rs.)
+    --------------------------+-------------
+    Advance Tax               | 8,00,000
+    Self-Assessment Tax       | 1,25,000
+    TDS Credit                | 25,000
+    --------------------------+-------------
+    Total Tax Paid            | 9,50,000
+
+20. Whether return has been furnished for all earlier years: YES
+
+================================================================================
+
+TDS COMPLIANCE
+
+21. Tax Deducted at Source:
+
+    Section | Nature of Payment      | Paid (Rs.) | TDS (Rs.) | Deposited
+    --------+------------------------+------------+-----------+-----------
+    192     | Salary                 | 78,00,000  | 5,50,000  | Yes
+    194A    | Interest               | 18,50,000  | 1,85,000  | Yes
+    194C    | Contractor payments    | 35,00,000  | 70,000    | Yes
+    194J    | Professional fees      | 8,00,000   | 80,000    | Yes
+    194I    | Rent                   | 6,00,000   | 60,000    | Yes
+
+    All TDS returns (Form 24Q, 26Q, 27Q) filed within due dates.
+
+================================================================================
+
+GST COMPLIANCE
+
+22. GST Returns Filed:
+
+    Return Type | Filing Frequency | Status
+    ------------+------------------+------------------
+    GSTR-1      | Monthly          | Filed on time
+    GSTR-3B     | Monthly          | Filed on time
+    GSTR-9      | Annual           | Filed on time
+
+    GST Paid during FY 2022-23:
+    - CGST: Rs. 12,50,000
+    - SGST: Rs. 12,50,000
+    - IGST: Rs. 8,75,000
+    - Total: Rs. 33,75,000
+
+    Input Tax Credit Claimed: Rs. 28,00,000
+
+================================================================================
+
+                    SUMMARY OF TAX POSITION
+
+================================================================================
+
+INCOME TAX - AY 2023-24:
+
+Particulars                              | Amount (Rs.)
+-----------------------------------------+-------------
+Net Profit as per P&L                    | 35,25,000
+Add: Disallowances u/s 40, 43B, etc.    | 3,35,000
+Less: Deductions u/s 80                  | NIL
+-----------------------------------------+-------------
+Taxable Income                           | 38,60,000
+Tax @ 25% (for turnover < 400 Cr)        | 9,65,000
+Less: MAT Credit / Rebate                | NIL
+Add: Surcharge                           | NIL
+Add: Cess @ 4%                           | 38,600
+-----------------------------------------+-------------
+Total Tax Liability                      | 10,03,600
+Less: Advance Tax and TDS                | 9,50,000
+-----------------------------------------+-------------
+Tax Payable / (Refund)                   | 53,600
+
+Self-Assessment Tax Paid: Rs. 53,600 on 30/09/2023
+
+================================================================================
+
+TAX LITIGATION STATUS:
+
+There are no pending tax disputes, demands, or appeals as on date.
+
+================================================================================
+
+TRANSFER PRICING:
+
+Not applicable as the Company has no international transactions.
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that:
+
+1. All tax returns have been filed within the due dates.
+2. All tax payments have been made as per applicable laws.
+3. There are no pending tax demands or disputes.
+4. The Company is in compliance with all direct and indirect tax laws.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________              ____________________________
+Vikram Rajan                              R. Venkatesh
+Managing Director                         Chief Financial Officer
+
+Place: Hosur
+Date: ____________________________
+
+================================================================================
+
+For M/s. Kumar & Associates
+Chartered Accountants
+
+____________________________
+K. Ramesh
+Partner
+M. No.: 234567
+
+Place: Chennai
+Date: ____________________________
+
+================================================================================

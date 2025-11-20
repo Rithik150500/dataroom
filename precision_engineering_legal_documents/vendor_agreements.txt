@@ -1,0 +1,410 @@
+================================================================================
+                    VENDOR AGREEMENT
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                    [STANDARD TEMPLATE]
+
+================================================================================
+
+This Vendor Agreement ("Agreement") is made and entered into on this
+[___] day of [_______________], 20[___] ("Effective Date")
+
+BY AND BETWEEN:
+
+PRECISION ENGINEERING WORKS PRIVATE LIMITED, a company incorporated under the
+Companies Act, 2013, having its registered office at Plot No. 45, SIPCOT
+Industrial Estate, Hosur - 635126, Tamil Nadu (CIN: U28999TN2018PTC125847)
+(hereinafter referred to as the "Buyer" or "Company")
+
+AND
+
+[NAME OF VENDOR], [a company incorporated under the laws of [_______________] /
+a proprietorship / partnership firm], having its [registered office / principal
+place of business] at [_______________________________________________]
+(hereinafter referred to as the "Vendor" or "Supplier")
+
+(The Buyer and the Vendor are hereinafter individually referred to as a "Party"
+and collectively as the "Parties")
+
+================================================================================
+
+RECITALS
+
+WHEREAS:
+
+A. The Buyer is engaged in the business of precision engineering, CNC machining,
+   and manufacturing of precision components;
+
+B. The Vendor is engaged in the business of supplying [raw materials / tools /
+   equipment / services] to industrial customers;
+
+C. The Buyer desires to purchase goods and/or services from the Vendor, and the
+   Vendor desires to supply such goods and/or services to the Buyer;
+
+D. The Parties wish to establish a framework governing such supply.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the
+Parties agree as follows:
+
+================================================================================
+
+ARTICLE 1: DEFINITIONS
+
+1.1 "Goods" means the materials, products, tools, equipment, or other items to
+    be supplied by the Vendor under this Agreement.
+
+1.2 "Services" means the services to be provided by the Vendor under this
+    Agreement.
+
+1.3 "Purchase Order" or "PO" means an order issued by the Buyer specifying the
+    Goods or Services, quantities, prices, and delivery requirements.
+
+1.4 "Specifications" means the technical requirements, standards, and quality
+    criteria for the Goods or Services.
+
+================================================================================
+
+ARTICLE 2: SCOPE OF SUPPLY
+
+2.1 GOODS AND SERVICES
+
+    The Vendor shall supply the following categories of Goods/Services:
+
+    [ ] Raw Materials (steel, aluminum, brass, etc.)
+    [ ] Cutting Tools and Inserts
+    [ ] Measuring Instruments and Gauges
+    [ ] Machine Spares and Consumables
+    [ ] Heat Treatment Services
+    [ ] Surface Treatment Services
+    [ ] Sub-contracted Machining Services
+    [ ] Other: [_______________]
+
+2.2 PURCHASE ORDERS
+
+    (a) All purchases shall be made through Purchase Orders;
+    (b) Purchase Orders shall specify item descriptions, quantities, prices,
+        delivery dates, and other terms;
+    (c) The Vendor shall acknowledge receipt of Purchase Order within [2]
+        business days;
+    (d) Failure to acknowledge shall be deemed acceptance.
+
+2.3 ORDER MODIFICATIONS
+
+    The Buyer may modify or cancel a Purchase Order, in which case:
+
+    (a) If Goods are not yet manufactured: No cancellation charges;
+    (b) If Goods are in progress: Buyer pays for work-in-progress;
+    (c) If Goods are ready: Buyer accepts delivery and pays full price.
+
+================================================================================
+
+ARTICLE 3: PRICING AND PAYMENT
+
+3.1 PRICING
+
+    (a) Prices shall be as specified in the Purchase Order or agreed price list;
+    (b) Prices are in Indian Rupees unless otherwise specified;
+    (c) Prices include packing and delivery to Buyer's facility (DDP);
+    (d) Prices exclude GST, which will be charged at applicable rates;
+    (e) Prices shall be valid for [6] months unless otherwise agreed.
+
+3.2 INVOICING
+
+    (a) The Vendor shall submit invoices along with delivery;
+    (b) Invoices must reference the Purchase Order number;
+    (c) Invoices shall comply with GST requirements;
+    (d) Tax invoices must include: GSTIN, HSN/SAC code, taxable value, tax rate.
+
+3.3 PAYMENT TERMS
+
+    (a) Payment terms: [30] days from date of invoice;
+    (b) Payment shall be made by [NEFT/RTGS] to the Vendor's bank account;
+    (c) The Buyer may set off amounts due from the Vendor against payments.
+
+3.4 PRICE ADJUSTMENTS
+
+    (a) Prices are firm for the validity period;
+    (b) Price increases require [60] days' advance notice with justification;
+    (c) The Buyer may terminate the Agreement if it does not accept price increase.
+
+================================================================================
+
+ARTICLE 4: DELIVERY
+
+4.1 DELIVERY SCHEDULE
+
+    (a) The Vendor shall deliver Goods as per the schedule in the Purchase Order;
+    (b) Time is of the essence for delivery;
+    (c) The Vendor shall notify the Buyer immediately of any anticipated delays.
+
+4.2 DELIVERY TERMS
+
+    (a) Delivery shall be DDP (Delivered Duty Paid) to Buyer's facility unless
+        otherwise specified;
+    (b) Risk and title shall pass to Buyer upon delivery and acceptance;
+    (c) All Goods must be accompanied by delivery challan and test certificates.
+
+4.3 PARTIAL DELIVERY
+
+    Partial deliveries are allowed only with prior approval of the Buyer.
+
+4.4 PACKING
+
+    (a) Goods shall be packed suitable for transport and storage;
+    (b) Packing shall protect Goods from damage, corrosion, and contamination;
+    (c) Each package shall be clearly labeled with PO number, part number, and
+        quantity.
+
+4.5 LIQUIDATED DAMAGES
+
+    For delays attributable to the Vendor, liquidated damages of [1%] per week
+    of the order value shall apply, up to a maximum of [10%].
+
+================================================================================
+
+ARTICLE 5: QUALITY AND INSPECTION
+
+5.1 QUALITY REQUIREMENTS
+
+    (a) Goods shall conform to Specifications, drawings, and industry standards;
+    (b) Goods shall be free from defects in material and workmanship;
+    (c) The Vendor shall maintain appropriate quality management systems;
+    (d) The Vendor shall provide material test certificates (MTC), certificates
+        of conformance (CoC), and other documentation as required.
+
+5.2 INCOMING INSPECTION
+
+    (a) The Buyer shall inspect Goods upon receipt;
+    (b) The Buyer may accept, reject, or accept with deviation;
+    (c) Acceptance does not waive latent defects or warranty claims.
+
+5.3 REJECTION
+
+    (a) Rejected Goods shall be held for Vendor's disposition;
+    (b) The Vendor shall arrange for collection or authorize disposal;
+    (c) The Vendor shall replace rejected Goods at no additional cost;
+    (d) Replacement shall be delivered within [7] days.
+
+5.4 RIGHT TO AUDIT
+
+    The Buyer reserves the right to audit the Vendor's facilities, processes,
+    and quality systems upon reasonable notice.
+
+================================================================================
+
+ARTICLE 6: WARRANTIES
+
+6.1 The Vendor warrants that:
+
+    (a) Goods conform to Specifications and are fit for intended purpose;
+    (b) Goods are free from defects in material and workmanship;
+    (c) Goods are new and not refurbished (unless otherwise agreed);
+    (d) Services are performed in a professional and workmanlike manner;
+    (e) The Vendor has the right to sell the Goods.
+
+6.2 WARRANTY PERIOD
+
+    Warranties shall be valid for [12] months from delivery or [6] months from
+    first use, whichever is earlier.
+
+6.3 WARRANTY REMEDIES
+
+    For warranty claims, the Vendor shall:
+
+    (a) Replace defective Goods at no cost;
+    (b) Reimburse the Buyer for any costs incurred due to defective Goods;
+    (c) Be liable for consequential damages if defective Goods cause damage
+        to Buyer's products or equipment.
+
+================================================================================
+
+ARTICLE 7: CONFIDENTIALITY
+
+7.1 The Vendor shall maintain confidentiality of:
+
+    (a) Buyer's technical information and drawings;
+    (b) Pricing and commercial terms;
+    (c) Business information and plans.
+
+7.2 The Vendor shall not supply identical Goods to Buyer's competitors using
+    Buyer's Specifications without prior consent.
+
+7.3 Confidentiality obligations survive termination for [5] years.
+
+================================================================================
+
+ARTICLE 8: INTELLECTUAL PROPERTY
+
+8.1 The Vendor represents that Goods do not infringe any third-party
+    intellectual property rights.
+
+8.2 The Vendor shall indemnify the Buyer against any claims of infringement.
+
+8.3 Tooling or patterns paid for by the Buyer shall be Buyer's property.
+
+================================================================================
+
+ARTICLE 9: COMPLIANCE
+
+9.1 LEGAL COMPLIANCE
+
+    The Vendor shall comply with all applicable laws and regulations, including:
+
+    (a) Labor laws and fair employment practices;
+    (b) Environmental laws and regulations;
+    (c) Health and safety regulations;
+    (d) Anti-corruption and anti-bribery laws;
+    (e) Tax laws (GST, TDS, etc.).
+
+9.2 REGULATORY COMPLIANCE
+
+    Goods shall comply with applicable Indian standards (BIS) and international
+    standards (ISO, ASTM, etc.) as specified.
+
+9.3 DOCUMENTATION
+
+    The Vendor shall maintain and provide upon request:
+
+    (a) Material test certificates;
+    (b) Certificates of conformance;
+    (c) MSDS (Material Safety Data Sheets);
+    (d) RoHS/REACH compliance certificates (if applicable).
+
+================================================================================
+
+ARTICLE 10: LIABILITY AND INDEMNIFICATION
+
+10.1 INDEMNIFICATION
+
+     The Vendor shall indemnify and hold harmless the Buyer against claims
+     arising from:
+
+     (a) Defective Goods causing injury or damage;
+     (b) Infringement of third-party intellectual property;
+     (c) Breach of this Agreement by the Vendor;
+     (d) Negligence or misconduct of the Vendor.
+
+10.2 INSURANCE
+
+     The Vendor shall maintain adequate insurance including:
+
+     (a) Product liability insurance;
+     (b) Commercial general liability insurance;
+     (c) Workers' compensation insurance.
+
+================================================================================
+
+ARTICLE 11: TERM AND TERMINATION
+
+11.1 TERM
+
+     This Agreement shall be effective from the Effective Date and shall
+     continue for [2] years, automatically renewing for successive [1] year
+     periods unless terminated.
+
+11.2 TERMINATION FOR CONVENIENCE
+
+     Either Party may terminate this Agreement by giving [90] days' written
+     notice.
+
+11.3 TERMINATION FOR CAUSE
+
+     The Buyer may terminate this Agreement immediately upon:
+
+     (a) Material breach not cured within [15] days of notice;
+     (b) Repeated quality failures or delivery delays;
+     (c) Insolvency or bankruptcy of the Vendor;
+     (d) Change of control of the Vendor.
+
+11.4 EFFECT OF TERMINATION
+
+     Upon termination:
+
+     (a) All outstanding Purchase Orders shall be fulfilled or cancelled;
+     (b) The Vendor shall deliver all Goods in progress;
+     (c) The Buyer shall pay for Goods delivered and accepted.
+
+================================================================================
+
+ARTICLE 12: GENERAL PROVISIONS
+
+12.1 GOVERNING LAW
+
+     This Agreement shall be governed by the laws of India.
+
+12.2 DISPUTE RESOLUTION
+
+     Any dispute shall be resolved through arbitration in Chennai under the
+     Arbitration and Conciliation Act, 1996.
+
+12.3 ENTIRE AGREEMENT
+
+     This Agreement, together with Purchase Orders, constitutes the entire
+     agreement.
+
+12.4 AMENDMENT
+
+     This Agreement may be amended only in writing signed by both Parties.
+
+12.5 ASSIGNMENT
+
+     The Vendor may not assign this Agreement without Buyer's written consent.
+
+12.6 NOTICES
+
+     All notices shall be in writing to the addresses specified herein.
+
+12.7 INDEPENDENT CONTRACTOR
+
+     The Vendor is an independent contractor, not an employee or agent of the
+     Buyer.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date
+first written above.
+
+FOR PRECISION ENGINEERING WORKS PRIVATE LIMITED
+(Buyer)
+
+____________________________
+Authorized Signatory
+Name: ____________________________
+Designation: ____________________________
+Date: ____________________________
+
+
+FOR [NAME OF VENDOR]
+(Vendor)
+
+____________________________
+Authorized Signatory
+Name: ____________________________
+Designation: ____________________________
+Date: ____________________________
+
+================================================================================
+
+SCHEDULE A: VENDOR INFORMATION
+
+================================================================================
+
+Legal Name: ____________________________
+Constitution: [ ] Company [ ] Partnership [ ] Proprietorship
+Address: ____________________________
+GST No.: ____________________________
+PAN: ____________________________
+Contact Person: ____________________________
+Phone: ____________________________
+Email: ____________________________
+
+Bank Details:
+Account Name: ____________________________
+Account No.: ____________________________
+Bank Name: ____________________________
+Branch: ____________________________
+IFSC Code: ____________________________
+
+================================================================================

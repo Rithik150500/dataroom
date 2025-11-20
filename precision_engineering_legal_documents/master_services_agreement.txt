@@ -1,0 +1,413 @@
+================================================================================
+                    MASTER SERVICES AGREEMENT
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                    [STANDARD TEMPLATE]
+
+================================================================================
+
+This Master Services Agreement ("Agreement") is made and entered into on this
+[___] day of [_______________], 20[___] ("Effective Date")
+
+BY AND BETWEEN:
+
+PRECISION ENGINEERING WORKS PRIVATE LIMITED, a company incorporated under the
+Companies Act, 2013, having its registered office at Plot No. 45, SIPCOT
+Industrial Estate, Hosur - 635126, Tamil Nadu (CIN: U28999TN2018PTC125847)
+(hereinafter referred to as the "Service Provider" or "PEW")
+
+AND
+
+[NAME OF CUSTOMER], [a company incorporated under the laws of [_______________]],
+having its [registered office] at [_______________________________________________]
+(hereinafter referred to as the "Customer")
+
+(The Service Provider and the Customer are hereinafter individually referred to
+as a "Party" and collectively as the "Parties")
+
+================================================================================
+
+RECITALS
+
+WHEREAS:
+
+A. The Service Provider is engaged in the business of precision engineering,
+   CNC machining, manufacturing of precision components, and related services;
+
+B. The Customer desires to engage the Service Provider for the provision of
+   precision manufacturing services;
+
+C. The Parties wish to establish a framework governing the provision of such
+   services.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein, the
+Parties agree as follows:
+
+================================================================================
+
+ARTICLE 1: DEFINITIONS
+
+1.1 "Deliverables" means the products, components, or work output to be
+    delivered by the Service Provider under a Work Order.
+
+1.2 "Intellectual Property" means all patents, copyrights, trademarks, trade
+    secrets, designs, and other intellectual property rights.
+
+1.3 "Services" means the precision manufacturing, machining, and related
+    services provided by the Service Provider.
+
+1.4 "Specifications" means the technical requirements, drawings, tolerances,
+    and standards specified by the Customer for the Deliverables.
+
+1.5 "Work Order" means an order issued by the Customer under this Agreement
+    specifying the Services, Deliverables, pricing, and delivery schedule.
+
+================================================================================
+
+ARTICLE 2: SERVICES
+
+2.1 SCOPE OF SERVICES
+
+    The Service Provider shall provide the following Services:
+
+    (a) CNC machining (turning, milling, grinding)
+    (b) Precision component manufacturing
+    (c) Tool and die making
+    (d) Prototype development
+    (e) Quality inspection and testing
+    (f) Surface treatment and finishing
+    (g) Assembly services
+    (h) Other services as specified in Work Orders
+
+2.2 WORK ORDERS
+
+    (a) Each engagement shall be governed by a Work Order;
+    (b) Work Orders shall specify: description of work, quantities,
+        Specifications, pricing, delivery dates, and acceptance criteria;
+    (c) Work Orders are subject to acceptance by the Service Provider;
+    (d) Work Orders are incorporated by reference into this Agreement.
+
+2.3 CUSTOMER RESPONSIBILITIES
+
+    The Customer shall:
+
+    (a) Provide complete and accurate Specifications and drawings;
+    (b) Provide raw materials if specified (free-issue material);
+    (c) Respond promptly to queries and requests for clarification;
+    (d) Provide timely feedback and approvals;
+    (e) Pay invoices as per agreed terms.
+
+================================================================================
+
+ARTICLE 3: QUALITY AND ACCEPTANCE
+
+3.1 QUALITY STANDARDS
+
+    The Service Provider shall:
+
+    (a) Manufacture Deliverables in accordance with the Specifications;
+    (b) Maintain ISO 9001:2015 quality management system;
+    (c) Use calibrated measuring instruments traceable to national standards;
+    (d) Perform in-process and final inspections;
+    (e) Provide inspection reports and certificates as required.
+
+3.2 FIRST ARTICLE INSPECTION
+
+    For new parts, the Service Provider shall submit first article samples with
+    First Article Inspection Report (FAIR) for Customer approval before
+    commencing production.
+
+3.3 ACCEPTANCE
+
+    (a) The Customer shall inspect Deliverables within [10] business days of
+        receipt;
+    (b) The Customer shall notify the Service Provider of any non-conformances
+        within the inspection period;
+    (c) Deliverables shall be deemed accepted if not rejected within the
+        inspection period.
+
+3.4 REJECTION
+
+    (a) Rejected Deliverables shall be returned to the Service Provider;
+    (b) The Service Provider shall repair or replace rejected Deliverables at
+        no additional cost;
+    (c) Repair or replacement shall be completed within [15] business days.
+
+================================================================================
+
+ARTICLE 4: PRICING AND PAYMENT
+
+4.1 PRICING
+
+    (a) Prices for Services shall be as specified in Work Orders;
+    (b) Prices are in Indian Rupees unless otherwise specified;
+    (c) Prices exclude applicable taxes (GST, etc.);
+    (d) Prices shall remain valid for the period specified in the quotation.
+
+4.2 INVOICING
+
+    (a) The Service Provider shall invoice upon delivery of Deliverables;
+    (b) Invoices shall reference the Work Order number;
+    (c) Invoices shall comply with GST requirements.
+
+4.3 PAYMENT TERMS
+
+    (a) Payment is due within [30] days from the date of invoice;
+    (b) Late payments shall attract interest at [18%] per annum;
+    (c) The Customer may not withhold payment due to disputes on other orders.
+
+4.4 PRICE ADJUSTMENTS
+
+    The Service Provider may adjust prices with [30] days' notice in case of:
+
+    (a) Increase in raw material costs exceeding [10%];
+    (b) Changes in Specifications requested by Customer;
+    (c) Annual revision (not more than once per year).
+
+================================================================================
+
+ARTICLE 5: DELIVERY
+
+5.1 DELIVERY SCHEDULE
+
+    (a) The Service Provider shall deliver Deliverables as per the schedule in
+        the Work Order;
+    (b) Delivery dates are estimates unless expressly stated as firm;
+    (c) The Service Provider shall notify the Customer of potential delays.
+
+5.2 DELIVERY TERMS
+
+    (a) Delivery shall be Ex-Works (EXW) Service Provider's facility unless
+        otherwise specified;
+    (b) Risk and title shall pass to Customer upon delivery;
+    (c) Freight and insurance are to Customer's account unless otherwise agreed.
+
+5.3 FORCE MAJEURE
+
+    Neither Party shall be liable for delays due to events beyond reasonable
+    control, including natural disasters, war, strikes, or government actions.
+
+================================================================================
+
+ARTICLE 6: WARRANTIES
+
+6.1 SERVICE PROVIDER WARRANTIES
+
+    The Service Provider warrants that:
+
+    (a) Deliverables shall conform to Specifications;
+    (b) Deliverables shall be free from defects in materials and workmanship;
+    (c) Services shall be performed in a professional and workmanlike manner;
+    (d) The Service Provider has the right to provide the Services.
+
+6.2 WARRANTY PERIOD
+
+    Warranties shall be valid for [12] months from the date of delivery.
+
+6.3 WARRANTY REMEDIES
+
+    For valid warranty claims, the Service Provider shall, at its option:
+
+    (a) Repair the defective Deliverable;
+    (b) Replace the defective Deliverable; or
+    (c) Refund the price paid for the defective Deliverable.
+
+6.4 WARRANTY EXCLUSIONS
+
+    Warranties do not cover defects caused by:
+
+    (a) Customer's design or Specifications;
+    (b) Misuse, abuse, or improper handling;
+    (c) Modifications made without Service Provider's consent;
+    (d) Normal wear and tear.
+
+6.5 DISCLAIMER
+
+    EXCEPT AS EXPRESSLY PROVIDED, THE SERVICE PROVIDER DISCLAIMS ALL OTHER
+    WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY
+    AND FITNESS FOR A PARTICULAR PURPOSE.
+
+================================================================================
+
+ARTICLE 7: INTELLECTUAL PROPERTY
+
+7.1 CUSTOMER IP
+
+    The Customer retains ownership of:
+
+    (a) Specifications, drawings, and designs provided by Customer;
+    (b) Tooling paid for by Customer;
+    (c) Any Customer-provided materials and information.
+
+7.2 SERVICE PROVIDER IP
+
+    The Service Provider retains ownership of:
+
+    (a) Pre-existing intellectual property;
+    (b) Manufacturing processes and know-how;
+    (c) General improvements not specific to Customer.
+
+7.3 NO INFRINGEMENT
+
+    Each Party represents that materials provided by it do not infringe any
+    third-party intellectual property rights.
+
+================================================================================
+
+ARTICLE 8: CONFIDENTIALITY
+
+8.1 Each Party shall maintain the confidentiality of the other Party's
+    confidential information.
+
+8.2 Confidential information includes Specifications, pricing, business plans,
+    and any information marked as confidential.
+
+8.3 Confidentiality obligations survive termination for [5] years.
+
+================================================================================
+
+ARTICLE 9: LIABILITY AND INDEMNIFICATION
+
+9.1 LIMITATION OF LIABILITY
+
+    (a) Neither Party shall be liable for indirect, incidental, consequential,
+        or punitive damages;
+    (b) The Service Provider's total liability shall not exceed the amounts
+        paid under the relevant Work Order.
+
+9.2 INDEMNIFICATION
+
+    Each Party shall indemnify the other against claims arising from:
+
+    (a) Breach of this Agreement;
+    (b) Negligence or willful misconduct;
+    (c) Infringement of third-party intellectual property rights.
+
+================================================================================
+
+ARTICLE 10: TERM AND TERMINATION
+
+10.1 TERM
+
+     This Agreement shall be effective from the Effective Date and shall
+     continue for [3] years unless terminated earlier.
+
+10.2 TERMINATION FOR CONVENIENCE
+
+     Either Party may terminate this Agreement by giving [90] days' written
+     notice.
+
+10.3 TERMINATION FOR CAUSE
+
+     Either Party may terminate this Agreement immediately upon:
+
+     (a) Material breach not cured within [30] days of notice;
+     (b) Insolvency or bankruptcy of the other Party;
+     (c) Assignment without consent.
+
+10.4 EFFECT OF TERMINATION
+
+     Upon termination:
+
+     (a) All outstanding Work Orders shall be completed or cancelled;
+     (b) All outstanding payments shall become due;
+     (c) Each Party shall return the other's confidential information;
+     (d) Accrued rights and obligations shall survive.
+
+================================================================================
+
+ARTICLE 11: GENERAL PROVISIONS
+
+11.1 GOVERNING LAW
+
+     This Agreement shall be governed by the laws of India.
+
+11.2 DISPUTE RESOLUTION
+
+     Any dispute shall be resolved through arbitration in Chennai under the
+     Arbitration and Conciliation Act, 1996.
+
+11.3 ENTIRE AGREEMENT
+
+     This Agreement constitutes the entire agreement between the Parties.
+
+11.4 AMENDMENT
+
+     This Agreement may be amended only in writing signed by both Parties.
+
+11.5 ASSIGNMENT
+
+     Neither Party may assign this Agreement without the other's written consent.
+
+11.6 NOTICES
+
+     All notices shall be in writing to the addresses specified herein.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date
+first written above.
+
+FOR PRECISION ENGINEERING WORKS PRIVATE LIMITED
+(Service Provider)
+
+____________________________
+Authorized Signatory
+Name: ____________________________
+Designation: ____________________________
+Date: ____________________________
+
+
+FOR [NAME OF CUSTOMER]
+(Customer)
+
+____________________________
+Authorized Signatory
+Name: ____________________________
+Designation: ____________________________
+Date: ____________________________
+
+================================================================================
+
+ANNEXURE A: WORK ORDER TEMPLATE
+
+================================================================================
+
+WORK ORDER NO.: [_______________]
+Date: [_______________]
+
+Customer: [_______________]
+Customer PO No.: [_______________]
+
+--------------------------------------------------------------------------------
+
+ITEM DETAILS:
+
+Item | Part No. | Description      | Qty | Unit Price | Total   | Delivery
+No.  |          |                  |     | (INR)      | (INR)   | Date
+-----+----------+------------------+-----+------------+---------+----------
+1    |          |                  |     |            |         |
+2    |          |                  |     |            |         |
+3    |          |                  |     |            |         |
+
+                                    Subtotal:
+                                    GST (18%):
+                                    Total:
+
+--------------------------------------------------------------------------------
+
+SPECIFICATIONS: [Attach drawings/specs]
+MATERIAL: [_______________]
+SURFACE FINISH: [_______________]
+SPECIAL REQUIREMENTS: [_______________]
+
+--------------------------------------------------------------------------------
+
+Accepted by Service Provider:         Issued by Customer:
+
+____________________________          ____________________________
+Date: _______________                 Date: _______________
+
+================================================================================

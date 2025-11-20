@@ -1,0 +1,452 @@
+================================================================================
+                    EMPLOYEE STOCK OPTION PLAN 2019
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28999TN2018PTC125847
+
+================================================================================
+
+PRECISION ENGINEERING WORKS PRIVATE LIMITED
+EMPLOYEE STOCK OPTION PLAN - 2019
+("ESOP 2019" or "Plan")
+
+================================================================================
+
+ARTICLE 1: INTRODUCTION AND OBJECTIVES
+
+1.1 INTRODUCTION
+
+This Employee Stock Option Plan 2019 ("Plan") has been formulated and adopted
+by Precision Engineering Works Private Limited ("Company") pursuant to the
+resolution passed by the Board of Directors on April 1, 2019 and approved by
+the shareholders in the Extra-ordinary General Meeting held on April 15, 2019.
+
+1.2 OBJECTIVES
+
+The objectives of this Plan are to:
+
+(a) Attract and retain talented employees in the competitive precision
+    engineering and manufacturing industry;
+(b) Motivate employees to contribute to the growth and profitability of
+    the Company;
+(c) Align the interests of employees with those of the shareholders;
+(d) Reward employees for their contribution to the Company's success;
+(e) Create a sense of ownership and participation among employees.
+
+================================================================================
+
+ARTICLE 2: DEFINITIONS
+
+2.1 "Board" means the Board of Directors of the Company.
+
+2.2 "Compensation Committee" means the committee constituted by the Board to
+    administer this Plan.
+
+2.3 "Employee" means any person who is in employment of the Company on a
+    permanent basis, working in India or outside India.
+
+2.4 "Exercise Period" means the period during which the Grantee can exercise
+    the vested Options.
+
+2.5 "Exercise Price" means the price payable by the Grantee to acquire one
+    Equity Share upon exercise of an Option.
+
+2.6 "Grant" means the allocation of Options to an Eligible Employee.
+
+2.7 "Grant Date" means the date on which Options are granted to an Eligible
+    Employee.
+
+2.8 "Grantee" means an Eligible Employee to whom Options have been granted.
+
+2.9 "Option" means the right, but not an obligation, granted to an Eligible
+    Employee to apply for Equity Shares at the Exercise Price.
+
+2.10 "Vesting" means the process by which the Grantee acquires the right to
+     exercise the Options.
+
+2.11 "Vesting Period" means the period during which the Options vest.
+
+================================================================================
+
+ARTICLE 3: ADMINISTRATION
+
+3.1 COMPENSATION COMMITTEE
+
+The Plan shall be administered by the Compensation Committee comprising:
+
+(a) Vikram Rajan - Managing Director (Chairman)
+(b) Anand Kumar - Whole-time Director
+(c) Independent Advisor (if appointed)
+
+3.2 POWERS OF THE COMMITTEE
+
+The Compensation Committee shall have the following powers:
+
+(a) To determine the Eligible Employees to whom Options may be granted;
+(b) To determine the number of Options to be granted to each Grantee;
+(c) To determine the Exercise Price for each Grant;
+(d) To determine the Vesting Period and Exercise Period;
+(e) To prescribe forms and procedures for Grant, Vesting, and Exercise;
+(f) To interpret the provisions of this Plan;
+(g) To modify or amend the Plan subject to shareholder approval.
+
+================================================================================
+
+ARTICLE 4: ELIGIBILITY
+
+4.1 ELIGIBLE EMPLOYEES
+
+The following persons shall be eligible to participate in this Plan:
+
+(a) Permanent employees of the Company working in India;
+(b) Directors of the Company (whether whole-time or not);
+(c) Employees of subsidiary companies (if any);
+
+4.2 EXCLUSIONS
+
+The following persons shall NOT be eligible:
+
+(a) An employee who is a Promoter or belongs to the Promoter Group;
+(b) A Director who directly or indirectly holds more than 10% of the
+    outstanding Equity Shares;
+(c) Consultants and contractors;
+(d) Employees on probation;
+(e) Employees who have resigned or are under notice period.
+
+================================================================================
+
+ARTICLE 5: SHARES RESERVED
+
+5.1 ESOP POOL
+
+The Company has reserved 25,000 (Twenty-Five Thousand) Equity Shares of Rs. 10/-
+each for issuance under this Plan, representing 10% of the paid-up Equity Share
+Capital as on the date of approval of the Plan.
+
+5.2 UNUTILIZED OPTIONS
+
+Options that are forfeited, cancelled, or lapsed shall be available for
+re-grant under the Plan.
+
+5.3 INCREASE IN POOL
+
+The ESOP Pool may be increased by the Board with the approval of shareholders
+in a General Meeting.
+
+================================================================================
+
+ARTICLE 6: GRANT OF OPTIONS
+
+6.1 GRANT
+
+The Compensation Committee may, at its discretion, grant Options to Eligible
+Employees from time to time.
+
+6.2 GRANT LETTER
+
+Each Grant shall be evidenced by a Grant Letter which shall specify:
+
+(a) Name of the Grantee;
+(b) Number of Options granted;
+(c) Grant Date;
+(d) Exercise Price;
+(e) Vesting Schedule;
+(f) Exercise Period;
+(g) Terms and conditions.
+
+6.3 ACCEPTANCE
+
+The Grantee shall accept the Grant by signing and returning the Grant Letter
+within 30 days of receipt.
+
+================================================================================
+
+ARTICLE 7: EXERCISE PRICE
+
+7.1 DETERMINATION
+
+The Exercise Price shall be determined by the Compensation Committee and may be:
+
+(a) At face value (Rs. 10/- per share);
+(b) At fair market value as determined by an independent valuer;
+(c) At a discount to fair market value;
+(d) At a premium to fair market value.
+
+7.2 CURRENT EXERCISE PRICE
+
+For Grants made in 2019-2020, the Exercise Price shall be Rs. 10/- (Rupees Ten
+Only) per Equity Share, being the face value of the shares.
+
+7.3 VARIATION
+
+Different Grants may have different Exercise Prices as determined by the
+Compensation Committee.
+
+================================================================================
+
+ARTICLE 8: VESTING
+
+8.1 VESTING SCHEDULE
+
+Options shall vest as per the following schedule:
+
+Years of Service    | Cumulative Vesting | Options Vested
+After Grant Date    | Percentage         | (For 1000 Options)
+--------------------+--------------------+-------------------
+1 year (Cliff)      | 25%                | 250
+2 years             | 50%                | 500
+3 years             | 75%                | 750
+4 years             | 100%               | 1000
+
+8.2 VESTING CONDITIONS
+
+Vesting shall be subject to:
+
+(a) Continued employment with the Company;
+(b) Satisfactory performance ratings;
+(c) No disciplinary action pending or served;
+(d) Compliance with Company policies.
+
+8.3 ACCELERATED VESTING
+
+Vesting may be accelerated in the following cases:
+
+(a) Death or permanent disability of the Grantee;
+(b) Change of Control of the Company;
+(c) Any other circumstance as determined by the Compensation Committee.
+
+================================================================================
+
+ARTICLE 9: EXERCISE OF OPTIONS
+
+9.1 EXERCISE PERIOD
+
+Vested Options may be exercised during the Exercise Period, which shall be:
+
+(a) Starting from the Vesting Date; and
+(b) Ending on the 5th anniversary of the Vesting Date.
+
+9.2 EXERCISE PROCESS
+
+To exercise Options, the Grantee shall:
+
+(a) Submit an Exercise Application to the Company;
+(b) Specify the number of Options to be exercised;
+(c) Pay the aggregate Exercise Price;
+(d) Provide such other documents as may be required.
+
+9.3 MINIMUM EXERCISE
+
+The minimum number of Options that can be exercised at a time is 100.
+
+9.4 ALLOTMENT
+
+Upon valid exercise, the Company shall allot Equity Shares to the Grantee
+within 30 days and issue Share Certificates within 60 days.
+
+================================================================================
+
+ARTICLE 10: TERMINATION OF EMPLOYMENT
+
+10.1 VOLUNTARY RESIGNATION
+
+If a Grantee voluntarily resigns:
+
+(a) Unvested Options shall immediately lapse;
+(b) Vested but unexercised Options must be exercised within 30 days of
+    resignation, failing which they shall lapse.
+
+10.2 TERMINATION FOR CAUSE
+
+If a Grantee is terminated for cause (misconduct, fraud, etc.):
+
+(a) All Options (vested and unvested) shall immediately lapse;
+(b) No exercise shall be permitted.
+
+10.3 TERMINATION WITHOUT CAUSE
+
+If a Grantee is terminated without cause:
+
+(a) Unvested Options shall lapse;
+(b) Vested Options must be exercised within 90 days of termination.
+
+10.4 RETIREMENT
+
+Upon retirement as per Company policy:
+
+(a) Unvested Options may vest on a pro-rata basis at the discretion of the
+    Compensation Committee;
+(b) Vested Options must be exercised within 180 days of retirement.
+
+10.5 DEATH OR DISABILITY
+
+In case of death or permanent disability:
+
+(a) All unvested Options shall immediately vest;
+(b) The legal heirs or Grantee (in case of disability) may exercise all
+    Options within 12 months.
+
+================================================================================
+
+ARTICLE 11: NON-TRANSFERABILITY
+
+11.1 Options granted under this Plan are personal to the Grantee and shall not
+     be transferable.
+
+11.2 Options cannot be pledged, hypothecated, or encumbered.
+
+11.3 Any attempted transfer shall render the Options null and void.
+
+================================================================================
+
+ARTICLE 12: LOCK-IN PERIOD
+
+12.1 There shall be no lock-in period for shares allotted pursuant to exercise
+     of Options.
+
+12.2 Shares once allotted shall be subject to the transfer restrictions as per
+     the Articles of Association.
+
+================================================================================
+
+ARTICLE 13: TAX IMPLICATIONS
+
+13.1 The Grantee shall be solely responsible for all tax implications arising
+     from the Grant, Vesting, Exercise, or sale of shares.
+
+13.2 The Company shall deduct Tax at Source (TDS) as per applicable laws.
+
+13.3 The Grantee is advised to consult a tax advisor for tax planning.
+
+================================================================================
+
+ARTICLE 14: AMENDMENT AND TERMINATION
+
+14.1 The Board may amend the Plan with shareholder approval if the amendment:
+
+(a) Increases the total number of shares reserved;
+(b) Changes the eligibility criteria;
+(c) Extends the Exercise Period;
+(d) Reduces the Exercise Price.
+
+14.2 The Board may terminate the Plan at any time, provided that existing
+     Grants shall continue to be governed by the Plan.
+
+================================================================================
+
+ARTICLE 15: CORPORATE ACTIONS
+
+15.1 BONUS SHARES
+
+If the Company issues bonus shares, the number of Options and Exercise Price
+shall be adjusted proportionately.
+
+15.2 STOCK SPLIT / CONSOLIDATION
+
+If the Company undertakes a stock split or consolidation, the number of Options
+and Exercise Price shall be adjusted accordingly.
+
+15.3 RIGHTS ISSUE
+
+In case of a rights issue, the Compensation Committee may make appropriate
+adjustments.
+
+================================================================================
+
+ARTICLE 16: GENERAL PROVISIONS
+
+16.1 NO RIGHT TO EMPLOYMENT
+
+Nothing in this Plan shall confer upon any Grantee the right to continue in
+employment or affect the Company's right to terminate employment.
+
+16.2 NO SHAREHOLDER RIGHTS
+
+A Grantee shall have no rights as a shareholder until shares are actually
+allotted upon exercise.
+
+16.3 GOVERNING LAW
+
+This Plan shall be governed by the laws of India.
+
+16.4 DISPUTE RESOLUTION
+
+Any disputes shall be resolved through arbitration in Chennai.
+
+================================================================================
+
+APPROVALS:
+
+Board Resolution dated: April 1, 2019
+Shareholders' Resolution dated: April 15, 2019
+
+================================================================================
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________              ____________________________
+Vikram Rajan                              Anand Kumar
+Managing Director                         Whole-time Director
+
+Place: Hosur
+Date: April 15, 2019
+
+================================================================================
+
+SCHEDULE I: GRANT LETTER FORMAT
+
+================================================================================
+
+                    EMPLOYEE STOCK OPTION GRANT LETTER
+
+Date: [_______________]
+
+To,
+[Name of Employee]
+[Designation]
+[Department]
+
+Dear [Name],
+
+Subject: Grant of Stock Options under ESOP 2019
+
+We are pleased to inform you that the Compensation Committee has approved the
+grant of Employee Stock Options to you under the Precision Engineering Works
+Private Limited - Employee Stock Option Plan 2019.
+
+Details of Grant:
+
+1. Number of Options Granted: [_______________]
+2. Grant Date: [_______________]
+3. Exercise Price: Rs. [_______________] per share
+4. Vesting Schedule:
+   - 25% after 1 year
+   - 25% after 2 years
+   - 25% after 3 years
+   - 25% after 4 years
+5. Exercise Period: 5 years from respective Vesting Date
+
+Please note that this Grant is subject to the terms and conditions of the ESOP
+2019 and continued employment with the Company.
+
+Kindly sign the duplicate copy of this letter as acceptance of the Grant.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+[Authorized Signatory]
+
+================================================================================
+
+ACCEPTANCE
+
+I have read and understood the terms of the Grant and the ESOP 2019. I hereby
+accept the Grant.
+
+____________________________
+[Signature of Employee]
+Date: [_______________]
+
+================================================================================
