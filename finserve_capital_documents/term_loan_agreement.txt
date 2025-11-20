@@ -1,0 +1,509 @@
+================================================================================
+                       TERM LOAN AGREEMENT
+================================================================================
+
+               AGREEMENT NO: HDFC/CORP/TL/2020/12345
+
+This TERM LOAN AGREEMENT ("Agreement") is made and entered into on this
+15th day of June, 2020
+
+BETWEEN
+
+HDFC BANK LIMITED, a banking company incorporated under the Banking
+Regulation Act, 1949, having its registered office at HDFC Bank House,
+Senapati Bapat Marg, Lower Parel, Mumbai - 400013 and acting through its
+Corporate Banking Branch at Nariman Point, Mumbai - 400021
+(hereinafter referred to as the "Lender" or "Bank")
+                                                            OF THE FIRST PART
+
+AND
+
+FINSERVE CAPITAL LIMITED, a company incorporated under the Companies Act,
+2013, having CIN U65990MH2015PLC264789, and its registered office at
+Unit 501-502, 5th Floor, Peninsula Business Park, Senapati Bapat Marg,
+Lower Parel, Mumbai - 400013, represented by its authorized signatories
+(hereinafter referred to as the "Borrower" or "Company")
+                                                           OF THE SECOND PART
+
+The Lender and Borrower are hereinafter individually referred to as a "Party"
+and collectively as the "Parties".
+
+================================================================================
+                         RECITALS
+================================================================================
+
+WHEREAS:
+
+A. The Borrower is a Non-Banking Financial Company (NBFC) registered with
+   the Reserve Bank of India under Registration Number N-14.03268, engaged
+   in the business of providing loans to SMEs, vehicle finance, and MSME
+   working capital.
+
+B. The Borrower has approached the Bank for a term loan facility to meet
+   its business requirements for onward lending to its customers.
+
+C. The Bank has agreed to provide the term loan facility to the Borrower
+   subject to the terms and conditions set out in this Agreement.
+
+NOW THEREFORE, in consideration of the mutual covenants and agreements
+herein contained, the Parties agree as follows:
+
+================================================================================
+                    ARTICLE 1 - DEFINITIONS
+================================================================================
+
+1.1 In this Agreement, unless the context otherwise requires:
+
+    "Availability Period" means the period of 3 months from the date of
+    this Agreement during which the Borrower may draw down the Facility.
+
+    "Business Day" means a day on which banks are open for business in Mumbai.
+
+    "Event of Default" has the meaning given in Article 8.
+
+    "Facility" means the term loan facility of Rs. 50,00,00,000 (Rupees
+    Fifty Crores Only) granted by the Bank to the Borrower.
+
+    "Facility Documents" means this Agreement and all other documents
+    executed in connection with this Facility.
+
+    "Final Repayment Date" means June 15, 2025.
+
+    "Interest Payment Date" means the last Business Day of each month.
+
+    "Interest Rate" means MCLR plus Spread.
+
+    "Loan Receivables" means all present and future book debts, loan
+    receivables, and other amounts due to the Borrower from its borrowers.
+
+    "MCLR" means the Marginal Cost of Funds based Lending Rate of the Bank.
+
+    "Repayment Date" means each date on which a Repayment Installment is due.
+
+    "Security" has the meaning given in Article 5.
+
+    "Spread" means 1.50% (150 basis points) per annum.
+
+================================================================================
+                  ARTICLE 2 - THE FACILITY
+================================================================================
+
+2.1 FACILITY AMOUNT
+
+    The Bank agrees to make available to the Borrower a term loan facility
+    in an aggregate amount not exceeding Rs. 50,00,00,000 (Rupees Fifty
+    Crores Only).
+
+2.2 PURPOSE
+
+    The Facility shall be used solely for:
+    (a) Onward lending to borrowers in the ordinary course of the
+        Borrower's NBFC business
+    (b) General corporate purposes
+
+    The Borrower shall not use the Facility for:
+    (a) Investment in capital market
+    (b) Real estate activities
+    (c) Any speculative purpose
+    (d) Any purpose prohibited by RBI for NBFCs
+
+2.3 AVAILABILITY
+
+    Subject to the conditions precedent being satisfied, the Facility shall
+    be available for drawing during the Availability Period.
+
+2.4 DRAWDOWN
+
+    (a) The Borrower may draw down the Facility in minimum amounts of
+        Rs. 10,00,00,000 (Rupees Ten Crores Only).
+
+    (b) Each drawdown request shall be submitted at least 3 Business Days
+        before the proposed drawdown date.
+
+    (c) Any amount not drawn during the Availability Period shall stand
+        cancelled.
+
+================================================================================
+                  ARTICLE 3 - INTEREST
+================================================================================
+
+3.1 INTEREST RATE
+
+    The Borrower shall pay interest on the outstanding principal amount at
+    the Interest Rate.
+
+    Current Interest Rate:
+    - MCLR (1 Year): 8.00% p.a.
+    - Spread: 1.50% p.a.
+    - Total Interest Rate: 9.50% p.a.
+
+3.2 INTEREST RESET
+
+    The Interest Rate shall be reset on every anniversary of the first
+    drawdown based on the then prevailing MCLR.
+
+3.3 INTEREST CALCULATION
+
+    Interest shall be calculated on the basis of a year of 365 days and the
+    actual number of days elapsed.
+
+3.4 INTEREST PAYMENT
+
+    Interest accrued during each month shall be payable on the Interest
+    Payment Date of that month.
+
+3.5 DEFAULT INTEREST
+
+    If the Borrower fails to pay any amount due under this Agreement on its
+    due date, the Borrower shall pay default interest on the overdue amount
+    at the rate of 2% per annum above the Interest Rate.
+
+================================================================================
+                   ARTICLE 4 - REPAYMENT
+================================================================================
+
+4.1 REPAYMENT SCHEDULE
+
+    The Borrower shall repay the Facility in 20 equal quarterly installments
+    of Rs. 2,50,00,000 (Rupees Two Crores Fifty Lakhs Only) each, commencing
+    from the expiry of the moratorium period.
+
+    Moratorium Period: 3 months from first drawdown
+
+    Repayment Schedule:
+    Installment    Due Date         Amount (Rs. Cr)
+    -----------------------------------------------
+    1              30/09/2020       2.50
+    2              31/12/2020       2.50
+    3              31/03/2021       2.50
+    ...            ...              ...
+    20             15/06/2025       2.50
+    -----------------------------------------------
+    Total                          50.00
+
+4.2 PREPAYMENT
+
+    (a) The Borrower may prepay all or part of the Facility subject to
+        giving at least 15 Business Days prior written notice.
+
+    (b) Prepayment charges:
+        - Within 1 year: 2% of prepaid amount
+        - After 1 year: 1% of prepaid amount
+
+    (c) Partial prepayments shall be in minimum amounts of Rs. 5,00,00,000
+        (Rupees Five Crores Only) and shall be applied against installments
+        in inverse order of maturity.
+
+4.3 MANDATORY PREPAYMENT
+
+    The Borrower shall prepay the Facility upon:
+    (a) Change in control of the Borrower
+    (b) Cancellation of RBI registration
+    (c) Any event which in the Bank's opinion materially adversely affects
+        the Borrower's ability to repay
+
+================================================================================
+                   ARTICLE 5 - SECURITY
+================================================================================
+
+5.1 SECURITY DOCUMENTS
+
+    The Facility is secured by:
+
+    (a) PRIMARY SECURITY:
+        First pari passu charge on the Borrower's present and future Loan
+        Receivables with minimum asset cover of 1.10 times.
+
+    (b) ADDITIONAL SECURITY:
+        (i)  Personal Guarantee of Mr. Rajesh Kumar Mehta (Promoter)
+        (ii) Corporate Guarantee of FinServe Holdings Pvt Ltd
+
+5.2 CREATION OF SECURITY
+
+    (a) The Borrower shall execute a Deed of Hypothecation in favor of the
+        Bank for creation of first pari passu charge on Loan Receivables.
+
+    (b) The charge shall be registered with the Registrar of Companies within
+        30 days of creation.
+
+    (c) The charge shall also be registered with CERSAI within 30 days.
+
+5.3 ASSET COVER
+
+    The Borrower shall ensure that the value of the charged assets is at
+    all times at least 1.10 times the outstanding Facility amount. If the
+    asset cover falls below 1.10x, the Borrower shall:
+    (a) Provide additional security, or
+    (b) Prepay the Facility to restore the asset cover
+
+5.4 SHARING OF SECURITY
+
+    The Bank agrees to share the security on pari passu basis with other
+    lenders to the Borrower, subject to execution of an inter-creditor
+    agreement.
+
+================================================================================
+             ARTICLE 6 - CONDITIONS PRECEDENT
+================================================================================
+
+6.1 CONDITIONS TO FIRST DRAWDOWN
+
+    The Bank shall not be obliged to make the first drawdown unless:
+
+    (a) CORPORATE DOCUMENTS:
+        - Certified copies of MOA, AOA, Certificate of Incorporation
+        - Board Resolution authorizing the borrowing
+        - KYC documents of the Company and Directors
+
+    (b) REGULATORY:
+        - RBI Certificate of Registration
+        - Certificate that borrowing is within limits permitted by RBI
+
+    (c) SECURITY DOCUMENTS:
+        - Executed Deed of Hypothecation
+        - Personal Guarantee of Promoter
+        - Corporate Guarantee
+
+    (d) FINANCIAL:
+        - Audited financial statements for last 3 years
+        - Satisfactory credit report from credit bureaus
+        - No Event of Default or potential Event of Default
+
+    (e) LEGAL:
+        - Legal opinion on enforceability of documents
+        - No litigation materially affecting the Borrower
+
+    (f) OTHER:
+        - Payment of all fees and expenses
+        - Any other document reasonably required by the Bank
+
+================================================================================
+                 ARTICLE 7 - COVENANTS
+================================================================================
+
+7.1 AFFIRMATIVE COVENANTS
+
+    The Borrower shall:
+
+    (a) FINANCIAL COVENANTS:
+        - Maintain CRAR of at least 15%
+        - Maintain Debt to Equity ratio below 4:1
+        - Maintain asset cover of 1.10x
+        - Maintain Net NPA below 6%
+
+    (b) REPORTING:
+        - Submit quarterly unaudited financial statements within 45 days
+        - Submit annual audited financial statements within 90 days
+        - Submit monthly stock statements
+        - Inform of any Event of Default within 5 days
+
+    (c) COMPLIANCE:
+        - Maintain RBI registration
+        - Comply with all applicable laws
+        - File all returns with RBI on time
+
+    (d) OTHER:
+        - Maintain adequate insurance
+        - Permit inspection by Bank officials
+        - Use the Facility for stated purpose
+
+7.2 NEGATIVE COVENANTS
+
+    Without the Bank's prior written consent, the Borrower shall not:
+
+    (a) Change its constitution or management
+    (b) Declare dividend if financial covenants are breached
+    (c) Create any security over its assets ranking pari passu or prior
+    (d) Make any material change in business
+    (e) Dispose of substantial assets
+    (f) Undertake amalgamation or reconstruction
+    (g) Make loans to directors or group companies
+
+================================================================================
+                ARTICLE 8 - EVENTS OF DEFAULT
+================================================================================
+
+8.1 EVENTS OF DEFAULT
+
+    Each of the following is an Event of Default:
+
+    (a) The Borrower fails to pay any amount due under the Facility Documents
+        on its due date.
+
+    (b) Any representation or warranty made is incorrect or misleading.
+
+    (c) The Borrower fails to comply with any covenant for 15 days after
+        notice from the Bank.
+
+    (d) Any cross-default occurs (default under any other loan agreement
+        with any creditor for amount exceeding Rs. 1 Crore).
+
+    (e) The Borrower's RBI registration is cancelled or suspended.
+
+    (f) Any insolvency or winding up proceedings are initiated.
+
+    (g) Any judgment or award against the Borrower is not satisfied within
+        30 days.
+
+    (h) Any event occurs which in the Bank's opinion materially adversely
+        affects the Borrower's ability to perform its obligations.
+
+8.2 CONSEQUENCES OF EVENT OF DEFAULT
+
+    Upon occurrence of an Event of Default:
+
+    (a) The Bank may declare the entire outstanding amount immediately due
+        and payable.
+
+    (b) The Bank may cancel any undrawn commitment.
+
+    (c) The Bank may enforce the Security.
+
+    (d) The Bank may exercise any other rights available under law.
+
+================================================================================
+                 ARTICLE 9 - FEES AND EXPENSES
+================================================================================
+
+9.1 PROCESSING FEE
+
+    The Borrower shall pay a non-refundable processing fee of 0.50% of the
+    Facility amount (Rs. 25,00,000) upon execution of this Agreement.
+
+9.2 COMMITMENT FEE
+
+    The Borrower shall pay a commitment fee of 0.25% per annum on the undrawn
+    portion of the Facility during the Availability Period.
+
+9.3 EXPENSES
+
+    The Borrower shall pay all costs and expenses incurred by the Bank in
+    connection with the Facility including legal fees, stamp duty, and
+    registration charges.
+
+================================================================================
+               ARTICLE 10 - GENERAL PROVISIONS
+================================================================================
+
+10.1 NOTICES
+
+     All notices shall be in writing and sent to:
+
+     To the Bank:
+     HDFC Bank Limited
+     Corporate Banking Branch
+     2nd Floor, HDFC Bank House
+     Backbay Reclamation
+     Mumbai - 400021
+     Attention: Relationship Manager
+     Email: corporate.credit@hdfcbank.com
+
+     To the Borrower:
+     FinServe Capital Limited
+     Unit 501-502, 5th Floor
+     Peninsula Business Park
+     Lower Parel, Mumbai - 400013
+     Attention: Chief Financial Officer
+     Email: cfo@finservecapital.com
+
+10.2 ASSIGNMENT
+
+     The Borrower shall not assign any of its rights or obligations under
+     this Agreement. The Bank may assign or transfer its rights to any
+     third party.
+
+10.3 GOVERNING LAW
+
+     This Agreement shall be governed by and construed in accordance with
+     the laws of India.
+
+10.4 JURISDICTION
+
+     The courts at Mumbai shall have exclusive jurisdiction over any dispute
+     arising out of this Agreement.
+
+10.5 ARBITRATION
+
+     Any dispute shall be referred to arbitration under the Arbitration and
+     Conciliation Act, 1996. The arbitration shall be conducted by a sole
+     arbitrator appointed by the Bank. The seat of arbitration shall be Mumbai.
+
+10.6 AMENDMENTS
+
+     No amendment to this Agreement shall be effective unless in writing
+     and signed by both Parties.
+
+================================================================================
+                       EXECUTION
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date
+first written above.
+
+For HDFC BANK LIMITED                   For FINSERVE CAPITAL LIMITED
+
+Sd/-                                    Sd/-
+Name: Mr. Deepak Sharma                 Name: Mr. Rajesh Kumar Mehta
+Designation: Vice President             Designation: Managing Director
+             Corporate Banking
+
+Sd/-                                    Sd/-
+Name: Ms. Priya Iyer                    Name: Mr. Vikram Joshi
+Designation: Senior Manager             Designation: Chief Financial Officer
+             Corporate Banking
+
+--------------------------------------------------------------------------------
+
+WITNESSES:
+
+1. Sd/-
+   Name: _________________
+   Address: ______________
+
+2. Sd/-
+   Name: _________________
+   Address: ______________
+
+================================================================================
+                   SCHEDULE OF ANNEXURES
+================================================================================
+
+Annexure A: List of Documents Submitted as Conditions Precedent
+Annexure B: Form of Drawdown Request
+Annexure C: Form of Compliance Certificate
+Annexure D: Details of Loan Receivables charged
+
+================================================================================
+                CURRENT FACILITY STATUS
+================================================================================
+
+As on November 20, 2025
+
+Original Facility Amount:               Rs. 50,00,00,000
+Amount Drawn:                           Rs. 50,00,00,000
+Amount Repaid:                          Rs. 40,00,00,000
+Outstanding Amount:                     Rs. 10,00,00,000
+
+Repayment Status:                       16 installments paid (on time)
+                                        4 installments remaining
+
+Interest Payment Status:                All interest paid on time
+Default Interest:                       Nil
+Current Interest Rate:                  9.75% (after MCLR reset)
+
+Financial Covenants Compliance:
+- CRAR: 18.2% (Covenant: Min 15%) - COMPLIANT
+- Debt/Equity: 2.03 (Covenant: Max 4) - COMPLIANT
+- Asset Cover: 1.35x (Covenant: Min 1.10x) - COMPLIANT
+- Net NPA: 5.1% (Covenant: Max 6%) - COMPLIANT
+
+Security Status:
+- Charge registered with ROC: Yes (CHG-001)
+- CERSAI Registration: Yes
+- Asset Cover: Maintained
+- Personal Guarantee: Valid
+- Corporate Guarantee: Valid
+
+================================================================================
+                 END OF TERM LOAN AGREEMENT
+================================================================================

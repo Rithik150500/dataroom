@@ -1,0 +1,431 @@
+================================================================================
+                         CREDIT POLICY
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                    Board Approved Policy
+              Last Reviewed and Updated: March 23, 2024
+                  Effective from: April 1, 2024
+
+================================================================================
+                      POLICY OVERVIEW
+================================================================================
+
+1.1 OBJECTIVE
+
+    This Credit Policy establishes the framework for lending operations of
+    FinServe Capital Limited to ensure:
+    - Prudent credit risk management
+    - Consistent underwriting standards
+    - Compliance with RBI regulations
+    - Optimal portfolio quality
+    - Fair and transparent lending practices
+
+1.2 SCOPE
+
+    This policy applies to all lending products offered by the Company:
+    - SME Term Loans
+    - Vehicle Finance
+    - MSME Working Capital
+    - Loan Against Property (planned)
+
+1.3 GUIDING PRINCIPLES
+
+    - Risk-adjusted pricing
+    - Portfolio diversification
+    - Adequate security cover
+    - Proper due diligence
+    - Compliance with Fair Practices Code
+
+================================================================================
+                    II. PRODUCT PARAMETERS
+================================================================================
+
+2.1 SME TERM LOANS
+
+    Parameter               Specifications
+    ------------------------------------------------
+    Ticket Size             Rs. 5 Lakhs - Rs. 3 Crores
+    Tenure                  12 - 60 months
+    Interest Rate           14% - 20% p.a.
+    Processing Fee          1% - 2%
+    Security                Collateral mandatory for > Rs. 25 Lakhs
+    Eligibility             Operating history > 3 years
+                            Annual turnover > Rs. 50 Lakhs
+                            Profitable for 2 out of last 3 years
+
+2.2 VEHICLE FINANCE
+
+    Parameter               Specifications
+    ------------------------------------------------
+    New Vehicles
+    - Ticket Size           Rs. 2 Lakhs - Rs. 50 Lakhs
+    - Tenure                12 - 60 months
+    - LTV                   Up to 85%
+    - Interest Rate         12% - 16% p.a.
+
+    Used Vehicles (< 5 years old)
+    - Ticket Size           Rs. 2 Lakhs - Rs. 25 Lakhs
+    - Tenure                12 - 48 months
+    - LTV                   Up to 70%
+    - Interest Rate         14% - 18% p.a.
+
+    Security                Hypothecation of vehicle
+    Insurance               Comprehensive insurance mandatory
+
+2.3 MSME WORKING CAPITAL
+
+    Parameter               Specifications
+    ------------------------------------------------
+    Ticket Size             Rs. 3 Lakhs - Rs. 1 Crore
+    Tenure                  12 - 36 months
+    Interest Rate           13% - 19% p.a.
+    Processing Fee          1% - 1.5%
+    Security                Hypothecation of stock/receivables
+    Collateral              May be waived for < Rs. 10 Lakhs (CGTMSE)
+
+================================================================================
+               III. CREDIT ASSESSMENT FRAMEWORK
+================================================================================
+
+3.1 CREDIT APPRAISAL PROCESS
+
+    Step 1: Application Screening
+    - Document collection
+    - Preliminary eligibility check
+    - Credit bureau check (CIBIL/Experian/CRIF/Equifax)
+
+    Step 2: Field Investigation
+    - Business visit
+    - Residence verification
+    - Reference check
+    - Stock/asset verification
+
+    Step 3: Financial Analysis
+    - Ratio analysis
+    - Cash flow assessment
+    - Debt service capability
+    - Collateral valuation
+
+    Step 4: Credit Scoring
+    - Internal credit scorecard
+    - Risk rating assignment
+    - Pricing determination
+
+    Step 5: Sanctioning
+    - As per delegated powers
+    - Terms and conditions
+
+3.2 CREDIT SCORING MODEL
+
+    Parameter                          Max Score
+    --------------------------------------------
+    Business Vintage                      15
+    Financial Performance                 25
+    Banking/Credit History                20
+    Management/Promoter Profile           15
+    Industry/Sector Risk                  10
+    Collateral Coverage                   15
+    TOTAL                                100
+
+    Score Range          Rating      Decision
+    -----------------------------------------
+    80 - 100            A           Approve
+    65 - 79             B           Approve with conditions
+    50 - 64             C           Conditional/Enhanced security
+    Below 50            D           Decline
+
+3.3 CREDIT BUREAU CRITERIA
+
+    Minimum CIBIL Score for Individuals: 650
+    Minimum CMR Rank for Companies: CMR 6 or better
+
+    Negative criteria:
+    - DPD > 90 days in last 12 months
+    - Written-off accounts
+    - Settled accounts without NOC
+    - Active wilful defaulter tag
+
+================================================================================
+               IV. DELEGATED LENDING POWERS
+================================================================================
+
+4.1 APPROVAL AUTHORITY MATRIX
+
+    Sanctioning Level        Loan Amount         Secured/Unsecured
+    ---------------------------------------------------------------
+    Branch Manager           Up to Rs. 10 L      Secured only
+    Regional Manager         Up to Rs. 25 L      Both
+    Credit Manager           Up to Rs. 50 L      Both
+    Chief Credit Officer     Up to Rs. 1 Cr      Both
+    Credit Committee         Rs. 1 Cr - 3 Cr     Both
+    Board                    > Rs. 3 Cr          Both
+
+4.2 CREDIT COMMITTEE COMPOSITION
+
+    Chairman:    Managing Director
+    Members:     Chief Credit Officer
+                 Chief Risk Officer
+                 CFO
+                 Head - Collections
+
+    Quorum:      3 members including Chairman
+
+4.3 EXCEPTIONS AND DEVIATIONS
+
+    - Deviations from policy require one-up approval
+    - Material deviations require Credit Committee approval
+    - All deviations to be documented and tracked
+    - Deviation report to Board quarterly
+
+================================================================================
+                V. EXPOSURE NORMS (RBI MANDATED)
+================================================================================
+
+5.1 CONCENTRATION LIMITS
+
+    Single Borrower Exposure:       25% of Owned Funds
+    Group Borrower Exposure:        40% of Owned Funds
+
+    Current Position (Nov 2025):
+    - Largest single exposure: Rs. 32 Cr (22.5% of NOF) - COMPLIANT
+    - Largest group exposure: NIL
+
+5.2 SECTOR CONCENTRATION
+
+    The Company shall diversify across sectors:
+
+    Sector                  Maximum Exposure
+    ----------------------------------------
+    Manufacturing           40%
+    Trading                 30%
+    Services                30%
+    Transport/Logistics     25%
+    Construction            20% (cautious sector)
+    Real Estate             15% (restricted sector)
+
+    Current Portfolio Mix:
+    - Manufacturing: 35%
+    - Trading: 28%
+    - Services: 22%
+    - Transport: 10%
+    - Others: 5%
+
+5.3 GEOGRAPHIC CONCENTRATION
+
+    State                   Maximum Exposure
+    ----------------------------------------
+    Single State            40%
+
+    Current Position:
+    - Maharashtra: 38% (monitoring required)
+    - Karnataka: 22%
+    - Gujarat: 18%
+    - Others: 22%
+
+    Management Action: Expansion to Tamil Nadu, Telangana, Rajasthan
+    to reduce Maharashtra concentration.
+
+5.4 PROHIBITED EXPOSURES
+
+    The Company shall NOT lend to:
+    - Directors or their relatives (RBI restriction)
+    - Companies where directors are interested
+    - Sensitive sectors (speculation, wilful defaulters)
+    - Bridge loans to companies for acquisition
+    - Financing for shares/debentures purchase
+
+================================================================================
+              VI. COLLATERAL AND SECURITY
+================================================================================
+
+6.1 COLLATERAL REQUIREMENTS
+
+    Loan Type               Collateral Requirement
+    ----------------------------------------------
+    > Rs. 25 Lakhs         Mandatory collateral
+    Rs. 10 - 25 Lakhs      Collateral or CGTMSE
+    < Rs. 10 Lakhs         CGTMSE coverage preferred
+
+6.2 ACCEPTABLE COLLATERAL
+
+    Primary:
+    - Commercial property (LTV: 60-70%)
+    - Residential property (LTV: 65-75%)
+    - Plant & Machinery (LTV: 50-60%)
+    - Vehicles (LTV: 70-85%)
+
+    Additional:
+    - Fixed Deposits (Margin: 10-15%)
+    - Government Securities (Margin: 10%)
+    - LIC Policies (Surrender value)
+
+6.3 VALUATION REQUIREMENTS
+
+    - Valuation by empanelled valuers
+    - Distress value and market value both
+    - Re-valuation every 3 years
+    - Immediate valuation if value deterioration suspected
+
+6.4 SECURITY DOCUMENTATION
+
+    - Registered mortgage for immovable property
+    - Hypothecation agreement for movables
+    - CERSAI registration within 30 days
+    - Personal guarantee of promoters/directors
+    - Corporate guarantee where applicable
+
+================================================================================
+               VII. INTEREST RATE AND PRICING
+================================================================================
+
+7.1 PRICING MODEL
+
+    Interest Rate = Base Rate + Credit Risk Premium + Operating Cost Margin
+
+    Base Rate: Linked to cost of funds
+    Current Base Rate: 10.5% p.a.
+
+7.2 RISK-BASED PRICING
+
+    Credit Rating          Risk Premium
+    ------------------------------------
+    A                      2.0% - 3.0%
+    B                      3.0% - 5.0%
+    C                      5.0% - 7.5%
+
+7.3 PRICING APPROVAL
+
+    - Standard pricing as per grid: Branch level
+    - Pricing concession up to 50 bps: Regional Manager
+    - Pricing concession > 50 bps: Credit Committee
+
+================================================================================
+             VIII. LOAN MONITORING AND REVIEW
+================================================================================
+
+8.1 POST-DISBURSEMENT MONITORING
+
+    Frequency           Activity
+    -------------------------------------------
+    Monthly             EMI/repayment tracking
+    Quarterly           Stock/debtors statement
+    Half-yearly         Financial statements
+    Annually            Valuation update (if required)
+                        Insurance renewal check
+                        Credit bureau refresh
+
+8.2 EARLY WARNING SIGNALS
+
+    Financial:
+    - Declining sales/profits
+    - Deteriorating ratios
+    - Delay in submission of financials
+    - Bouncing of cheques
+
+    Operational:
+    - Key management changes
+    - Loss of major customer/supplier
+    - Regulatory/legal issues
+    - Labor disputes
+
+    Account Conduct:
+    - Irregular repayments
+    - Frequent ECS returns
+    - Request for restructuring
+    - Downgrade by rating agency
+
+8.3 SPECIAL MENTION ACCOUNTS (SMA)
+
+    Category        Days Past Due        Action
+    ------------------------------------------------
+    SMA-0           1 - 30 days          Reminder calls
+    SMA-1           31 - 60 days         Collection visits
+                                         Send to legal review
+    SMA-2           61 - 90 days         Recall notice
+                                         Initiate recovery
+
+================================================================================
+              IX. NPA MANAGEMENT AND PROVISIONING
+================================================================================
+
+9.1 ASSET CLASSIFICATION (AS PER RBI IRACP NORMS)
+
+    Category              Definition              Provisioning
+    ----------------------------------------------------------
+    Standard              < 90 days overdue       0.40%
+    Sub-standard          > 90 days overdue       15%
+    Doubtful - 1 yr       Sub-std for 1 yr        25%
+    Doubtful - 2 yr       Sub-std for 2 yrs       40%
+    Doubtful - 3 yr       Sub-std for 3 yrs       100%
+    Loss                  Identified as loss      100%
+
+9.2 CURRENT NPA POSITION
+
+    As of September 30, 2025:
+    - Gross NPA: Rs. 40 Crores (9.3%)
+    - Net NPA: Rs. 22 Crores (5.1%)
+    - Provisioning Coverage: 68%
+
+    Target: Reduce Gross NPA to 8% by March 2025
+
+9.3 RECOVERY AND RESOLUTION
+
+    Methods:
+    - Soft collections
+    - Legal action (DRT, Civil Court)
+    - SARFAESI action (for secured loans > Rs. 1 Lakh)
+    - One-Time Settlement (OTS)
+    - Assignment/sale to ARCs
+
+    OTS Authority:
+    - Up to 20% write-off: Chief Credit Officer
+    - 20-40% write-off: Credit Committee
+    - > 40% write-off: Board
+
+================================================================================
+                X. REGULATORY COMPLIANCE
+================================================================================
+
+10.1 RBI COMPLIANCE CHECKLIST
+
+    - Single/group borrower limits - Daily monitoring
+    - Capital adequacy impact - Pre-sanction check
+    - Sector exposure limits - Monthly review
+    - NPA classification - Monthly
+    - Provisioning adequacy - Quarterly
+
+10.2 REPORTING
+
+    To RBI:
+    - NBS-7 (Quarterly)
+    - NBS-8 (Half-yearly)
+    - Large exposure report (Annual)
+
+    To Board:
+    - Portfolio quality report (Monthly)
+    - Concentration report (Quarterly)
+    - NPA movement (Quarterly)
+
+================================================================================
+                     BOARD APPROVAL
+================================================================================
+
+This Credit Policy was reviewed and approved by the Board of Directors at
+its 75th Meeting held on March 23, 2024.
+
+Resolution No: FSCL/BM/75/2024/05
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-                                    Sd/-
+RAJESH KUMAR MEHTA                      RAMESH GUPTA
+Managing Director                       Chief Risk Officer
+
+Date: March 23, 2024
+Place: Mumbai
+
+================================================================================
+                   END OF CREDIT POLICY
+================================================================================

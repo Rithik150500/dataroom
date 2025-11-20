@@ -1,0 +1,331 @@
+================================================================================
+                      CAPITALIZATION TABLE
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                    AS ON NOVEMBER 20, 2025
+
+================================================================================
+                    CAPITAL STRUCTURE
+================================================================================
+
+AUTHORIZED SHARE CAPITAL:
+
+7,50,00,000 Equity Shares of Rs. 10 each        Rs. 75,00,00,000
+
+--------------------------------------------------------------------------------
+
+ISSUED, SUBSCRIBED AND PAID-UP CAPITAL:
+
+4,50,00,000 Equity Shares of Rs. 10 each        Rs. 45,00,00,000
+fully paid up
+
+================================================================================
+                 DETAILED SHAREHOLDING
+================================================================================
+
+--------------------------------------------------------------------------------
+                A. PROMOTER & PROMOTER GROUP (51.00%)
+--------------------------------------------------------------------------------
+
+Sl.  Shareholder Name           No. of Shares    %      Category
+--------------------------------------------------------------------------------
+1.   Rajesh Kumar Mehta          67,50,000     15.00%   Promoter/MD
+     DIN: 02345678
+     PAN: AABPM1234A
+
+2.   Sunita Rajesh Mehta         27,00,000      6.00%   Promoter Group
+     (Wife of Rajesh Mehta)
+     PAN: AABPM5678B
+
+3.   Ankit Rajesh Mehta          18,00,000      4.00%   Promoter Group
+     (Son of Rajesh Mehta)
+     PAN: AABPM9012C
+
+4.   FinServe Holdings Pvt Ltd  1,17,00,000    26.00%   Promoter Group
+     CIN: U67190MH2010PTC234567                         Body Corporate
+     (100% held by Mehta family)
+--------------------------------------------------------------------------------
+     Sub-total Promoter Group   2,29,50,000    51.00%
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+            B. FINANCIAL INVESTORS (35.00%)
+--------------------------------------------------------------------------------
+
+Sl.  Shareholder Name           No. of Shares    %      Category
+--------------------------------------------------------------------------------
+5.   India Growth Partners       90,00,000     20.00%   Cat II AIF
+     Fund I                                             (Domestic PE)
+     SEBI Regn: IN/AIF2/14-15/0234
+
+     Investment Details:
+     - Date of Investment: June 15, 2019
+     - Investment Amount: Rs. 54 Crores
+     - Price per Share: Rs. 60
+     - Pre-money Valuation: Rs. 216 Crores
+     - Post-money Valuation: Rs. 270 Crores
+
+     Rights:
+     - Board seat (1 nominee director)
+     - Anti-dilution protection
+     - Tag-along rights
+     - Veto on material decisions
+
+6.   Sequoia Capital India       45,00,000     10.00%   Cat II AIF
+     Growth Fund II                                     (Domestic PE)
+     SEBI Regn: IN/AIF2/15-16/0345
+
+     Investment Details:
+     - Date of Investment: March 20, 2022
+     - Investment Amount: Rs. 45 Crores
+     - Price per Share: Rs. 100
+     - Pre-money Valuation: Rs. 405 Crores
+     - Post-money Valuation: Rs. 450 Crores
+
+     Rights:
+     - Board seat (1 nominee director)
+     - Anti-dilution protection
+     - Tag-along rights
+
+7.   Fidelity International      22,50,000      5.00%   FPI Category I
+     FPI Regn: IN-XX-FA-0234-19
+
+     Investment Details:
+     - Date of Investment: September 15, 2024
+     - Investment Amount: Rs. 27 Crores
+     - Price per Share: Rs. 120
+     - Valuation: Rs. 540 Crores
+
+--------------------------------------------------------------------------------
+     Sub-total Financial        1,57,50,000    35.00%
+     Investors
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+              C. PUBLIC SHAREHOLDERS (14.00%)
+--------------------------------------------------------------------------------
+
+Category                        No. of Shares    %      No. of Holders
+--------------------------------------------------------------------------------
+Resident Individuals             45,00,000     10.00%        785
+NRIs                              9,00,000      2.00%         42
+Bodies Corporate                  9,00,000      2.00%         13
+--------------------------------------------------------------------------------
+Sub-total Public                 63,00,000     14.00%        840
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+                    GRAND TOTAL
+--------------------------------------------------------------------------------
+TOTAL SHARES                    4,50,00,000   100.00%        847
+================================================================================
+
+================================================================================
+                 SHARE ALLOTMENT HISTORY
+================================================================================
+
+Date          Allottees             Shares      Price    Amount     Approval
+                                               (Rs.)    (Rs. Cr)
+--------------------------------------------------------------------------------
+12-Aug-2015   Founding Promoters   1,00,000      10      0.10     Incorporation
+
+30-Sep-2016   Promoter Group       50,00,000     10      5.00     Board + RBI
+              (Rights Issue)
+
+15-Mar-2018   Promoter Group       39,50,000     25      9.88     Board
+              (Preferential)
+
+15-Jun-2019   India Growth         90,00,000     60     54.00     Board + EGM
+              Partners Fund I                                     + RBI
+
+20-Mar-2022   Sequoia Capital      45,00,000    100     45.00     Board + EGM
+              India GF II                                         + RBI
+
+15-Sep-2024   Fidelity Int'l       22,50,000    120     27.00     Board + EGM
+              + Public             40,50,000
+
+31-Dec-2024   Bonus Issue               -         -        -      (Proposed)
+              (1:5 ratio)
+--------------------------------------------------------------------------------
+TOTAL                            4,50,00,000          140.98
+
+Note: All allotments resulting in shareholding > 26% required prior RBI
+approval as per NBFC regulations.
+
+================================================================================
+                  RBI APPROVALS
+================================================================================
+
+Date          Nature of Approval                         RBI Reference
+--------------------------------------------------------------------------------
+15-Jun-2019   Acquisition of > 26% by India Growth      DNBS.CO./3268/2019
+              Partners Fund I (acquired 20%)
+
+20-Mar-2022   Acquisition of > 10% by Sequoia Capital   DNBS.CO./3268/2022
+              India GF II (acquired 10%)
+
+15-Sep-2024   Change in shareholding pattern            DNBS.CO./3268/2024
+              (FPI + Public issue)
+
+Note: RBI monitors shareholding changes in NBFCs and requires prior approval
+for acquisition of more than 26% and intimation for more than 10%.
+
+================================================================================
+                   VALUATION HISTORY
+================================================================================
+
+Date          Event                  Share Price   Equity Value   Method
+                                        (Rs.)        (Rs. Cr)
+--------------------------------------------------------------------------------
+Aug-2015      Incorporation              10            1.00       At par
+Sep-2016      Rights Issue               10            6.00       At par
+Mar-2018      Preferential               25           22.38       DCF
+Jun-2019      Series A PE                60          270.00       DCF + Comps
+Mar-2022      Series B PE               100          450.00       DCF + Comps
+Sep-2024      FPI + Public              120          540.00       DCF + Comps
+Nov-2025      Current (Est.)            130          585.00       P/BV Method
+
+Valuation Methodology Notes:
+- DCF: Discounted Cash Flow based on projected financials
+- Comps: Comparable company multiples (P/E, P/BV)
+- Current valuation based on P/BV of 4x (Net Worth Rs. 145 Cr)
+
+================================================================================
+              NET OWNED FUNDS (NOF) - RBI DEFINITION
+================================================================================
+
+As per RBI definition, NOF = Paid-up Capital + Free Reserves - Accumulated
+Losses - Intangible Assets - Investments in subsidiaries
+
+Particulars                              Amount (Rs. Cr)
+--------------------------------------------------------------------------------
+Paid-up Equity Capital                        45.00
+Reserves:
+  - Securities Premium                        95.98
+  - Retained Earnings                         62.00
+  - Statutory Reserve (20% of PAT)            15.00
+                                            -------
+Gross Net Worth                              217.98
+Less: Intangible Assets                       (1.00)
+Less: Deferred Tax Asset                      (3.20)
+                                            -------
+Net Owned Funds (NOF)                        213.78
+Less: Subordinated Debt in Tier II           (15.00)
+                                            -------
+NOF for CRAR Calculation                     198.78
+Add: Tier II Capital                          17.00
+                                            -------
+Total Capital for CRAR                       215.78
+
+Note: NOF is well above RBI minimum requirement of Rs. 2 Crores.
+
+================================================================================
+                  SHAREHOLDING PATTERN
+================================================================================
+
+Category                         Shares        %       Voting %
+--------------------------------------------------------------------------------
+A. Promoter & Promoter Group  2,29,50,000    51.00%    51.00%
+B. Financial Investors        1,57,50,000    35.00%    35.00%
+   - Domestic PE Funds        1,35,00,000    30.00%    30.00%
+   - FPIs                        22,50,000     5.00%     5.00%
+C. Public                        63,00,000    14.00%    14.00%
+--------------------------------------------------------------------------------
+TOTAL                         4,50,00,000   100.00%   100.00%
+
+Note: All shares have equal voting rights (one share = one vote).
+
+================================================================================
+              KEY SHAREHOLDER RIGHTS
+================================================================================
+
+PROMOTER GROUP:
+- Control over Board composition (4 directors)
+- Operational control
+- Pre-emptive rights on new issues
+- Right of first refusal on secondary sales
+
+INDIA GROWTH PARTNERS (20%):
+- 1 Board seat (Arun Srinivasan)
+- Anti-dilution (weighted average)
+- Tag-along on promoter sale
+- Information rights (monthly MIS)
+- Veto on: M&A, debt > 4x equity, related party transactions > Rs. 1 Cr
+
+SEQUOIA CAPITAL (10%):
+- 1 Board seat (Dr. Priya Nair)
+- Anti-dilution (weighted average)
+- Tag-along on promoter sale
+- Information rights (monthly MIS)
+
+FIDELITY INTERNATIONAL (5%):
+- No Board seat
+- Standard investor protections
+- Information rights (quarterly)
+
+================================================================================
+                  EXIT SCENARIOS
+================================================================================
+
+Potential exit routes for PE investors:
+
+1. IPO (Initial Public Offering)
+   - Timeline: FY 2026-27 (planned)
+   - Minimum requirements: 3 years profitability, Net Worth > Rs. 1 Cr
+   - Lock-in: Promoters 3 years, PE investors 1 year
+
+2. Strategic Sale
+   - Sale to larger NBFC or bank
+   - Requires RBI approval for > 26% acquisition
+   - Tag-along rights trigger
+
+3. Secondary Sale
+   - Sale to other PE funds
+   - Right of first refusal to existing shareholders
+   - Requires RBI intimation
+
+4. Buyback
+   - Company buyback subject to free reserves
+   - Max 25% of paid-up capital + free reserves
+
+================================================================================
+               ESOP POOL (Reserved)
+================================================================================
+
+The Company has reserved 5% of post-money equity for Employee Stock Options.
+
+ESOP Scheme 2020:
+- Pool Size: 22,50,000 shares (5% of 4,50,00,000)
+- Approved by: Shareholders at AGM September 2020
+- Vesting Period: 4 years (25% per year)
+- Exercise Price: Fair market value at grant date
+- Exercise Period: 5 years from vesting
+
+ESOP Grants as on Nov 2025:
+- Total Granted: 15,00,000 options
+- Vested: 8,00,000 options
+- Exercised: 3,00,000 options
+- Lapsed: 2,00,000 options
+- Outstanding: 10,00,000 options
+
+================================================================================
+                    CERTIFICATION
+================================================================================
+
+This Capitalization Table is accurate and complete to the best of our
+knowledge as on November 20, 2025.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-                                    Sd/-
+RAJESH KUMAR MEHTA                      VIKRAM SHARMA
+Managing Director                       Company Secretary
+
+Date: November 20, 2025
+Place: Mumbai
+
+================================================================================
+               END OF CAPITALIZATION TABLE
+================================================================================

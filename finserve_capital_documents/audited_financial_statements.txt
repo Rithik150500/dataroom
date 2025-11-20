@@ -1,0 +1,436 @@
+================================================================================
+               AUDITED FINANCIAL STATEMENTS
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                  For the Financial Year 2023-24
+             (April 1, 2023 to March 31, 2024)
+
+================================================================================
+                 INDEPENDENT AUDITOR'S REPORT
+================================================================================
+
+To the Members of FinServe Capital Limited
+
+Report on the Audit of the Financial Statements
+
+Opinion
+
+We have audited the accompanying financial statements of FinServe Capital
+Limited ("the Company"), which comprise the Balance Sheet as at March 31,
+2024, the Statement of Profit and Loss (including Other Comprehensive
+Income), the Statement of Changes in Equity and the Statement of Cash Flows
+for the year then ended, and notes to the financial statements, including a
+summary of significant accounting policies and other explanatory information.
+
+In our opinion and to the best of our information and according to the
+explanations given to us, the aforesaid financial statements give the
+information required by the Companies Act, 2013 ("Act") in the manner so
+required and give a true and fair view in conformity with the accounting
+principles generally accepted in India, of the state of affairs of the
+Company as at March 31, 2024, its profit including other comprehensive
+income, changes in equity and its cash flows for the year ended on that date.
+
+Basis for Opinion
+
+We conducted our audit in accordance with the Standards on Auditing (SAs)
+specified under section 143(10) of the Companies Act, 2013. Our
+responsibilities under those SAs are further described in the Auditor's
+Responsibilities for the Audit of the Financial Statements section of our
+report. We are independent of the Company in accordance with the Code of
+Ethics issued by the Institute of Chartered Accountants of India together
+with the ethical requirements that are relevant to our audit of the
+financial statements under the provisions of the Act and the Rules thereunder,
+and we have fulfilled our other ethical responsibilities in accordance with
+these requirements and the Code of Ethics.
+
+We believe that the audit evidence we have obtained is sufficient and
+appropriate to provide a basis for our opinion.
+
+Key Audit Matters
+
+Key audit matters are those matters that, in our professional judgment, were
+of most significance in our audit of the financial statements of the current
+period. These matters were addressed in the context of our audit of the
+financial statements as a whole, and in forming our opinion thereon, and we
+do not provide a separate opinion on these matters.
+
+1. Expected Credit Loss (ECL) on Loan Portfolio
+
+   The Company's loan portfolio of Rs. 392 Crores requires significant
+   judgment in estimating Expected Credit Losses. The key areas of judgment
+   include staging of loans, probability of default, loss given default, and
+   macroeconomic variables. We have examined the methodology, tested key
+   assumptions, and verified calculations.
+
+2. Asset Classification as per RBI IRACP Norms
+
+   The Company is required to classify loan assets and make provisions as
+   per RBI Income Recognition, Asset Classification and Provisioning norms.
+   We have verified the asset classification, tested ageing of receivables,
+   and checked provisioning adequacy.
+
+Report on Other Legal and Regulatory Requirements
+
+The Balance Sheet, the Statement of Profit and Loss, and the Cash Flow
+Statement dealt with by this Report are in agreement with the books of account.
+
+For ABC & ASSOCIATES
+Chartered Accountants
+Firm Registration Number: 123456W
+
+Sd/-
+(Partner)
+Membership Number: 123456
+UDIN: 24123456ABCDEF1234
+
+Place: Mumbai
+Date: May 18, 2024
+
+================================================================================
+                       BALANCE SHEET
+                    AS AT MARCH 31, 2024
+================================================================================
+
+                                            As at          As at
+Particulars                              31-Mar-2024    31-Mar-2023
+                                          (Rs. Cr)       (Rs. Cr)
+--------------------------------------------------------------------------------
+
+ASSETS
+
+Financial Assets
+  Cash and cash equivalents                  18.50          15.20
+  Bank balance other than above               8.00           6.50
+  Loans                                     365.00         331.00
+  Investments                                23.00          19.00
+  Other financial assets                      4.50           3.80
+                                           -------        -------
+  Total Financial Assets                    419.00         375.50
+
+Non-Financial Assets
+  Current tax assets (net)                    2.80           2.50
+  Deferred tax assets (net)                   3.20           2.80
+  Property, plant and equipment               5.50           5.00
+  Right-of-use assets                         2.50           3.00
+  Intangible assets                           1.00           1.20
+  Other non-financial assets                  3.00           2.50
+                                           -------        -------
+  Total Non-Financial Assets                 18.00          17.00
+
+TOTAL ASSETS                                437.00         392.50
+                                           =======        =======
+
+LIABILITIES AND EQUITY
+
+LIABILITIES
+
+Financial Liabilities
+  Debt securities (NCDs)                     85.00          75.00
+  Borrowings (other than debt securities)   195.00         175.00
+  Subordinated liabilities                   15.00          12.00
+  Lease liabilities                           2.80           3.20
+  Other financial liabilities                 8.20           7.30
+                                           -------        -------
+  Total Financial Liabilities               306.00         272.50
+
+Non-Financial Liabilities
+  Current tax liabilities (net)               1.50           1.20
+  Provisions                                  3.50           3.30
+  Other non-financial liabilities             2.00           1.50
+                                           -------        -------
+  Total Non-Financial Liabilities             7.00           6.00
+
+EQUITY
+  Equity share capital                       45.00          45.00
+  Other equity                               79.00          69.00
+                                           -------        -------
+  Total Equity                              124.00         114.00
+
+TOTAL LIABILITIES AND EQUITY                437.00         392.50
+                                           =======        =======
+
+Net Owned Funds (NOF)                       131.00         118.00
+Capital to Risk Weighted Assets             17.80%         17.50%
+  Ratio (CRAR)
+
+================================================================================
+                 STATEMENT OF PROFIT AND LOSS
+               FOR THE YEAR ENDED MARCH 31, 2024
+================================================================================
+
+                                            Year ended     Year ended
+Particulars                               31-Mar-2024    31-Mar-2023
+                                           (Rs. Cr)       (Rs. Cr)
+--------------------------------------------------------------------------------
+
+REVENUE FROM OPERATIONS
+
+Interest income                              52.50          47.20
+Fees and commission income                    3.80           3.40
+Net gain on fair value changes                0.90           0.70
+                                           -------        -------
+Total Revenue from Operations                57.20          51.30
+
+Other Income                                  0.80           0.60
+                                           -------        -------
+Total Income                                 58.00          51.90
+
+EXPENSES
+
+Finance costs                                24.50          21.80
+Impairment on financial instruments           6.50           5.80
+  (Expected credit loss)
+Employee benefits expense                    10.20           9.50
+Depreciation and amortization                 1.50           1.40
+Other expenses                                5.80           5.20
+                                           -------        -------
+Total Expenses                               48.50          43.70
+
+Profit Before Tax                             9.50           8.20
+
+Tax Expense
+  Current tax                                 2.60           2.20
+  Deferred tax                               (0.40)         (0.30)
+                                           -------        -------
+  Total Tax Expense                           2.20           1.90
+
+Profit for the Year                           7.30           6.30
+
+Other Comprehensive Income
+  Items that will not be reclassified
+    to profit or loss
+    Remeasurement of defined benefit          (0.10)         (0.08)
+      plans (net of tax)
+                                           -------        -------
+Total Comprehensive Income for the Year       7.20           6.22
+                                           =======        =======
+
+Earnings Per Share (Face value Rs. 10)
+  Basic (Rs.)                                16.22          14.00
+  Diluted (Rs.)                              16.22          14.00
+
+================================================================================
+                    KEY FINANCIAL RATIOS
+================================================================================
+
+Particulars                              FY 2023-24     FY 2022-23
+--------------------------------------------------------------------------------
+
+Net Interest Margin (NIM)                   7.15%          7.00%
+Net Interest Income (NII)                  28.00 Cr       25.40 Cr
+Cost to Income Ratio                       41.5%          42.2%
+Return on Assets (ROA)                      1.76%          1.70%
+Return on Equity (ROE)                     13.09%         12.86%
+Gross NPA Ratio                             9.10%          8.50%
+Net NPA Ratio                               4.90%          4.50%
+Provisioning Coverage Ratio                 68%            65%
+CRAR                                       17.80%         17.50%
+Debt to Equity Ratio                        2.47           2.39
+Leverage Ratio                              3.52           3.44
+
+================================================================================
+                  NOTES TO FINANCIAL STATEMENTS
+================================================================================
+
+1. CORPORATE INFORMATION
+
+   FinServe Capital Limited ("the Company") is a Non-Banking Financial
+   Company registered with the Reserve Bank of India (Registration No.
+   N-14.03268). The Company is engaged in the business of providing loans
+   to SMEs, vehicle finance, and MSME working capital.
+
+2. SIGNIFICANT ACCOUNTING POLICIES
+
+   2.1 Basis of Preparation
+       The financial statements are prepared in accordance with Indian
+       Accounting Standards (Ind AS) notified under Section 133 of the
+       Companies Act, 2013 read with the Companies (Indian Accounting
+       Standards) Rules, 2015, as amended.
+
+   2.2 Loans
+       Loans are recognized when the funds are transferred to the borrower's
+       account. Loans are measured at amortized cost using the effective
+       interest rate method.
+
+   2.3 Expected Credit Loss (ECL)
+       The Company recognizes expected credit losses on financial assets
+       measured at amortized cost in accordance with Ind AS 109.
+
+   2.4 Revenue Recognition
+       Interest income is recognized using the effective interest rate
+       method. Fees and commission are recognized when the service is
+       provided.
+
+3. LOAN PORTFOLIO
+
+   Product-wise Break-up                     Rs. Crores      %
+   --------------------------------------------------------
+   SME Term Loans                               164.25     45%
+   Vehicle Finance                              127.75     35%
+   MSME Working Capital                          73.00     20%
+   TOTAL                                        365.00    100%
+
+4. ASSET QUALITY
+
+   Classification                            Rs. Crores      %
+   --------------------------------------------------------
+   Standard Assets                              331.78    90.9%
+   Sub-Standard Assets                           23.73     6.5%
+   Doubtful Assets                                7.30     2.0%
+   Loss Assets                                    2.19     0.6%
+   TOTAL                                        365.00   100.0%
+
+   Gross NPA                                     33.22     9.1%
+   Less: Provisions                              15.22
+   Net NPA                                       18.00     4.9%
+
+5. BORROWINGS
+
+   Source                                    Rs. Crores
+   --------------------------------------------------------
+   Term Loans from Banks                        150.00
+   Working Capital from Banks                    30.00
+   Non-Convertible Debentures                    85.00
+   Commercial Paper                              15.00
+   Subordinated Debt (Tier II)                   15.00
+   TOTAL                                        295.00
+
+6. CAPITAL ADEQUACY
+
+   Particulars                               Rs. Crores
+   --------------------------------------------------------
+   Tier I Capital                               118.00
+   Tier II Capital                               17.00
+   Total Capital                                135.00
+   Risk Weighted Assets                         758.43
+   CRAR                                         17.80%
+   (Minimum required: 15%)
+
+7. RELATED PARTY TRANSACTIONS
+
+   Transaction                              Rs. Lakhs
+   --------------------------------------------------------
+   Rent paid to Mehta Properties LLP           180.00
+   (Promoter Group Entity)
+
+   Insurance brokerage to FinServe             48.00
+   Insurance Broking Pvt Ltd
+
+   All transactions are at arm's length and in ordinary course of business.
+
+8. CONTINGENT LIABILITIES
+
+   Description                              Rs. Lakhs
+   --------------------------------------------------------
+   Claims against Company not
+     acknowledged as debts                      120.00
+   Income Tax demands under appeal               85.00
+   Bank guarantees                               50.00
+
+================================================================================
+                  STATEMENT OF CASH FLOWS
+               FOR THE YEAR ENDED MARCH 31, 2024
+================================================================================
+
+                                            Year ended     Year ended
+Particulars                               31-Mar-2024    31-Mar-2023
+                                           (Rs. Cr)       (Rs. Cr)
+--------------------------------------------------------------------------------
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+
+Profit before tax                             9.50           8.20
+Adjustments for:
+  Depreciation and amortization               1.50           1.40
+  Expected credit loss provision              6.50           5.80
+  Finance costs                              24.50          21.80
+  Interest income                           (52.50)        (47.20)
+                                           -------        -------
+Operating profit before working capital     (10.50)         (9.70)
+  changes
+
+Changes in working capital:
+  Increase in loans                         (40.50)        (44.00)
+  Increase in other assets                   (1.50)         (1.20)
+  Increase in other liabilities               1.50           1.10
+                                           -------        -------
+Cash generated from operations              (51.00)        (53.80)
+
+Interest received                            51.80          46.50
+Interest paid                               (23.80)        (21.20)
+Tax paid                                     (2.30)         (2.00)
+                                           -------        -------
+Net cash used in operating activities       (25.30)        (30.50)
+
+CASH FLOWS FROM INVESTING ACTIVITIES
+
+Purchase of property, plant & equipment      (1.00)         (0.80)
+Purchase of investments                      (4.00)         (3.00)
+                                           -------        -------
+Net cash used in investing activities        (5.00)         (3.80)
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+
+Proceeds from borrowings                     50.00          45.00
+Repayment of borrowings                     (20.00)        (15.00)
+Proceeds from issue of NCDs                  10.00          10.00
+Proceeds from subordinated debt               3.00           2.00
+Payment of lease liabilities                 (0.90)         (0.85)
+Dividend paid                                (6.00)         (5.00)
+                                           -------        -------
+Net cash from financing activities           36.10          36.15
+
+Net increase in cash and cash equivalents     5.80           1.85
+Cash and cash equivalents at beginning       21.70          19.85
+                                           -------        -------
+Cash and cash equivalents at end             27.50          21.70
+                                           =======        =======
+
+================================================================================
+                5-YEAR FINANCIAL SUMMARY
+================================================================================
+
+Particulars           FY 20-21   FY 21-22   FY 22-23   FY 23-24   FY 24-25(P)
+                      (Rs. Cr)   (Rs. Cr)   (Rs. Cr)   (Rs. Cr)   (Rs. Cr)
+--------------------------------------------------------------------------------
+
+Total Assets            245        298        356        392        428
+Loan Book               210        255        310        365        410
+Net Worth                87        102        118        131        145
+Total Borrowings        148        182        225        260        295
+
+Total Income             38         46         52         58         64
+Finance Cost             16         19         22         25         28
+Profit Before Tax         8         12         15         10         11
+Profit After Tax          6          9         11          7          8
+
+Gross NPA %            11.20%      9.80%      8.50%      9.10%      9.30%
+Net NPA %               6.20%      5.50%      4.50%      4.90%      5.10%
+CRAR %                 18.50%     17.80%     17.50%     17.80%     18.20%
+ROA %                   2.50%      3.20%      3.30%      1.90%      2.00%
+ROE %                   7.30%      9.50%     10.00%      5.70%      5.80%
+
+Note: FY 24-25(P) figures are projections based on H1 FY 24-25 performance.
+
+================================================================================
+                      CERTIFICATION
+================================================================================
+
+The above financial statements have been extracted from the audited financial
+statements for FY 2023-24.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-                    Sd/-                    Sd/-
+RAJESH KUMAR MEHTA      VIKRAM JOSHI            VIKRAM SHARMA
+Managing Director       Chief Financial         Company Secretary
+                        Officer
+
+Date: May 18, 2024
+Place: Mumbai
+
+================================================================================
+                END OF FINANCIAL STATEMENTS
+================================================================================
