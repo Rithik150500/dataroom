@@ -1,0 +1,294 @@
+================================================================================
+                 TAX RETURNS AND COMPLIANCE
+                SKYLINE DEVELOPERS PRIVATE LIMITED
+                    CIN: U45201MH2018PTC305678
+================================================================================
+
+================================================================================
+                    TAX REGISTRATION DETAILS
+================================================================================
+
+1. PERMANENT ACCOUNT NUMBER (PAN)
+   PAN:                 AABCS1234A
+   Date of Allotment:   12.06.2018
+   Jurisdiction:        Mumbai
+
+2. TAX DEDUCTION ACCOUNT NUMBER (TAN)
+   TAN:                 MUMS12345A
+   Date of Allotment:   15.06.2018
+
+3. GOODS AND SERVICES TAX (GST)
+   GSTIN:               27AABCS1234A1ZK
+   Date of Registration: 01.07.2018
+   State:               Maharashtra
+   Type:                Regular
+
+4. PROFESSIONAL TAX
+   PT Number:           PT/MUM/2018/12345
+   Circle:              Mumbai
+
+================================================================================
+                 INCOME TAX RETURNS - SUMMARY
+================================================================================
+
+--------------------------------------------------------------------------------
+Assessment  Return     Date of    Total      Taxable    Tax        Refund/
+Year        Form       Filing     Income     Income     Paid       Demand
+                                  (Rs.Lakhs) (Rs.Lakhs) (Rs.Lakhs) (Rs.Lakhs)
+--------------------------------------------------------------------------------
+2019-20     ITR-6      29.09.2019    180.00    150.00     38.50       -
+2020-21     ITR-6      30.09.2020    850.00    780.00    203.00       -
+2021-22     ITR-6      30.09.2021  1,950.00  1,800.00    468.00       -
+2022-23     ITR-6      29.09.2022  2,830.00  2,600.00    676.00       -
+2023-24     ITR-6      28.09.2023  3,800.00  3,500.00    910.00       -
+2024-25     ITR-6      28.09.2024  4,900.00  4,500.00  1,200.00       -
+--------------------------------------------------------------------------------
+
+Status: All returns filed within due date. No pending assessments or demands.
+
+================================================================================
+               INCOME TAX COMPUTATION - FY 2023-24
+================================================================================
+
+                                                    (Rs. in Lakhs)
+--------------------------------------------------------------------------------
+
+Profit as per Books                                      4,900.00
+
+Add: Disallowances
+  - Depreciation as per Books                              150.00
+  - Provisions                                             200.00
+  - Donations (non-eligible)                                10.00
+  - Penalties                                                5.00
+                                                        ----------
+                                                           365.00
+
+Less: Deductions
+  - Depreciation as per IT Act                             180.00
+  - Section 80JJAA (Employment generation)                  85.00
+                                                        ----------
+                                                           265.00
+--------------------------------------------------------------------------------
+
+Taxable Income                                           5,000.00
+
+Tax Computation:
+  Basic Tax @ 25%                                        1,250.00
+  Surcharge @ 7%                                            87.50
+  Education Cess @ 4%                                       53.50
+                                                        ----------
+  Total Tax Liability                                    1,391.00
+
+Less: MAT Credit                                           191.00
+                                                        ----------
+Net Tax Payable                                          1,200.00
+
+Less: Advance Tax Paid                                   1,200.00
+                                                        ----------
+Tax Payable/(Refund)                                         0.00
+================================================================================
+
+================================================================================
+                    ADVANCE TAX PAYMENTS
+================================================================================
+
+Assessment Year 2024-25 (FY 2023-24)
+
+--------------------------------------------------------------------------------
+Installment     Due Date      Amount Due     Amount Paid    Date Paid
+                              (Rs. Lakhs)    (Rs. Lakhs)
+--------------------------------------------------------------------------------
+1st (15%)       15.06.2023    180.00         180.00         14.06.2023
+2nd (45%)       15.09.2023    540.00         540.00         14.09.2023
+3rd (75%)       15.12.2023    900.00         900.00         14.12.2023
+4th (100%)      15.03.2024    1,200.00       1,200.00       14.03.2024
+--------------------------------------------------------------------------------
+
+Interest u/s 234B & 234C: Nil
+
+================================================================================
+                    TDS COMPLIANCE
+================================================================================
+
+SUMMARY OF TDS DEDUCTED AND DEPOSITED - FY 2023-24
+
+--------------------------------------------------------------------------------
+Section     Nature of Payment       TDS          TDS          Returns
+                                    Deducted     Deposited    Filed
+                                    (Rs.Lakhs)   (Rs.Lakhs)
+--------------------------------------------------------------------------------
+194A        Interest                 25.00        25.00       All Quarters
+194C        Contractor Payments     180.00       180.00       All Quarters
+194H        Brokerage                45.00        45.00       All Quarters
+194I        Rent                      8.00         8.00       All Quarters
+194J        Professional Fees        35.00        35.00       All Quarters
+194IA       Property Purchases       50.00        50.00       All Quarters
+192         Salary                   22.00        22.00       All Quarters
+--------------------------------------------------------------------------------
+TOTAL                               365.00       365.00
+--------------------------------------------------------------------------------
+
+TDS Returns Filed:
+- Q1 (Apr-Jun): Filed on 31.07.2023
+- Q2 (Jul-Sep): Filed on 31.10.2023
+- Q3 (Oct-Dec): Filed on 31.01.2024
+- Q4 (Jan-Mar): Filed on 31.05.2024
+
+Form 16/16A: Issued to all deductees
+
+================================================================================
+                    GST COMPLIANCE
+================================================================================
+
+GST RETURNS FILED - FY 2023-24
+
+--------------------------------------------------------------------------------
+Month       GSTR-1      GSTR-3B     Output Tax    Input Tax    Net Tax
+            (Sales)     (Summary)   (Rs.Lakhs)    (Rs.Lakhs)   Paid
+                                                               (Rs.Lakhs)
+--------------------------------------------------------------------------------
+Apr 2023    20.04.2023  20.04.2023    85.00        62.00       23.00
+May 2023    20.05.2023  20.05.2023    92.00        68.00       24.00
+Jun 2023    20.06.2023  20.06.2023    98.00        72.00       26.00
+Jul 2023    20.07.2023  20.07.2023   110.00        82.00       28.00
+Aug 2023    20.08.2023  20.08.2023   105.00        78.00       27.00
+Sep 2023    20.09.2023  20.09.2023   115.00        85.00       30.00
+Oct 2023    20.10.2023  20.10.2023   125.00        92.00       33.00
+Nov 2023    20.11.2023  20.11.2023   118.00        88.00       30.00
+Dec 2023    20.12.2023  20.12.2023   135.00        98.00       37.00
+Jan 2024    20.01.2024  20.01.2024   142.00       105.00       37.00
+Feb 2024    20.02.2024  20.02.2024   128.00        95.00       33.00
+Mar 2024    20.03.2024  20.03.2024   147.00       110.00       37.00
+--------------------------------------------------------------------------------
+TOTAL                              1,400.00     1,035.00      365.00
+--------------------------------------------------------------------------------
+
+Annual Return (GSTR-9): Filed on 31.12.2024
+Reconciliation Statement (GSTR-9C): Filed on 31.12.2024
+
+GST Rate Applied:
+- Under-construction properties (with land): 5% (without ITC) or 12% (with ITC)
+- Company follows 5% rate for residential and 12% for commercial
+
+================================================================================
+                 PROPERTY TAX COMPLIANCE
+================================================================================
+
+Project-wise Property Tax Status:
+
+--------------------------------------------------------------------------------
+Project              Property Tax No.    Annual Tax    Last Paid   Paid Till
+                                         (Rs. Lakhs)
+--------------------------------------------------------------------------------
+Registered Office    MUM/BKC/2018/456    2.50          Sep 2024    Mar 2025
+Skyline Heights      MUM/AND/2019/789    12.00         Sep 2024    Mar 2025
+Skyline Towers       MUM/POW/2020/123    18.00         Sep 2024    Mar 2025
+Skyline Residency    THN/WAG/2021/456    8.00          Sep 2024    Mar 2025
+Commercial Hub       MUM/LP/2022/789     15.00         Sep 2024    Mar 2025
+Skyline Township     PNV/KAL/2024/234    5.00          Sep 2024    Mar 2025
+--------------------------------------------------------------------------------
+TOTAL                                    60.50
+--------------------------------------------------------------------------------
+
+================================================================================
+                    STAMP DUTY COMPLIANCE
+================================================================================
+
+Stamp Duty Paid on Major Transactions:
+
+--------------------------------------------------------------------------------
+Transaction             Document Date    Value         Stamp Duty   Registration
+                                         (Rs.Crores)   Paid         No.
+                                                       (Rs.Lakhs)
+--------------------------------------------------------------------------------
+Land Purchase           15.08.2019       15.00         90.00        SL-2019-
+(Andheri)                                                           12345
+
+Land Purchase           20.09.2020       45.00         270.00       POW-2020-
+(Powai)                                                             5678
+
+JDA Registration        01.07.2021       NA            25.00        JDA-2021-
+(Thane)                                                             3456
+
+Land Purchase           15.01.2022       75.00         450.00       LP-2022-
+(Lower Parel)                                                       1234
+
+Land Purchase           15.03.2023       150.00        900.00       PNV-2023-
+(Panvel)                                                            2345
+
+Customer Registrations  FY 2023-24       272.00        Paid by      Multiple
+                                                       Customers
+--------------------------------------------------------------------------------
+
+Stamp Duty Rate: 6% (Mumbai)
+
+================================================================================
+                    TAX ASSESSMENTS AND DISPUTES
+================================================================================
+
+Assessment Status:
+
+--------------------------------------------------------------------------------
+Assessment  Assessment      Status          Demand       Remarks
+Year        Order Date                      (Rs.Lakhs)
+--------------------------------------------------------------------------------
+2019-20     Under normal    Completed       Nil          Accepted as filed
+            assessment
+
+2020-21     Under normal    Completed       Nil          Accepted as filed
+            assessment
+
+2021-22     Scrutiny        Order dated     25.00        Disallowance of
+            u/s 143(3)      15.12.2023                   construction cost
+                                                         paid; Appeal filed
+                                                         (CIT-A)
+
+2022-23     Under normal    Completed       Nil          Accepted as filed
+            assessment
+
+2023-24     Under process   Pending         -            Return filed
+--------------------------------------------------------------------------------
+
+APPEAL STATUS (AY 2021-22):
+
+CIT (Appeals) No.:      CIT(A)/MUM/2024/1234
+Date of Filing:         15.01.2024
+Grounds:                Disallowance of Rs. 100 Lakhs construction cost
+Expected Value:         Tax demand of Rs. 25 Lakhs
+Status:                 Pending hearing
+Legal Counsel:          M/s. Desai & Associates
+
+PROVISION FOR TAX DISPUTES: Rs. 25 Lakhs
+
+================================================================================
+                    COMPLIANCE CERTIFICATES
+================================================================================
+
+TAX COMPLIANCE CERTIFICATE
+
+I, Amit Deshmukh, Chief Financial Officer of SKYLINE DEVELOPERS PRIVATE LIMITED,
+hereby certify that:
+
+1. All Income Tax returns have been filed within due dates.
+2. All Advance Tax installments have been paid on time.
+3. All TDS has been deducted and deposited within due dates.
+4. All TDS returns have been filed within due dates.
+5. All GST returns have been filed within due dates.
+6. All Property Tax has been paid up to date.
+7. There are no pending tax demands except as disclosed above.
+8. The Company is in compliance with all tax laws.
+
+                                                        Sd/-
+                                                   Amit Deshmukh
+                                              Chief Financial Officer
+
+Place: Mumbai
+Date: November 2024
+
+================================================================================
+
+                                                        Sd/-
+                                                   Sneha Patel
+                                                Company Secretary
+
+================================================================================

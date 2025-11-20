@@ -1,0 +1,527 @@
+================================================================================
+                    CONSTRUCTION CONTRACTS
+                SKYLINE DEVELOPERS PRIVATE LIMITED
+                    CIN: U45201MH2018PTC305678
+================================================================================
+
+================================================================================
+                 REGISTER OF CONSTRUCTION CONTRACTS
+================================================================================
+
+--------------------------------------------------------------------------------
+Project          Contractor           Contract     Contract    Status
+                                      Value        Date
+--------------------------------------------------------------------------------
+Skyline          Shapoorji            Rs. 85 Cr   01.09.2019  Completed
+Heights          Pallonji & Co.
+
+Skyline          Larsen & Toubro      Rs. 120 Cr  01.10.2020  Completed
+Towers           Ltd
+
+Skyline          NCC Limited          Rs. 175 Cr  15.07.2021  Active
+Residency
+
+Skyline          Sobha Limited        Rs. 200 Cr  01.08.2022  Active
+Commercial Hub
+
+Skyline          Tata Projects        Rs. 450 Cr  01.07.2024  Active
+Township (Ph1)   Ltd
+--------------------------------------------------------------------------------
+
+================================================================================
+              CONSTRUCTION CONTRACT AGREEMENT
+                   SKYLINE RESIDENCY
+================================================================================
+
+CONSTRUCTION CONTRACT AGREEMENT
+
+This Agreement is made on this 15th day of July, 2021
+
+BETWEEN:
+
+SKYLINE DEVELOPERS PRIVATE LIMITED, a company incorporated under the
+Companies Act, 2013, having its registered office at 12th Floor, Skyline
+Tower, Bandra Kurla Complex, Mumbai - 400051 (CIN: U45201MH2018PTC305678)
+
+(Hereinafter called the "EMPLOYER")
+
+AND
+
+NCC LIMITED, a company incorporated under the Companies Act, 1956, having
+its registered office at NCC House, Madhapur, Hyderabad - 500081 (CIN:
+L72200TG1990PLC011146)
+
+(Hereinafter called the "CONTRACTOR")
+
+================================================================================
+                         RECITALS
+================================================================================
+
+WHEREAS:
+
+A. The Employer is developing a residential project known as "SKYLINE
+   RESIDENCY" at Survey No. 45/1, 45/2, Village Wagle, Thane West.
+
+B. The Employer desires to engage the Contractor for the construction of
+   the said project.
+
+C. The Contractor has the necessary expertise, experience, and resources
+   to undertake the construction work.
+
+D. The parties have agreed to enter into this Contract on the terms and
+   conditions set out herein.
+
+================================================================================
+                    ARTICLE 1: SCOPE OF WORK
+================================================================================
+
+1.1 The Contractor shall execute and complete the following works:
+
+    (a) Civil and Structural Works
+        - Excavation and earthwork
+        - Piling and foundation
+        - RCC structure (3 towers, G+30)
+        - Brick work and plastering
+        - Waterproofing
+
+    (b) Finishing Works
+        - Flooring and tiling
+        - Internal and external painting
+        - Door and window installation
+        - Kitchen platform and counters
+
+    (c) MEP Works (Excluding main equipment)
+        - Internal plumbing
+        - Internal electrical
+        - Fire fighting (civil portion)
+        - HVAC (civil portion)
+
+1.2 EXCLUSIONS:
+
+    The following works are NOT included in this Contract:
+    - Architect and consultant fees
+    - Statutory approvals and fees
+    - Main MEP equipment (lifts, DG, pumps)
+    - Landscaping and external development
+    - Marketing and sales
+
+================================================================================
+                   ARTICLE 2: CONTRACT PRICE
+================================================================================
+
+2.1 LUMP SUM CONTRACT
+
+    The Contract Price for the complete scope of work is:
+
+    Rs. 175,00,00,000/- (Rupees One Hundred Seventy-Five Crores Only)
+
+    This is a lump sum fixed price contract.
+
+2.2 PRICE BREAKDOWN:
+
+    Component                           Amount (Rs. Crores)
+    --------------------------------------------------------
+    Civil and Structural Works          120.00
+    Finishing Works                      40.00
+    MEP Works (Civil portion)            15.00
+    --------------------------------------------------------
+    Total                               175.00
+    --------------------------------------------------------
+
+2.3 PRICE ESCALATION:
+
+    No price escalation shall be applicable for the contract duration of
+    36 months. For delays attributable to Employer beyond 36 months,
+    escalation of 5% per annum shall apply.
+
+2.4 TAXES:
+
+    The Contract Price is inclusive of all taxes except GST. GST shall be
+    payable extra at applicable rates.
+
+================================================================================
+                 ARTICLE 3: PAYMENT TERMS
+================================================================================
+
+3.1 ADVANCE PAYMENT:
+
+    Mobilization Advance:       10% (Rs. 17.50 Crores)
+    Against Bank Guarantee:     Yes
+    Recovery:                   Pro-rata from running bills
+
+3.2 RUNNING BILLS:
+
+    Frequency:                  Monthly
+    Submission:                 By 5th of following month
+    Certification:              Within 7 days
+    Payment:                    Within 15 days of certification
+
+3.3 RETENTION:
+
+    Retention:                  5% of each bill
+    Release:                    50% on completion, 50% after DLP
+
+3.4 MILESTONES:
+
+    Milestone                   Payment (% of Contract)
+    --------------------------------------------------------
+    Foundation Complete         15%
+    Basement Complete           10%
+    Structure (10th floor)      15%
+    Structure (20th floor)      15%
+    Structure (30th floor)      15%
+    Finishing (50%)             15%
+    Finishing (100%)            10%
+    Handover                     5%
+    --------------------------------------------------------
+
+================================================================================
+               ARTICLE 4: TIME FOR COMPLETION
+================================================================================
+
+4.1 CONTRACT DURATION:
+
+    Commencement Date:          01.08.2021
+    Completion Date:            31.07.2024
+    Total Duration:             36 months
+
+4.2 MILESTONE SCHEDULE:
+
+    Milestone                   Target Date
+    --------------------------------------------------------
+    Site Mobilization           15.08.2021
+    Foundation Complete         31.12.2021
+    Basement Complete           31.03.2022
+    Structure Complete          31.03.2023
+    MEP Rough-in Complete       30.06.2023
+    Finishing Complete          31.03.2024
+    Testing & Commissioning     30.06.2024
+    Final Handover              31.07.2024
+    --------------------------------------------------------
+
+4.3 LIQUIDATED DAMAGES:
+
+    For delay attributable to Contractor:
+    - Rate: 0.5% of Contract Price per week
+    - Maximum: 10% of Contract Price
+
+4.4 EXTENSION OF TIME:
+
+    Extension shall be granted for:
+    - Force majeure events
+    - Variations ordered by Employer
+    - Delays by Employer in approvals/site access
+    - Unforeseen site conditions
+
+================================================================================
+               ARTICLE 5: CONTRACTOR'S OBLIGATIONS
+================================================================================
+
+5.1 GENERAL OBLIGATIONS:
+
+    The Contractor shall:
+
+    (a) Execute the work with due diligence and in a workmanlike manner
+    (b) Comply with specifications and drawings
+    (c) Employ skilled supervisors and workmen
+    (d) Provide all plant, equipment, and materials
+    (e) Maintain insurance as required
+    (f) Comply with all applicable laws and regulations
+
+5.2 SITE MANAGEMENT:
+
+    (a) Maintain site in clean and safe condition
+    (b) Provide security and watchman
+    (c) Maintain site records and progress photographs
+    (d) Coordinate with other contractors
+
+5.3 QUALITY ASSURANCE:
+
+    (a) Implement Quality Management System
+    (b) Conduct quality tests as specified
+    (c) Submit test reports and certificates
+    (d) Rectify defective work at own cost
+
+5.4 SAFETY:
+
+    (a) Implement Safety Management Plan
+    (b) Provide PPE to all workers
+    (c) Conduct safety training
+    (d) Report accidents immediately
+    (e) Comply with BOCW Act
+
+5.5 LABOR COMPLIANCE:
+
+    (a) Register under BOCW Act
+    (b) Maintain muster rolls and wage registers
+    (c) Pay minimum wages
+    (d) Comply with PF and ESI
+    (e) Ensure no child labor
+
+================================================================================
+               ARTICLE 6: EMPLOYER'S OBLIGATIONS
+================================================================================
+
+6.1 The Employer shall:
+
+    (a) Provide access to site
+    (b) Provide approved drawings and specifications
+    (c) Arrange statutory approvals
+    (d) Make timely payments
+    (e) Provide water and electricity connections
+    (f) Appoint Project Management Consultant (PMC)
+
+================================================================================
+                  ARTICLE 7: VARIATIONS
+================================================================================
+
+7.1 The Employer may order variations in the scope of work.
+
+7.2 Variations shall be valued as follows:
+    (a) By agreement between parties
+    (b) Using rates in Contract
+    (c) Using market rates if not in Contract
+
+7.3 Variations exceeding 15% of Contract Price shall require mutual
+    agreement on revised price and timeline.
+
+================================================================================
+               ARTICLE 8: INSURANCE
+================================================================================
+
+8.1 The Contractor shall obtain and maintain:
+
+    (a) Contractor's All Risk (CAR) Policy
+        - Sum Insured: Contract Price
+        - Coverage: All construction risks
+
+    (b) Third Party Liability
+        - Sum Insured: Rs. 5 Crores
+
+    (c) Workmen Compensation
+        - As per statute
+
+8.2 The Employer shall be named as co-insured.
+
+================================================================================
+                ARTICLE 9: DEFECT LIABILITY
+================================================================================
+
+9.1 Defect Liability Period (DLP): 24 months from completion
+
+9.2 The Contractor shall rectify at own cost any defects arising from:
+    - Defective materials
+    - Poor workmanship
+    - Non-compliance with specifications
+
+9.3 Structural defects liability: 10 years
+
+================================================================================
+             ARTICLE 10: TERMINATION
+================================================================================
+
+10.1 TERMINATION BY EMPLOYER:
+
+     The Employer may terminate for:
+     (a) Contractor's insolvency
+     (b) Abandonment of work
+     (c) Persistent failure to comply with instructions
+     (d) Delays exceeding 3 months
+
+10.2 TERMINATION BY CONTRACTOR:
+
+     The Contractor may terminate for:
+     (a) Non-payment for more than 60 days
+     (b) Prolonged suspension (more than 90 days)
+
+10.3 CONSEQUENCES:
+
+     On termination, the Contractor shall:
+     (a) Stop work immediately
+     (b) Remove equipment from site
+     (c) Deliver all materials to Employer
+     (d) Submit final account
+
+================================================================================
+             ARTICLE 11: DISPUTE RESOLUTION
+================================================================================
+
+11.1 Any dispute shall first be referred to a Joint Committee of senior
+     representatives of both parties.
+
+11.2 If not resolved within 30 days, the dispute shall be referred to
+     arbitration under the Arbitration and Conciliation Act, 1996.
+
+11.3 The arbitration shall be conducted in Mumbai by a sole arbitrator
+     appointed mutually.
+
+================================================================================
+                ARTICLE 12: GENERAL
+================================================================================
+
+12.1 This Agreement constitutes the entire agreement between the parties.
+
+12.2 This Agreement shall be governed by the laws of India. Courts in
+     Mumbai shall have jurisdiction.
+
+12.3 Neither party may assign this Agreement without consent.
+
+================================================================================
+
+IN WITNESS WHEREOF the parties have executed this Agreement on the day and
+year first above written.
+
+For SKYLINE DEVELOPERS PRIVATE LIMITED     For NCC LIMITED
+
+Sd/-                                       Sd/-
+Rajesh Kumar Mehta                         [Authorized Signatory]
+Managing Director                          Vice President (Projects)
+
+WITNESSES:
+
+1. Sd/-                                    2. Sd/-
+
+================================================================================
+              ARCHITECT AND CONSULTANT AGREEMENT
+================================================================================
+
+AGREEMENT FOR ARCHITECTURAL SERVICES
+
+Date: 01.06.2021
+
+BETWEEN:
+SKYLINE DEVELOPERS PRIVATE LIMITED ("Client")
+
+AND:
+M/s. HAFEEZ CONTRACTOR ("Architect")
+203, Maker Chambers IV, Nariman Point, Mumbai - 400021
+
+FOR:
+Skyline Residency Project, Thane
+
+SCOPE OF SERVICES:
+
+1. Concept Design and Master Planning
+2. Schematic Design
+3. Design Development
+4. Construction Drawings
+5. Interior Design (Common Areas)
+6. Site Supervision
+
+FEES:
+
+Professional Fees:      Rs. 1,50,00,000 (Rupees One Crore Fifty Lakhs Only)
+                        (Approximately Rs. 25 per sq. ft. of built-up area)
+
+Payment Schedule:
+- 20% on Concept Approval
+- 30% on Building Plan Submission
+- 30% on Issue of Construction Drawings
+- 20% on Completion
+
+ADDITIONAL SERVICES (Extra):
+- 3D Visualization and Renders
+- Model Making
+- Revisions beyond 2 rounds
+
+TIMELINE:
+
+Concept to Construction Drawings: 6 months
+
+================================================================================
+
+For SKYLINE DEVELOPERS PVT LTD             For M/s. HAFEEZ CONTRACTOR
+
+Sd/-                                       Sd/-
+
+================================================================================
+                CUSTOMER BOOKING AGREEMENT
+                    (MODEL AGREEMENT)
+================================================================================
+
+AGREEMENT FOR SALE
+
+This Agreement is made on this _____ day of ________, 2024
+
+BETWEEN:
+
+SKYLINE DEVELOPERS PRIVATE LIMITED
+(Promoter / Developer)
+
+AND
+
+[CUSTOMER NAME]
+(Allottee / Purchaser)
+
+FOR:
+
+Unit No.:           [____]
+Tower:              [____]
+Floor:              [____]
+Project:            SKYLINE RESIDENCY
+RERA No.:           P51800045678
+
+CARPET AREA:        [____] sq. ft.
+BALCONY:            [____] sq. ft.
+PARKING:            [__] spaces
+
+TOTAL CONSIDERATION:
+
+Basic Price:        Rs. [________]
+Floor Rise:         Rs. [________]
+PLC:                Rs. [________]
+Parking:            Rs. [________]
+------------------------
+Sub-Total:          Rs. [________]
+GST (5%):           Rs. [________]
+------------------------
+Total:              Rs. [________]
+
+PAYMENT SCHEDULE:
+
+Milestone                               Percentage    Amount (Rs.)
+------------------------------------------------------------------------
+On Booking                              10%           [________]
+Within 30 days (Agreement)              10%           [________]
+On Completion of Foundation             10%           [________]
+On Completion of 10th Floor             10%           [________]
+On Completion of 20th Floor             10%           [________]
+On Completion of 30th Floor             10%           [________]
+On Completion of Plaster                10%           [________]
+On Completion of Flooring               10%           [________]
+On Occupation Certificate               10%           [________]
+On Possession                           10%           [________]
+------------------------------------------------------------------------
+Total                                   100%          [________]
+
+KEY TERMS:
+
+1. POSSESSION: On or before 31.03.2025 (as per RERA extension)
+2. DELAY COMPENSATION: As per RERA (SBI MCLR + 2%)
+3. MAINTENANCE: Rs. 3 per sq. ft. per month (for 2 years)
+4. REGISTRATION: Within 3 months of OC
+5. SPECIFICATIONS: As per Annexure A
+
+DOCUMENTS TO BE PROVIDED:
+
+1. Title Documents
+2. Approved Plans
+3. Specifications
+4. RERA Registration Certificate
+
+================================================================================
+
+PROMOTER:                               ALLOTTEE:
+
+For SKYLINE DEVELOPERS PVT LTD
+
+Sd/-                                    Sd/-
+[Authorized Signatory]                  [Customer Name]
+
+================================================================================
+
+Place: Mumbai                                           Sd/-
+Date: November 2024                                Sneha Patel
+                                                Company Secretary
+
+================================================================================

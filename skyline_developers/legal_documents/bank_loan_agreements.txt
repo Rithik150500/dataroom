@@ -1,0 +1,445 @@
+================================================================================
+                    BANK LOAN AGREEMENTS
+                SKYLINE DEVELOPERS PRIVATE LIMITED
+                    CIN: U45201MH2018PTC305678
+================================================================================
+
+================================================================================
+                 REGISTER OF BANK FACILITIES
+================================================================================
+
+--------------------------------------------------------------------------------
+Facility   Bank        Sanction    Amount     Rate      Security     Status
+Type                   Date        (Cr)       (p.a.)
+--------------------------------------------------------------------------------
+Project    HDFC Bank   20.08.2019  25.00      11.5%     Andheri      Repaid
+Loan                                                    Property     15.03.2022
+
+Project    ICICI Bank  15.04.2020  40.00      10.5%     Skyline      Active
+Loan                                                    Towers
+                                                        Receivables
+
+Project    Axis Bank   01.07.2021  75.00      10.0%     Thane Land   Active
+Loan                                                    + Receivables
+
+Project    HDFC Bank   15.01.2023  50.00      9.5%      Lower Parel  Active
+Loan                                                    Land +
+                                                        Receivables
+
+Working    SBI         01.04.2022  15.00      9.0%      Unsold       Active
+Capital                                                 Inventory
+
+--------------------------------------------------------------------------------
+TOTAL FACILITIES: Rs. 205 Crores
+OUTSTANDING: Rs. 180 Crores
+--------------------------------------------------------------------------------
+
+================================================================================
+              PROJECT LOAN FACILITY AGREEMENT
+                   SKYLINE RESIDENCY
+================================================================================
+
+FACILITY AGREEMENT
+
+This Agreement is made on this 1st day of July, 2021
+
+BETWEEN:
+
+AXIS BANK LIMITED, a banking company incorporated under the Companies Act,
+1956, having its Head Office at Trishul, 3rd Floor, Opp. Samartheshwar Temple,
+Law Garden, Ahmedabad - 380006 and acting through its Corporate Banking Branch
+at BKC, Mumbai ("Lender")
+
+AND
+
+SKYLINE DEVELOPERS PRIVATE LIMITED (CIN: U45201MH2018PTC305678), having its
+registered office at 12th Floor, Skyline Tower, Bandra Kurla Complex, Mumbai -
+400051 ("Borrower")
+
+================================================================================
+                    ARTICLE 1: DEFINITIONS
+================================================================================
+
+1.1 "Facility" means the project finance facility of Rs. 75 Crores.
+1.2 "Project" means Skyline Residency at Thane.
+1.3 "Security" means the security described in Article 6.
+1.4 "DSRA" means Debt Service Reserve Account.
+1.5 "LTV" means Loan to Value ratio.
+
+================================================================================
+                    ARTICLE 2: FACILITY DETAILS
+================================================================================
+
+2.1 FACILITY AMOUNT: Rs. 75,00,00,000/- (Rupees Seventy-Five Crores Only)
+
+2.2 PURPOSE: To part-finance the construction of Skyline Residency project.
+
+2.3 TENURE: 60 months from first disbursement (including moratorium)
+
+2.4 MORATORIUM: 24 months from first disbursement
+
+2.5 REPAYMENT: 36 equal monthly installments after moratorium
+
+2.6 INTEREST RATE:
+    - Base Rate: 1 Year MCLR (Currently 8.5%)
+    - Spread: 1.5%
+    - Effective Rate: 10% p.a.
+    - Reset: Annually on April 1
+
+2.7 PROCESSING FEE: 0.5% of facility amount (Rs. 37.50 Lakhs) - Paid
+
+================================================================================
+                ARTICLE 3: DISBURSEMENT CONDITIONS
+================================================================================
+
+3.1 CONDITIONS PRECEDENT FOR FIRST DISBURSEMENT:
+
+    (a) Corporate Documents
+        - Board Resolution approving borrowing
+        - Certified copies of MOA, AOA, COI
+        - KYC documents of Directors
+
+    (b) Project Documents
+        - RERA Registration
+        - Building Plan Approval
+        - Commencement Certificate
+        - JDA with Landowners
+
+    (c) Security Documents
+        - Mortgage Deed registered
+        - Hypothecation of Receivables
+        - Personal Guarantee of Promoters
+        - Corporate Guarantee (if any)
+
+    (d) Financial Documents
+        - Audited financials (3 years)
+        - Project cost certificate
+        - Projected cash flows
+
+    (e) Legal Opinion
+        - Clear title opinion
+        - Opinion on enforceability
+
+    (f) Insurance
+        - CAR Policy
+        - Title Insurance (if available)
+
+3.2 CONDITIONS FOR SUBSEQUENT DISBURSEMENTS:
+
+    (a) Minimum 30% pre-sales achieved
+    (b) DSRA maintained with 2 months interest
+    (c) No material adverse change
+    (d) Project on schedule
+    (e) Utilization certificate for previous disbursement
+
+3.3 DISBURSEMENT SCHEDULE:
+
+    Tranche      Amount (Cr)    Trigger
+    ---------------------------------------------------------
+    1st          20.00          On signing (met conditions)
+    2nd          20.00          On 30% pre-sales
+    3rd          20.00          On structure completion
+    4th          15.00          On 60% pre-sales
+    ---------------------------------------------------------
+    Total        75.00
+
+================================================================================
+               ARTICLE 4: FINANCIAL COVENANTS
+================================================================================
+
+4.1 The Borrower shall maintain the following covenants:
+
+    (a) DEBT SERVICE COVERAGE RATIO (DSCR)
+        - Minimum: 1.25x
+        - Tested: Quarterly
+
+    (b) LOAN TO VALUE (LTV)
+        - Maximum: 65%
+        - Tested: Quarterly
+
+    (c) MINIMUM PRE-SALES
+        - 30% before 2nd disbursement
+        - 50% before 3rd disbursement
+        - 70% before 4th disbursement
+
+    (d) DEBT-EQUITY RATIO
+        - Maximum: 2:1
+        - Tested: Annually
+
+    (e) COST OVERRUN FUNDING
+        - Any cost overrun to be funded by equity
+
+4.2 BREACH OF COVENANTS
+
+    Breach of any covenant shall constitute an Event of Default and the
+    Lender may:
+    (a) Stop further disbursements
+    (b) Demand additional security
+    (c) Increase interest rate by 2%
+    (d) Accelerate repayment
+
+================================================================================
+                    ARTICLE 5: REPAYMENT
+================================================================================
+
+5.1 REPAYMENT SCHEDULE:
+
+    Period              EMI (Rs. Lakhs)    Principal    Interest
+    ---------------------------------------------------------
+    Month 1-24          Interest only      -            62.50
+    Month 25-60         277.78             208.33       69.45
+    ---------------------------------------------------------
+
+5.2 PREPAYMENT:
+
+    (a) Prepayment permitted after 12 months
+    (b) Prepayment premium: 2% of amount prepaid
+    (c) No premium for prepayment from sale proceeds
+
+5.3 MANDATORY PREPAYMENT:
+
+    The Borrower shall apply the following towards prepayment:
+    (a) 70% of customer collections (until OC)
+    (b) 100% of collections from bulk sales
+    (c) Insurance proceeds (beyond reinstatement)
+
+================================================================================
+                    ARTICLE 6: SECURITY
+================================================================================
+
+6.1 PRIMARY SECURITY:
+
+    (a) MORTGAGE OF LAND
+        - First exclusive charge on land at Survey No. 45/1, 45/2,
+          Village Wagle, Thane (Developer's 70% share only)
+        - Mortgage Deed registered on 01.07.2021
+
+    (b) HYPOTHECATION OF RECEIVABLES
+        - First exclusive charge on all receivables from Skyline Residency
+        - Deed of Hypothecation executed on 01.07.2021
+
+    (c) CHARGE ON UNSOLD UNITS
+        - First exclusive charge on all unsold inventory (Developer's share)
+
+6.2 COLLATERAL SECURITY:
+
+    (a) ESCROW OF RECEIVABLES
+        - All customer payments to be routed through Escrow Account
+        - Bank to be sole beneficiary until discharge of loan
+
+    (b) DSRA
+        - Debt Service Reserve Account with 2 months debt service
+        - To be funded before first disbursement
+
+6.3 PERSONAL GUARANTEES:
+
+    (a) Mr. Rajesh Kumar Mehta (Net worth: Rs. 50 Crores)
+    (b) Mrs. Priya Sharma (Net worth: Rs. 25 Crores)
+
+6.4 CORPORATE GUARANTEE: Not required
+
+6.5 REGISTRATION OF CHARGE:
+
+    Charge registered with ROC:
+    - Charge ID: CHG-003
+    - Filing Date: 01.07.2021
+    - SRN: S44444441
+
+================================================================================
+               ARTICLE 7: REPRESENTATIONS AND WARRANTIES
+================================================================================
+
+7.1 The Borrower represents and warrants that:
+
+    (a) It is duly incorporated and validly existing
+    (b) It has power to enter into this Agreement
+    (c) The execution does not violate any law or agreement
+    (d) All approvals have been obtained
+    (e) The financial statements are true and correct
+    (f) There is no material litigation
+    (g) The Project is viable and feasible
+    (h) The Security is valid and enforceable
+
+================================================================================
+                   ARTICLE 8: UNDERTAKINGS
+================================================================================
+
+8.1 AFFIRMATIVE COVENANTS:
+
+    The Borrower shall:
+    (a) Use facility only for the Project
+    (b) Submit monthly progress reports
+    (c) Submit quarterly financial statements
+    (d) Maintain books and records
+    (e) Comply with all laws
+    (f) Maintain insurance
+    (g) Pay all taxes
+    (h) Inform of any material adverse event
+
+8.2 NEGATIVE COVENANTS:
+
+    The Borrower shall NOT without prior approval:
+    (a) Create any security on Project assets
+    (b) Sell or dispose of Project assets
+    (c) Change the Project scope
+    (d) Declare dividends during moratorium
+    (e) Change management or shareholding
+    (f) Undertake new projects with debt
+    (g) Give corporate guarantees
+
+================================================================================
+                ARTICLE 9: EVENTS OF DEFAULT
+================================================================================
+
+9.1 The following shall be Events of Default:
+
+    (a) Non-payment of any amount when due
+    (b) Breach of any covenant
+    (c) Misrepresentation
+    (d) Cross-default
+    (e) Insolvency proceedings
+    (f) Material adverse change
+    (g) Project delay beyond 12 months
+    (h) RERA license revoked
+    (i) Customer complaints affecting project
+
+9.2 CONSEQUENCES OF DEFAULT:
+
+    On occurrence of Event of Default, the Lender may:
+    (a) Stop further disbursements
+    (b) Accelerate the loan
+    (c) Charge penal interest (2% above normal rate)
+    (d) Enforce security
+    (e) Appoint receiver
+    (f) Exercise rights under SARFAESI Act
+
+================================================================================
+               ARTICLE 10: ESCROW MECHANISM
+================================================================================
+
+10.1 ESCROW ACCOUNT DETAILS:
+
+     Bank:           ICICI Bank, Thane Branch
+     Account Name:   Skyline Residency Escrow A/c
+     Account No.:    123456789012
+
+10.2 OPERATION:
+
+     (a) All customer payments to be deposited in Escrow Account
+     (b) Withdrawals only with Bank's NOC
+     (c) Priority of utilization:
+         1. Statutory dues (taxes)
+         2. Construction costs (as certified)
+         3. Loan repayment
+         4. Others
+
+10.3 REPORTING:
+
+     Monthly escrow statements to be submitted to Bank.
+
+================================================================================
+                   ARTICLE 11: INSURANCE
+================================================================================
+
+11.1 The Borrower shall maintain:
+
+     (a) CAR Insurance for full project value
+     (b) Third Party Liability Insurance
+     (c) Workmen Compensation Insurance
+
+11.2 Bank shall be named as loss payee.
+
+11.3 Insurance proceeds (beyond reinstatement) to be applied towards loan.
+
+================================================================================
+                ARTICLE 12: GENERAL PROVISIONS
+================================================================================
+
+12.1 GOVERNING LAW: Laws of India
+
+12.2 JURISDICTION: Courts in Mumbai
+
+12.3 DISPUTE RESOLUTION: Arbitration in Mumbai
+
+12.4 NOTICES: To registered addresses
+
+12.5 ASSIGNMENT: Borrower cannot assign; Lender can assign
+
+================================================================================
+
+IN WITNESS WHEREOF the parties have executed this Agreement on the day and
+year first above written.
+
+For AXIS BANK LIMITED                   For SKYLINE DEVELOPERS PVT LTD
+
+Sd/-                                    Sd/-
+Authorized Signatory                    Rajesh Kumar Mehta
+General Manager - Corporate Banking     Managing Director
+
+                                        Sd/-
+                                        Amit Deshmukh
+                                        Director/CFO
+
+WITNESSES:
+
+1. Sd/-
+2. Sd/-
+
+================================================================================
+                    SANCTION LETTER SUMMARY
+================================================================================
+
+All loans have been sanctioned with similar terms. Key variations:
+
+ICICI Bank (Skyline Towers):
+- Rate: 10.5% p.a.
+- Security: Receivables hypothecation (no land mortgage as purchased)
+- Status: Principal outstanding Rs. 25 Crores
+
+HDFC Bank (Skyline Commercial Hub):
+- Rate: 9.5% p.a. (refinanced at lower rate)
+- Security: Lower Parel land mortgage + receivables
+- Status: Principal outstanding Rs. 50 Crores
+
+SBI Working Capital:
+- Rate: 9.0% p.a.
+- Security: Unsold inventory (all projects)
+- Status: Utilized Rs. 15 Crores
+
+================================================================================
+                    NO DUES CERTIFICATE
+================================================================================
+
+HDFC BANK LIMITED
+Corporate Banking Division
+
+                    NO DUES CERTIFICATE
+
+Date: 15.03.2022
+
+To Whom It May Concern
+
+This is to certify that M/s. SKYLINE DEVELOPERS PRIVATE LIMITED (CIN:
+U45201MH2018PTC305678) had availed a Project Loan facility of Rs. 25 Crores
+(Rupees Twenty-Five Crores Only) from us vide Sanction Letter dated 20.08.2019.
+
+The said loan has been fully repaid and there are no dues outstanding from
+the Borrower as on date.
+
+We have released all securities held by us and requested ROC for satisfaction
+of charge (CHG-001).
+
+This certificate is issued at the request of the Borrower.
+
+For HDFC Bank Limited
+
+Sd/-
+Authorized Signatory
+
+================================================================================
+
+Place: Mumbai                                           Sd/-
+Date: November 2024                                Sneha Patel
+                                                Company Secretary
+
+================================================================================

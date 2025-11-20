@@ -1,0 +1,319 @@
+================================================================================
+                 AUDITED FINANCIAL STATEMENTS
+                SKYLINE DEVELOPERS PRIVATE LIMITED
+                    CIN: U45201MH2018PTC305678
+================================================================================
+
+================================================================================
+                    INDEPENDENT AUDITOR'S REPORT
+================================================================================
+
+To the Members of
+SKYLINE DEVELOPERS PRIVATE LIMITED
+
+Report on the Audit of the Financial Statements
+
+OPINION
+
+We have audited the financial statements of SKYLINE DEVELOPERS PRIVATE LIMITED
+("the Company"), which comprise the Balance Sheet as at 31st March, 2024, and
+the Statement of Profit and Loss and Cash Flow Statement for the year then
+ended, and notes to the financial statements.
+
+In our opinion, the accompanying financial statements give a true and fair view
+of the financial position of the Company as at 31st March, 2024, and its
+financial performance and its cash flows for the year then ended in accordance
+with the Indian Accounting Standards (Ind AS) and other accounting principles
+generally accepted in India.
+
+BASIS FOR OPINION
+
+We conducted our audit in accordance with the Standards on Auditing (SAs)
+specified under Section 143(10) of the Companies Act, 2013. Our responsibilities
+under those Standards are further described in the Auditor's Responsibilities
+section. We are independent of the Company in accordance with the Code of Ethics
+issued by the Institute of Chartered Accountants of India (ICAI).
+
+KEY AUDIT MATTERS
+
+1. REVENUE RECOGNITION (Ind AS 115)
+   Revenue from real estate projects is recognized using the percentage of
+   completion method based on project costs incurred. This involves significant
+   judgment in estimating total project costs and stage of completion.
+
+2. INVENTORY VALUATION
+   Work-in-progress and completed units are valued at lower of cost and net
+   realizable value. Estimation of NRV requires judgment on expected selling
+   prices.
+
+EMPHASIS OF MATTER
+
+We draw attention to Note 25 regarding the extension of project timelines for
+Skyline Residency and Skyline Commercial Hub due to regulatory approvals. This
+does not modify our opinion.
+
+For M/s. SHAH & CO.
+Chartered Accountants
+Firm Reg. No. 109720W
+
+Sd/-
+Kishore Shah
+Partner
+Membership No. 012345
+UDIN: 24012345ABCDEF1234
+
+Place: Mumbai
+Date: 30th May, 2024
+
+================================================================================
+                         BALANCE SHEET
+                     AS AT 31ST MARCH, 2024
+================================================================================
+
+                                                    (Rs. in Lakhs)
+Particulars                          Note   31.03.2024    31.03.2023
+--------------------------------------------------------------------------------
+
+I. EQUITY AND LIABILITIES
+
+   1. Shareholders' Funds
+      (a) Share Capital                3       150.00        150.00
+      (b) Reserves and Surplus         4     1,500.00      1,150.00
+                                           ----------    ----------
+                                             1,650.00      1,300.00
+
+   2. Non-Current Liabilities
+      (a) Long-term Borrowings         5    10,500.00      8,000.00
+      (b) Deferred Tax Liabilities     6       150.00        120.00
+      (c) Other Long-term Liabilities  7       200.00        150.00
+                                           ----------    ----------
+                                            10,850.00      8,270.00
+
+   3. Current Liabilities
+      (a) Short-term Borrowings        8     6,000.00      4,500.00
+      (b) Trade Payables               9     4,500.00      3,800.00
+      (c) Other Current Liabilities   10    15,000.00     12,000.00
+      (d) Short-term Provisions       11       500.00        430.00
+                                           ----------    ----------
+                                            26,000.00     20,730.00
+--------------------------------------------------------------------------------
+TOTAL                                       38,500.00     30,300.00
+================================================================================
+
+II. ASSETS
+
+   1. Non-Current Assets
+      (a) Property, Plant & Equipment 12       800.00        750.00
+      (b) Intangible Assets           13        50.00         60.00
+      (c) Non-current Investments     14       350.00        350.00
+      (d) Deferred Tax Assets         15         -             -
+      (e) Long-term Loans & Advances  16       200.00        150.00
+      (f) Other Non-current Assets    17       100.00         90.00
+                                           ----------    ----------
+                                             1,500.00      1,400.00
+
+   2. Current Assets
+      (a) Inventories                 18    28,000.00     22,000.00
+      (b) Trade Receivables           19     2,500.00      2,000.00
+      (c) Cash and Bank Balances      20     4,500.00      3,500.00
+      (d) Short-term Loans & Advances 21     1,500.00      1,100.00
+      (e) Other Current Assets        22       500.00        300.00
+                                           ----------    ----------
+                                            37,000.00     28,900.00
+--------------------------------------------------------------------------------
+TOTAL                                       38,500.00     30,300.00
+================================================================================
+
+As per our report of even date attached
+
+For M/s. Shah & Co.                     For Skyline Developers Pvt Ltd
+Chartered Accountants
+
+Sd/-                                    Sd/-                    Sd/-
+Kishore Shah                            Rajesh Kumar Mehta      Amit Deshmukh
+Partner                                 Managing Director       CFO
+
+                                        Sd/-
+                                        Sneha Patel
+                                        Company Secretary
+
+Place: Mumbai
+Date: 30th May, 2024
+
+================================================================================
+                   STATEMENT OF PROFIT AND LOSS
+                FOR THE YEAR ENDED 31ST MARCH, 2024
+================================================================================
+
+                                                    (Rs. in Lakhs)
+Particulars                          Note   31.03.2024    31.03.2023
+--------------------------------------------------------------------------------
+
+I.   REVENUE FROM OPERATIONS          23    28,500.00     23,500.00
+
+II.  OTHER INCOME                     24     1,200.00        800.00
+                                           ----------    ----------
+III. TOTAL INCOME (I + II)                  29,700.00     24,300.00
+
+IV.  EXPENSES:
+
+     Cost of Materials Consumed              8,500.00      7,000.00
+     Construction and Development Costs      9,000.00      7,500.00
+     Employee Benefits Expense               1,200.00      1,000.00
+     Finance Costs                     25    1,800.00      1,400.00
+     Depreciation and Amortization           150.00        140.00
+     Other Expenses                    26    4,150.00      3,460.00
+                                           ----------    ----------
+     Total Expenses                         24,800.00     20,500.00
+
+V.   PROFIT BEFORE TAX (III - IV)            4,900.00      3,800.00
+
+VI.  TAX EXPENSE:
+     (a) Current Tax                         1,200.00        950.00
+     (b) Deferred Tax                           30.00         20.00
+                                           ----------    ----------
+                                             1,230.00        970.00
+
+VII. PROFIT FOR THE YEAR (V - VI)            3,670.00      2,830.00
+================================================================================
+
+VIII. OTHER COMPREHENSIVE INCOME                  -             -
+
+IX.  TOTAL COMPREHENSIVE INCOME              3,670.00      2,830.00
+================================================================================
+
+X.   EARNINGS PER SHARE (Rs.)
+     Basic                                     244.67        188.67
+     Diluted                                   244.67        188.67
+
+================================================================================
+
+================================================================================
+                      CASH FLOW STATEMENT
+                FOR THE YEAR ENDED 31ST MARCH, 2024
+================================================================================
+
+                                                    (Rs. in Lakhs)
+Particulars                                   31.03.2024    31.03.2023
+--------------------------------------------------------------------------------
+
+A. CASH FLOW FROM OPERATING ACTIVITIES
+
+   Profit Before Tax                           4,900.00      3,800.00
+   Adjustments for:
+   - Depreciation                                150.00        140.00
+   - Finance Costs                             1,800.00      1,400.00
+   - Interest Income                            (200.00)      (150.00)
+                                              ----------    ----------
+   Operating Profit before Working Capital     6,650.00      5,190.00
+
+   Changes in Working Capital:
+   - (Increase) in Inventories                (6,000.00)    (4,500.00)
+   - (Increase) in Trade Receivables            (500.00)      (300.00)
+   - (Increase) in Other Assets                 (550.00)      (250.00)
+   - Increase in Trade Payables                  700.00        500.00
+   - Increase in Other Liabilities             3,070.00      2,000.00
+                                              ----------    ----------
+   Cash Generated from Operations              3,370.00      2,640.00
+   - Income Taxes Paid                        (1,200.00)      (950.00)
+                                              ----------    ----------
+   Net Cash from Operating Activities          2,170.00      1,690.00
+
+B. CASH FLOW FROM INVESTING ACTIVITIES
+
+   - Purchase of Fixed Assets                   (190.00)      (150.00)
+   - Interest Received                           200.00        150.00
+                                              ----------    ----------
+   Net Cash from Investing Activities             10.00          -
+
+C. CASH FLOW FROM FINANCING ACTIVITIES
+
+   - Proceeds from Borrowings                  4,000.00      3,000.00
+   - Repayment of Borrowings                  (2,000.00)    (1,500.00)
+   - Finance Costs Paid                       (1,800.00)    (1,400.00)
+   - Dividends Paid                           (1,380.00)    (1,000.00)
+                                              ----------    ----------
+   Net Cash from Financing Activities         (1,180.00)      (900.00)
+
+--------------------------------------------------------------------------------
+   Net Increase in Cash (A + B + C)            1,000.00        790.00
+
+   Opening Cash and Bank Balances              3,500.00      2,710.00
+                                              ----------    ----------
+   Closing Cash and Bank Balances              4,500.00      3,500.00
+================================================================================
+
+================================================================================
+                   NOTES TO FINANCIAL STATEMENTS
+================================================================================
+
+NOTE 3: SHARE CAPITAL
+                                                    (Rs. in Lakhs)
+                                             31.03.2024    31.03.2023
+--------------------------------------------------------------------------------
+Authorized:
+2,50,000 Equity Shares of Rs. 100 each           250.00        250.00
+
+Issued, Subscribed & Paid-up:
+1,50,000 Equity Shares of Rs. 100 each           150.00        150.00
+--------------------------------------------------------------------------------
+
+NOTE 18: INVENTORIES
+                                                    (Rs. in Lakhs)
+                                             31.03.2024    31.03.2023
+--------------------------------------------------------------------------------
+(a) Land and Development Rights                8,000.00      6,500.00
+(b) Work-in-Progress                          15,000.00     12,000.00
+(c) Completed Units (Unsold)                   5,000.00      3,500.00
+--------------------------------------------------------------------------------
+Total                                         28,000.00     22,000.00
+--------------------------------------------------------------------------------
+
+NOTE 23: REVENUE FROM OPERATIONS
+                                                    (Rs. in Lakhs)
+                                             31.03.2024    31.03.2023
+--------------------------------------------------------------------------------
+Revenue from:
+- Skyline Heights (Completed)                  1,500.00      3,000.00
+- Skyline Towers (Completed)                   7,500.00     10,000.00
+- Skyline Residency (Ongoing)                 12,000.00      8,500.00
+- Skyline Commercial Hub (Ongoing)             7,500.00      2,000.00
+--------------------------------------------------------------------------------
+Total                                         28,500.00     23,500.00
+--------------------------------------------------------------------------------
+
+NOTE 25: FINANCE COSTS
+                                                    (Rs. in Lakhs)
+                                             31.03.2024    31.03.2023
+--------------------------------------------------------------------------------
+Interest on Project Loans                      1,500.00      1,200.00
+Interest on Working Capital                      250.00        150.00
+Other Borrowing Costs                             50.00         50.00
+--------------------------------------------------------------------------------
+Total                                          1,800.00      1,400.00
+--------------------------------------------------------------------------------
+
+================================================================================
+                    KEY FINANCIAL RATIOS
+================================================================================
+
+Ratio                                        FY 2023-24    FY 2022-23
+--------------------------------------------------------------------------------
+Revenue Growth                                    22%           28%
+Gross Profit Margin                               39%           38%
+Operating Profit Margin                           18%           17%
+Net Profit Margin                                 12%           12%
+Return on Equity (ROE)                            22%           22%
+Return on Capital Employed (ROCE)                 16%           15%
+Debt-Equity Ratio                                0.80          0.75
+Current Ratio                                    1.42          1.39
+Interest Coverage Ratio                          3.72          3.71
+--------------------------------------------------------------------------------
+
+================================================================================
+
+Place: Mumbai                                           Sd/-
+Date: November 2024                                Sneha Patel
+                                                Company Secretary
+
+================================================================================
