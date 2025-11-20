@@ -1,0 +1,447 @@
+================================================================================
+                    STATUTORY REGISTERS
+                          OF
+              TECHVENTURE INDIA PRIVATE LIMITED
+                CIN: U72900KA2019PTC123456
+================================================================================
+
+           (Maintained as per Companies Act, 2013)
+
+================================================================================
+
+                 REGISTER OF MEMBERS
+                    (Section 88)
+
+================================================================================
+
+REGISTER OF MEMBERS - EQUITY SHARES
+
+--------------------------------------------------------------------------------
+| Folio | Name and Address      | Date of  | No. of  | Distinctive | Remarks  |
+| No.   |                       | Entry    | Shares  | Numbers     |          |
+--------------------------------------------------------------------------------
+| 001   | Rahul Sharma          | 15.03.19 | 12,000  | 1 - 12000   | Founder  |
+|       | 123 Palm Grove,       |          |         |             |          |
+|       | Indiranagar,          |          |         |             |          |
+|       | Bangalore - 560038    |          |         |             |          |
+|       | PAN: AAAAS1234A       |          |         |             |          |
+--------------------------------------------------------------------------------
+| 002   | Priya Mehta           | 15.03.19 | 8,000   | 12001-20000 | Founder  |
+|       | 456 Brigade Road,     |          |         |             |          |
+|       | MG Road,              |          |         |             |          |
+|       | Bangalore - 560001    |          |         |             |          |
+|       | PAN: AAAPM5678B       |          |         |             |          |
+--------------------------------------------------------------------------------
+| 003   | Bangalore Angels      | 15.06.20 | 1,500   | 20001-21500 | Angel    |
+|       | Network Trust         |          |         |             | Investor |
+|       | #88, Residency Road,  |          |         |             |          |
+|       | Bangalore - 560025    |          |         |             |          |
+|       | PAN: AABAB1234C       |          |         |             |          |
+--------------------------------------------------------------------------------
+| 004   | Ankit Verma           | 15.06.20 | 600     | 21501-22100 | Angel    |
+|       | 789 Whitefield Main,  |          |         |             | Investor |
+|       | Bangalore - 560066    |          |         |             |          |
+|       | PAN: AAAPV9012D       |          |         |             |          |
+--------------------------------------------------------------------------------
+| 005   | Pradeep Singh         | 15.06.20 | 400     | 22101-22500 | Angel    |
+|       | 456 Indiranagar,      |          |         |             | Investor |
+|       | Bangalore - 560038    |          |         |             |          |
+|       | PAN: AAAPS3456E       |          |         |             |          |
+--------------------------------------------------------------------------------
+| 006   | ESOP Trust            | 10.11.25 | 400     | 22501-22900 | ESOP     |
+|       | (Various Employees)   |          |         |             | Allotment|
+|       | c/o Company           |          |         |             |          |
+--------------------------------------------------------------------------------
+
+TOTAL MEMBERS: 6
+TOTAL SHARES ISSUED: 25,400
+TOTAL PAID-UP CAPITAL: Rs. 25,40,000
+
+--------------------------------------------------------------------------------
+
+                  SUMMARY OF SHAREHOLDING
+
+Shareholder Category              | No. of Members | No. of Shares | %
+----------------------------------|----------------|---------------|--------
+Promoter/Founder                  | 2              | 20,000        | 78.74%
+Angel Investors                   | 3              | 2,500         | 9.84%
+ESOP (Employees)                  | 8              | 400           | 1.57%
+Reserved ESOP Pool                | -              | 2,500         | 9.84%
+----------------------------------|----------------|---------------|--------
+TOTAL                             | 13             | 25,400        | 100.00%
+
+================================================================================
+
+                 REGISTER OF DIRECTORS
+                    (Section 170)
+
+================================================================================
+
+REGISTER OF DIRECTORS AND KEY MANAGERIAL PERSONNEL
+
+--------------------------------------------------------------------------------
+| DIN/PAN     | Name           | Designation           | DOB        | DOA      |
+--------------------------------------------------------------------------------
+| 08123456    | Rahul Sharma   | Whole-time Director   | 15.08.1987 | 15.03.19 |
+|             |                | & CEO                 |            |          |
+|             | Father: Vijay Sharma                                           |
+|             | Nationality: Indian                                            |
+|             | Residence: 123 Palm Grove, Indiranagar, Bangalore - 560038     |
+|             | Occupation: Business                                           |
+|             | Other Directorships: NIL                                       |
+|             | Shareholding: 15,000 shares (60%)                              |
+--------------------------------------------------------------------------------
+| 08234567    | Priya Mehta    | Whole-time Director   | 22.03.1989 | 15.03.19 |
+|             |                | & CTO                 |            |          |
+|             | Father: Suresh Mehta                                           |
+|             | Nationality: Indian                                            |
+|             | Residence: 456 Brigade Road, MG Road, Bangalore - 560001       |
+|             | Occupation: Business                                           |
+|             | Other Directorships: NIL                                       |
+|             | Shareholding: 7,500 shares (30%)                               |
+--------------------------------------------------------------------------------
+| 08345678    | Ankit Verma    | Non-Executive         | 10.11.1985 | 15.06.20 |
+|             |                | Director (Investor)   |            |          |
+|             | Father: Anil Verma                                             |
+|             | Nationality: Indian                                            |
+|             | Residence: 789 Whitefield Main Road, Bangalore - 560066        |
+|             | Occupation: Business                                           |
+|             | Other Directorships: 2                                         |
+|             | Shareholding: 600 shares (2.4%)                                |
+--------------------------------------------------------------------------------
+| 07456789    | Suresh Kumar   | Independent Director  | 05.01.1970 | 10.01.21 |
+|             | Father: Ramakrishna Kumar                                      |
+|             | Nationality: Indian                                            |
+|             | Residence: 234 Sadashivanagar, Bangalore - 560080              |
+|             | Occupation: Retired Banker                                     |
+|             | Other Directorships: 3                                         |
+|             | Shareholding: NIL                                              |
+--------------------------------------------------------------------------------
+| 08567890    | Lakshmi Iyer   | Non-Executive         | 18.07.1980 | 20.03.22 |
+|             |                | Director (Nominee)    |            |          |
+|             | Father: K. Iyer                                                |
+|             | Nationality: Indian                                            |
+|             | Residence: 567 Koramangala 8th Block, Bangalore - 560095       |
+|             | Occupation: Professional                                       |
+|             | Other Directorships: 1                                         |
+|             | Shareholding: NIL                                              |
+--------------------------------------------------------------------------------
+
+KEY MANAGERIAL PERSONNEL (OTHER THAN DIRECTORS)
+
+--------------------------------------------------------------------------------
+| PAN         | Name           | Designation           | DOA        | DOR      |
+--------------------------------------------------------------------------------
+| AAAAA1234F  | Neha Agarwal   | Chief Financial       | 01.04.2021 | -        |
+|             |                | Officer               |            |          |
+|             | Residence: Bangalore                                           |
+|             | Qualification: CA, CFA                                         |
+--------------------------------------------------------------------------------
+| BBBBB5678G  | Vivek Rao      | Company Secretary     | 01.07.2021 | -        |
+|             |                |                       |            |          |
+|             | Residence: Bangalore                                           |
+|             | Qualification: ACS                                             |
+|             | Membership No.: 67890                                          |
+--------------------------------------------------------------------------------
+
+DOA = Date of Appointment  |  DOR = Date of Resignation
+
+================================================================================
+
+                 REGISTER OF CHARGES
+                    (Section 85)
+
+================================================================================
+
+--------------------------------------------------------------------------------
+| Charge | Date of    | Amount   | Description      | Charge    | Satisfaction |
+| ID     | Creation   |          |                  | Holder    | Date         |
+--------------------------------------------------------------------------------
+|        |            |          |                  |           |              |
+|   NIL CHARGES REGISTERED                                                     |
+|        |            |          |                  |           |              |
+--------------------------------------------------------------------------------
+
+Certificate: No charges have been created over the assets of the Company.
+
+================================================================================
+
+           REGISTER OF CONTRACTS WITH RELATED PARTIES
+                    (Section 189)
+
+================================================================================
+
+CONTRACTS/ARRANGEMENTS WITH RELATED PARTIES
+
+--------------------------------------------------------------------------------
+| S.No | Related Party      | Relationship | Nature of    | Date      | Value |
+|      |                    |              | Transaction  |           |       |
+--------------------------------------------------------------------------------
+| 1    | Sharma Properties  | Entity in    | Office Lease | 01.01.23  | Rs.   |
+|      | LLP                | which        |              | to        | 3,00,000|
+|      |                    | Director is  |              | 31.12.25  | p.m.  |
+|      |                    | interested   |              |           |       |
+|      | Board Approval: Meeting dated 15.12.2022, Resolution No. 3           |
+|      | Shareholder Approval: AGM dated 28.12.2022, Resolution No. 4         |
+|      | Arm's Length: Yes (5% below market rate)                             |
+--------------------------------------------------------------------------------
+| 2    | Rahul Sharma       | Director     | Salary &     | Ongoing   | As per|
+|      |                    |              | Benefits     |           | Board |
+|      | Board Approval: Annual approval in each financial year               |
+--------------------------------------------------------------------------------
+| 3    | Priya Mehta        | Director     | Salary &     | Ongoing   | As per|
+|      |                    |              | Benefits     |           | Board |
+|      | Board Approval: Annual approval in each financial year               |
+--------------------------------------------------------------------------------
+
+================================================================================
+
+         REGISTER OF LOANS, GUARANTEES & INVESTMENTS
+                    (Section 186)
+
+================================================================================
+
+--------------------------------------------------------------------------------
+| S.No | Type          | Particulars       | Amount    | Date      | Status   |
+--------------------------------------------------------------------------------
+|      |               |                   |           |           |          |
+|   NIL LOANS, GUARANTEES, OR INVESTMENTS MADE                                 |
+|      |               |                   |           |           |          |
+--------------------------------------------------------------------------------
+
+================================================================================
+
+                 REGISTER OF RENEWED AND
+              DUPLICATE SHARE CERTIFICATES
+                    (Rule 6)
+
+================================================================================
+
+--------------------------------------------------------------------------------
+| S.No | Folio | Name          | Certificate | Issue Date | Reason   | New     |
+|      |       |               | No.         |            |          | Cert No.|
+--------------------------------------------------------------------------------
+|      |       |               |             |            |          |         |
+|   NO DUPLICATE CERTIFICATES ISSUED                                           |
+|      |       |               |             |            |          |         |
+--------------------------------------------------------------------------------
+
+================================================================================
+
+              REGISTER OF SHARE TRANSFERS
+                    (Section 56)
+
+================================================================================
+
+SHARE TRANSFERS
+
+--------------------------------------------------------------------------------
+| S.No | Date     | Transferor       | Transferee       | No. of  | Cert    |
+|      |          |                  |                  | Shares  | No.     |
+--------------------------------------------------------------------------------
+|      |          |                  |                  |         |         |
+|   NO SHARE TRANSFERS SINCE INCORPORATION                                     |
+|   (All shares held by original allottees)                                    |
+|      |          |                  |                  |         |         |
+--------------------------------------------------------------------------------
+
+================================================================================
+
+             REGISTER OF DEBENTURE HOLDERS
+                    (Section 88)
+
+================================================================================
+
+--------------------------------------------------------------------------------
+| S.No | Name           | Address         | No. of     | Face Value | Date   |
+|      |                |                 | Debentures |            |        |
+--------------------------------------------------------------------------------
+|      |                |                 |            |            |        |
+|   NO DEBENTURES ISSUED                                                       |
+|      |                |                 |            |            |        |
+--------------------------------------------------------------------------------
+
+================================================================================
+
+          REGISTER OF EMPLOYEE STOCK OPTIONS
+                    (Rule 12)
+
+================================================================================
+
+SUMMARY OF ESOP GRANTS
+
+--------------------------------------------------------------------------------
+| Grant | Employee Name  | Grant  | Options | Exercise | Vesting  | Status    |
+| No.   |                | Date   | Granted | Price    | Start    |           |
+--------------------------------------------------------------------------------
+| 001   | Employee 1     | 01.07.20| 200    | Rs. 100  | 01.07.20 | Partially |
+|       | (Sr. Developer)|        |         |          |          | Exercised |
+|       | Vested: 200 | Exercised: 100 | Unvested: 0 | Lapsed: 0              |
+--------------------------------------------------------------------------------
+| 002   | Employee 2     | 01.07.20| 150    | Rs. 100  | 01.07.20 | Partially |
+|       | (Product Mgr)  |        |         |          |          | Vested    |
+|       | Vested: 112 | Exercised: 75 | Unvested: 38 | Lapsed: 0              |
+--------------------------------------------------------------------------------
+| 003   | Employee 3     | 01.01.21| 100    | Rs. 100  | 01.01.21 | Vested    |
+|       | (Designer)     |        |         |          |          |           |
+|       | Vested: 100 | Exercised: 50 | Unvested: 0 | Lapsed: 0               |
+--------------------------------------------------------------------------------
+| 004   | Employee 4     | 01.07.21| 200    | Rs. 100  | 01.07.21 | Partially |
+|       | (Engineer)     |        |         |          |          | Vested    |
+|       | Vested: 150 | Exercised: 100 | Unvested: 50 | Lapsed: 0             |
+--------------------------------------------------------------------------------
+| 005   | Employee 5     | 01.01.22| 150    | Rs. 100  | 01.01.22 | Partially |
+|       | (Sales)        |        |         |          |          | Vested    |
+|       | Vested: 112 | Exercised: 50 | Unvested: 38 | Lapsed: 0              |
+--------------------------------------------------------------------------------
+| 006   | Employee 6     | 01.07.22| 100    | Rs. 100  | 01.07.22 | Partially |
+|       | (Support)      |        |         |          |          | Vested    |
+|       | Vested: 75 | Exercised: 25 | Unvested: 25 | Lapsed: 0               |
+--------------------------------------------------------------------------------
+| 007   | Employee 7     | 01.01.23| 150    | Rs. 100  | 01.01.23 | Partially |
+|       | (Marketing)    |        |         |          |          | Vested    |
+|       | Vested: 113 | Exercised: 0 | Unvested: 37 | Lapsed: 0               |
+--------------------------------------------------------------------------------
+| 008   | Employee 8     | 01.07.23| 150    | Rs. 100  | 01.07.23 | Partially |
+|       | (QA Lead)      |        |         |          |          | Vested    |
+|       | Vested: 88 | Exercised: 0 | Unvested: 62 | Lapsed: 0                |
+--------------------------------------------------------------------------------
+| 009   | Employee 9     | 01.01.24| 100    | Rs. 100  | 01.01.24 | Unvested  |
+|       | (Developer)    |        |         |          |          |           |
+|       | Vested: 50 | Exercised: 0 | Unvested: 50 | Lapsed: 0                |
+--------------------------------------------------------------------------------
+| 010   | Employee 10    | 01.07.24| 200    | Rs. 100  | 01.07.24 | Unvested  |
+|       | (VP Product)   |        |         |          |          |           |
+|       | Vested: 50 | Exercised: 0 | Unvested: 150 | Lapsed: 0               |
+--------------------------------------------------------------------------------
+
+ESOP POOL SUMMARY:
+
+Total Options Reserved:           3,750
+Total Options Granted:            1,500
+Total Options Exercised:            400
+Total Options Vested (Unexercised): 650
+Total Options Unvested:             450
+Options Available for Grant:      2,250
+
+================================================================================
+
+              REGISTER OF DEPOSITS
+                  (Section 73)
+
+================================================================================
+
+--------------------------------------------------------------------------------
+| S.No | Name           | Amount    | Date of  | Interest | Maturity   | Status|
+|      |                |           | Deposit  | Rate     | Date       |       |
+--------------------------------------------------------------------------------
+|      |                |           |          |          |            |       |
+|   NO DEPOSITS ACCEPTED                                                       |
+|   (Company has not accepted any deposits from public or members)             |
+|      |                |           |          |          |            |       |
+--------------------------------------------------------------------------------
+
+================================================================================
+
+         REGISTER OF BENEFICIAL OWNERS
+                  (Section 89)
+
+================================================================================
+
+--------------------------------------------------------------------------------
+| S.No | Registered   | Beneficial | No. of  | Date of    | Nature of    |
+|      | Owner        | Owner      | Shares  | Declaration| Interest     |
+--------------------------------------------------------------------------------
+|      |              |            |         |            |              |
+|   ALL REGISTERED OWNERS ARE BENEFICIAL OWNERS                                |
+|   (No declaration of beneficial interest received)                           |
+|      |              |            |         |            |              |
+--------------------------------------------------------------------------------
+
+================================================================================
+
+         MINUTES BOOK - BOARD MEETINGS
+                  (Section 118)
+
+================================================================================
+
+BOARD MEETING SUMMARY (2019-2025)
+
+--------------------------------------------------------------------------------
+| Meeting | Date       | Directors | Key Resolutions                          |
+| No.     |            | Present   |                                          |
+--------------------------------------------------------------------------------
+| BM-1    | 15.03.2019 | 2/2       | First Board Meeting post incorporation   |
+--------------------------------------------------------------------------------
+| BM-2    | 15.06.2019 | 2/2       | Quarterly review, bank account opening   |
+--------------------------------------------------------------------------------
+| BM-3    | 15.09.2019 | 2/2       | Quarterly review, hiring approval        |
+--------------------------------------------------------------------------------
+| BM-4    | 15.12.2019 | 2/2       | Annual review, AGM notice                |
+--------------------------------------------------------------------------------
+| BM-5    | 15.03.2020 | 2/2       | ESOP scheme approval                     |
+--------------------------------------------------------------------------------
+| BM-6    | 15.06.2020 | 3/3       | Angel investment, SHA approval           |
+--------------------------------------------------------------------------------
+| ...     | ...        | ...       | ...                                      |
+--------------------------------------------------------------------------------
+| BM-24   | 18.11.2025 | 5/5       | Q2 results, Series A discussions, AGM    |
+--------------------------------------------------------------------------------
+
+Total Board Meetings Held: 24 (Average: 4 per year)
+
+================================================================================
+
+         MINUTES BOOK - GENERAL MEETINGS
+                  (Section 118)
+
+================================================================================
+
+GENERAL MEETING SUMMARY (2019-2025)
+
+--------------------------------------------------------------------------------
+| Meeting | Type | Date       | Members | Key Resolutions                     |
+|         |      |            | Present |                                     |
+--------------------------------------------------------------------------------
+| AGM-1   | AGM  | 30.09.2020 | All     | Adoption of accounts FY 2019-20     |
+--------------------------------------------------------------------------------
+| EGM-1   | EGM  | 10.04.2020 | All     | ESOP scheme approval                |
+--------------------------------------------------------------------------------
+| EGM-2   | EGM  | 25.06.2020 | All     | Angel investment, SHA approval      |
+--------------------------------------------------------------------------------
+| AGM-2   | AGM  | 30.09.2021 | All     | Adoption of accounts FY 2020-21     |
+--------------------------------------------------------------------------------
+| AGM-3   | AGM  | 30.09.2022 | All     | Adoption of accounts FY 2021-22     |
+--------------------------------------------------------------------------------
+| AGM-4   | AGM  | 30.09.2023 | All     | Adoption of accounts FY 2022-23     |
+--------------------------------------------------------------------------------
+| AGM-5   | AGM  | 30.09.2024 | All     | Adoption of accounts FY 2023-24     |
+--------------------------------------------------------------------------------
+| AGM-6   | AGM  | 28.12.2025 | Pending | Scheduled for Dec 28, 2025          |
+--------------------------------------------------------------------------------
+
+================================================================================
+
+                STATUTORY COMPLIANCE SUMMARY
+
+The Company has maintained all statutory registers as required under the
+Companies Act, 2013 and rules made thereunder. All registers are available
+for inspection at the Registered Office during business hours.
+
+Register Maintenance:
+- All registers maintained in electronic and physical format
+- Physical registers kept at Registered Office
+- Backup maintained at cloud storage
+- Updated within 7 days of any change
+
+Prepared by:
+
+_________________________
+Mr. Vivek Rao
+Company Secretary
+Membership No.: 67890
+
+Date: November 20, 2025
+Place: Bangalore
+
+================================================================================

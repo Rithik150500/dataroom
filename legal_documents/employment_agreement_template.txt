@@ -1,0 +1,412 @@
+================================================================================
+                     EMPLOYMENT AGREEMENT
+                            OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+                  [TEMPLATE - FOR ALL EMPLOYEES]
+
+================================================================================
+
+THIS EMPLOYMENT AGREEMENT (the "Agreement") is made and entered into on this
+_____ day of __________, 20____
+
+BETWEEN
+
+TECHVENTURE INDIA PRIVATE LIMITED, a company incorporated under the Companies
+Act, 2013, having CIN U72900KA2019PTC123456 and its registered office at #42,
+3rd Floor, Koramangala 5th Block, Bangalore - 560095, Karnataka (hereinafter
+referred to as the "Company", which expression shall include its successors
+and assigns);
+
+AND
+
+Mr./Ms. ___________________________
+Son/Daughter of ___________________________
+Residing at ___________________________
+___________________________
+(hereinafter referred to as the "Employee")
+
+The Company and the Employee are hereinafter individually referred to as a
+"Party" and collectively as the "Parties".
+
+================================================================================
+
+                          RECITALS
+
+WHEREAS:
+
+A. The Company is engaged in the business of developing and providing
+   Software as a Service (SaaS) solutions for enterprise resource management.
+
+B. The Company wishes to employ the Employee on the terms and conditions
+   set forth in this Agreement.
+
+C. The Employee wishes to be employed by the Company on the terms and
+   conditions set forth in this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises
+contained herein, the Parties agree as follows:
+
+================================================================================
+
+               ARTICLE 1: APPOINTMENT AND DUTIES
+
+1.1 POSITION
+    The Company hereby appoints the Employee to the position of:
+
+    Designation: ___________________________
+    Department:  ___________________________
+    Reporting to: ___________________________
+
+1.2 DUTIES AND RESPONSIBILITIES
+    The Employee shall perform all duties and responsibilities as outlined
+    in the Job Description attached as Annexure A to this Agreement, and
+    such other duties as may be assigned from time to time.
+
+1.3 LOCATION
+    The Employee's primary place of work shall be:
+
+    [ ] Registered Office: #42, 3rd Floor, Koramangala 5th Block, Bangalore
+    [ ] Remote/Work from Home
+    [ ] Other: ___________________________
+
+1.4 FULL-TIME EMPLOYMENT
+    The Employee agrees to devote substantially all working hours and best
+    efforts to the performance of duties. The Employee shall not engage in
+    any other employment or business activity without prior written consent
+    of the Company.
+
+================================================================================
+
+               ARTICLE 2: TERM OF EMPLOYMENT
+
+2.1 COMMENCEMENT DATE
+    The Employee's employment shall commence on _______________
+
+2.2 TERM
+    This Agreement shall continue until terminated by either Party in
+    accordance with Article 8.
+
+2.3 PROBATION PERIOD
+    The Employee shall be on probation for a period of ___ months from the
+    Commencement Date. During the probation period:
+    (a) Either Party may terminate employment with 15 days' notice
+    (b) The Employee shall not be entitled to certain benefits as specified
+    (c) Confirmation shall be subject to satisfactory performance
+
+================================================================================
+
+            ARTICLE 3: COMPENSATION AND BENEFITS
+
+3.1 BASIC SALARY
+    The Employee shall receive a monthly basic salary of Rs. _______________
+    (Rupees _______________ Only), payable in arrears on or before the last
+    working day of each month.
+
+3.2 ANNUAL COMPENSATION (CTC)
+    The Employee's annual Cost to Company (CTC) shall be Rs. _______________
+    (Rupees _______________ Only), comprising the components listed in
+    Annexure B.
+
+3.3 STATUTORY DEDUCTIONS
+    All payments shall be subject to applicable statutory deductions including:
+    (a) Provident Fund (PF) contribution
+    (b) Professional Tax
+    (c) Income Tax (TDS)
+    (d) ESI contribution (if applicable)
+
+3.4 VARIABLE PAY / BONUS
+    The Employee may be eligible for variable pay/bonus as per Company policy,
+    subject to:
+    (a) Achievement of individual and company performance targets
+    (b) Continued employment on the date of payment
+    (c) Discretion of the Company
+
+3.5 ESOP
+    The Employee may be eligible to participate in the Company's Employee
+    Stock Option Plan (ESOP) at the discretion of the Compensation Committee.
+    Any ESOP grants shall be governed by the terms of the ESOP Scheme and
+    separate Option Agreement.
+
+3.6 BENEFITS
+    The Employee shall be entitled to the following benefits:
+    (a) Health Insurance: Group health insurance coverage as per Company policy
+    (b) Leave: As per the Company's leave policy (See Article 5)
+    (c) Gratuity: As per the Payment of Gratuity Act, 1972
+    (d) Other benefits as per Company policy from time to time
+
+================================================================================
+
+              ARTICLE 4: WORKING HOURS
+
+4.1 STANDARD HOURS
+    The standard working hours shall be 9 hours per day (including break),
+    5 days a week (Monday to Friday), totaling 45 hours per week.
+
+4.2 FLEXIBILITY
+    Depending on business requirements and role, the Employee may be
+    required to work additional hours, weekends, or holidays. Senior
+    roles may be exempt from overtime provisions.
+
+4.3 OVERTIME
+    [ ] Eligible for overtime compensation as per Company policy
+    [ ] Not eligible for overtime (role is exempt)
+
+================================================================================
+
+                     ARTICLE 5: LEAVE
+
+5.1 ANNUAL LEAVE ENTITLEMENT
+    The Employee shall be entitled to the following leave:
+
+    (a) Earned/Privilege Leave:     24 days per year
+    (b) Sick/Medical Leave:         12 days per year
+    (c) Casual Leave:                6 days per year
+
+    Total:                          42 days per year
+
+5.2 PUBLIC HOLIDAYS
+    The Employee shall be entitled to paid leave on public holidays as
+    declared by the Company for each calendar year.
+
+5.3 MATERNITY/PATERNITY LEAVE
+    As per the Maternity Benefit Act, 1961 and Company policy.
+
+5.4 LEAVE POLICY
+    All leave shall be governed by the Company's Leave Policy. Unused leave
+    may be carried forward or encashed as per policy.
+
+================================================================================
+
+        ARTICLE 6: CONFIDENTIALITY AND INTELLECTUAL PROPERTY
+
+6.1 CONFIDENTIAL INFORMATION
+    The Employee acknowledges and agrees that during employment, the Employee
+    will have access to Confidential Information of the Company, including
+    but not limited to:
+
+    (a) Business plans, strategies, and projections
+    (b) Financial information and data
+    (c) Customer and vendor information
+    (d) Technical designs, source code, and algorithms
+    (e) Product roadmaps and development plans
+    (f) Marketing and sales strategies
+    (g) Employee and compensation information
+    (h) Any other proprietary information
+
+6.2 CONFIDENTIALITY OBLIGATIONS
+    The Employee agrees to:
+    (a) Keep all Confidential Information strictly confidential
+    (b) Not disclose Confidential Information to any third party
+    (c) Use Confidential Information only for the purposes of employment
+    (d) Return all Confidential Information upon termination
+
+6.3 INTELLECTUAL PROPERTY
+    All intellectual property created by the Employee during employment
+    that relates to the Company's business shall be the exclusive property
+    of the Company. This includes:
+    (a) Inventions, discoveries, and improvements
+    (b) Software, code, and technical designs
+    (c) Documentation, manuals, and training materials
+    (d) Marketing materials and content
+
+6.4 ASSIGNMENT OF IP
+    The Employee hereby assigns to the Company all rights, title, and
+    interest in any intellectual property created during employment.
+    The Employee agrees to execute any additional documents required
+    to perfect this assignment.
+
+6.5 MORAL RIGHTS
+    To the extent permitted by law, the Employee waives all moral rights
+    in any work created during employment.
+
+6.6 SURVIVAL
+    The obligations under this Article shall survive the termination of
+    this Agreement.
+
+================================================================================
+
+      ARTICLE 7: NON-COMPETE AND NON-SOLICITATION
+
+7.1 NON-COMPETE DURING EMPLOYMENT
+    During employment, the Employee shall not:
+    (a) Engage in any competing business
+    (b) Provide services to any competitor
+    (c) Hold any position in any competing entity
+
+7.2 NON-COMPETE AFTER EMPLOYMENT
+    For a period of [6/12] months following termination of employment,
+    the Employee shall not engage in any business that directly competes
+    with the Company's business in the same geographic market.
+
+    [Note: Enforceability of post-employment non-compete varies under
+    Indian law and may be subject to limitations.]
+
+7.3 NON-SOLICITATION
+    For a period of 12 months following termination, the Employee shall not:
+    (a) Solicit or attempt to solicit any employee of the Company
+    (b) Solicit or attempt to solicit any customer of the Company
+    (c) Interfere with the Company's relationships with vendors or partners
+
+================================================================================
+
+                  ARTICLE 8: TERMINATION
+
+8.1 TERMINATION BY COMPANY WITH NOTICE
+    The Company may terminate this Agreement by providing:
+    (a) During probation: 15 days' written notice or salary in lieu
+    (b) After confirmation: 30 days' written notice or salary in lieu
+
+8.2 TERMINATION BY EMPLOYEE WITH NOTICE
+    The Employee may terminate this Agreement by providing:
+    (a) During probation: 15 days' written notice or salary in lieu
+    (b) After confirmation: 60 days' written notice or salary in lieu
+
+8.3 TERMINATION FOR CAUSE
+    The Company may terminate employment immediately without notice for
+    Cause, including:
+    (a) Material breach of this Agreement
+    (b) Gross misconduct or negligence
+    (c) Fraud, dishonesty, or theft
+    (d) Harassment or discrimination
+    (e) Breach of confidentiality
+    (f) Criminal conviction (other than minor offenses)
+    (g) Intoxication affecting work performance
+    (h) Willful insubordination
+
+8.4 CONSEQUENCES OF TERMINATION
+    Upon termination:
+    (a) The Employee shall return all Company property, documents, and data
+    (b) The Employee shall complete all handover formalities
+    (c) Final settlement shall be made within 30 days of last working day
+    (d) All unused earned leave shall be encashed as per policy
+    (e) The Employee shall sign a release and no-dues certificate
+
+================================================================================
+
+              ARTICLE 9: GENERAL PROVISIONS
+
+9.1 ENTIRE AGREEMENT
+    This Agreement constitutes the entire agreement between the Parties
+    and supersedes all prior agreements, whether written or oral.
+
+9.2 AMENDMENTS
+    This Agreement may be amended only by written agreement signed by both
+    Parties, or by Company policy changes communicated to the Employee.
+
+9.3 SEVERABILITY
+    If any provision of this Agreement is held invalid or unenforceable,
+    the remaining provisions shall remain in full force and effect.
+
+9.4 WAIVER
+    No waiver of any breach shall constitute a waiver of any subsequent
+    breach or of any other provision.
+
+9.5 NOTICES
+    All notices shall be in writing and delivered to the addresses
+    mentioned in this Agreement or such other addresses as notified.
+
+9.6 GOVERNING LAW
+    This Agreement shall be governed by the laws of India. Any disputes
+    shall be subject to the exclusive jurisdiction of courts in Bangalore,
+    Karnataka.
+
+9.7 BACKGROUND VERIFICATION
+    This offer is subject to satisfactory completion of background
+    verification as per Company policy.
+
+9.8 COMPANY POLICIES
+    The Employee agrees to comply with all Company policies, including but
+    not limited to:
+    (a) Employee Handbook
+    (b) Code of Conduct
+    (c) Anti-Harassment and POSH Policy
+    (d) Information Security Policy
+    (e) Leave Policy
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date
+first written above.
+
+
+For TECHVENTURE INDIA PRIVATE LIMITED
+
+
+_________________________
+Name: ___________________________
+Designation: ___________________________
+Date: ___________________________
+
+
+
+EMPLOYEE
+
+
+_________________________
+Name: ___________________________
+Date: ___________________________
+
+
+WITNESS:
+
+1. _________________________
+   Name:
+   Address:
+
+================================================================================
+
+                      ANNEXURE A
+                   JOB DESCRIPTION
+
+Position: ___________________________
+Department: ___________________________
+Reporting to: ___________________________
+
+Key Responsibilities:
+1. ___________________________
+2. ___________________________
+3. ___________________________
+4. ___________________________
+5. ___________________________
+
+Required Qualifications:
+___________________________
+
+Experience Required:
+___________________________
+
+================================================================================
+
+                      ANNEXURE B
+              COMPENSATION BREAKUP (ANNUAL)
+
+Component                          | Amount (Rs.)
+-----------------------------------|------------------
+Basic Salary                       |
+House Rent Allowance (HRA)         |
+Special Allowance                  |
+Employer PF Contribution           |
+Employer ESI Contribution          |
+Gratuity                           |
+Medical Insurance Premium          |
+Other Benefits                     |
+-----------------------------------|------------------
+TOTAL CTC                          |
+-----------------------------------|------------------
+
+================================================================================
+
+                 EMPLOYEE ACKNOWLEDGMENT
+
+I, the undersigned, acknowledge that I have read, understood, and agree to
+the terms and conditions of this Employment Agreement. I confirm that all
+information provided by me is true and accurate.
+
+
+_________________________
+Employee Signature
+Date: ___________________________
+
+================================================================================
