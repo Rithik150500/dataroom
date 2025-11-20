@@ -1,0 +1,451 @@
+================================================================================
+                    RERA REGISTRATIONS
+                SKYLINE DEVELOPERS PRIVATE LIMITED
+                    CIN: U45201MH2018PTC305678
+================================================================================
+
+================================================================================
+                 REGISTER OF RERA REGISTRATIONS
+================================================================================
+
+--------------------------------------------------------------------------------
+Project          RERA No.         Registration  Expiry     Status
+                                  Date          Date
+--------------------------------------------------------------------------------
+Skyline Heights  P51800026789     15.09.2019    31.12.2020 Completed
+Skyline Towers   P51800034567     01.10.2020    31.12.2022 Completed
+Skyline          P51800045678     15.07.2021    31.12.2024 Active
+Residency
+Skyline          P51800056789     01.08.2022    31.03.2025 Active
+Commercial Hub
+Skyline          P51800067890     01.06.2024    31.12.2029 Active
+Township
+--------------------------------------------------------------------------------
+
+================================================================================
+              RERA REGISTRATION CERTIFICATE
+                   SKYLINE RESIDENCY
+================================================================================
+
+                    MAHARASHTRA REAL ESTATE
+                    REGULATORY AUTHORITY
+                         (MahaRERA)
+
+              CERTIFICATE OF REGISTRATION
+
+Registration No.: P51800045678
+
+This is to certify that the following Real Estate Project has been registered
+under Section 5 of the Real Estate (Regulation and Development) Act, 2016.
+
+--------------------------------------------------------------------------------
+                    PROJECT DETAILS
+--------------------------------------------------------------------------------
+
+Project Name:           SKYLINE RESIDENCY
+
+Promoter Name:          SKYLINE DEVELOPERS PRIVATE LIMITED
+                        AND
+                        Mr. Suresh Wagle, Mrs. Sunita Wagle, Mr. Ramesh Wagle
+                        (Landowners)
+
+Promoter Address:       12th Floor, Skyline Tower, BKC, Mumbai - 400051
+
+Project Address:        Survey No. 45/1, 45/2, Village Wagle,
+                        Thane West - 400601
+
+Type of Project:        Residential
+
+Proposed Date of        31st December, 2024
+Completion:
+
+--------------------------------------------------------------------------------
+                    PROJECT COMPONENTS
+--------------------------------------------------------------------------------
+
+Phase:                  Single Phase
+
+Number of Buildings:    3 (Tower A, Tower B, Tower C)
+
+Number of Floors:       G + 30 each
+
+Total Residential       300
+Units:
+
+Total Carpet Area:      3,00,000 sq. ft.
+
+Total Saleable Area:    4,00,000 sq. ft.
+
+Open Parking:           150 spaces
+Covered Parking:        300 spaces
+
+Amenities:              Clubhouse, Swimming Pool, Gymnasium, Children's
+                        Play Area, Landscaped Gardens, Multipurpose Hall
+
+--------------------------------------------------------------------------------
+                    FINANCIAL DETAILS
+--------------------------------------------------------------------------------
+
+Estimated Cost of       Rs. 350,00,00,000
+Project:                (Rupees Three Hundred Fifty Crores Only)
+
+Land Cost:              Rs. 0 (Joint Development)
+
+Construction Cost:      Rs. 280,00,00,000
+
+Approval Costs:         Rs. 35,00,00,000
+
+Marketing & Admin:      Rs. 35,00,00,000
+
+--------------------------------------------------------------------------------
+                    APPROVALS OBTAINED
+--------------------------------------------------------------------------------
+
+1. Building Plan Approval: TMC/BPA/2021/4567 dated 15.06.2021
+2. Environmental Clearance: MPCB/EC/2021/3456 dated 01.06.2021
+3. Fire NOC: TMC/FIRE/2021/789 dated 20.06.2021
+4. Commencement Certificate: TMC/CC/2021/123 dated 01.07.2021
+
+--------------------------------------------------------------------------------
+                    BANK ACCOUNT DETAILS
+--------------------------------------------------------------------------------
+
+Escrow Account (70%):
+Bank:           ICICI Bank, Thane Branch
+Account No.:    123456789012
+IFSC:           ICIC0001234
+
+Collection Account (30%):
+Bank:           ICICI Bank, Thane Branch
+Account No.:    123456789013
+IFSC:           ICIC0001234
+
+--------------------------------------------------------------------------------
+                    CONDITIONS OF REGISTRATION
+--------------------------------------------------------------------------------
+
+1. The Promoter shall not advertise, market, or sell any unit without
+   displaying this RERA Registration Number.
+
+2. 70% of the amounts realized from allottees shall be deposited in the
+   designated bank account and used only for construction.
+
+3. The Promoter shall upload quarterly progress reports.
+
+4. The Promoter shall upload audited accounts within 6 months of FY end.
+
+5. Any change in project details shall require prior approval.
+
+6. The Promoter shall comply with all provisions of RERA, 2016.
+
+--------------------------------------------------------------------------------
+
+Date of Issue: 15th July, 2021
+
+This certificate is valid until 31st December, 2024 unless extended.
+
+                                                [QR CODE]
+
+                                                Sd/-
+                                    Member & Adjudicating Officer
+                                            MahaRERA
+
+Verify at: https://maharera.mahaonline.gov.in
+
+================================================================================
+              QUARTERLY UPDATE REPORT (QUR)
+                   SKYLINE RESIDENCY
+================================================================================
+
+Report Period: July 2024 - September 2024 (Q2 FY25)
+
+RERA Registration No.: P51800045678
+
+--------------------------------------------------------------------------------
+                    CONSTRUCTION PROGRESS
+--------------------------------------------------------------------------------
+
+Component              Planned    Actual     Variance   Remarks
+--------------------------------------------------------------------------------
+Excavation             100%       100%       0%         Completed
+Foundation             100%       100%       0%         Completed
+Basement               100%       100%       0%         Completed
+Podium                 100%       100%       0%         Completed
+Tower A - Structure    100%       100%       0%         Completed
+Tower B - Structure    100%       95%        -5%        On track
+Tower C - Structure    100%       90%        -10%       Minor delay
+Internal Finishing     60%        55%        -5%        On track
+External Finishing     40%        35%        -5%        On track
+MEP Works              50%        45%        -5%        On track
+--------------------------------------------------------------------------------
+OVERALL PROGRESS:      82%        78%        -4%
+--------------------------------------------------------------------------------
+
+Reason for Variance: Minor delay in Tower C structure due to monsoon.
+Mitigation: Additional workforce deployed. Will be recovered in Q3.
+
+--------------------------------------------------------------------------------
+                    SALES STATUS
+--------------------------------------------------------------------------------
+
+Total Units:                      300
+Units Sold:                       240 (80%)
+Units Available:                  60 (20%)
+
+Total Carpet Area:                3,00,000 sq. ft.
+Carpet Area Sold:                 2,40,000 sq. ft.
+Carpet Area Available:            60,000 sq. ft.
+
+Total Saleable Area:              4,00,000 sq. ft.
+Saleable Area Sold:               3,20,000 sq. ft.
+Saleable Area Available:          80,000 sq. ft.
+
+Average Selling Price:            Rs. 8,500 per sq. ft. (carpet)
+Total Sales Value:                Rs. 272 Crores
+
+--------------------------------------------------------------------------------
+                    FINANCIAL STATUS
+--------------------------------------------------------------------------------
+
+Collections during Quarter:       Rs. 45,00,00,000
+
+Escrow Account:
+Opening Balance:                  Rs. 15,00,00,000
+Deposits (70%):                   Rs. 31,50,00,000
+Withdrawals:                      Rs. 28,00,00,000
+Closing Balance:                  Rs. 18,50,00,000
+
+Utilization of Withdrawals:
+- Construction Cost:              Rs. 22,00,00,000
+- Approval Fees:                  Rs. 2,00,00,000
+- Professional Fees:              Rs. 4,00,00,000
+
+Collection Account:
+Opening Balance:                  Rs. 8,00,00,000
+Deposits (30%):                   Rs. 13,50,00,000
+Withdrawals:                      Rs. 15,00,00,000
+Closing Balance:                  Rs. 6,50,00,000
+
+--------------------------------------------------------------------------------
+                    COMPLIANCE STATUS
+--------------------------------------------------------------------------------
+
+Statutory Compliance:
+- Property Tax: Paid up to Q2 FY25
+- GST: Filed up to September 2024
+- TDS: Deposited for Q2
+
+RERA Compliance:
+- QUR for Q1: Filed on 15.07.2024
+- Annual Audit: Filed on 30.09.2024
+- Allottee Complaints: 2 (Resolved)
+
+--------------------------------------------------------------------------------
+                    REVISED TIMELINE
+--------------------------------------------------------------------------------
+
+Original Completion Date:         31.12.2024
+Revised Completion Date:          31.03.2025 (Extension applied)
+Reason:                           Monsoon delays and approval delays
+
+Extension Application:            Filed on 01.10.2024
+Status:                           Under review
+
+--------------------------------------------------------------------------------
+
+Declaration:
+
+We hereby declare that the information provided above is true and correct to
+the best of our knowledge and belief.
+
+For SKYLINE DEVELOPERS PRIVATE LIMITED
+
+Sd/-                                        Sd/-
+Rajesh Kumar Mehta                          Priya Sharma
+Managing Director                           Whole-time Director
+
+Date: 15.10.2024
+Place: Mumbai
+
+================================================================================
+                 RERA REGISTRATION CERTIFICATE
+                   SKYLINE COMMERCIAL HUB
+================================================================================
+
+                    MAHARASHTRA REAL ESTATE
+                    REGULATORY AUTHORITY
+                         (MahaRERA)
+
+              CERTIFICATE OF REGISTRATION
+
+Registration No.: P51800056789
+
+Date of Issue: 01st August, 2022
+
+--------------------------------------------------------------------------------
+                    PROJECT DETAILS
+--------------------------------------------------------------------------------
+
+Project Name:           SKYLINE COMMERCIAL HUB
+
+Promoter Name:          SKYLINE DEVELOPERS PRIVATE LIMITED
+
+Project Address:        Plot No. 15, Lower Parel, Mumbai - 400013
+
+Type of Project:        Commercial (Office Spaces and Retail)
+
+Proposed Completion:    31st March, 2025
+
+--------------------------------------------------------------------------------
+                    PROJECT COMPONENTS
+--------------------------------------------------------------------------------
+
+Number of Buildings:    1 (Single Tower)
+Number of Floors:       G + 40
+Total Commercial Units: 150
+Total Carpet Area:      4,00,000 sq. ft.
+Total Saleable Area:    5,00,000 sq. ft.
+
+Components:
+- Office Spaces:        3,50,000 sq. ft.
+- Retail Spaces:        1,00,000 sq. ft.
+- Food Court:           50,000 sq. ft.
+
+Parking:                500 covered spaces
+
+--------------------------------------------------------------------------------
+                    ESTIMATED COST
+--------------------------------------------------------------------------------
+
+Total Project Cost:     Rs. 500,00,00,000
+                        (Rupees Five Hundred Crores Only)
+
+Land Cost:              Rs. 200,00,00,000
+Construction Cost:      Rs. 250,00,00,000
+Others:                 Rs. 50,00,00,000
+
+--------------------------------------------------------------------------------
+
+This certificate is valid until 31st March, 2025.
+
+                                                Sd/-
+                                    Member & Adjudicating Officer
+                                            MahaRERA
+
+================================================================================
+                 RERA REGISTRATION CERTIFICATE
+                     SKYLINE TOWNSHIP
+================================================================================
+
+                    MAHARASHTRA REAL ESTATE
+                    REGULATORY AUTHORITY
+                         (MahaRERA)
+
+              CERTIFICATE OF REGISTRATION
+
+Registration No.: P51800067890
+
+Date of Issue: 01st June, 2024
+
+--------------------------------------------------------------------------------
+                    PROJECT DETAILS
+--------------------------------------------------------------------------------
+
+Project Name:           SKYLINE TOWNSHIP
+
+Promoter Name:          SKYLINE DEVELOPERS PRIVATE LIMITED
+
+Project Address:        Survey No. 78/1, 78/2, 78/3, 79/1, 79/2,
+                        Village Kalundre, Panvel, Navi Mumbai
+
+Type of Project:        Integrated Township (Residential, Commercial,
+                        Social Infrastructure)
+
+Proposed Completion:    31st December, 2029
+
+--------------------------------------------------------------------------------
+                    PROJECT COMPONENTS
+--------------------------------------------------------------------------------
+
+Total Land Area:        50 Acres (2,02,340 sq. meters)
+
+Phase 1 (2024-2026):
+- Residential: 500 units
+- School: 1
+- Club: 1
+
+Phase 2 (2026-2028):
+- Residential: 800 units
+- Commercial: 1,00,000 sq. ft.
+- Hospital: 1
+
+Phase 3 (2028-2029):
+- Residential: 700 units
+- Hotel: 1
+- Convention Center: 1
+
+Total Residential Units: 2,000
+Total Commercial Area:   2,00,000 sq. ft.
+Total Social Infra:      5,00,000 sq. ft.
+
+--------------------------------------------------------------------------------
+                    ESTIMATED COST
+--------------------------------------------------------------------------------
+
+Total Project Cost:     Rs. 2,500,00,00,000
+                        (Rupees Two Thousand Five Hundred Crores Only)
+
+Phase 1: Rs. 600 Crores
+Phase 2: Rs. 1,000 Crores
+Phase 3: Rs. 900 Crores
+
+--------------------------------------------------------------------------------
+
+This certificate is valid until 31st December, 2029.
+
+                                                Sd/-
+                                    Member & Adjudicating Officer
+                                            MahaRERA
+
+================================================================================
+                    COMPLETION CERTIFICATE
+                     SKYLINE HEIGHTS
+================================================================================
+
+                    MAHARASHTRA REAL ESTATE
+                    REGULATORY AUTHORITY
+                         (MahaRERA)
+
+              CERTIFICATE OF COMPLETION
+
+RERA Registration No.: P51800026789
+
+This is to certify that the real estate project "SKYLINE HEIGHTS" has been
+completed in accordance with the declarations made during registration.
+
+Project Name:           SKYLINE HEIGHTS
+Location:               Andheri East, Mumbai
+Promoter:               SKYLINE DEVELOPERS PRIVATE LIMITED
+Date of Registration:   15.09.2019
+Date of Completion:     31.12.2020
+Occupation Certificate: MCGM/OC/2020/12345 dated 28.12.2020
+
+Total Units: 200
+Units Handed Over: 195
+Units Pending: 5 (due to customer delays)
+
+The project stands completed and this registration stands closed.
+
+Date: 15.01.2021
+
+                                                Sd/-
+                                    Member & Adjudicating Officer
+                                            MahaRERA
+
+================================================================================
+
+Place: Mumbai                                           Sd/-
+Date: November 2024                                Sneha Patel
+                                                Company Secretary
+
+================================================================================

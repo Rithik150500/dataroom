@@ -1,0 +1,261 @@
+================================================================================
+                    ROC FORMS AND FILINGS
+                SKYLINE DEVELOPERS PRIVATE LIMITED
+                    CIN: U45201MH2018PTC305678
+================================================================================
+
+================================================================================
+                    ANNUAL FILINGS REGISTER
+================================================================================
+
+--------------------------------------------------------------------------------
+FY           Form No.    Description              Filing Date   SRN
+--------------------------------------------------------------------------------
+
+FY 2018-19   AOC-4       Financial Statements     28.09.2019    R12345678
+             MGT-7       Annual Return            28.09.2019    R12345679
+             ADT-1       Auditor Appointment      30.09.2019    R12345680
+
+FY 2019-20   AOC-4       Financial Statements     30.09.2020    R23456781
+             MGT-7       Annual Return            30.09.2020    R23456782
+             ADT-1       Auditor Reappointment    30.09.2020    R23456783
+
+FY 2020-21   AOC-4       Financial Statements     29.09.2021    R34567892
+             MGT-7       Annual Return            29.09.2021    R34567893
+
+FY 2021-22   AOC-4       Financial Statements     30.09.2022    R45678903
+             MGT-7       Annual Return            30.09.2022    R45678904
+
+FY 2022-23   AOC-4       Financial Statements     28.09.2023    R56789014
+             MGT-7       Annual Return            28.09.2023    R56789015
+
+FY 2023-24   AOC-4       Financial Statements     28.09.2024    R67890125
+             MGT-7       Annual Return            28.09.2024    R67890126
+
+--------------------------------------------------------------------------------
+
+================================================================================
+                    EVENT-BASED FILINGS
+================================================================================
+
+--------------------------------------------------------------------------------
+Date Filed   Form No.    Description                          SRN
+--------------------------------------------------------------------------------
+
+12.06.2018   SPICe+      Incorporation                        S11111111
+12.06.2018   INC-22      Declaration of Registered Office     S11111112
+20.06.2018   DIR-12      Appointment of First Directors       S11111113
+01.07.2018   PAS-3       Return of Allotment                  S11111114
+
+15.03.2019   CHG-1       Creation of Charge (HDFC Bank)       S22222221
+20.08.2019   CHG-1       Creation of Charge (Project Loan)    S22222222
+
+15.03.2020   PAS-3       Return of Allotment (Rights Issue)   S33333331
+15.03.2020   SH-7        Increase in Authorized Capital       S33333332
+15.04.2020   CHG-1       Creation of Charge (ICICI Bank)      S33333333
+
+01.07.2021   CHG-1       Creation of Charge (Axis Bank)       S44444441
+
+15.03.2022   CHG-4       Satisfaction of Charge (CHG-001)     S55555551
+
+15.01.2023   CHG-1       Creation of Charge (HDFC Bank)       S66666661
+
+15.06.2023   DIR-12      Re-appointment of MD                 S77777771
+
+--------------------------------------------------------------------------------
+
+================================================================================
+                    FORM AOC-4 DETAILS
+                    (FINANCIAL STATEMENTS)
+================================================================================
+
+--------------------------------------------------------------------------------
+                        FY 2023-24 FILING
+--------------------------------------------------------------------------------
+
+Form:                   AOC-4 (XBRL)
+Filing Date:            28.09.2024
+SRN:                    R67890125
+Digital Signature:      Rajesh Kumar Mehta (Director)
+                        Sneha Patel (Company Secretary)
+
+Attachments:
+1. Balance Sheet
+2. Profit and Loss Statement
+3. Cash Flow Statement
+4. Notes to Accounts
+5. Directors' Report
+6. Auditor's Report
+7. CSR Report
+
+Key Financial Highlights:
+
+Total Revenue:              Rs. 297,00,00,000
+Profit Before Tax:          Rs. 49,00,00,000
+Profit After Tax:           Rs. 37,00,00,000
+Total Assets:               Rs. 485,00,00,000
+Total Liabilities:          Rs. 320,00,00,000
+Net Worth:                  Rs. 165,00,00,000
+
+--------------------------------------------------------------------------------
+
+================================================================================
+                    FORM MGT-7 DETAILS
+                    (ANNUAL RETURN)
+================================================================================
+
+--------------------------------------------------------------------------------
+                        FY 2023-24 FILING
+--------------------------------------------------------------------------------
+
+Form:                   MGT-7
+Filing Date:            28.09.2024
+SRN:                    R67890126
+Certified by:           Sneha Patel (FCS-12345)
+
+Part I - Registration Details:
+CIN:                    U45201MH2018PTC305678
+Company Name:           SKYLINE DEVELOPERS PRIVATE LIMITED
+Registered Office:      12th Floor, Skyline Tower, BKC, Mumbai - 400051
+Email:                  corporate@skylinedevelopers.com
+
+Part II - Principal Business Activities:
+Main Activity:          Real Estate Development
+NIC Code:               41001 - Construction of Buildings
+
+Part III - Particulars of Holding, Subsidiary and Associate Companies:
+1. Skyline Infrastructure Pvt Ltd (100% Subsidiary)
+2. Skyline Facility Management Pvt Ltd (100% Subsidiary)
+
+Part IV - Share Capital:
+Authorized:             Rs. 25,00,00,000
+Issued:                 Rs. 1,50,00,000
+Subscribed:             Rs. 1,50,00,000
+Paid-up:                Rs. 1,50,00,000
+
+Part V - Indebtedness:
+Secured Loans:          Rs. 165,00,00,000
+Unsecured Loans:        Rs. 15,00,00,000
+Deposits:               Nil
+Total:                  Rs. 180,00,00,000
+
+Part VI - Members and Debenture Holders:
+Total Members:          3
+Promoter Holding:       100%
+
+Part VII - Promoters:
+1. Rajesh Kumar Mehta - 60%
+2. Priya Sharma - 30%
+3. Amit Deshmukh - 10%
+
+Part VIII - Directors and KMP:
+Total Directors:        3
+Managing Director:      Rajesh Kumar Mehta
+CFO:                    Amit Deshmukh
+CS:                     Sneha Patel
+
+Part IX - Meetings:
+Board Meetings:         4
+General Meetings:       1 (AGM)
+
+Part X - Remuneration:
+MD Remuneration:        Rs. 48,00,000 p.a.
+WTD Remuneration:       Rs. 36,00,000 p.a.
+
+Part XI - Penalties:
+Penalties/Compounding:  Nil
+
+--------------------------------------------------------------------------------
+
+================================================================================
+                    CHARGE CREATION FILINGS
+================================================================================
+
+--------------------------------------------------------------------------------
+                    FORM CHG-1: CHARGE ID CHG-003
+--------------------------------------------------------------------------------
+
+Filing Date:            01.07.2021
+SRN:                    S44444441
+
+Charge Holder:          Axis Bank Limited
+                        Corporate Banking Division
+                        Mumbai
+
+Amount Secured:         Rs. 75,00,00,000 (Rupees Seventy-Five Crores Only)
+
+Description of Property Charged:
+
+1. All that piece and parcel of land admeasuring 5 Acres situated at
+   Survey No. 45/1, 45/2, Village Wagle, Thane (West), together with
+   all buildings and structures thereon.
+
+2. All present and future receivables arising from Skyline Residency
+   project.
+
+3. All rights under approvals, permits, and licenses for the project.
+
+Type of Charge:         Exclusive First Charge (Mortgage)
+
+Terms of Charge:
+- Purpose: Project Finance for Skyline Residency
+- Tenure: 5 years
+- Interest: 10% p.a.
+- Repayment: Monthly installments
+- Conditions: DSRA of 3 months, minimum 30% pre-sales
+
+Instrument Creating Charge:
+- Deed of Mortgage dated 01.07.2021
+- Deed of Hypothecation dated 01.07.2021
+- Power of Attorney dated 01.07.2021
+
+--------------------------------------------------------------------------------
+
+================================================================================
+                    CHARGE SATISFACTION FILING
+================================================================================
+
+--------------------------------------------------------------------------------
+                    FORM CHG-4: CHARGE ID CHG-001
+--------------------------------------------------------------------------------
+
+Filing Date:            15.03.2022
+SRN:                    S55555551
+
+Original Charge ID:     CHG-001
+Original Amount:        Rs. 25,00,00,000
+Charge Holder:          HDFC Bank Limited
+
+Date of Satisfaction:   15.03.2022
+
+Reason: Full repayment of project loan for Andheri property on completion
+and sale of project.
+
+Attachments:
+1. No Dues Certificate from HDFC Bank
+2. Letter of Satisfaction from Charge Holder
+
+--------------------------------------------------------------------------------
+
+================================================================================
+                    COMPLIANCE CERTIFICATE
+================================================================================
+
+I, Sneha Patel, Company Secretary of SKYLINE DEVELOPERS PRIVATE LIMITED,
+hereby certify that:
+
+1. All annual filings have been made within the due dates.
+2. All event-based filings have been made within prescribed timelines.
+3. There are no pending filings with the Registrar of Companies.
+4. The Company is in compliance with all provisions of the Companies Act,
+   2013 and rules made thereunder.
+5. No penalties or compounding applications are pending.
+
+                                                        Sd/-
+                                                   Sneha Patel
+                                              Company Secretary
+                                              FCS-12345
+Place: Mumbai
+Date: November 2024
+
+================================================================================

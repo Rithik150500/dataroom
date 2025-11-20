@@ -1,0 +1,406 @@
+================================================================================
+                    INSURANCE POLICIES
+                SKYLINE DEVELOPERS PRIVATE LIMITED
+                    CIN: U45201MH2018PTC305678
+================================================================================
+
+================================================================================
+                 REGISTER OF INSURANCE POLICIES
+================================================================================
+
+--------------------------------------------------------------------------------
+Policy Type              Insurer         Policy No.       Sum Insured   Premium
+                                                          (Rs.Cr)       (Rs.Lakhs)
+--------------------------------------------------------------------------------
+CAR - Skyline            New India       CAR/2024/        350.00        85.00
+Residency                Assurance       SR/1234567
+
+CAR - Skyline            ICICI Lombard   CAR/2024/        500.00        120.00
+Commercial Hub                           SCH/2345678
+
+CAR - Skyline            Tata AIG        CAR/2024/        600.00        150.00
+Township (Ph1)                           ST/3456789
+
+Professional             HDFC Ergo       PI/2024/         10.00         5.00
+Indemnity                                4567890
+
+Public Liability         Bajaj Allianz   PL/2024/         25.00         3.00
+                                         5678901
+
+D&O Insurance            ICICI Lombard   DO/2024/         10.00         4.50
+                                         6789012
+
+Group Mediclaim          Star Health     GM/2024/         5.00          6.00
+                                         7890123          (per claim)
+
+Workmen                  New India       WC/2024/         Statutory     2.50
+Compensation             Assurance       8901234
+
+Fire & Perils            Oriental        FP/2024/         50.00         2.00
+(Office)                 Insurance       9012345
+--------------------------------------------------------------------------------
+TOTAL ANNUAL PREMIUM: Rs. 378.00 Lakhs
+--------------------------------------------------------------------------------
+
+================================================================================
+              CONTRACTOR'S ALL RISK (CAR) POLICY
+                   SKYLINE RESIDENCY
+================================================================================
+
+                    NEW INDIA ASSURANCE COMPANY LIMITED
+
+                    CAR INSURANCE POLICY
+
+Policy Number:      CAR/2024/SR/1234567
+Policy Period:      01.08.2021 to 31.12.2024
+
+================================================================================
+                    SCHEDULE
+================================================================================
+
+INSURED:
+Name:               SKYLINE DEVELOPERS PRIVATE LIMITED
+Address:            12th Floor, Skyline Tower, BKC, Mumbai - 400051
+
+CO-INSURED:
+1. NCC Limited (Contractor)
+2. Axis Bank Limited (Lender)
+3. Landowners (as their interest may appear)
+
+--------------------------------------------------------------------------------
+                    PROJECT DETAILS
+--------------------------------------------------------------------------------
+
+Project:            SKYLINE RESIDENCY
+Location:           Survey No. 45/1, 45/2, Village Wagle, Thane West
+Nature:             Residential Complex - 3 Towers, G+30 each
+
+--------------------------------------------------------------------------------
+                    SUM INSURED
+--------------------------------------------------------------------------------
+
+SECTION I - MATERIAL DAMAGE
+
+Item                                            Sum Insured (Rs.)
+----------------------------------------------------------------
+Contract Works                                  300,00,00,000
+Temporary Works                                  10,00,00,000
+Construction Plant & Equipment                   15,00,00,000
+Existing Property                                 5,00,00,000
+Clearance of Debris                              10,00,00,000
+Professional Fees                                10,00,00,000
+----------------------------------------------------------------
+Total Section I                                 350,00,00,000
+----------------------------------------------------------------
+
+SECTION II - THIRD PARTY LIABILITY
+
+Bodily Injury:      Rs. 10,00,00,000 (any one accident)
+Property Damage:    Rs. 5,00,00,000 (any one accident)
+
+--------------------------------------------------------------------------------
+                    PREMIUM
+--------------------------------------------------------------------------------
+
+Section I Premium:                              Rs. 77,00,000
+Section II Premium:                             Rs. 5,00,000
+Terrorism Premium:                              Rs. 3,00,000
+----------------------------------------------------------------
+Total Premium:                                  Rs. 85,00,000
+GST @ 18%:                                      Rs. 15,30,000
+----------------------------------------------------------------
+TOTAL:                                          Rs. 1,00,30,000
+----------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+                    COVERAGE
+--------------------------------------------------------------------------------
+
+SECTION I covers loss or damage to insured property due to:
+- Fire, lightning, explosion
+- Storm, flood, inundation
+- Earthquake
+- Theft, burglary
+- Collapse
+- Negligence
+- Any unforeseen cause
+
+SECTION II covers legal liability for:
+- Death or bodily injury to third parties
+- Damage to third party property
+- Legal costs and expenses
+
+--------------------------------------------------------------------------------
+                    EXTENSIONS
+--------------------------------------------------------------------------------
+
+1. Cover for Testing & Commissioning
+2. Extended Maintenance Cover (12 months)
+3. 72 Hours Clause for Flood
+4. Automatic Increase Cover (25%)
+5. Expediting Expenses
+
+--------------------------------------------------------------------------------
+                    EXCLUSIONS
+--------------------------------------------------------------------------------
+
+1. War, invasion, civil war
+2. Nuclear risks
+3. Willful act or gross negligence
+4. Pre-existing defects
+5. Wear and tear
+6. Consequential loss
+7. Faulty design (unless Physical Damage occurs)
+8. Inventory losses
+
+--------------------------------------------------------------------------------
+                    DEDUCTIBLES
+--------------------------------------------------------------------------------
+
+Fire, Flood, Storm:     Rs. 2,50,000 each claim
+Theft:                  Rs. 1,00,000 each claim
+Earthquake:             1% of claim amount, min Rs. 10,00,000
+Third Party:            Rs. 50,000 each claim
+
+--------------------------------------------------------------------------------
+                    CONDITIONS
+--------------------------------------------------------------------------------
+
+1. Immediate notice of any loss
+2. Protection of damaged property
+3. No admission of liability
+4. Cooperation with insurer
+5. Maintenance of records
+
+================================================================================
+
+                                                    Sd/-
+                                            Authorized Signatory
+                                    New India Assurance Company Limited
+
+================================================================================
+              PROFESSIONAL INDEMNITY INSURANCE
+================================================================================
+
+                    HDFC ERGO GENERAL INSURANCE
+
+                    PROFESSIONAL INDEMNITY POLICY
+
+Policy Number:      PI/2024/4567890
+Policy Period:      01.04.2024 to 31.03.2025
+
+--------------------------------------------------------------------------------
+                    COVERAGE
+--------------------------------------------------------------------------------
+
+INSURED:            SKYLINE DEVELOPERS PRIVATE LIMITED
+
+PROFESSION:         Real Estate Development
+
+LIMIT OF           Rs. 10,00,00,000 (Any One Claim and Aggregate)
+INDEMNITY:
+
+RETROACTIVE        01.04.2019
+DATE:
+
+DEDUCTIBLE:        Rs. 5,00,000 each claim
+
+PREMIUM:           Rs. 5,00,000 + GST
+
+--------------------------------------------------------------------------------
+                    WHAT IS COVERED
+--------------------------------------------------------------------------------
+
+Legal liability for claims arising from:
+- Professional negligence
+- Errors and omissions
+- Breach of professional duty
+- Unintentional breach of confidentiality
+
+Including:
+- Defense costs
+- Settlement amounts
+- Court awards
+
+--------------------------------------------------------------------------------
+                    WHAT IS NOT COVERED
+--------------------------------------------------------------------------------
+
+- Bodily injury
+- Property damage (use CAR/Public Liability)
+- Criminal or fraudulent acts
+- Known circumstances
+- Contractual liability (beyond professional duty)
+- Pollution
+
+================================================================================
+              DIRECTORS & OFFICERS (D&O) INSURANCE
+================================================================================
+
+                    ICICI LOMBARD GENERAL INSURANCE
+
+                    DIRECTORS & OFFICERS LIABILITY POLICY
+
+Policy Number:      DO/2024/6789012
+Policy Period:      01.04.2024 to 31.03.2025
+
+--------------------------------------------------------------------------------
+                    COVERAGE
+--------------------------------------------------------------------------------
+
+NAMED COMPANY:      SKYLINE DEVELOPERS PRIVATE LIMITED
+
+INSURED PERSONS:    All past, present, and future Directors and Officers
+
+LIMIT OF           Rs. 10,00,00,000 (Aggregate)
+LIABILITY:
+
+SUB-LIMITS:
+Defense Costs:      Rs. 5,00,00,000
+Extradition:        Rs. 50,00,000
+PR Expenses:        Rs. 25,00,000
+
+DEDUCTIBLE:        Rs. 2,50,000 (Company only)
+
+PREMIUM:           Rs. 4,50,000 + GST
+
+--------------------------------------------------------------------------------
+                    INSURING AGREEMENTS
+--------------------------------------------------------------------------------
+
+SIDE A:     Personal coverage when Company cannot indemnify
+
+SIDE B:     Reimbursement to Company for indemnifying D&Os
+
+SIDE C:     Securities claims coverage (if listed)
+
+--------------------------------------------------------------------------------
+                    WHAT IS COVERED
+--------------------------------------------------------------------------------
+
+Claims for wrongful acts including:
+- Breach of duty
+- Neglect
+- Misstatement
+- Misleading statement
+- Omission
+- Breach of warranty of authority
+
+Including:
+- Investigation costs
+- Defense costs
+- Settlements
+- Awards
+
+--------------------------------------------------------------------------------
+                    EXTENSIONS
+--------------------------------------------------------------------------------
+
+1. Automatic acquisition cover
+2. Spousal/estate cover
+3. Emergency defense costs
+4. RERA proceedings
+5. EPL (Employment Practices Liability)
+
+--------------------------------------------------------------------------------
+
+================================================================================
+                 PUBLIC LIABILITY INSURANCE
+================================================================================
+
+                    BAJAJ ALLIANZ GENERAL INSURANCE
+
+                    PUBLIC LIABILITY POLICY
+
+Policy Number:      PL/2024/5678901
+Policy Period:      01.04.2024 to 31.03.2025
+
+--------------------------------------------------------------------------------
+
+INSURED:            SKYLINE DEVELOPERS PRIVATE LIMITED
+
+BUSINESS:           Real Estate Development
+
+LOCATIONS:          All project sites in Maharashtra
+
+LIMIT OF           Rs. 25,00,00,000 (Any One Occurrence)
+INDEMNITY:
+
+DEDUCTIBLE:        Rs. 1,00,000 each occurrence
+
+PREMIUM:           Rs. 3,00,000 + GST
+
+COVERAGE:
+- Bodily injury to third parties
+- Property damage to third parties
+- Legal costs
+- Medical expenses
+
+--------------------------------------------------------------------------------
+
+================================================================================
+                 GROUP MEDICLAIM POLICY
+================================================================================
+
+                    STAR HEALTH INSURANCE
+
+                    GROUP HEALTH INSURANCE POLICY
+
+Policy Number:      GM/2024/7890123
+Policy Period:      01.04.2024 to 31.03.2025
+
+--------------------------------------------------------------------------------
+
+INSURED:            SKYLINE DEVELOPERS PRIVATE LIMITED
+
+MEMBERS:            All employees (85) and their families
+
+SUM INSURED:        Rs. 5,00,000 per family per year
+
+COVERAGE:
+- Hospitalization (minimum 24 hours)
+- Pre-hospitalization (30 days)
+- Post-hospitalization (60 days)
+- Day care procedures
+- Ambulance charges
+
+CORPORATE BUFFER:   Rs. 50,00,000
+
+NETWORK             500+ hospitals in Mumbai
+HOSPITALS:
+
+PREMIUM:            Rs. 6,00,000 + GST
+
+--------------------------------------------------------------------------------
+
+================================================================================
+                    CLAIMS REGISTER
+================================================================================
+
+--------------------------------------------------------------------------------
+Year        Policy Type       Claims Filed    Claims Paid     Pending
+                                              (Rs.Lakhs)
+--------------------------------------------------------------------------------
+2021-22     CAR               2               35.00           -
+            WC                1               2.50            -
+            Mediclaim         15              8.00            -
+
+2022-23     CAR               1               15.00           -
+            WC                0               -               -
+            Mediclaim         22              12.00           -
+
+2023-24     CAR               3               45.00           1 (Rs.10L)
+            WC                1               3.00            -
+            Mediclaim         28              15.00           -
+
+--------------------------------------------------------------------------------
+
+LOSS RATIO: 65% (acceptable range)
+
+================================================================================
+
+Place: Mumbai                                           Sd/-
+Date: November 2024                                Sneha Patel
+                                                Company Secretary
+
+================================================================================

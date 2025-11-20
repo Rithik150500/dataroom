@@ -1,0 +1,511 @@
+================================================================================
+                 BUILDING APPROVALS AND PERMITS
+                SKYLINE DEVELOPERS PRIVATE LIMITED
+                    CIN: U45201MH2018PTC305678
+================================================================================
+
+================================================================================
+                 REGISTER OF BUILDING APPROVALS
+================================================================================
+
+--------------------------------------------------------------------------------
+Project          Approval Type      Number           Date       Authority
+--------------------------------------------------------------------------------
+Skyline          IOD                MCGM/IOD/2019/   01.08.2019 MCGM
+Heights                             5678
+                 CC                 MCGM/CC/2019/    15.08.2019 MCGM
+                                    6789
+                 OC                 MCGM/OC/2020/    28.12.2020 MCGM
+                                    12345
+
+Skyline          IOD                MCGM/IOD/2020/   01.09.2020 MCGM
+Towers                              7890
+                 CC                 MCGM/CC/2020/    15.09.2020 MCGM
+                                    8901
+                 OC (Ph1)           MCGM/OC/2022/    15.12.2022 MCGM
+                                    23456
+                 OC (Ph2)           MCGM/OC/2024/    20.12.2024 MCGM
+                                    34567
+
+Skyline          IOD                TMC/IOD/2021/    01.06.2021 TMC
+Residency                           3456
+                 CC                 TMC/CC/2021/     01.07.2021 TMC
+                                    4567
+                 OC                 Pending          --         TMC
+
+Skyline          IOD                MCGM/IOD/2022/   15.06.2022 MCGM
+Commercial                          5678
+Hub              CC                 MCGM/CC/2022/    01.07.2022 MCGM
+                                    6789
+                 OC                 Pending          --         MCGM
+
+Skyline          IOD                CIDCO/IOD/2024/  01.05.2024 CIDCO
+Township                            1234
+                 CC                 CIDCO/CC/2024/   01.06.2024 CIDCO
+                                    2345
+                 OC                 Pending          --         CIDCO
+--------------------------------------------------------------------------------
+
+================================================================================
+            INTIMATION OF DISAPPROVAL (IOD) / BUILDING PLAN APPROVAL
+                        SKYLINE RESIDENCY
+================================================================================
+
+THANE MUNICIPAL CORPORATION
+Building Proposal Department
+
+                    INTIMATION OF DISAPPROVAL
+
+IOD No.: TMC/IOD/2021/3456                      Date: 01.06.2021
+
+To,
+SKYLINE DEVELOPERS PRIVATE LIMITED
+12th Floor, Skyline Tower, BKC
+Mumbai - 400051
+
+Subject: Sanction of Building Plans for Skyline Residency
+
+Reference: Your application dated 15.04.2021
+
+--------------------------------------------------------------------------------
+
+This is to inform that the building plans submitted by you for the following
+property have been scrutinized and approved subject to conditions:
+
+PROPERTY DETAILS:
+Survey No.:         45/1, 45/2
+Village:            Wagle
+Total Plot Area:    20,234 sq. meters
+Road Width:         40 meters (North), 30 meters (West)
+
+SANCTIONED DETAILS:
+
+1. Number of Buildings:     3 Towers (A, B, C)
+2. Number of Floors:        G + 30 each
+3. Height:                  102 meters
+4. Total Built-up Area:     60,000 sq. meters
+5. FSI Consumed:            2.50
+6. Total Residential Units: 300
+
+FLOOR-WISE BREAKDOWN:
+
+Floor               Tower A    Tower B    Tower C    Total
+----------------------------------------------------------------
+Ground (Parking)    -          -          -          -
+1st to 30th         100        100        100        300
+(Residential)
+----------------------------------------------------------------
+Total Units         100        100        100        300
+
+PARKING PROVISION:
+Basement 1:         150 cars
+Basement 2:         150 cars
+Open:               150 cars
+Total:              450 cars (1.5 per unit)
+
+AMENITIES:
+Clubhouse:          1,000 sq. meters
+Swimming Pool:      400 sq. meters
+Gymnasium:          200 sq. meters
+Garden:             5,000 sq. meters
+
+--------------------------------------------------------------------------------
+                    CONDITIONS OF APPROVAL
+--------------------------------------------------------------------------------
+
+1. STRUCTURAL STABILITY
+   - RCC design to be certified by Structural Engineer
+   - Soil test report to be submitted
+   - Foundation design as per soil conditions
+
+2. FIRE SAFETY
+   - Fire NOC to be obtained before CC
+   - Fire escape stairs in each tower
+   - Firefighting equipment as per NBC
+
+3. ENVIRONMENTAL
+   - STP of 300 KLD capacity
+   - Rainwater harvesting mandatory
+   - Solar panels for common areas
+   - Organic waste converter
+
+4. PARKING
+   - Minimum 1.5 parking per unit
+   - Visitor parking: 10%
+   - Handicapped parking: 2%
+
+5. SETBACKS
+   - Front: 12 meters
+   - Rear: 6 meters
+   - Sides: 6 meters each
+
+6. PREMIUM AND FEES
+   - Development charges paid: Rs. 2,50,00,000
+   - Infrastructure charges: Rs. 1,00,00,000
+   - Premium for additional FSI: Rs. 3,00,00,000
+   Total: Rs. 6,50,00,000 (Paid)
+
+7. VALIDITY
+   - This IOD is valid for 3 years
+   - CC to be obtained within 1 year
+   - Extensions may be granted on application
+
+--------------------------------------------------------------------------------
+
+Scrutiny Fee:       Rs. 50,000 (Paid)
+File No.:          BP/2021/4567
+
+                                                Sd/-
+                                    Executive Engineer
+                                    Building Proposal Department
+                                    Thane Municipal Corporation
+
+================================================================================
+                   COMMENCEMENT CERTIFICATE
+                        SKYLINE RESIDENCY
+================================================================================
+
+THANE MUNICIPAL CORPORATION
+Building Proposal Department
+
+                    COMMENCEMENT CERTIFICATE
+
+CC No.: TMC/CC/2021/4567                        Date: 01.07.2021
+
+To,
+SKYLINE DEVELOPERS PRIVATE LIMITED
+
+Reference: IOD No. TMC/IOD/2021/3456 dated 01.06.2021
+
+--------------------------------------------------------------------------------
+
+Permission is hereby granted to commence construction of the building as per
+sanctioned plans subject to the following:
+
+1. SCOPE OF WORK PERMITTED:
+   - Excavation
+   - Foundation
+   - Basement
+   - Superstructure up to plinth
+
+2. CONDITIONS:
+   (a) Appoint licensed architect and structural engineer
+   (b) Display board with project details at site
+   (c) Maintain site register with daily progress
+   (d) No deviation from sanctioned plans
+   (e) Ensure worker safety measures
+
+3. INSPECTIONS:
+   The following inspections shall be conducted:
+   - Foundation inspection (before casting)
+   - Plinth inspection
+   - Slab inspections (every 5 floors)
+
+4. VALIDITY:
+   This CC is valid for 3 years from date of issue.
+
+5. EXTENSION:
+   Part CC for remaining floors will be issued on verification of completed
+   stages.
+
+--------------------------------------------------------------------------------
+
+                                                Sd/-
+                                    Executive Engineer
+                                    Building Proposal Department
+                                    Thane Municipal Corporation
+
+================================================================================
+                    OCCUPATION CERTIFICATE
+                       SKYLINE HEIGHTS
+================================================================================
+
+MUNICIPAL CORPORATION OF GREATER MUMBAI
+Building Proposal Department
+
+                    OCCUPATION CERTIFICATE
+
+OC No.: MCGM/OC/2020/12345                      Date: 28.12.2020
+
+To,
+SKYLINE DEVELOPERS PRIVATE LIMITED
+
+Reference:
+- IOD No. MCGM/IOD/2019/5678 dated 01.08.2019
+- CC No. MCGM/CC/2019/6789 dated 15.08.2019
+
+--------------------------------------------------------------------------------
+
+This is to certify that the building/s described below have been completed
+in accordance with the sanctioned plans and are fit for occupation:
+
+PROJECT:            SKYLINE HEIGHTS
+LOCATION:           Survey No. 123/1, 123/2, Andheri East, Mumbai - 400069
+
+BUILDINGS:
+Tower A:            G + 25 Floors - 100 Units
+Tower B:            G + 25 Floors - 100 Units
+Total:              200 Units
+
+COMPLETION VERIFICATION:
+
+1. Structural Completion:     Verified
+2. Fire Safety:               CFO NOC obtained
+3. Lift Certification:        Obtained
+4. STP Installation:          200 KLD - Operational
+5. Electrical Certification:  Obtained from Licensed Contractor
+6. Water Connection:          MCGM connection obtained
+7. Drainage:                  Connected to municipal network
+
+COMPLIANCE:
+
+1. All conditions in IOD and CC have been fulfilled.
+2. No unauthorized deviations found.
+3. All premiums and charges paid.
+4. RERA registration completed.
+
+PERMISSION:
+
+The Promoter is hereby permitted to:
+1. Give possession to allottees
+2. Apply for individual property cards
+3. Apply for electricity and water connections
+4. Operate and maintain common areas
+
+CONDITIONS:
+
+1. Form society within 3 months of 50% occupancy
+2. Hand over to society within 1 year
+3. Maintain common areas until handover
+4. Rectify any defects reported within 5 years
+
+--------------------------------------------------------------------------------
+
+                                                Sd/-
+                                    Executive Engineer
+                                    Building Proposal Department
+                                    Ward K (East), MCGM
+
+================================================================================
+                    ENVIRONMENTAL CLEARANCE
+                       SKYLINE RESIDENCY
+================================================================================
+
+MAHARASHTRA POLLUTION CONTROL BOARD
+
+                    ENVIRONMENTAL CLEARANCE
+
+Reference No.: MPCB/EC/2021/3456                Date: 01.06.2021
+
+To,
+SKYLINE DEVELOPERS PRIVATE LIMITED
+
+Subject: Environmental Clearance for Skyline Residency, Thane
+
+--------------------------------------------------------------------------------
+
+Based on the application dated 01.04.2021 and presentation before the State
+Expert Appraisal Committee (SEAC) on 15.05.2021, Environmental Clearance is
+hereby granted for the following project:
+
+PROJECT DETAILS:
+
+Project Name:       SKYLINE RESIDENCY
+Location:           Survey No. 45/1, 45/2, Village Wagle, Thane West
+Project Cost:       Rs. 350 Crores
+Plot Area:          20,234 sq. meters
+Built-up Area:      60,000 sq. meters
+Category:           B2 (State level clearance)
+
+ENVIRONMENTAL SAFEGUARDS:
+
+1. AIR QUALITY
+   - Use ready-mix concrete
+   - Sprinkle water on haul roads
+   - Cover trucks carrying materials
+   - Install dust screens
+
+2. WATER MANAGEMENT
+   - STP Capacity: 300 KLD
+   - Treated water for gardening and flushing
+   - Rainwater harvesting: 200 KL storage
+   - Zero liquid discharge
+
+3. SOLID WASTE
+   - Segregation at source
+   - Organic waste converter
+   - Construction waste recycling
+   - Tie-up with authorized recycler
+
+4. NOISE
+   - DG sets with acoustic enclosure
+   - Construction only during permitted hours
+
+5. GREEN BELT
+   - Minimum 15% of plot area
+   - Plant native species
+   - Maintain for 5 years
+
+6. ENERGY CONSERVATION
+   - Solar panels: 50 KW
+   - LED lighting in common areas
+   - BEE 5-star rated equipment
+   - Target: IGBC Gold certification
+
+7. MONITORING
+   - Quarterly environmental monitoring
+   - Submit compliance reports to MPCB
+   - Display board with EC details
+
+VALIDITY:
+
+This EC is valid for 7 years from the date of issue.
+
+COMPLIANCE:
+
+Failure to comply with conditions may result in:
+- Withdrawal of clearance
+- Legal action under Environment Protection Act
+- Stoppage of work
+
+--------------------------------------------------------------------------------
+
+                                                Sd/-
+                                    Member Secretary
+                                    Maharashtra Pollution Control Board
+
+================================================================================
+                         FIRE NOC
+                    SKYLINE RESIDENCY
+================================================================================
+
+THANE MUNICIPAL CORPORATION
+Fire Brigade Department
+
+                    FIRE NO OBJECTION CERTIFICATE
+
+NOC No.: TMC/FIRE/2021/789                      Date: 20.06.2021
+
+To,
+SKYLINE DEVELOPERS PRIVATE LIMITED
+
+Subject: Fire NOC for Skyline Residency, Thane
+
+--------------------------------------------------------------------------------
+
+Fire No Objection Certificate is hereby granted for the proposed building
+subject to compliance with the following fire safety requirements:
+
+PROJECT DETAILS:
+
+Project:            SKYLINE RESIDENCY
+Height:             102 meters (High-rise building)
+Towers:             3
+Floors:             G + 30 each
+
+FIRE SAFETY REQUIREMENTS:
+
+1. FIRE ESCAPE STAIRS
+   - Minimum 2 per tower
+   - Width: 1.5 meters
+   - Fire-rated doors: 2 hours
+
+2. FIRE LIFTS
+   - Minimum 1 per tower
+   - Direct access from ground
+   - Fire-rated doors: 2 hours
+
+3. REFUGE AREA
+   - Every 7th floor
+   - Minimum 15 sq. meters per floor
+   - Open to air on two sides
+
+4. FIRE FIGHTING SYSTEM
+   - Wet riser system
+   - Automatic sprinklers (full coverage)
+   - Fire extinguishers (every floor)
+   - Fire alarm system
+   - Public address system
+
+5. WATER STORAGE
+   - Underground tank: 1,50,000 liters
+   - Terrace tank: 50,000 liters
+   - Fire pumps: 3 (1 diesel)
+
+6. EMERGENCY POWER
+   - DG set for fire systems
+   - Battery backup for alarms
+
+7. OTHER REQUIREMENTS
+   - Fire command center at ground
+   - Internal hydrants every floor
+   - External hydrants
+   - Fire tender access
+
+INSPECTION:
+
+Mandatory inspections before OC:
+1. Structural fire protection
+2. Fire fighting installation
+3. Fire alarm testing
+4. Mock drill
+
+--------------------------------------------------------------------------------
+
+                                                Sd/-
+                                    Chief Fire Officer
+                                    Thane Municipal Corporation
+
+================================================================================
+                    AVIATION NOC
+                  SKYLINE COMMERCIAL HUB
+================================================================================
+
+AIRPORTS AUTHORITY OF INDIA
+Regional Office, Mumbai
+
+                    HEIGHT CLEARANCE CERTIFICATE
+
+Reference: AAI/MUM/NOC/2022/567                 Date: 10.06.2022
+
+To,
+SKYLINE DEVELOPERS PRIVATE LIMITED
+
+Subject: NOC for Skyline Commercial Hub, Lower Parel
+
+--------------------------------------------------------------------------------
+
+With reference to your application dated 01.05.2022 for height clearance for
+the proposed building, the following is conveyed:
+
+LOCATION: Plot No. 15, Lower Parel, Mumbai - 400013
+
+PROPOSED HEIGHT: 168 meters (G + 40 floors)
+
+NEAREST AIRPORT: Chhatrapati Shivaji Maharaj International Airport
+
+DISTANCE FROM AIRPORT: 8.5 km
+
+DECISION: NO OBJECTION
+
+The proposed height of 168 meters is below the Obstacle Limitation Surface
+(OLS) at the said location. No aviation obstruction marking/lighting is
+required.
+
+This NOC is valid for the proposed height only. Any increase in height will
+require fresh clearance.
+
+--------------------------------------------------------------------------------
+
+                                                Sd/-
+                                    Regional Executive Director
+                                    Airports Authority of India
+                                    Mumbai Region
+
+================================================================================
+
+Place: Mumbai                                           Sd/-
+Date: November 2024                                Sneha Patel
+                                                Company Secretary
+
+================================================================================
