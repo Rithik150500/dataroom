@@ -1,0 +1,279 @@
+================================================================================
+                NON-DISCLOSURE AGREEMENTS
+                        OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+            MUTUAL NON-DISCLOSURE AGREEMENT
+                 (Standard Template)
+================================================================================
+
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into as of
+___________________
+
+BETWEEN:
+
+SMARTFINANCE INDIA LIMITED, a company having its registered office at 15th
+Floor, Tower B, One BKC, Bandra Kurla Complex, Mumbai - 400051
+(hereinafter referred to as "SmartFinance")
+
+AND
+
+___________________________________, a company/individual having its registered
+office/address at ___________________________________
+(hereinafter referred to as "Counterparty")
+
+(SmartFinance and Counterparty individually referred to as "Party" and
+collectively as "Parties")
+
+================================================================================
+                     RECITALS
+================================================================================
+
+A. The Parties wish to explore a potential business relationship involving
+   _________________________________ (the "Purpose").
+
+B. In connection with the Purpose, each Party may disclose to the other Party
+   certain confidential and proprietary information.
+
+C. The Parties desire to protect such confidential information on the terms
+   set forth herein.
+
+================================================================================
+                1. DEFINITIONS
+================================================================================
+
+1.1 "Confidential Information" means all information disclosed by either Party
+    (the "Disclosing Party") to the other Party (the "Receiving Party"),
+    whether oral, written, electronic, or visual, that is:
+
+    (a) Marked as "Confidential," "Proprietary," or similar designation;
+    (b) Identified as confidential at the time of disclosure; or
+    (c) Should reasonably be understood to be confidential given the nature
+        of the information and circumstances of disclosure.
+
+1.2 Confidential Information includes, but is not limited to:
+    - Business plans, strategies, and forecasts
+    - Financial information and projections
+    - Customer and supplier information
+    - Technical data, specifications, and designs
+    - Software, source code, and algorithms
+    - Trade secrets and know-how
+    - Marketing and pricing information
+    - Personnel information
+    - Any other proprietary information
+
+1.3 Confidential Information does not include information that:
+    (a) Is or becomes publicly available through no fault of the Receiving Party;
+    (b) Was known to the Receiving Party prior to disclosure;
+    (c) Is independently developed by the Receiving Party without use of
+        Confidential Information;
+    (d) Is rightfully obtained from a third party without restriction;
+    (e) Is required to be disclosed by law or legal process.
+
+================================================================================
+                2. OBLIGATIONS
+================================================================================
+
+2.1 NON-DISCLOSURE
+
+    The Receiving Party shall:
+    (a) Maintain the confidentiality of all Confidential Information;
+    (b) Not disclose Confidential Information to any third party without prior
+        written consent of the Disclosing Party;
+    (c) Use the same degree of care to protect Confidential Information as it
+        uses for its own confidential information, but not less than reasonable
+        care.
+
+2.2 PERMITTED USE
+
+    The Receiving Party may use Confidential Information solely for the Purpose
+    and for no other purpose.
+
+2.3 PERMITTED DISCLOSURE
+
+    The Receiving Party may disclose Confidential Information to its employees,
+    directors, advisors, and contractors who:
+    (a) Have a need to know for the Purpose;
+    (b) Are bound by confidentiality obligations at least as restrictive as
+        this Agreement.
+
+2.4 LEGAL COMPULSION
+
+    If the Receiving Party is required by law to disclose Confidential
+    Information, it shall:
+    (a) Provide prompt written notice to the Disclosing Party;
+    (b) Cooperate with the Disclosing Party's efforts to obtain protective order;
+    (c) Disclose only that portion required to be disclosed.
+
+================================================================================
+                3. OWNERSHIP
+================================================================================
+
+3.1 All Confidential Information shall remain the property of the Disclosing
+    Party.
+
+3.2 No license or right to Confidential Information is granted except the
+    limited right to use for the Purpose.
+
+3.3 Nothing in this Agreement obligates either Party to enter into any further
+    agreement or proceed with the Purpose.
+
+================================================================================
+                4. RETURN OF INFORMATION
+================================================================================
+
+4.1 Upon request of the Disclosing Party or termination of this Agreement, the
+    Receiving Party shall:
+    (a) Return or destroy all Confidential Information;
+    (b) Provide written certification of destruction if requested;
+    (c) Delete all electronic copies from systems.
+
+4.2 The Receiving Party may retain copies:
+    (a) Required by law or regulatory requirements;
+    (b) Stored in routine backup systems (subject to ongoing confidentiality).
+
+================================================================================
+                5. TERM AND TERMINATION
+================================================================================
+
+5.1 This Agreement shall remain in effect for a period of 2 (two) years from
+    the date hereof.
+
+5.2 Either Party may terminate this Agreement with 30 days' written notice.
+
+5.3 The confidentiality obligations shall survive termination for a period of
+    5 (five) years.
+
+================================================================================
+                6. REPRESENTATIONS AND WARRANTIES
+================================================================================
+
+6.1 Each Party represents and warrants that it has the authority to enter into
+    this Agreement and to disclose its Confidential Information.
+
+6.2 DISCLAIMER: Confidential Information is provided "AS IS" without warranty
+    of any kind.
+
+================================================================================
+                7. REMEDIES
+================================================================================
+
+7.1 The Parties acknowledge that breach of this Agreement may cause irreparable
+    harm for which monetary damages may be inadequate.
+
+7.2 The Disclosing Party shall be entitled to seek injunctive relief in addition
+    to any other remedies available at law or equity.
+
+================================================================================
+                8. MISCELLANEOUS
+================================================================================
+
+8.1 GOVERNING LAW
+    This Agreement shall be governed by laws of India.
+
+8.2 JURISDICTION
+    Courts in Mumbai shall have exclusive jurisdiction.
+
+8.3 ENTIRE AGREEMENT
+    This Agreement constitutes the entire agreement regarding confidentiality.
+
+8.4 AMENDMENT
+    This Agreement may be amended only by written instrument signed by both
+    Parties.
+
+8.5 ASSIGNMENT
+    This Agreement may not be assigned without prior written consent.
+
+8.6 SEVERABILITY
+    Invalid provisions shall be severed; remaining provisions continue.
+
+8.7 WAIVER
+    No waiver of any breach shall constitute waiver of any other breach.
+
+8.8 NOTICES
+    All notices shall be in writing and delivered to the addresses below.
+
+================================================================================
+                SIGNATURES
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement.
+
+For SMARTFINANCE INDIA LIMITED
+
+Sd/-
+___________________________
+Name:
+Title:
+Date:
+Address: 15th Floor, Tower B, One BKC, Bandra Kurla Complex, Mumbai - 400051
+Email: legal@smartfinance.in
+
+For [COUNTERPARTY NAME]
+
+Sd/-
+___________________________
+Name:
+Title:
+Date:
+Address:
+Email:
+
+================================================================================
+            EXECUTED NDA REGISTER
+================================================================================
+
+| Date       | Counterparty              | Purpose                  | Expiry     |
+|------------|---------------------------|--------------------------|------------|
+| Jun 2020   | Matrix Partners India     | Investment due diligence | Jun 2025   |
+| Oct 2020   | Mumbai Angels Network     | Seed investment          | Oct 2025   |
+| Mar 2021   | Yes Bank Limited          | Partnership discussions  | Mar 2026   |
+| Jun 2021   | Amazon Web Services       | Cloud services           | Jun 2026   |
+| Jan 2022   | Perfios Software          | Tech integration         | Jan 2027   |
+| Mar 2022   | Karza Technologies        | KYC services             | Mar 2027   |
+| Jul 2022   | Razorpay Software         | Payment services         | Jul 2027   |
+| Feb 2023   | Sequoia Capital India     | Series A investment      | Feb 2028   |
+| Feb 2023   | Tiger Global Management   | Series A investment      | Feb 2028   |
+| Sep 2023   | ThoughtWorks Technologies | Software development     | Sep 2028   |
+| Nov 2024   | Yes Bank Limited          | Co-lending arrangement   | Nov 2029   |
+| Nov 2024   | Axis Bank Limited         | LSP arrangement          | Nov 2029   |
+
+================================================================================
+            EMPLOYEE CONFIDENTIALITY AGREEMENT
+                 (Incorporated in Employment)
+================================================================================
+
+All employees are bound by confidentiality provisions in their employment
+agreements, including:
+
+1. Definition of confidential information
+2. Non-disclosure obligations during and after employment
+3. Return of materials upon termination
+4. Acknowledgment of company ownership of work product
+5. 24-month post-termination confidentiality period
+6. Liquidated damages for breach: 12 months' salary
+
+================================================================================
+            INVESTOR CONFIDENTIALITY TERMS
+                 (In Investment Documents)
+================================================================================
+
+Standard investor confidentiality terms included in:
+- Term Sheets
+- Shareholders Agreements
+- Subscription Agreements
+- Side Letters
+
+Key Terms:
+- Investors may share with partners, limited partners, and advisors
+- No disclosure to potential acquirers without company consent
+- May reference company name in marketing materials
+- Standard exceptions for legal requirements
+
+================================================================================
+
+                    END OF NON-DISCLOSURE AGREEMENTS
+
+================================================================================

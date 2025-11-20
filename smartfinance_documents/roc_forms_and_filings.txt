@@ -1,0 +1,248 @@
+================================================================================
+                    ROC FORMS AND FILINGS
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+
+        [Filings with Ministry of Corporate Affairs - ROC Mumbai]
+================================================================================
+
+================================================================================
+                    INCORPORATION FILINGS (2020)
+================================================================================
+
+| Form No. | Description                      | Filing Date | SRN         | Status   |
+|----------|----------------------------------|-------------|-------------|----------|
+| SPICe+   | Company Incorporation            | 10-Jun-2020 | A12345678   | Approved |
+| INC-22   | Notice of Situation of RO        | 10-Jun-2020 | A12345679   | Approved |
+| DIR-12   | Director Appointment (3)         | 10-Jun-2020 | A12345680   | Approved |
+| INC-20A  | Declaration for Commencement     | 01-Sep-2020 | B23456789   | Approved |
+
+================================================================================
+                    ANNUAL FILINGS - FY 2020-21
+================================================================================
+
+| Form No. | Description                      | Filing Date | SRN         | Status   |
+|----------|----------------------------------|-------------|-------------|----------|
+| AOC-4    | Financial Statements             | 28-Oct-2021 | C34567890   | Approved |
+| MGT-7    | Annual Return                    | 28-Nov-2021 | C34567891   | Approved |
+| ADT-1    | Appointment of Auditor           | 15-Jul-2020 | B34567892   | Approved |
+
+================================================================================
+                    ANNUAL FILINGS - FY 2021-22
+================================================================================
+
+| Form No. | Description                      | Filing Date | SRN         | Status   |
+|----------|----------------------------------|-------------|-------------|----------|
+| AOC-4    | Financial Statements             | 27-Oct-2022 | D45678901   | Approved |
+| MGT-7    | Annual Return                    | 28-Nov-2022 | D45678902   | Approved |
+| DIR-12   | Director Change (Tarun Davda)    | 05-Jul-2021 | C45678903   | Approved |
+| PAS-3    | Return of Allotment (Pre-Series A)| 10-Jul-2021| C45678904   | Approved |
+| SH-7     | Increase in Authorized Capital   | 25-Jun-2021 | C45678905   | Approved |
+
+================================================================================
+                    ANNUAL FILINGS - FY 2022-23
+================================================================================
+
+| Form No. | Description                      | Filing Date | SRN         | Status   |
+|----------|----------------------------------|-------------|-------------|----------|
+| AOC-4    | Financial Statements             | 28-Oct-2023 | E56789012   | Approved |
+| MGT-7    | Annual Return                    | 29-Nov-2023 | E56789013   | Approved |
+| DIR-12   | Director Appointment (Meera)     | 10-Sep-2022 | D56789014   | Approved |
+
+================================================================================
+                    ANNUAL FILINGS - FY 2023-24
+================================================================================
+
+| Form No. | Description                      | Filing Date | SRN         | Status   |
+|----------|----------------------------------|-------------|-------------|----------|
+| AOC-4    | Financial Statements             | 25-Oct-2024 | F67890123   | Approved |
+| MGT-7    | Annual Return                    | 27-Nov-2024 | F67890124   | Approved |
+| DIR-12   | Director Appointments (2)        | 22-Mar-2023 | E67890125   | Approved |
+| PAS-3    | Return of Allotment (Series A)   | 25-Mar-2023 | E67890126   | Approved |
+| SH-7     | Increase in Authorized Capital   | 01-Mar-2023 | E67890127   | Approved |
+| CHG-1    | Creation of Charge (HDFC)        | 25-Nov-2023 | E67890128   | Approved |
+| CHG-1    | Creation of Charge (ICICI)       | 10-Feb-2024 | F67890129   | Approved |
+
+================================================================================
+                    EVENT-BASED FILINGS
+================================================================================
+
+--------------------------------------------------------------------------------
+SHARE CAPITAL CHANGES
+--------------------------------------------------------------------------------
+
+| Date       | Form    | Description                    | Shares    | SRN         |
+|------------|---------|--------------------------------|-----------|-------------|
+| 15-Oct-2020| PAS-3   | Seed Round Allotment           | 5,00,000  | B56789012   |
+| 01-Jul-2021| PAS-3   | Pre-Series A Allotment         | 6,50,000  | C45678904   |
+| 15-Mar-2023| PAS-3   | Series A Allotment             | 18,00,000 | E67890126   |
+
+--------------------------------------------------------------------------------
+AUTHORIZED CAPITAL INCREASES
+--------------------------------------------------------------------------------
+
+| Date       | Form    | Old Capital    | New Capital     | SRN         |
+|------------|---------|----------------|-----------------|-------------|
+| 25-Jun-2021| SH-7    | ₹1.5 Cr        | ₹5 Cr           | C45678905   |
+| 01-Mar-2023| SH-7    | ₹5 Cr          | ₹15 Cr          | E67890127   |
+
+--------------------------------------------------------------------------------
+DIRECTOR CHANGES
+--------------------------------------------------------------------------------
+
+| Date       | Form    | Director Name      | Change Type  | SRN         |
+|------------|---------|--------------------| -------------|-------------|
+| 10-Jun-2020| DIR-12  | Vikram Mehta       | Appointment  | A12345680   |
+| 10-Jun-2020| DIR-12  | Anjali Deshmukh    | Appointment  | A12345680   |
+| 10-Jun-2020| DIR-12  | Rohan Kapoor       | Appointment  | A12345680   |
+| 01-Jul-2021| DIR-12  | Tarun Davda        | Appointment  | C45678903   |
+| 01-Sep-2022| DIR-12  | Meera Sanghvi      | Appointment  | D56789014   |
+| 15-Mar-2023| DIR-12  | Shailendra Singh   | Appointment  | E67890125   |
+| 15-Mar-2023| DIR-12  | Rajiv Anand        | Appointment  | E67890125   |
+
+--------------------------------------------------------------------------------
+CHARGE REGISTRATIONS
+--------------------------------------------------------------------------------
+
+| Date       | Form    | Charge Holder    | Amount       | Charge ID   |
+|------------|---------|------------------| -------------|-------------|
+| 25-Nov-2023| CHG-1   | HDFC Bank Ltd    | ₹25 Cr       | 70345678    |
+| 10-Feb-2024| CHG-1   | ICICI Bank Ltd   | ₹50 Cr       | 70345679    |
+
+================================================================================
+                    REGISTERED OFFICE DETAILS
+================================================================================
+
+Form INC-22 - Notice of Situation of Registered Office
+
+Filing Date: June 10, 2020
+SRN: A12345679
+
+Registered Office Address:
+15th Floor, Tower B, One BKC,
+Bandra Kurla Complex,
+Mumbai - 400051
+Maharashtra, India
+
+Email: legal@smartfinance.in
+Phone: +91 22 6789 0123
+
+Note: No change in registered office since incorporation.
+
+================================================================================
+                    AUDITOR APPOINTMENTS
+================================================================================
+
+Form ADT-1 - Appointment of Auditor
+
+| Period          | Auditor Firm                  | Filing Date | SRN         |
+|-----------------|-------------------------------|-------------|-------------|
+| FY 2020-21 to   | Walker Chandiok & Co. LLP     | 15-Jul-2020 | B34567892   |
+| FY 2024-25      | (ICAI FRN: 001076N/N500013)   |             |             |
+
+Auditor Details:
+Name: Walker Chandiok & Co. LLP
+Address: 21st Floor, DLF Square, Jacaranda Marg, DLF Phase II, Gurgaon
+Partner In-Charge: CA Neeraj Goel
+Membership No.: 099514
+
+================================================================================
+                    BENEFICIAL OWNERSHIP FILINGS
+================================================================================
+
+Form BEN-2 - Significant Beneficial Owner Declaration
+
+| Date       | Beneficial Owner     | Nature of Interest | Holding    |
+|------------|----------------------|--------------------|------------|
+| 15-Oct-2020| Mumbai Angels Network| Through investment | 5.0%       |
+| 01-Jul-2021| Matrix Partners      | Through investment | 15.0%      |
+| 15-Mar-2023| Sequoia Capital      | Through investment | 25.0%      |
+| 15-Mar-2023| Tiger Global         | Through investment | 20.0%      |
+
+================================================================================
+                    KYC FILINGS
+================================================================================
+
+Form DIR-3 KYC - Annual Director KYC
+
+| Director Name      | DIN        | FY 2023-24 | FY 2024-25 |
+|--------------------|------------|------------|------------|
+| Vikram Mehta       | 08765432   | Filed      | Filed      |
+| Anjali Deshmukh    | 08765433   | Filed      | Filed      |
+| Rohan Kapoor       | 08765434   | Filed      | Filed      |
+| Tarun Davda        | 06545789   | Filed      | Filed      |
+| Shailendra Singh   | 02567891   | Filed      | Filed      |
+| Meera Sanghvi      | 03456789   | Filed      | Filed      |
+| Rajiv Anand        | 04567890   | Filed      | Filed      |
+
+================================================================================
+                    PENDING / UPCOMING FILINGS
+================================================================================
+
+| Form No. | Description                    | Due Date    | Status      |
+|----------|--------------------------------|-------------|-------------|
+| MGT-15   | Report on AGM                  | 28-Dec-2024 | In Progress |
+| MSME-1   | Half-yearly MSME Return        | 31-Oct-2024 | Filed       |
+| DPT-3    | Return of Deposits             | 30-Jun-2025 | Due         |
+
+================================================================================
+                    COMPLIANCE CALENDAR - FY 2024-25
+================================================================================
+
+| Month     | Filing                                | Due Date    | Status   |
+|-----------|---------------------------------------|-------------|----------|
+| Apr 2024  | DIR-3 KYC for all Directors           | 30-Sep-2024 | Completed|
+| Jul 2024  | ADT-1 (Auditor Continuation)          | N/A         | Continuing|
+| Sep 2024  | AGM for FY 2023-24                    | 30-Sep-2024 | Completed|
+| Oct 2024  | AOC-4 (Financial Statements)          | 29-Oct-2024 | Filed    |
+| Oct 2024  | MSME-1 (Half-yearly)                  | 31-Oct-2024 | Filed    |
+| Nov 2024  | MGT-7 (Annual Return)                 | 29-Nov-2024 | Filed    |
+| Dec 2024  | MGT-15 (Report on AGM)                | 30-Dec-2024 | Pending  |
+| Mar 2025  | IEPF-2 (If applicable)                | 30-Mar-2025 | Due      |
+
+================================================================================
+                    MCA V3 PORTAL DETAILS
+================================================================================
+
+Company Login Credentials:
+Portal: www.mca.gov.in
+Company ID: U65929MH2020PLC345678
+Authorized Signatory: Priya Sharma (Company Secretary)
+DSC Holder: Priya Sharma, Vikram Mehta, Anjali Deshmukh
+
+Note: All e-forms are filed using Class 3 Digital Signature Certificates
+issued by (n)Code Solutions CA.
+
+================================================================================
+                    FILING FEES SUMMARY
+================================================================================
+
+| Financial Year | Total Forms Filed | Total Fees Paid |
+|----------------|-------------------|-----------------|
+| FY 2020-21     | 6                 | ₹8,400          |
+| FY 2021-22     | 5                 | ₹45,600         |
+| FY 2022-23     | 3                 | ₹12,000         |
+| FY 2023-24     | 9                 | ₹1,85,400       |
+| FY 2024-25     | 3                 | ₹18,000         |
+|----------------|-------------------|-----------------|
+| Total          | 26                | ₹2,69,400       |
+
+================================================================================
+
+Certified that all ROC filings are complete and up to date.
+
+Date: November 15, 2024
+Place: Mumbai
+
+
+                                        Sd/-
+                                        ___________________________
+                                        Priya Sharma
+                                        Company Secretary
+                                        ACS: 45678
+
+================================================================================
+
+                       END OF ROC FORMS AND FILINGS
+
+================================================================================

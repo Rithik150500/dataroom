@@ -1,0 +1,357 @@
+================================================================================
+                VENDOR AND TECHNOLOGY AGREEMENTS
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+              CLOUD SERVICES AGREEMENT
+                    WITH
+              AMAZON WEB SERVICES INDIA
+================================================================================
+
+This Agreement dated April 1, 2023
+
+PARTIES:
+- Amazon Internet Services Private Limited (AWS India)
+- SmartFinance India Limited
+
+--------------------------------------------------------------------------------
+                    KEY TERMS
+--------------------------------------------------------------------------------
+
+1. SERVICES
+
+   | Service Category        | AWS Services Used                    |
+   |-------------------------|--------------------------------------|
+   | Compute                 | EC2, Lambda, ECS                     |
+   | Database                | RDS (PostgreSQL), DynamoDB, ElastiCache|
+   | Storage                 | S3, EBS                              |
+   | Security                | WAF, Shield, KMS, Secrets Manager    |
+   | Networking              | VPC, CloudFront, Route 53            |
+   | Analytics               | Redshift, Athena, QuickSight         |
+   | Machine Learning        | SageMaker                            |
+   | Monitoring              | CloudWatch, CloudTrail               |
+
+2. COMMERCIAL TERMS
+
+   | Parameter               | Details                              |
+   |-------------------------|--------------------------------------|
+   | Commitment              | ₹1.5 Crores per year (3-year term)   |
+   | Discount                | 25% off on-demand pricing            |
+   | Payment Terms           | Monthly in arrears, Net 30           |
+   | Support Plan            | Business Support                     |
+
+3. SERVICE LEVEL AGREEMENT
+
+   | Service         | Availability SLA | Credit for Breach |
+   |-----------------|------------------|-------------------|
+   | EC2             | 99.99%           | 10-30%            |
+   | RDS             | 99.95%           | 10-25%            |
+   | S3              | 99.99%           | 10-25%            |
+   | Lambda          | 99.95%           | 10-25%            |
+
+4. DATA RESIDENCY
+
+   - All production data stored in AWS Mumbai Region (ap-south-1)
+   - Disaster recovery in AWS Hyderabad (ap-south-2)
+   - No data transfer outside India without explicit consent
+
+5. SECURITY AND COMPLIANCE
+
+   - SOC 1, SOC 2, SOC 3 certified
+   - ISO 27001 certified
+   - PCI-DSS compliant
+   - RBI outsourcing guidelines compliant
+   - MeitY empaneled cloud service provider
+
+6. DATA PROTECTION
+
+   - Encryption at rest using AWS KMS (AES-256)
+   - Encryption in transit using TLS 1.2+
+   - AWS responsible for security "of" the cloud
+   - SmartFinance responsible for security "in" the cloud
+
+7. AUDIT RIGHTS
+
+   SmartFinance entitled to:
+   - Third-party audit reports (SOC reports)
+   - Compliance certifications
+   - Security questionnaire responses
+   - AWS Artifact access
+
+================================================================================
+              SOFTWARE DEVELOPMENT AGREEMENT
+                    WITH
+              THOUGHTWORKS TECHNOLOGIES
+================================================================================
+
+This Agreement dated January 1, 2024
+
+PURPOSE: Development and maintenance of SmartFinance core lending platform
+
+--------------------------------------------------------------------------------
+                    KEY TERMS
+--------------------------------------------------------------------------------
+
+1. SCOPE OF WORK
+
+   Phase 1: Core Platform Enhancement (Q1-Q2 2024)
+   - Loan origination system upgrade
+   - Credit decisioning engine optimization
+   - Collection management system
+   - API gateway implementation
+
+   Phase 2: New Features (Q3-Q4 2024)
+   - Co-lending module
+   - BNPL integration
+   - Account aggregator integration
+   - Advanced analytics dashboard
+
+2. TEAM COMPOSITION
+
+   | Role                    | Count | Rate (₹/month/person) |
+   |-------------------------|-------|----------------------|
+   | Tech Lead               | 1     | 3,50,000             |
+   | Senior Developer        | 4     | 2,50,000             |
+   | Developer               | 6     | 1,80,000             |
+   | QA Engineer             | 2     | 1,50,000             |
+   | DevOps Engineer         | 1     | 2,20,000             |
+   | Business Analyst        | 1     | 2,00,000             |
+   | Project Manager         | 1     | 2,80,000             |
+
+   Total Monthly Cost: ₹35,30,000 (excluding GST)
+
+3. ENGAGEMENT MODEL
+
+   - Time and Material basis
+   - Agile methodology (2-week sprints)
+   - Dedicated team model
+   - On-site at SmartFinance office
+
+4. INTELLECTUAL PROPERTY
+
+   - All IP developed shall belong to SmartFinance
+   - ThoughtWorks grants perpetual license for pre-existing IP
+   - Source code escrow with third party
+
+5. SERVICE LEVELS
+
+   | Metric                  | Target                    |
+   |-------------------------|---------------------------|
+   | Sprint velocity         | 40 story points/sprint    |
+   | Defect density          | < 0.5 per KLOC            |
+   | Code coverage           | > 80%                     |
+   | Deployment frequency    | Weekly                    |
+
+6. CONFIDENTIALITY
+
+   - 5-year confidentiality period post termination
+   - Background verification for all resources
+   - NDA signed by each team member
+
+7. TERMINATION
+
+   - 60 days' notice by either party
+   - Knowledge transfer period: 30 days
+   - Handover of all documentation and code
+
+================================================================================
+              CUSTOMER SERVICE OUTSOURCING AGREEMENT
+                    WITH
+              CONCENTRIX DAKSH SERVICES
+================================================================================
+
+This Agreement dated September 1, 2023
+
+PURPOSE: Customer support and collection calling services
+
+--------------------------------------------------------------------------------
+                    KEY TERMS
+--------------------------------------------------------------------------------
+
+1. SERVICES
+
+   Inbound Services:
+   - Customer queries and complaints
+   - Loan status inquiries
+   - Payment assistance
+   - Technical support for app
+
+   Outbound Services:
+   - Welcome calls
+   - Payment reminders
+   - Soft collection calls (0-30 DPD)
+   - Customer feedback surveys
+
+2. CAPACITY
+
+   | Service Type    | Agents | Operating Hours      |
+   |-----------------|--------|----------------------|
+   | Inbound Support | 15     | 8 AM - 10 PM (Mon-Sat)|
+   | Collection Calls| 25     | 9 AM - 8 PM (Mon-Sat)|
+
+3. PRICING
+
+   | Service              | Rate                    |
+   |----------------------|-------------------------|
+   | Inbound (per minute) | ₹1.20                   |
+   | Outbound (per connect)| ₹12                    |
+   | Email (per response) | ₹8                      |
+   | Chat (per session)   | ₹15                     |
+
+   Minimum monthly billing: ₹8,00,000
+
+4. SERVICE LEVELS
+
+   | Metric                      | Target    | Penalty         |
+   |-----------------------------|-----------|-----------------|
+   | Average Speed of Answer     | < 20 sec  | 1% per 5 sec    |
+   | Abandonment Rate            | < 3%      | 1% per 1%       |
+   | First Call Resolution       | > 85%     | 1% per 5%       |
+   | Customer Satisfaction (CSAT)| > 4.2/5   | 2% per 0.2      |
+   | Collection Efficiency       | > 90%     | 2% per 5%       |
+
+5. COMPLIANCE
+
+   - TRAI DND regulations
+   - RBI Fair Practice Code for collection
+   - Call recording and storage for 8 years
+   - Script approval by SmartFinance
+   - No harassment or abuse in collection
+
+6. DATA SECURITY
+
+   - ISO 27001 certified facility
+   - No mobile phones in operations area
+   - DLP solutions implemented
+   - Background verified agents
+   - Quarterly security audits
+
+================================================================================
+              KYC VERIFICATION SERVICES AGREEMENT
+                    WITH
+              KARZA TECHNOLOGIES
+================================================================================
+
+This Agreement dated March 15, 2022
+
+PURPOSE: Digital KYC and verification services
+
+--------------------------------------------------------------------------------
+                    KEY TERMS
+--------------------------------------------------------------------------------
+
+1. SERVICES AND PRICING
+
+   | Service                     | Price (₹)      |
+   |-----------------------------|----------------|
+   | Aadhaar XML Verification    | 3              |
+   | PAN Verification            | 2              |
+   | Voter ID Verification       | 5              |
+   | Driving License Verification| 5              |
+   | Passport Verification       | 10             |
+   | Face Match                  | 3              |
+   | Liveness Detection          | 5              |
+   | Bank Account Verification   | 2              |
+   | GST Verification            | 3              |
+   | UAN/EPFO Verification       | 5              |
+   | Court Case Check            | 15             |
+   | Address Verification        | 8              |
+
+2. VOLUME COMMITMENT
+
+   - Minimum: 50,000 verifications/month
+   - Volume discount above 1,00,000/month: 15%
+
+3. API PERFORMANCE
+
+   - Uptime: 99.9%
+   - Response time: < 2 seconds
+   - Concurrent requests: Unlimited
+
+4. COMPLIANCE
+
+   - UIDAI AUA licensed
+   - NSDL PAN verification registered
+   - DigiLocker integration
+   - CERT-In empaneled
+
+================================================================================
+              DEBT COLLECTION AGENCY AGREEMENT
+                    WITH
+              CREDIT RESOLUTION PARTNERS
+================================================================================
+
+This Agreement dated July 1, 2024
+
+PURPOSE: Collection services for hard bucket accounts (90+ DPD)
+
+--------------------------------------------------------------------------------
+                    KEY TERMS
+--------------------------------------------------------------------------------
+
+1. SCOPE
+
+   - Accounts with DPD > 90 days
+   - Field collection and recovery
+   - Legal notice and documentation
+   - Settlement negotiation
+   - Skip tracing
+
+2. COMMISSION STRUCTURE
+
+   | DPD Bucket    | Collection Commission |
+   |---------------|-----------------------|
+   | 90-180 days   | 10%                   |
+   | 181-360 days  | 15%                   |
+   | 360+ days     | 20%                   |
+   | Legal recovery| 25%                   |
+
+3. COMPLIANCE REQUIREMENTS
+
+   - RBI Fair Practice Code adherence
+   - No calls before 8 AM or after 7 PM
+   - No contact at workplace without consent
+   - No third-party disclosure
+   - Recorded calls mandatory
+   - Photo and GPS tracking of field visits
+
+4. ESCALATION MATRIX
+
+   - First complaint: Warning
+   - Second complaint: Agent removal
+   - Third complaint: ₹50,000 penalty
+   - Serious violation: Contract termination
+
+5. REPORTING
+
+   - Daily collection MIS
+   - Weekly promise-to-pay tracker
+   - Monthly recovery analysis
+   - Real-time field agent tracking
+
+================================================================================
+              INSURANCE BROKER AGREEMENT
+                    WITH
+              MARSH INDIA INSURANCE BROKERS
+================================================================================
+
+This Agreement dated February 1, 2024
+
+PURPOSE: Placement and management of corporate insurance policies
+
+POLICIES MANAGED:
+- Directors & Officers Liability
+- Cyber Liability
+- Commercial General Liability
+- Property Insurance
+- Employee Health Insurance
+
+BROKERAGE: 15% of premium paid by insurer
+
+================================================================================
+
+                    END OF VENDOR AGREEMENTS
+
+================================================================================

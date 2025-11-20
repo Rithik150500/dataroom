@@ -1,0 +1,272 @@
+================================================================================
+                       SHARE CERTIFICATES
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+
+         [Issued pursuant to Section 46 of Companies Act, 2013]
+================================================================================
+
+================================================================================
+              EQUITY SHARE CERTIFICATE - SPECIMEN
+================================================================================
+
++------------------------------------------------------------------------------+
+|                                                                              |
+|                    SMARTFINANCE INDIA LIMITED                                |
+|                                                                              |
+|        CIN: U65929MH2020PLC345678                                            |
+|                                                                              |
+|        Registered Office: 15th Floor, Tower B, One BKC,                      |
+|        Bandra Kurla Complex, Mumbai - 400051, Maharashtra                    |
+|                                                                              |
++------------------------------------------------------------------------------+
+|                                                                              |
+|                    EQUITY SHARE CERTIFICATE                                  |
+|                                                                              |
+|    Certificate No.: SF/EQ/001                                                |
+|    Folio No.: SF/EQ/001                                                      |
+|                                                                              |
++------------------------------------------------------------------------------+
+|                                                                              |
+|    This is to certify that:                                                  |
+|                                                                              |
+|    Name: MR. VIKRAM MEHTA                                                    |
+|                                                                              |
+|    Address: 45, Malabar Hill, Mumbai - 400006, Maharashtra                   |
+|                                                                              |
+|    is the registered holder of:                                              |
+|                                                                              |
+|    FIVE LAKH (5,00,000) fully paid-up Equity Shares                          |
+|                                                                              |
+|    of Rs. 10/- (Rupees Ten only) each, bearing                               |
+|                                                                              |
+|    Distinctive Nos.: 1 to 500000                                             |
+|                                                                              |
+|    in the above-named Company, subject to the Memorandum and Articles        |
+|    of Association of the Company.                                            |
+|                                                                              |
++------------------------------------------------------------------------------+
+|                                                                              |
+|    Given under the Common Seal of the Company                                |
+|                                                                              |
+|    Date of Issue: June 10, 2020                                              |
+|                                                                              |
+|    Sd/-                              Sd/-                                    |
+|    ___________________               ___________________                     |
+|    Director                          Director/Secretary                      |
+|                                                                              |
++------------------------------------------------------------------------------+
+
+================================================================================
+                    SHARE CERTIFICATE REGISTER
+================================================================================
+
+--------------------------------------------------------------------------------
+EQUITY SHARES - CLASS A COMMON
+--------------------------------------------------------------------------------
+
+| Cert No.   | Folio      | Shareholder Name      | Shares    | Dist. Nos.      |
+|------------|------------|-----------------------|-----------|-----------------|
+| SF/EQ/001  | SF/EQ/001  | Vikram Mehta          | 5,00,000  | 1-500000        |
+| SF/EQ/002  | SF/EQ/002  | Anjali Deshmukh       | 3,00,000  | 500001-800000   |
+| SF/EQ/003  | SF/EQ/003  | Rohan Kapoor          | 2,00,000  | 800001-1000000  |
+| SF/EQ/004  | SF/EQ/004  | Mumbai Angels Network | 2,50,000  | 1000001-1250000 |
+
+Total Equity Shares Issued: 12,50,000
+
+--------------------------------------------------------------------------------
+SERIES SEED COMPULSORILY CONVERTIBLE PREFERENCE SHARES (CCPS)
+--------------------------------------------------------------------------------
+
+| Cert No.    | Folio       | Shareholder Name       | Shares    | Dist. Nos.      |
+|-------------|-------------|------------------------|-----------|-----------------|
+| SF/CCPS/001 | SF/CCPS/001 | Matrix Partners India  | 6,00,000  | CCPS1-600000    |
+
+Total Series Seed CCPS Issued: 6,00,000
+
+--------------------------------------------------------------------------------
+SERIES A COMPULSORILY CONVERTIBLE PREFERENCE SHARES (CCPS)
+--------------------------------------------------------------------------------
+
+| Cert No.    | Folio       | Shareholder Name       | Shares    | Dist. Nos.      |
+|-------------|-------------|------------------------|-----------|-----------------|
+| SF/CCPS/002 | SF/CCPS/002 | Sequoia Capital India  | 10,00,000 | CCPSA1-1000000  |
+| SF/CCPS/003 | SF/CCPS/003 | Tiger Global Mgmt LLC  | 8,00,000  | CCPSA1000001-1800000|
+
+Total Series A CCPS Issued: 18,00,000
+
+================================================================================
+                    SHARE ISSUANCE HISTORY
+================================================================================
+
+--------------------------------------------------------------------------------
+FOUNDING ALLOTMENT - JUNE 10, 2020
+--------------------------------------------------------------------------------
+
+Board Resolution Date: June 8, 2020
+Allotment Date: June 10, 2020
+
+| Cert No.  | Shareholder        | Shares    | Amount (₹)  | Type      |
+|-----------|--------------------|-----------|-------------|-----------|
+| SF/EQ/001 | Vikram Mehta       | 5,00,000  | 50,00,000   | Cash      |
+| SF/EQ/002 | Anjali Deshmukh    | 3,00,000  | 30,00,000   | Cash      |
+| SF/EQ/003 | Rohan Kapoor       | 2,00,000  | 20,00,000   | Cash      |
+|-----------|--------------------|-----------| ------------|-----------|
+| Total     |                    | 10,00,000 | 1,00,00,000 |           |
+
+Form PAS-3 Filed: June 15, 2020
+SRN: A12345681
+
+--------------------------------------------------------------------------------
+SEED ROUND - OCTOBER 15, 2020
+--------------------------------------------------------------------------------
+
+Board Resolution Date: October 10, 2020
+Shareholder Resolution Date: October 10, 2020
+Allotment Date: October 15, 2020
+
+| Cert No.  | Shareholder           | Shares    | Price/Share | Amount (₹)  |
+|-----------|-----------------------|-----------|-------------|-------------|
+| SF/EQ/004 | Mumbai Angels Network | 2,00,000  | ₹17.50      | 35,00,000   |
+| SF/EQ/001A| Vikram Mehta (Add'l)  | 1,50,000  | ₹17.50      | 26,25,000   |
+| SF/EQ/002A| Anjali Deshmukh (Add'l)| 1,00,000 | ₹17.50      | 17,50,000   |
+| SF/EQ/003A| Rohan Kapoor (Add'l)  | 50,000    | ₹17.50      | 8,75,000    |
+|-----------|---------------------- |-----------| ------------|-------------|
+| Total     |                       | 5,00,000  |             | 87,50,000   |
+
+Note: Additional shares merged into original certificates after issuance.
+
+Form PAS-3 Filed: October 20, 2020
+SRN: B56789012
+
+--------------------------------------------------------------------------------
+PRE-SERIES A ROUND - JULY 1, 2021
+--------------------------------------------------------------------------------
+
+Board Resolution Date: June 25, 2021
+Shareholder Resolution Date: June 25, 2021
+Allotment Date: July 1, 2021
+
+| Cert No.     | Shareholder           | Shares    | Price/Share | Amount (₹)    |
+|--------------|-----------------------|-----------|-------------|---------------|
+| SF/CCPS/001  | Matrix Partners India | 6,00,000  | ₹25.00      | 1,50,00,000   |
+| SF/EQ/004A   | Mumbai Angels (Add'l) | 50,000    | ₹25.00      | 12,50,000     |
+|--------------|---------------------- |-----------| ------------|---------------|
+| Total        |                       | 6,50,000  |             | 1,62,50,000   |
+
+Series Seed CCPS Terms:
+- Conversion Ratio: 1:1
+- Liquidation Preference: 1x Non-Participating
+- Anti-dilution: Broad-based weighted average
+
+Form PAS-3 Filed: July 10, 2021
+SRN: C45678904
+
+--------------------------------------------------------------------------------
+SERIES A ROUND - MARCH 15, 2023
+--------------------------------------------------------------------------------
+
+Board Resolution Date: March 10, 2023
+Shareholder Resolution Date: March 10, 2023
+Allotment Date: March 15, 2023
+
+| Cert No.     | Shareholder            | Shares     | Price/Share | Amount (₹)    |
+|--------------|------------------------|------------|-------------|---------------|
+| SF/CCPS/002  | Sequoia Capital India  | 10,00,000  | ₹47.22      | 4,72,20,000   |
+| SF/CCPS/003  | Tiger Global Mgmt LLC  | 8,00,000   | ₹47.22      | 3,77,76,000   |
+|--------------|----------------------- |------------| ------------|---------------|
+| Total        |                        | 18,00,000  |             | 8,49,96,000   |
+
+Series A CCPS Terms:
+- Conversion Ratio: 1:1
+- Liquidation Preference: 1x Participating
+- Anti-dilution: Broad-based weighted average
+- Protective Provisions: As per SHA
+
+Form PAS-3 Filed: March 25, 2023
+SRN: E67890126
+
+================================================================================
+                    CAPITAL STRUCTURE SUMMARY
+================================================================================
+
+| Share Class                    | Shares Issued | Face Value | Paid-up Capital |
+|--------------------------------|---------------|------------|-----------------|
+| Equity Shares - Class A Common | 12,50,000     | ₹10        | ₹1,25,00,000    |
+| Series Seed CCPS               | 6,00,000      | ₹10        | ₹60,00,000      |
+| Series A CCPS                  | 18,00,000     | ₹10        | ₹1,80,00,000    |
+|--------------------------------|---------------|------------|-----------------|
+| Total Issued Capital           | 36,50,000     |            | ₹3,65,00,000    |
+
+Securities Premium Account: ₹10,34,96,000
+
+Total Paid-up Capital (including premium): ₹13,99,96,000
+
+================================================================================
+                    SHARE TRANSFER RECORD
+================================================================================
+
+No transfers have been recorded. All shares are held by original allottees.
+
+Note: Share transfers are subject to Right of First Refusal (ROFR) provisions
+as per Articles of Association and Shareholders Agreement.
+
+================================================================================
+                    DUPLICATE CERTIFICATES
+================================================================================
+
+No duplicate certificates have been issued.
+
+Procedure for duplicate certificate:
+1. Submission of affidavit and indemnity bond
+2. FIR copy if original is lost
+3. Board approval required
+4. Advertisement in newspaper (as per Companies Act)
+5. Issuance after 15 days from advertisement
+
+================================================================================
+                    DEMATERIALIZATION STATUS
+================================================================================
+
+The Company has not yet enabled dematerialization of shares.
+
+Status: Shares held in physical form
+ISIN: Not yet assigned
+
+Note: Dematerialization will be enabled prior to any public offering or
+secondary transaction.
+
+================================================================================
+                    CERTIFICATE CUSTODY
+================================================================================
+
+Physical share certificates are held as follows:
+
+| Shareholder              | Custody Location                              |
+|--------------------------|-----------------------------------------------|
+| Vikram Mehta             | Personal custody                              |
+| Anjali Deshmukh          | Personal custody                              |
+| Rohan Kapoor             | Personal custody                              |
+| Mumbai Angels Network    | Escrow with Khaitan & Co.                     |
+| Matrix Partners India    | Escrow with Khaitan & Co.                     |
+| Sequoia Capital India    | Escrow with AZB & Partners                    |
+| Tiger Global Mgmt LLC    | Escrow with AZB & Partners                    |
+
+================================================================================
+
+Certified that this share certificate register is complete and accurate.
+
+Date: November 15, 2024
+Place: Mumbai
+
+
+                                        Sd/-
+                                        ___________________________
+                                        Priya Sharma
+                                        Company Secretary
+
+================================================================================
+
+                       END OF SHARE CERTIFICATES
+
+================================================================================

@@ -1,0 +1,365 @@
+================================================================================
+                    OFFICE LEASE AGREEMENT
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+
+                    REGISTERED OFFICE PREMISES
+================================================================================
+
+This Lease Deed ("Agreement") is executed on this 1st day of June, 2020
+
+BETWEEN:
+
+ONE BKC OFFICE PARKS PRIVATE LIMITED, a company incorporated under the
+Companies Act, 2013, having its registered office at One BKC, Plot C-66, G
+Block, Bandra Kurla Complex, Mumbai - 400051, represented by its Authorized
+Signatory (hereinafter referred to as the "Lessor")
+
+AND
+
+SMARTFINANCE INDIA LIMITED, a company incorporated under the Companies Act,
+2013, having its registered office at 15th Floor, Tower B, One BKC, Bandra
+Kurla Complex, Mumbai - 400051 (hereinafter referred to as the "Lessee")
+
+================================================================================
+                         RECITALS
+================================================================================
+
+A. The Lessor is the owner of the commercial property known as One BKC situated
+   at Bandra Kurla Complex, Mumbai.
+
+B. The Lessee is engaged in the business of providing digital lending and
+   financial services and requires office space for its operations.
+
+C. The Lessor has agreed to lease the Demised Premises to the Lessee on the
+   terms and conditions set out herein.
+
+================================================================================
+                    1. DEFINITIONS
+================================================================================
+
+1.1 "Building" means Tower B, One BKC, Bandra Kurla Complex, Mumbai - 400051.
+
+1.2 "Carpet Area" means 8,500 square feet.
+
+1.3 "Common Areas" means lobbies, lifts, staircases, parking, and other shared
+    facilities.
+
+1.4 "Demised Premises" means the office space on 15th Floor, Tower B, One BKC.
+
+1.5 "Fit-Out Period" means 60 days from handover for interior fit-out.
+
+1.6 "Lease Term" means the period of lease as specified in Clause 3.
+
+1.7 "Lock-In Period" means the initial period during which neither party can
+    terminate.
+
+1.8 "Rent" means the monthly rent payable by the Lessee.
+
+1.9 "Security Deposit" means the interest-free refundable deposit.
+
+================================================================================
+                    2. DEMISED PREMISES
+================================================================================
+
+The Lessor hereby demises and leases to the Lessee the following premises:
+
+| Parameter              | Details                                      |
+|------------------------|----------------------------------------------|
+| Location               | 15th Floor, Tower B, One BKC                 |
+| Address                | Bandra Kurla Complex, Mumbai - 400051        |
+| Carpet Area            | 8,500 sq. ft.                                |
+| Super Built-Up Area    | 12,750 sq. ft. (1.5x loading)                |
+| Car Parking            | 15 designated slots in basement              |
+| Two-Wheeler Parking    | 20 slots                                     |
+
+The premises shall be delivered in warm shell condition with:
+- False ceiling grid
+- Electrical points to floor
+- Air-conditioning provision
+- Fire safety systems
+- Access control system
+
+================================================================================
+                    3. LEASE TERM
+================================================================================
+
+| Parameter              | Details                                      |
+|------------------------|----------------------------------------------|
+| Commencement Date      | June 1, 2020                                 |
+| Initial Term           | 5 years (60 months)                          |
+| Expiry Date            | May 31, 2025                                 |
+| Lock-In Period         | 3 years (36 months)                          |
+| Renewal Option         | 2 additional terms of 3 years each           |
+| Notice for Renewal     | 6 months prior to expiry                     |
+| Notice for Termination | 6 months (post lock-in)                      |
+
+================================================================================
+                    4. RENT AND ESCALATION
+================================================================================
+
+4.1 BASE RENT
+
+| Year          | Rent per sq.ft. | Monthly Rent      | Annual Rent       |
+|---------------|-----------------|-------------------|-------------------|
+| Year 1        | ₹250            | ₹31,87,500        | ₹3,82,50,000      |
+| Year 2        | ₹250            | ₹31,87,500        | ₹3,82,50,000      |
+| Year 3        | ₹250            | ₹31,87,500        | ₹3,82,50,000      |
+| Year 4        | ₹275 (10% ↑)    | ₹35,06,250        | ₹4,20,75,000      |
+| Year 5        | ₹275            | ₹35,06,250        | ₹4,20,75,000      |
+
+Note: Rent calculated on Super Built-Up Area of 12,750 sq. ft.
+
+4.2 CAM (COMMON AREA MAINTENANCE)
+
+| Component              | Rate/sq.ft./month | Monthly Amount    |
+|------------------------|-------------------|-------------------|
+| Housekeeping           | ₹8                | ₹1,02,000         |
+| Security               | ₹5                | ₹63,750           |
+| Electricity (Common)   | ₹10               | ₹1,27,500         |
+| AC Plant               | ₹12               | ₹1,53,000         |
+| DG Backup              | ₹5                | ₹63,750           |
+| Others                 | ₹5                | ₹63,750           |
+|------------------------|-------------------|-------------------|
+| Total CAM              | ₹45               | ₹5,73,750         |
+
+CAM Escalation: 5% annually
+
+4.3 PARKING CHARGES
+
+| Type           | Slots | Rate/month | Monthly Amount    |
+|----------------|-------|------------|-------------------|
+| Car Parking    | 15    | ₹8,000     | ₹1,20,000         |
+| Two-Wheeler    | 20    | ₹1,000     | ₹20,000           |
+|----------------|-------|------------|-------------------|
+| Total Parking  |       |            | ₹1,40,000         |
+
+4.4 TOTAL MONTHLY OUTGO (YEAR 1)
+
+| Component              | Amount (₹)        |
+|------------------------|-------------------|
+| Base Rent              | 31,87,500         |
+| CAM Charges            | 5,73,750          |
+| Parking Charges        | 1,40,000          |
+| GST (18%)              | 7,02,225          |
+|------------------------|-------------------|
+| Total                  | 46,03,475         |
+
+================================================================================
+                    5. SECURITY DEPOSIT
+================================================================================
+
+5.1 AMOUNT
+    Security Deposit: ₹1,91,25,000 (equivalent to 6 months' base rent)
+
+5.2 PAYMENT SCHEDULE
+    - ₹95,62,500 at signing of this Agreement
+    - ₹95,62,500 at handover of premises
+
+5.3 TERMS
+    - Interest-free refundable deposit
+    - Adjustable against last 3 months' rent
+    - Balance refundable within 60 days of vacation
+    - Subject to deduction for damages and dues
+
+================================================================================
+                    6. PAYMENT TERMS
+================================================================================
+
+6.1 Rent shall be payable monthly in advance by 5th of each month.
+
+6.2 Payment to be made via NEFT/RTGS to:
+    Account Name: One BKC Office Parks Private Limited
+    Account No.: 1234567890
+    Bank: HDFC Bank, BKC Branch
+    IFSC: HDFC0001234
+
+6.3 Interest on delayed payment: 18% p.a.
+
+6.4 TDS to be deducted as per Income Tax Act and certificates provided quarterly.
+
+================================================================================
+                    7. UTILITIES
+================================================================================
+
+7.1 ELECTRICITY
+    - Separate meter for Demised Premises
+    - Direct billing from BEST
+    - DG backup: 100% for lighting, 50% for AC
+
+7.2 WATER
+    - Included in CAM charges
+    - Additional charges for excessive use
+
+7.3 TELECOMMUNICATIONS
+    - Lessee to arrange own telecom and internet services
+    - Building has fiber connectivity from multiple providers
+
+================================================================================
+                    8. FIT-OUT AND ALTERATIONS
+================================================================================
+
+8.1 The Lessee shall be entitled to a rent-free fit-out period of 60 days.
+
+8.2 The Lessee may undertake interior fit-out subject to:
+    - Prior approval of plans by Lessor
+    - Compliance with building regulations
+    - Use of Lessor's empaneled contractors for MEP works
+    - No structural alterations
+
+8.3 Estimated fit-out cost borne by Lessee: ₹1,500 - 2,000 per sq. ft.
+
+8.4 Upon termination, Lessee may either:
+    - Remove fit-outs and restore to original condition, or
+    - Leave fit-outs as is if Lessor agrees
+
+================================================================================
+                    9. USE OF PREMISES
+================================================================================
+
+9.1 The Demised Premises shall be used only for:
+    - Corporate office
+    - Back-office operations
+    - Technology development center
+    - Related lawful business activities
+
+9.2 Prohibited activities:
+    - Manufacturing or industrial use
+    - Retail or customer-facing operations
+    - Storage of hazardous materials
+    - Any illegal activity
+
+================================================================================
+                    10. MAINTENANCE AND REPAIRS
+================================================================================
+
+10.1 LESSOR'S RESPONSIBILITY
+     - Structural repairs and maintenance
+     - Common area upkeep
+     - Building systems (lifts, AC plant, fire safety)
+     - External façade
+
+10.2 LESSEE'S RESPONSIBILITY
+     - Interior maintenance
+     - Fit-out maintenance
+     - Repairs due to Lessee's negligence
+     - Day-to-day upkeep of Demised Premises
+
+================================================================================
+                    11. INSURANCE
+================================================================================
+
+11.1 LESSOR'S INSURANCE
+     - Building structure and common areas
+     - Public liability for common areas
+
+11.2 LESSEE'S INSURANCE
+     - Contents and fit-outs: Sum insured of ₹2 Crores
+     - Public liability: Sum insured of ₹5 Crores
+     - Workmen compensation for Lessee's employees
+
+================================================================================
+                    12. TERMINATION
+================================================================================
+
+12.1 TERMINATION BY LESSOR
+     - Material breach not cured within 30 days
+     - Non-payment of rent for 60 days
+     - Insolvency or winding-up of Lessee
+     - Use for prohibited purposes
+
+12.2 TERMINATION BY LESSEE
+     - Post lock-in with 6 months' notice
+     - Material breach by Lessor not cured within 30 days
+
+12.3 CONSEQUENCES OF TERMINATION
+     - Settlement of all dues within 30 days
+     - Vacation of premises within notice period
+     - Return of security deposit per Clause 5.3
+
+================================================================================
+                    13. ASSIGNMENT AND SUBLETTING
+================================================================================
+
+13.1 The Lessee shall not assign, transfer, or sublet the Demised Premises
+     without prior written consent of the Lessor.
+
+13.2 Assignment to affiliates permitted with 30 days' prior notice.
+
+================================================================================
+                    14. COMPLIANCE
+================================================================================
+
+14.1 The Lessee shall comply with all applicable laws and regulations.
+
+14.2 The Lessee shall obtain all necessary licenses and permits for its
+     business operations.
+
+14.3 The Lessee shall comply with building rules and regulations.
+
+================================================================================
+                    15. DISPUTE RESOLUTION
+================================================================================
+
+15.1 Disputes shall first be resolved through good faith negotiations.
+
+15.2 If unresolved within 30 days, disputes shall be referred to arbitration
+     under the Arbitration and Conciliation Act, 1996.
+
+15.3 Seat of arbitration: Mumbai
+     Language: English
+
+================================================================================
+                    16. REGISTRATION
+================================================================================
+
+16.1 This Agreement shall be registered with the Sub-Registrar of Assurances,
+     Mumbai.
+
+16.2 Registration charges and stamp duty shall be borne equally by both parties.
+
+================================================================================
+                    SIGNATURES
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date first
+written above.
+
+For ONE BKC OFFICE PARKS PRIVATE LIMITED
+
+
+Sd/-
+___________________________
+Authorized Signatory
+Name:
+Designation:
+
+For SMARTFINANCE INDIA LIMITED
+
+
+Sd/-
+___________________________
+Vikram Mehta
+Managing Director
+
+WITNESSES:
+
+1. Signature: _______________ Name: _______________ Address: _______________
+
+2. Signature: _______________ Name: _______________ Address: _______________
+
+================================================================================
+                    REGISTRATION DETAILS
+================================================================================
+
+Registration No.: BOM-2020-06-12345
+Registered at: Sub-Registrar of Assurances, Bandra
+Registration Date: June 5, 2020
+Stamp Duty Paid: ₹22,95,000
+Registration Fee: ₹30,000
+
+================================================================================
+
+                    END OF OFFICE LEASE AGREEMENT
+
+================================================================================

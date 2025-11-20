@@ -1,0 +1,317 @@
+================================================================================
+                PARTNERSHIP AND STRATEGIC AGREEMENTS
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+                    CO-LENDING AGREEMENT
+                         WITH
+                    YES BANK LIMITED
+================================================================================
+
+This Co-Lending Agreement ("Agreement") is entered into on this 15th day of
+November, 2024
+
+BETWEEN:
+
+YES BANK LIMITED, a banking company incorporated under the Banking Regulation
+Act, 1949, having its registered office at Yes Bank Tower, IFC 2, 15th Floor,
+Senapati Bapat Marg, Elphinstone (W), Mumbai - 400013
+(hereinafter referred to as "Yes Bank" or "Bank")
+
+AND
+
+SMARTFINANCE INDIA LIMITED, a company incorporated under the Companies Act,
+2013, having its registered office at 15th Floor, Tower B, One BKC, Bandra
+Kurla Complex, Mumbai - 400051
+(hereinafter referred to as "SmartFinance" or "NBFC")
+
+(Yes Bank and SmartFinance collectively referred to as "Parties")
+
+--------------------------------------------------------------------------------
+                         RECITALS
+--------------------------------------------------------------------------------
+
+A. Yes Bank is a scheduled commercial bank engaged in banking business including
+   lending to retail customers.
+
+B. SmartFinance is an NBFC registered with RBI, specializing in digital lending
+   with strong customer acquisition and credit assessment capabilities.
+
+C. RBI vide circular dated November 5, 2020 (updated September 21, 2022) has
+   permitted Banks and NBFCs to co-lend to priority sector borrowers.
+
+D. The Parties wish to enter into a co-lending arrangement for personal loans
+   to eligible borrowers on the terms set out herein.
+
+--------------------------------------------------------------------------------
+                    KEY TERMS
+--------------------------------------------------------------------------------
+
+1. PRODUCT DETAILS
+
+   | Parameter                | Details                              |
+   |--------------------------|--------------------------------------|
+   | Loan Product             | Personal Loans                       |
+   | Target Segment           | Salaried and Self-employed           |
+   | Loan Amount Range        | ₹50,000 to ₹10,00,000                |
+   | Tenure                   | 12 to 60 months                      |
+   | Interest Rate (Customer) | 12% to 18% p.a.                      |
+   | Processing Fee           | Up to 2.5%                           |
+
+2. FUNDING RATIO
+
+   | Party              | Contribution | Interest Rate Earned |
+   |--------------------|--------------|----------------------|
+   | Yes Bank           | 80%          | 9.5% p.a.            |
+   | SmartFinance       | 20%          | Residual             |
+
+   Blended Interest Rate: 14.5% p.a. (indicative)
+
+3. ROLES AND RESPONSIBILITIES
+
+   SmartFinance shall:
+   - Customer acquisition and onboarding
+   - KYC verification and documentation
+   - Credit assessment and underwriting
+   - Loan disbursement from escrow account
+   - Customer service and communication
+   - Collection and recovery management
+   - Regulatory reporting and compliance
+
+   Yes Bank shall:
+   - Fund 80% of each loan at disbursement
+   - Maintain necessary regulatory compliance
+   - Provide oversight and audit rights
+   - Priority sector lending classification
+
+4. CREDIT RISK SHARING
+
+   4.1 First Loss Default Guarantee (FLDG)
+       - SmartFinance shall provide FLDG of 5% of portfolio
+       - FLDG to be maintained as fixed deposit with Yes Bank
+       - FLDG invocable for loans overdue beyond 90 days
+
+   4.2 Loss Sharing (post FLDG exhaustion)
+       - Yes Bank: 80% of losses
+       - SmartFinance: 20% of losses
+
+5. OPERATIONAL FRAMEWORK
+
+   5.1 Loan Approval: All loans to be approved by Yes Bank within 24 hours of
+       SmartFinance recommendation
+
+   5.2 Disbursement: Through escrow account maintained with Yes Bank
+
+   5.3 Collections: Through NACH mandate in favor of Yes Bank
+
+   5.4 Reporting: Daily MIS, weekly reviews, monthly reconciliation
+
+6. TARGET VOLUMES
+
+   | Year    | Disbursement Target |
+   |---------|---------------------|
+   | Year 1  | ₹200 Crores         |
+   | Year 2  | ₹500 Crores         |
+   | Year 3  | ₹1,000 Crores       |
+
+7. TERM AND TERMINATION
+
+   - Initial term: 3 years
+   - Automatic renewal for 1-year periods
+   - Either party may terminate with 90 days' notice
+   - Run-off of existing portfolio upon termination
+
+8. REGULATORY COMPLIANCE
+
+   Both Parties shall comply with:
+   - RBI Co-Lending Guidelines
+   - Fair Practice Code
+   - Digital Lending Guidelines
+   - Data Protection Laws
+   - All applicable prudential norms
+
+9. GOVERNANCE
+
+   - Joint Steering Committee with quarterly meetings
+   - Portfolio review meetings - monthly
+   - Audit rights for Yes Bank
+
+For YES BANK LIMITED                    For SMARTFINANCE INDIA LIMITED
+
+Sd/-                                    Sd/-
+___________________________             ___________________________
+Authorized Signatory                    Vikram Mehta
+                                        Managing Director
+
+================================================================================
+              LENDING SERVICE PROVIDER AGREEMENT
+                         WITH
+                    AXIS BANK LIMITED
+================================================================================
+
+This Agreement dated March 1, 2024 appoints SmartFinance as a Lending Service
+Provider (LSP) for Axis Bank under RBI's Digital Lending Guidelines.
+
+KEY TERMS:
+
+1. SCOPE
+   - Customer acquisition through digital channels
+   - Data collection and KYC verification
+   - Credit assessment and recommendation
+   - Loan servicing and collection support
+
+2. COMPLIANCE REQUIREMENTS
+   - SmartFinance shall not disburse loans or collect payments
+   - All disbursements directly from Axis Bank to borrower
+   - All collections to Axis Bank designated account
+   - SmartFinance to be disclosed to borrowers as LSP
+
+3. COMPENSATION
+   - Origination fee: 2% of loan amount
+   - Servicing fee: 0.5% p.a. on outstanding
+   - Collection incentive: Based on collection efficiency
+
+4. DATA PROTECTION
+   - SmartFinance to act as Data Processor
+   - Borrower data to be deleted post loan closure
+   - Annual data audit by Axis Bank
+
+================================================================================
+              BUSINESS CORRESPONDENT AGREEMENT
+                         WITH
+                    FEDERAL BANK LIMITED
+================================================================================
+
+This Agreement dated January 15, 2024 appoints SmartFinance as a Business
+Correspondent for Federal Bank for loan sourcing in Maharashtra and Gujarat.
+
+KEY TERMS:
+
+1. SERVICES
+   - Lead generation and customer identification
+   - Preliminary assessment and document collection
+   - Assistance with e-KYC and V-KYC
+   - EMI collection and customer service support
+
+2. PRODUCTS COVERED
+   - Personal Loans
+   - Business Loans
+   - Gold Loans
+
+3. GEOGRAPHIC COVERAGE
+   - Maharashtra: All districts
+   - Gujarat: Ahmedabad, Surat, Vadodara, Rajkot
+
+4. COMPENSATION
+   - Sourcing commission: 1.5% - 2.5% of disbursement
+   - Collection commission: 0.3% of EMI collected
+
+================================================================================
+              TECHNOLOGY PARTNERSHIP AGREEMENT
+                         WITH
+                    PERFIOS SOFTWARE SOLUTIONS
+================================================================================
+
+This Agreement dated August 1, 2023 is for integration of Perfios bank statement
+analysis and income verification solutions.
+
+KEY TERMS:
+
+1. SERVICES
+   - Bank statement analysis API
+   - Income computation engine
+   - Fraud detection algorithms
+   - GST return analysis
+
+2. PRICING
+   | Service                    | Price per Transaction |
+   |----------------------------|----------------------|
+   | Bank Statement Analysis    | ₹15                  |
+   | Income Verification        | ₹8                   |
+   | GST Analysis               | ₹20                  |
+   | Fraud Detection            | Included             |
+
+3. SLA
+   - API uptime: 99.9%
+   - Response time: < 3 seconds
+   - Support: 24x7
+
+4. DATA SECURITY
+   - SOC 2 Type II compliance
+   - Data encryption in transit and at rest
+   - Retention: 30 days post processing
+
+================================================================================
+              CREDIT BUREAU AGREEMENT
+                         WITH
+               TRANSUNION CIBIL LIMITED
+================================================================================
+
+This Agreement dated June 10, 2020 is for accessing and reporting credit
+information to CIBIL.
+
+KEY TERMS:
+
+1. SERVICES
+   - Consumer credit reports (inquiry)
+   - Credit score
+   - Commercial credit reports
+   - Monitoring alerts
+   - Data submission for credit history
+
+2. PRICING
+   - Consumer inquiry: ₹30 per report
+   - Commercial inquiry: ₹50 per report
+   - Monthly reporting: No charge
+
+3. DATA SUBMISSION
+   - Format: CIBIL 2.0 format
+   - Frequency: Monthly by 10th
+   - Scope: All active and closed loans
+
+4. COMPLIANCE
+   - CICRA 2005 compliance
+   - Data accuracy requirements
+   - Dispute resolution process
+
+================================================================================
+              PAYMENT AGGREGATOR AGREEMENT
+                         WITH
+                    RAZORPAY SOFTWARE
+================================================================================
+
+This Agreement dated July 15, 2022 is for payment collection and disbursement
+services.
+
+KEY TERMS:
+
+1. SERVICES
+   - E-NACH mandate registration
+   - NACH debit for EMI collection
+   - Payment gateway for prepayments
+   - UPI collection
+   - Disbursement through IMPS/NEFT
+
+2. PRICING
+   | Service              | Price              |
+   |----------------------|--------------------|
+   | NACH Registration    | ₹8 per mandate     |
+   | NACH Debit           | ₹6 per transaction |
+   | Payment Gateway      | 2% + GST           |
+   | Disbursement         | ₹3 per transaction |
+
+3. SETTLEMENT
+   - T+1 settlement for collections
+   - Real-time for disbursements
+
+4. COMPLIANCE
+   - RBI authorized Payment Aggregator
+   - PCI-DSS compliant
+
+================================================================================
+
+                END OF PARTNERSHIP AGREEMENTS
+
+================================================================================

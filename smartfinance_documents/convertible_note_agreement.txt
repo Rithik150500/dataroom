@@ -1,0 +1,429 @@
+================================================================================
+                    CONVERTIBLE NOTE AGREEMENT
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+
+                    SEED ROUND FINANCING
+================================================================================
+
+This Convertible Note Purchase Agreement ("Agreement") is entered into as of
+October 15, 2020
+
+BETWEEN:
+
+SMARTFINANCE INDIA LIMITED, a company incorporated under the Companies Act,
+2013, having CIN U65929MH2020PLC345678 and its registered office at 15th Floor,
+Tower B, One BKC, Bandra Kurla Complex, Mumbai - 400051
+(hereinafter referred to as the "Company")
+
+AND
+
+The Investors listed on Schedule A attached hereto
+(each an "Investor" and collectively the "Investors")
+
+================================================================================
+                         RECITALS
+================================================================================
+
+A. The Company is engaged in the business of digital lending and financial
+   technology services.
+
+B. The Company desires to raise funds for business expansion and working
+   capital requirements.
+
+C. The Investors desire to invest in the Company by way of Convertible Notes
+   on the terms and conditions set forth herein.
+
+================================================================================
+                    1. DEFINITIONS
+================================================================================
+
+1.1 "Conversion Price" means the price per share at which the Notes convert
+    into Equity Shares.
+
+1.2 "Conversion Shares" means the Equity Shares issued upon conversion of Notes.
+
+1.3 "Discount Rate" means 20%.
+
+1.4 "Equity Financing" means the issuance and sale of Preferred Shares with
+    aggregate proceeds of at least ₹5 Crores (excluding conversion of Notes).
+
+1.5 "Interest Rate" means 8% per annum, simple interest.
+
+1.6 "Majority Investors" means Investors holding more than 50% of outstanding
+    Notes.
+
+1.7 "Maturity Date" means 24 months from the Issue Date.
+
+1.8 "Note" or "Convertible Note" means the promissory note issued hereunder.
+
+1.9 "Principal Amount" means the aggregate amount invested by each Investor.
+
+1.10 "Valuation Cap" means ₹12,00,00,000 (Rupees Twelve Crores).
+
+================================================================================
+                    2. INVESTMENT
+================================================================================
+
+2.1 PRINCIPAL AMOUNT
+
+| Investor                    | Principal Amount (₹) |
+|-----------------------------|----------------------|
+| Mumbai Angels Network LLP   | 35,00,000            |
+| Vikram Mehta                | 26,25,000            |
+| Anjali Deshmukh             | 17,50,000            |
+| Rohan Kapoor                | 8,75,000             |
+|-----------------------------|----------------------|
+| Total                       | 87,50,000            |
+
+2.2 The Principal Amount shall be remitted to the Company's designated bank
+    account within 5 Business Days of execution of this Agreement.
+
+2.3 Upon receipt of the Principal Amount, the Company shall issue a Convertible
+    Note certificate to each Investor.
+
+================================================================================
+                    3. INTEREST
+================================================================================
+
+3.1 Interest shall accrue on the Principal Amount at the Interest Rate from
+    the Issue Date until conversion or repayment.
+
+3.2 Interest shall be calculated on simple interest basis.
+
+3.3 Interest is not payable in cash but shall be added to Principal Amount
+    for conversion or repayment purposes.
+
+================================================================================
+                    4. CONVERSION
+================================================================================
+
+4.1 AUTOMATIC CONVERSION UPON EQUITY FINANCING
+
+    (a) Upon closing of an Equity Financing prior to Maturity Date, the
+        Principal Amount plus accrued interest shall automatically convert
+        into Equity Shares.
+
+    (b) The Conversion Price shall be the lower of:
+        (i)  Valuation Cap divided by the Fully Diluted Capitalization, or
+        (ii) Price per share in Equity Financing less Discount Rate.
+
+    Example Calculation:
+
+    If Pre-Series A at ₹25 Crore pre-money valuation:
+    - Valuation Cap Price = ₹12 Cr / 15,00,000 shares = ₹8.00
+    - Discounted Price = ₹25 / (1 - 0.20) = ₹20.00
+    - Conversion Price = ₹8.00 (lower of two)
+
+4.2 OPTIONAL CONVERSION
+
+    At any time prior to Maturity Date, the Investor may elect to convert
+    the Note into Equity Shares at a price based on the Valuation Cap.
+
+4.3 CONVERSION UPON MATURITY
+
+    (a) If no Equity Financing has occurred by Maturity Date, the Investors
+        may by Majority consent:
+        (i)  Extend the Maturity Date by up to 12 months, or
+        (ii) Convert into Equity Shares at Valuation Cap, or
+        (iii) Demand repayment.
+
+4.4 CONVERSION UPON CORPORATE TRANSACTION
+
+    If a Change of Control occurs prior to conversion:
+    - Option 1: Receive 2x Principal Amount, or
+    - Option 2: Convert at Valuation Cap and participate in transaction
+
+================================================================================
+                    5. REPAYMENT
+================================================================================
+
+5.1 The Notes are not redeemable at the option of the Company.
+
+5.2 If the Investors demand repayment at Maturity (per Clause 4.3), the Company
+    shall repay Principal plus accrued interest within 60 days.
+
+5.3 Repayment shall be made to the Investor's designated bank account.
+
+================================================================================
+                    6. REPRESENTATIONS AND WARRANTIES
+================================================================================
+
+6.1 COMPANY REPRESENTATIONS
+
+    The Company represents and warrants to the Investors that:
+
+    (a) The Company is duly incorporated and validly existing under laws of
+        India.
+
+    (b) The Company has full power and authority to execute this Agreement
+        and issue the Notes.
+
+    (c) This Agreement constitutes legal, valid, and binding obligations of
+        the Company.
+
+    (d) The execution of this Agreement does not violate any law, agreement,
+        or constitutional documents of the Company.
+
+    (e) There is no litigation pending or threatened against the Company.
+
+    (f) The Company has obtained RBI registration as an NBFC.
+
+    (g) The Company's financial statements fairly present its financial
+        condition.
+
+    (h) The Company owns all intellectual property necessary for its business.
+
+6.2 INVESTOR REPRESENTATIONS
+
+    Each Investor represents and warrants that:
+
+    (a) The Investor has full power and authority to execute this Agreement.
+
+    (b) The Investor is an accredited investor or qualified institutional
+        buyer.
+
+    (c) The Investor is acquiring the Notes for investment and not for resale.
+
+    (d) The Investor has conducted independent due diligence.
+
+    (e) The Investor understands the risks of the investment.
+
+================================================================================
+                    7. COVENANTS
+================================================================================
+
+7.1 AFFIRMATIVE COVENANTS
+
+    The Company covenants to:
+
+    (a) Maintain its corporate existence and RBI registration.
+
+    (b) Comply with all applicable laws and RBI regulations.
+
+    (c) Maintain proper books and records.
+
+    (d) Provide Investors with:
+        - Monthly financial statements within 15 days
+        - Annual audited financials within 90 days
+        - Cap table upon request
+        - Material event notifications promptly
+
+    (e) Use proceeds for business operations and growth.
+
+7.2 NEGATIVE COVENANTS
+
+    Without Majority Investor consent, the Company shall not:
+
+    (a) Declare or pay dividends.
+
+    (b) Repurchase any shares.
+
+    (c) Incur debt exceeding ₹50 lakhs.
+
+    (d) Create liens on assets.
+
+    (e) Enter into related party transactions exceeding ₹10 lakhs.
+
+    (f) Amend constitutional documents in a manner adverse to Investors.
+
+    (g) Issue any securities senior to or pari passu with the Notes.
+
+================================================================================
+                    8. EVENTS OF DEFAULT
+================================================================================
+
+8.1 The following shall constitute Events of Default:
+
+    (a) Non-payment when due.
+
+    (b) Breach of representation, warranty, or covenant.
+
+    (c) Insolvency or bankruptcy of the Company.
+
+    (d) Cessation of business.
+
+    (e) Loss of material license including RBI registration.
+
+    (f) Material adverse change in business or financial condition.
+
+8.2 Upon Event of Default, Investors may declare Notes immediately due and
+    payable.
+
+================================================================================
+                    9. MOST FAVORED NATION
+================================================================================
+
+9.1 If the Company issues convertible notes to other investors on terms more
+    favorable than this Agreement, the Investors shall be entitled to adopt
+    such more favorable terms.
+
+================================================================================
+                    10. INFORMATION RIGHTS
+================================================================================
+
+10.1 The Company shall provide to Investors:
+
+     | Information                  | Frequency    | Timeline        |
+     |------------------------------|--------------|-----------------|
+     | Monthly MIS                  | Monthly      | Within 15 days  |
+     | Unaudited financials         | Quarterly    | Within 30 days  |
+     | Audited financials           | Annual       | Within 90 days  |
+     | Cap table                    | On change    | Within 7 days   |
+     | RBI filings                  | As filed     | Within 7 days   |
+     | Material contracts           | On execution | Within 7 days   |
+
+================================================================================
+                    11. TRANSFER RESTRICTIONS
+================================================================================
+
+11.1 Notes may not be transferred without Company's prior written consent.
+
+11.2 Transfer to affiliates permitted with notice.
+
+11.3 Upon transfer, transferee must execute joinder to this Agreement.
+
+================================================================================
+                    12. CONFIDENTIALITY
+================================================================================
+
+12.1 All information received by Investors shall be confidential.
+
+12.2 Exceptions: Public information, independently developed, legally required
+     disclosure.
+
+12.3 Confidentiality period: 3 years from Maturity Date.
+
+================================================================================
+                    13. MISCELLANEOUS
+================================================================================
+
+13.1 GOVERNING LAW
+     This Agreement shall be governed by laws of India.
+
+13.2 JURISDICTION
+     Courts in Mumbai shall have exclusive jurisdiction.
+
+13.3 NOTICES
+     All notices shall be in writing and sent to addresses in Schedule A.
+
+13.4 AMENDMENT
+     This Agreement may be amended with consent of Company and Majority
+     Investors.
+
+13.5 ENTIRE AGREEMENT
+     This Agreement constitutes the entire agreement between the Parties.
+
+13.6 SEVERABILITY
+     Invalid provisions shall be severed; remaining provisions continue.
+
+13.7 COUNTERPARTS
+     This Agreement may be executed in counterparts.
+
+================================================================================
+                    SIGNATURES
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date
+first written above.
+
+For SMARTFINANCE INDIA LIMITED
+
+
+Sd/-
+___________________________
+Vikram Mehta
+Managing Director
+
+INVESTORS:
+
+Mumbai Angels Network LLP
+
+Sd/-
+___________________________
+Authorized Signatory
+
+
+Vikram Mehta (Individual investment)
+
+Sd/-
+___________________________
+
+
+Anjali Deshmukh (Individual investment)
+
+Sd/-
+___________________________
+
+
+Rohan Kapoor (Individual investment)
+
+Sd/-
+___________________________
+
+================================================================================
+                    SCHEDULE A - INVESTOR DETAILS
+================================================================================
+
+| Investor Name              | Address                        | Amount (₹) |
+|----------------------------|--------------------------------|------------|
+| Mumbai Angels Network LLP  | 501, Express Towers,           | 35,00,000  |
+|                            | Nariman Point, Mumbai-400021   |            |
+|                            | Email: invest@mumbaiangels.com |            |
+|----------------------------|--------------------------------|------------|
+| Vikram Mehta               | 45, Malabar Hill,              | 26,25,000  |
+|                            | Mumbai - 400006                |            |
+|                            | Email: vikram@smartfinance.in  |            |
+|----------------------------|--------------------------------|------------|
+| Anjali Deshmukh            | 12, Carter Road, Bandra West,  | 17,50,000  |
+|                            | Mumbai - 400050                |            |
+|                            | Email: anjali@smartfinance.in  |            |
+|----------------------------|--------------------------------|------------|
+| Rohan Kapoor               | 78, Linking Road, Santacruz,   | 8,75,000   |
+|                            | Mumbai - 400054                |            |
+|                            | Email: rohan@smartfinance.in   |            |
+|----------------------------|--------------------------------|------------|
+| TOTAL                      |                                | 87,50,000  |
+================================================================================
+
+================================================================================
+              CONVERSION NOTICE (SPECIMEN)
+================================================================================
+
+Date: July 1, 2021
+
+To: SmartFinance India Limited
+
+Re: Conversion of Convertible Notes
+
+In connection with the Pre-Series A Equity Financing closing on July 1, 2021,
+we hereby provide notice of automatic conversion of our Convertible Notes
+pursuant to Section 4.1 of the Convertible Note Purchase Agreement dated
+October 15, 2020.
+
+Details:
+
+| Parameter                  | Amount                   |
+|----------------------------|--------------------------|
+| Principal Amount           | ₹35,00,000               |
+| Accrued Interest (8% for   | ₹2,38,356                |
+| 8.5 months)                |                          |
+| Total Conversion Amount    | ₹37,38,356               |
+| Conversion Price           | ₹8.00                    |
+| Conversion Shares          | 4,67,295 shares          |
+
+Please issue 4,67,295 Equity Shares to Mumbai Angels Network LLP.
+
+
+For Mumbai Angels Network LLP
+
+
+Sd/-
+___________________________
+Authorized Signatory
+
+================================================================================
+
+                    END OF CONVERTIBLE NOTE AGREEMENT
+
+================================================================================

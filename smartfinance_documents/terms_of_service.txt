@@ -1,0 +1,294 @@
+================================================================================
+                    TERMS OF SERVICE
+                          OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+                    Last Updated: November 1, 2024
+
+================================================================================
+                    1. ACCEPTANCE OF TERMS
+================================================================================
+
+These Terms of Service ("Terms") constitute a legally binding agreement between
+you ("User", "Borrower", "you", "your") and SmartFinance India Limited
+("SmartFinance", "Company", "we", "us", "our").
+
+By accessing or using our website (www.smartfinance.in), mobile application
+("App"), or lending services ("Services"), you agree to be bound by these Terms.
+If you do not agree, do not use our Services.
+
+================================================================================
+                    2. ELIGIBILITY
+================================================================================
+
+To use our Services, you must:
+
+- Be at least 21 years of age
+- Be a resident of India
+- Have a valid PAN card
+- Have a bank account in your name
+- Not be declared insolvent or bankrupt
+- Meet our credit and eligibility criteria
+
+We reserve the right to refuse service to anyone at our sole discretion.
+
+================================================================================
+                    3. ACCOUNT REGISTRATION
+================================================================================
+
+3.1 To access our Services, you must create an account by providing accurate
+    and complete information.
+
+3.2 You are responsible for maintaining the confidentiality of your account
+    credentials.
+
+3.3 You agree to notify us immediately of any unauthorized use of your account.
+
+3.4 You may not share your account with anyone or create multiple accounts.
+
+3.5 We may suspend or terminate your account for violation of these Terms.
+
+================================================================================
+                    4. SERVICES
+================================================================================
+
+4.1 We provide digital lending services including personal loans, business
+    loans, and consumer durable loans.
+
+4.2 Loan terms, interest rates, and eligibility are determined based on our
+    credit assessment and are subject to change without prior notice.
+
+4.3 We are a Non-Banking Financial Company (NBFC) registered with the Reserve
+    Bank of India (Reg. No. N-13.02216).
+
+4.4 We may act as a Lending Service Provider (LSP) for partner banks, in which
+    case the loan is provided by the partner bank.
+
+================================================================================
+                    5. LOAN APPLICATION AND APPROVAL
+================================================================================
+
+5.1 Submission of a loan application does not guarantee approval.
+
+5.2 We may accept, reject, or modify loan applications at our sole discretion.
+
+5.3 We may request additional documents or information for processing.
+
+5.4 Upon approval, we will provide a Key Fact Statement (KFS) with loan terms.
+
+5.5 You must review and accept the loan terms before disbursement.
+
+5.6 Loan disbursement will be made directly to your bank account.
+
+================================================================================
+                    6. REPAYMENT
+================================================================================
+
+6.1 You agree to repay the loan as per the repayment schedule provided.
+
+6.2 Repayments will be collected through E-NACH mandate registered by you.
+
+6.3 You must maintain sufficient balance in your account for EMI deduction.
+
+6.4 Late payments will attract penal charges as disclosed in the loan agreement.
+
+6.5 Default may result in legal action and adverse credit bureau reporting.
+
+================================================================================
+                    7. FEES AND CHARGES
+================================================================================
+
+7.1 We charge various fees including processing fee, bounce charges, penal
+    charges, and prepayment charges as disclosed.
+
+7.2 All applicable taxes (GST) will be charged on fees.
+
+7.3 We may revise fees with prior notice as required by RBI.
+
+7.4 Fee schedule is available on our website and App.
+
+================================================================================
+                    8. USER CONDUCT
+================================================================================
+
+You agree not to:
+
+- Provide false or misleading information
+- Use the Services for illegal purposes
+- Impersonate any person or entity
+- Attempt to gain unauthorized access to our systems
+- Interfere with or disrupt our Services
+- Use automated systems to access our Services
+- Violate any applicable law or regulation
+- Harass or abuse our employees or agents
+- Use the loan proceeds for illegal purposes
+
+================================================================================
+                    9. INTELLECTUAL PROPERTY
+================================================================================
+
+9.1 All content on our website and App, including text, graphics, logos,
+    software, and trademarks, is owned by or licensed to SmartFinance.
+
+9.2 You may not copy, modify, distribute, or create derivative works without
+    our prior written consent.
+
+9.3 We grant you a limited, non-exclusive, non-transferable license to use
+    our App for personal, non-commercial use.
+
+================================================================================
+                    10. PRIVACY
+================================================================================
+
+10.1 Our collection and use of your personal data is governed by our Privacy
+     Policy, which is incorporated into these Terms by reference.
+
+10.2 By using our Services, you consent to the collection, use, and disclosure
+     of your data as described in the Privacy Policy.
+
+================================================================================
+                    11. THIRD-PARTY SERVICES
+================================================================================
+
+11.1 Our Services may integrate with third-party services (credit bureaus,
+     payment processors, KYC providers).
+
+11.2 Your use of third-party services is subject to their terms and policies.
+
+11.3 We are not responsible for the actions or omissions of third parties.
+
+================================================================================
+                    12. DISCLAIMERS
+================================================================================
+
+12.1 Our Services are provided "AS IS" and "AS AVAILABLE" without warranties
+     of any kind, express or implied.
+
+12.2 We do not guarantee uninterrupted or error-free service.
+
+12.3 We are not responsible for decisions you make based on information
+     provided through our Services.
+
+12.4 We do not provide financial, tax, or legal advice. Consult appropriate
+     professionals for such advice.
+
+================================================================================
+                    13. LIMITATION OF LIABILITY
+================================================================================
+
+13.1 To the maximum extent permitted by law, SmartFinance shall not be liable
+     for any indirect, incidental, special, consequential, or punitive damages.
+
+13.2 Our total liability shall not exceed the fees paid by you in the 12 months
+     preceding the claim.
+
+13.3 These limitations apply regardless of the theory of liability.
+
+================================================================================
+                    14. INDEMNIFICATION
+================================================================================
+
+You agree to indemnify and hold harmless SmartFinance, its officers, directors,
+employees, and agents from any claims, damages, losses, liabilities, and
+expenses arising from:
+
+- Your use of the Services
+- Your violation of these Terms
+- Your violation of any law or third-party rights
+- Your provision of false information
+
+================================================================================
+                    15. TERMINATION
+================================================================================
+
+15.1 You may close your account at any time by contacting customer support.
+
+15.2 We may suspend or terminate your account for violation of these Terms
+     or for any other reason at our sole discretion.
+
+15.3 Upon termination, your right to use the Services ceases immediately.
+
+15.4 Termination does not affect your obligation to repay outstanding loans.
+
+15.5 Provisions regarding intellectual property, disclaimers, limitation of
+     liability, and indemnification survive termination.
+
+================================================================================
+                    16. DISPUTE RESOLUTION
+================================================================================
+
+16.1 Any dispute arising from these Terms shall first be attempted to be
+     resolved through our grievance redressal mechanism.
+
+16.2 If not resolved within 30 days, either party may initiate arbitration
+     in accordance with the Arbitration and Conciliation Act, 1996.
+
+16.3 Arbitration shall be conducted in Mumbai by a sole arbitrator appointed
+     mutually or by the Mumbai Centre for International Arbitration.
+
+16.4 The language of arbitration shall be English.
+
+16.5 The arbitrator's decision shall be final and binding.
+
+================================================================================
+                    17. GOVERNING LAW
+================================================================================
+
+These Terms shall be governed by and construed in accordance with the laws of
+India. Subject to the arbitration clause, courts in Mumbai shall have exclusive
+jurisdiction.
+
+================================================================================
+                    18. AMENDMENTS
+================================================================================
+
+18.1 We may modify these Terms at any time by posting the revised version on
+     our website and App.
+
+18.2 Material changes will be notified via email or in-app notification.
+
+18.3 Continued use of Services after changes constitutes acceptance.
+
+18.4 If you disagree with changes, you must stop using our Services.
+
+================================================================================
+                    19. GENERAL PROVISIONS
+================================================================================
+
+19.1 ENTIRE AGREEMENT
+     These Terms, together with the Privacy Policy and loan agreements,
+     constitute the entire agreement between you and SmartFinance.
+
+19.2 SEVERABILITY
+     If any provision is held invalid, the remaining provisions continue.
+
+19.3 WAIVER
+     Our failure to enforce any right shall not constitute a waiver.
+
+19.4 ASSIGNMENT
+     You may not assign your rights. We may assign our rights to any affiliate
+     or successor.
+
+19.5 NOTICES
+     We may send notices via email or in-app notification. You may send notices
+     to legal@smartfinance.in.
+
+19.6 LANGUAGE
+     These Terms are in English. Translations are for convenience only.
+
+================================================================================
+                    20. CONTACT US
+================================================================================
+
+For questions about these Terms:
+
+Email: legal@smartfinance.in
+Phone: 1800-123-4567
+Address: 15th Floor, Tower B, One BKC, Bandra Kurla Complex, Mumbai - 400051
+
+================================================================================
+
+                    END OF TERMS OF SERVICE
+
+================================================================================

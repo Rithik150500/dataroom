@@ -1,0 +1,362 @@
+================================================================================
+                    ARTICLES OF ASSOCIATION
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+
+            [Pursuant to Section 5 of Companies Act, 2013]
+================================================================================
+
+                         PRELIMINARY
+
+--------------------------------------------------------------------------------
+
+1. INTERPRETATION
+
+   1.1 In these Articles, unless the context otherwise requires:
+
+       "Act" means the Companies Act, 2013 or any statutory modification or
+       re-enactment thereof for the time being in force;
+
+       "Articles" means these Articles of Association as originally framed
+       or as altered from time to time;
+
+       "Board" or "Board of Directors" means the Board of Directors of the
+       Company;
+
+       "Company" means SmartFinance India Limited;
+
+       "Director" means a Director of the Company;
+
+       "Dividend" includes interim dividend;
+
+       "Member" means a person holding shares in the Company;
+
+       "RBI" means the Reserve Bank of India;
+
+       "Seal" means the Common Seal of the Company;
+
+       "Secretary" means the Company Secretary of the Company;
+
+       "Special Resolution" has the meaning assigned to it by Section 114
+       of the Act.
+
+   1.2 Words importing the singular number include the plural number and
+       vice versa.
+
+   1.3 Words importing the masculine gender include the feminine gender.
+
+================================================================================
+                         SHARE CAPITAL
+================================================================================
+
+2. AUTHORIZED SHARE CAPITAL
+
+   The Authorized Share Capital of the Company is ₹15,00,00,000 (Rupees
+   Fifteen Crores only) divided into 50,00,000 Equity Shares of ₹10/- each
+   and 10,00,000 Preference Shares of ₹100/- each.
+
+3. ALTERATION OF CAPITAL
+
+   The Company may, by ordinary resolution:
+   (a) Increase its share capital by such sum as it thinks expedient;
+   (b) Consolidate and divide all or any of its share capital;
+   (c) Convert fully paid-up shares into stock and reconvert that stock
+       into fully paid-up shares;
+   (d) Sub-divide its shares into shares of smaller amount;
+   (e) Cancel shares which have not been taken or agreed to be taken.
+
+4. REDUCTION OF CAPITAL
+
+   Subject to the provisions of the Act, the Company may reduce its share
+   capital in any manner.
+
+5. ISSUE OF SHARES
+
+   5.1 Subject to the provisions of the Act, the shares shall be under the
+       control of the Board who may allot or otherwise dispose of the same
+       on such terms and conditions as they think fit.
+
+   5.2 The Company shall not issue shares at a discount except as permitted
+       by the Act.
+
+   5.3 The Company may issue sweat equity shares in accordance with Section
+       54 of the Act.
+
+6. CALLS ON SHARES
+
+   6.1 The Board may make calls upon the Members in respect of any moneys
+       unpaid on their shares.
+
+   6.2 Each Member shall pay the amount of every call so made on him to the
+       persons and at the times and places appointed by the Board.
+
+   6.3 A call shall be deemed to have been made at the time when the
+       resolution of the Board authorizing the call was passed.
+
+================================================================================
+                    TRANSFER OF SHARES
+================================================================================
+
+7. TRANSFER OF SHARES
+
+   7.1 The instrument of transfer of any share shall be in writing and shall
+       be executed by or on behalf of both the transferor and transferee.
+
+   7.2 The Board may, subject to the right of appeal conferred by the Act,
+       decline to register any transfer of shares.
+
+   7.3 The registration of transfers may be suspended at such times and for
+       such periods as the Board may determine.
+
+8. TRANSMISSION OF SHARES
+
+   8.1 On the death of a Member, the survivor or survivors where the Member
+       was a joint holder, and the legal representatives of the deceased
+       where he was a sole holder, shall be the only persons recognized by
+       the Company as having any title to his interest in the shares.
+
+9. RIGHT OF FIRST REFUSAL
+
+   9.1 No Member shall transfer any shares to any person who is not a Member
+       without first offering them to the existing Members in proportion to
+       their existing shareholdings.
+
+   9.2 The offer shall be made by written notice to the Company specifying
+       the number of shares to be transferred and the price per share.
+
+   9.3 This right of first refusal shall not apply to transfers:
+       (a) To any affiliate of the transferring Member;
+       (b) Pursuant to an initial public offering;
+       (c) With the prior written consent of shareholders holding at least
+           75% of the issued share capital.
+
+================================================================================
+                    INVESTOR RIGHTS
+================================================================================
+
+10. SERIES A PREFERRED SHARES
+
+    10.1 The Series A Preferred Shares shall have the following rights:
+         (a) Liquidation preference at 1x the original issue price;
+         (b) Participating preferred rights on remaining proceeds;
+         (c) Anti-dilution protection on a broad-based weighted average basis;
+         (d) Conversion rights to equity shares at any time;
+         (e) Automatic conversion upon qualified IPO.
+
+11. BOARD COMPOSITION
+
+    11.1 The Board shall consist of not less than 3 Directors and not more
+         than 15 Directors.
+
+    11.2 Investor Directors may be appointed as follows:
+         (a) Investors holding at least 10% of fully diluted capital may
+             appoint one Director;
+         (b) Investors holding at least 25% of fully diluted capital may
+             appoint two Directors.
+
+12. RESERVED MATTERS
+
+    12.1 The following matters shall require approval of Directors appointed
+         by Series A Investors:
+         (a) Any amendment to the Memorandum or Articles of Association;
+         (b) Issuance of new securities or convertible instruments;
+         (c) Declaration of dividends;
+         (d) Related party transactions exceeding ₹50 lakhs;
+         (e) Capital expenditure exceeding ₹2 crores;
+         (f) Acquisition or disposal of material assets;
+         (g) Entry into new lines of business;
+         (h) Any merger, acquisition, or change of control transaction;
+         (i) Appointment or removal of CEO, CFO, or CTO;
+         (j) Change in auditors.
+
+13. INFORMATION RIGHTS
+
+    13.1 Investors holding at least 5% of the fully diluted capital shall be
+         entitled to receive:
+         (a) Monthly MIS within 15 days of month end;
+         (b) Quarterly unaudited financials within 30 days;
+         (c) Annual audited financials within 90 days;
+         (d) Annual operating plan and budget before fiscal year;
+         (e) Cap table updates upon any change.
+
+================================================================================
+                    BOARD OF DIRECTORS
+================================================================================
+
+14. POWERS OF THE BOARD
+
+    14.1 The business of the Company shall be managed by the Board who may
+         exercise all such powers as are not required by the Act or these
+         Articles to be exercised by the Company in general meeting.
+
+15. MEETINGS OF THE BOARD
+
+    15.1 The Board shall meet at least four times a year with a maximum
+         interval of 120 days between two consecutive meetings.
+
+    15.2 The quorum for a Board meeting shall be one-third of total strength
+         or two Directors, whichever is higher.
+
+    15.3 Directors may participate in meetings through video conferencing
+         as permitted by the Act.
+
+16. MANAGING DIRECTOR
+
+    16.1 The Board may appoint a Managing Director for such term and at such
+         remuneration as it thinks fit.
+
+    16.2 A Managing Director shall not hold office for a term exceeding five
+         years at a time.
+
+17. WHOLE-TIME DIRECTOR
+
+    17.1 The Board may appoint a Whole-time Director subject to the approval
+         of Members by special resolution.
+
+18. INDEPENDENT DIRECTORS
+
+    18.1 The Company shall appoint Independent Directors as required under
+         Section 149 of the Act and RBI guidelines for NBFCs.
+
+    18.2 At least one-third of the total number of Directors shall be
+         Independent Directors.
+
+================================================================================
+                    GENERAL MEETINGS
+================================================================================
+
+19. ANNUAL GENERAL MEETING
+
+    19.1 The Company shall hold an Annual General Meeting within six months
+         from the close of the financial year.
+
+    19.2 The AGM shall be held during business hours on a day that is not a
+         public holiday at the registered office or at any other place
+         within the city where the registered office is situated.
+
+20. EXTRAORDINARY GENERAL MEETING
+
+    20.1 The Board may convene an Extraordinary General Meeting whenever it
+         thinks fit.
+
+21. NOTICE OF GENERAL MEETINGS
+
+    21.1 A general meeting may be called by giving not less than 21 clear
+         days' notice in writing.
+
+22. QUORUM FOR GENERAL MEETINGS
+
+    22.1 The quorum for a general meeting shall be 5 Members present in
+         person or through authorized representatives.
+
+23. VOTING
+
+    23.1 Every Member shall have one vote for every share held by him.
+    23.2 A resolution put to the vote shall be decided on a show of hands
+         unless a poll is demanded.
+
+================================================================================
+                    DIVIDENDS
+================================================================================
+
+24. DECLARATION OF DIVIDENDS
+
+    24.1 The Company in general meeting may declare dividends but no dividend
+         shall exceed the amount recommended by the Board.
+
+    24.2 The Board may pay interim dividends as appear to the Board to be
+         justified by the profits of the Company.
+
+25. UNPAID DIVIDENDS
+
+    25.1 Any dividend unclaimed for 7 years shall be transferred to the
+         Investor Education and Protection Fund.
+
+================================================================================
+                    ACCOUNTS AND AUDIT
+================================================================================
+
+26. BOOKS OF ACCOUNT
+
+    26.1 The Company shall keep proper books of account as required by
+         Section 128 of the Act.
+
+    26.2 The books of account shall be kept at the registered office.
+
+27. AUDITORS
+
+    27.1 Auditors shall be appointed as provided in the Act.
+    27.2 As an NBFC, the Company shall comply with RBI guidelines on
+         statutory audit.
+
+================================================================================
+                    NBFC SPECIFIC PROVISIONS
+================================================================================
+
+28. RBI COMPLIANCE
+
+    28.1 The Company shall at all times comply with the Reserve Bank of
+         India Act, 1934, and all directions, guidelines, and circulars
+         issued by RBI for NBFCs.
+
+    28.2 The Company shall maintain minimum capital adequacy ratio as
+         prescribed by RBI.
+
+    28.3 The Company shall not accept public deposits without obtaining
+         necessary approvals.
+
+29. FIT AND PROPER CRITERIA
+
+    29.1 All Directors shall meet the fit and proper criteria prescribed
+         by RBI for Directors of NBFCs.
+
+    29.2 Any change in Directors shall be reported to RBI within the
+         prescribed time.
+
+30. CONCENTRATION NORMS
+
+    30.1 The Company shall comply with concentration of credit norms as
+         prescribed by RBI.
+
+================================================================================
+                    INDEMNITY
+================================================================================
+
+31. INDEMNIFICATION
+
+    31.1 Every Director, Managing Director, Manager, Secretary, and other
+         officer of the Company shall be indemnified by the Company against
+         all costs, charges, losses, expenses, and liabilities incurred by
+         them in the proper conduct of the Company's business.
+
+================================================================================
+                    WINDING UP
+================================================================================
+
+32. DISTRIBUTION ON WINDING UP
+
+    32.1 In the event of winding up, the assets available for distribution
+         shall be applied first in payment of the liquidation preference to
+         preference shareholders and thereafter among the equity shareholders
+         in proportion to their shareholding.
+
+================================================================================
+
+We, the several persons whose names and addresses are subscribed, are desirous
+of being formed into a Company in pursuance of these Articles of Association:
+
+| Name             | Address                      | Shares   | Signature | Date        |
+|------------------|------------------------------|----------|-----------|-------------|
+| Vikram Mehta     | 45, Malabar Hill, Mumbai     | 5,00,000 | Sd/-      | 08-Jun-2020 |
+| Anjali Deshmukh  | 12, Carter Road, Mumbai      | 3,00,000 | Sd/-      | 08-Jun-2020 |
+| Rohan Kapoor     | 78, Linking Road, Mumbai     | 2,00,000 | Sd/-      | 08-Jun-2020 |
+
+Witness: Advocate Neha Joshi
+Address: 304, Maker Chambers IV, Nariman Point, Mumbai - 400021
+Date: 08-Jun-2020
+
+================================================================================
+
+                    END OF ARTICLES OF ASSOCIATION
+
+================================================================================

@@ -1,0 +1,332 @@
+================================================================================
+            RBI REGISTRATION AND REGULATORY DOCUMENTS
+                          OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+        CERTIFICATE OF REGISTRATION - NBFC
+================================================================================
+
+                    RESERVE BANK OF INDIA
+              DEPARTMENT OF NON-BANKING SUPERVISION
+                      MUMBAI REGIONAL OFFICE
+
+--------------------------------------------------------------------------------
+
+              CERTIFICATE OF REGISTRATION
+
+            No. N-13.02216 dated September 15, 2020
+
+--------------------------------------------------------------------------------
+
+The Reserve Bank of India, having satisfied itself that the conditions
+specified in Section 45-IA of the Reserve Bank of India Act, 1934 are fulfilled,
+hereby grants a Certificate of Registration to:
+
+SMARTFINANCE INDIA LIMITED
+(CIN: U65929MH2020PLC345678)
+
+to carry on the business of a Non-Banking Financial Company without accepting
+public deposits.
+
+--------------------------------------------------------------------------------
+
+PARTICULARS OF REGISTRATION:
+
+| Field                          | Details                                |
+|--------------------------------|----------------------------------------|
+| Company Name                   | SmartFinance India Limited             |
+| CIN                            | U65929MH2020PLC345678                  |
+| Registration Number            | N-13.02216                             |
+| Registration Date              | September 15, 2020                     |
+| Category                       | NBFC - ICC (Investment and Credit      |
+|                                | Company)                               |
+| Type                           | Non-deposit taking NBFC (NBFC-ND)      |
+| Classification                 | Non-Systemically Important             |
+|                                | (as on registration date)              |
+| Net Owned Fund Requirement     | Minimum ₹2 Crores                      |
+| Registered Office Address      | 15th Floor, Tower B, One BKC,          |
+|                                | Bandra Kurla Complex, Mumbai - 400051  |
+
+--------------------------------------------------------------------------------
+
+CONDITIONS:
+
+1. The Company shall not accept public deposits.
+
+2. The Company shall maintain minimum Net Owned Fund as prescribed by RBI.
+
+3. The Company shall comply with all directions, guidelines, and circulars
+   issued by RBI from time to time.
+
+4. The Company shall file all statutory returns as prescribed.
+
+5. The Company shall not carry on any business other than that of a
+   Non-Banking Financial Company.
+
+6. This certificate is subject to cancellation if the Company violates any
+   of the conditions of registration or provisions of RBI Act.
+
+--------------------------------------------------------------------------------
+
+                                        Sd/-
+                                        General Manager
+                                        Department of Non-Banking Supervision
+                                        Reserve Bank of India
+                                        Mumbai Regional Office
+
+Date: September 15, 2020
+Place: Mumbai
+
+================================================================================
+        RBI ANNUAL COMPLIANCE CERTIFICATE
+================================================================================
+
+To,
+The Regional Director
+Reserve Bank of India
+Department of Non-Banking Supervision
+Mumbai Regional Office
+
+Date: July 15, 2024
+
+Subject: Annual Compliance Certificate for FY 2023-24
+
+Dear Sir/Madam,
+
+We hereby certify that SmartFinance India Limited (Reg. No. N-13.02216) has
+complied with all the provisions of RBI Act, 1934, and Directions/Guidelines
+issued by Reserve Bank of India applicable to Non-Banking Financial Companies
+for the financial year ended March 31, 2024.
+
+Specifically, we confirm the following:
+
+--------------------------------------------------------------------------------
+STATUTORY COMPLIANCE
+--------------------------------------------------------------------------------
+
+| Sr. | Requirement                           | Status    | Remarks           |
+|-----|---------------------------------------|-----------|-------------------|
+| 1   | Net Owned Fund (Min ₹2 Cr)            | Complied  | NOF: ₹119.22 Cr   |
+| 2   | Capital Adequacy Ratio (Min 15%)      | Complied  | CAR: 22.5%        |
+| 3   | Tier I Capital (Min 10%)              | Complied  | Tier I: 21.2%     |
+| 4   | Public Deposits                       | Complied  | Nil deposits      |
+| 5   | Concentration Norms                   | Complied  | Within limits     |
+| 6   | Fair Practice Code                    | Complied  | Adopted & published|
+| 7   | KYC/AML Guidelines                    | Complied  | Policy in place   |
+| 8   | Interest Rate Policy                  | Complied  | Board approved    |
+| 9   | Grievance Redressal                   | Complied  | Nodal officer app.|
+| 10  | Outsourcing Guidelines                | Complied  | Policy in place   |
+
+--------------------------------------------------------------------------------
+REGULATORY FILINGS
+--------------------------------------------------------------------------------
+
+| Return          | Frequency  | FY 2023-24 Status |
+|-----------------|------------|-------------------|
+| NBS-7           | Quarterly  | All filed on time |
+| ALM Returns     | Monthly    | All filed on time |
+| CRILC           | Monthly    | All filed on time |
+| XBRL Filing     | Annual     | Filed on time     |
+| FPC Compliance  | Annual     | Filed on time     |
+
+--------------------------------------------------------------------------------
+
+We request you to kindly take the above on record.
+
+For SmartFinance India Limited
+
+
+Sd/-                                    Sd/-
+Vikram Mehta                            Anjali Deshmukh
+Managing Director                       CFO & Compliance Officer
+
+================================================================================
+        RBI INSPECTION REPORT SUMMARY
+================================================================================
+
+Latest RBI Inspection: March 2024
+Inspection Period: FY 2022-23 and FY 2023-24 (up to Dec 2023)
+
+INSPECTION OBSERVATIONS AND COMPLIANCE:
+
+| Sr. | Observation                      | Severity | Status     | Due Date   |
+|-----|----------------------------------|----------|------------|------------|
+| 1   | Minor delay in CRILC reporting   | Low      | Rectified  | Apr 2024   |
+|     | for 2 months                     |          |            |            |
+| 2   | IT Policy to be updated for      | Medium   | Complied   | May 2024   |
+|     | cloud security                   |          |            |            |
+| 3   | Enhance internal audit coverage  | Low      | In Progress| Jul 2024   |
+|     | for digital lending processes    |          |            |            |
+
+Overall Assessment: Satisfactory
+Major Concerns: None
+Penalties Imposed: None
+
+================================================================================
+        SCALE BASED REGULATION (SBR) STATUS
+================================================================================
+
+Current Classification: Base Layer (NBFC-BL)
+
+Criteria Assessment:
+
+| Parameter                    | Threshold      | SmartFinance | Status    |
+|------------------------------|----------------|--------------|-----------|
+| Asset Size                   | ≥ ₹1,000 Cr    | ₹301.27 Cr   | Below     |
+| Public Deposits              | Any            | Nil          | N/A       |
+| Customer Interface           | > 1 Lakh       | 1,27,500     | Above     |
+| Loan Portfolio               | ≥ ₹500 Cr      | ₹215.42 Cr   | Below     |
+
+Current Layer: Base Layer
+Expected Transition: Middle Layer by FY 2025-26 (based on growth projections)
+
+Additional Compliance for Middle Layer:
+- Appointment of Chief Compliance Officer
+- Enhanced governance requirements
+- Independent Director majority in Audit Committee
+- Risk Management Committee
+
+================================================================================
+        FAIR PRACTICE CODE
+================================================================================
+
+SmartFinance India Limited has adopted a Fair Practice Code in compliance with
+RBI Master Direction on Fair Practice Code for NBFCs.
+
+Key Provisions:
+
+1. LOAN APPLICATION AND PROCESSING
+   - Clear and transparent loan application process
+   - Communication of loan terms in vernacular language
+   - Processing within committed timeline
+
+2. LOAN APPRAISAL AND TERMS
+   - Assessment of borrower's repayment capacity
+   - All-in-cost disclosure (APR)
+   - No hidden charges
+
+3. DISBURSEMENT
+   - Direct disbursement to borrower's account
+   - No third-party payments except permitted
+
+4. GENERAL PROVISIONS
+   - No interference in borrower's affairs
+   - No discrimination
+   - Reasonable security valuation
+   - No excessive interest
+
+5. RECOVERY
+   - No harassment or intimidation
+   - Recovery agents code of conduct
+   - No calls before 8 AM or after 7 PM
+   - No use of muscle power
+
+================================================================================
+        KYC/AML POLICY SUMMARY
+================================================================================
+
+Policy adopted in compliance with:
+- Prevention of Money Laundering Act, 2002
+- RBI Master Direction on KYC
+- PMLA Rules, 2005
+
+Key Elements:
+
+1. CUSTOMER IDENTIFICATION
+   - PAN mandatory for loans > ₹50,000
+   - Officially Valid Documents (OVDs)
+   - Video KYC for remote onboarding
+
+2. CUSTOMER DUE DILIGENCE
+   - Risk categorization (Low, Medium, High)
+   - Enhanced due diligence for high-risk
+   - Periodic KYC updates
+
+3. TRANSACTION MONITORING
+   - Automated alerts for suspicious patterns
+   - Cash transaction reports (> ₹10 Lakhs)
+   - Suspicious transaction reports
+
+4. RECORD KEEPING
+   - 5 years after end of relationship
+   - 8 years for transaction records
+
+Principal Officer (PMLA): Mr. Aditya Jain, Chief Risk Officer
+Email: aditya.jain@smartfinance.in
+
+================================================================================
+        INTEREST RATE POLICY
+================================================================================
+
+Board Approved: April 1, 2024
+
+INTEREST RATE STRUCTURE:
+
+| Product               | Interest Rate (p.a.) | Processing Fee |
+|-----------------------|----------------------|----------------|
+| Personal Loans        | 14% - 28%            | 1% - 3%        |
+| Business Loans        | 16% - 30%            | 1.5% - 3%      |
+| Consumer Durable Loans| 12% - 24%            | 0.5% - 2%      |
+
+Factors Considered:
+- Cost of funds
+- Risk premium based on credit score
+- Tenure
+- Loan amount
+- Market rates
+
+Penal Charges:
+- Penal interest on overdue: 2% p.m.
+- Bounce charges: ₹500 per instance
+- Prepayment: Nil for floating rate; 2-4% for fixed
+
+================================================================================
+        GRIEVANCE REDRESSAL MECHANISM
+================================================================================
+
+Level 1: Customer Care
+- Toll-free: 1800-123-4567
+- Email: care@smartfinance.in
+- App chat support
+- Resolution time: 7 days
+
+Level 2: Grievance Redressal Officer
+- Name: Mr. Amit Shah
+- Email: grievance@smartfinance.in
+- Phone: +91 22 6789 0124
+- Resolution time: 15 days
+
+Level 3: Nodal Officer
+- Name: Ms. Anjali Deshmukh
+- Email: nodal.officer@smartfinance.in
+- Resolution time: 30 days
+
+Level 4: RBI Ombudsman
+- If not resolved within 30 days
+- RBI Ombudsman for Digital Complaints
+- https://cms.rbi.org.in
+
+================================================================================
+        DIGITAL LENDING COMPLIANCE
+================================================================================
+
+Compliance with RBI Guidelines on Digital Lending (Sept 2, 2022):
+
+| Requirement                          | Status    | Implementation           |
+|--------------------------------------|-----------|--------------------------|
+| Loan disbursement to borrower only   | Complied  | Direct to bank account   |
+| No automatic debit for payment       | Complied  | Separate NACH for each   |
+| Key Fact Statement (KFS)             | Complied  | Provided before sanction |
+| Cooling-off period                   | Complied  | 3 days for prepayment    |
+| LSP/DLA disclosure                   | Complied  | Disclosed in agreement   |
+| Data privacy consent                 | Complied  | Explicit consent taken   |
+| No access to phone data              | Complied  | Only camera & location   |
+| Grievance redressal disclosure       | Complied  | In app and website       |
+
+================================================================================
+
+                    END OF RBI REGISTRATION DOCUMENTS
+
+================================================================================

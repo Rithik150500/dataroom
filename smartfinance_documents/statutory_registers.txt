@@ -1,0 +1,410 @@
+================================================================================
+                       STATUTORY REGISTERS
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+
+         [Maintained pursuant to the Companies Act, 2013]
+================================================================================
+
+================================================================================
+                    REGISTER OF MEMBERS
+              [Section 88 of Companies Act, 2013]
+================================================================================
+
+--------------------------------------------------------------------------------
+FOLIO NO: SF/EQ/001
+--------------------------------------------------------------------------------
+
+| Field                    | Details                                          |
+|--------------------------|--------------------------------------------------|
+| Name of Member           | Vikram Mehta                                     |
+| Father's/Spouse's Name   | Rajesh Mehta                                     |
+| Occupation               | Business                                         |
+| Nationality              | Indian                                           |
+| PAN                      | AXXPM1234A                                       |
+| Address                  | 45, Malabar Hill, Mumbai - 400006                |
+| Email                    | vikram.mehta@smartfinance.in                     |
+
+| Date       | Particulars              | Shares Acquired | Shares Transferred | Balance   |
+|------------|--------------------------|-----------------|--------------------| ----------|
+| 10-Jun-2020| Subscription to MoA      | 5,00,000        | -                  | 5,00,000  |
+| 15-Oct-2020| Seed Round Conversion    | 1,50,000        | -                  | 6,50,000  |
+| 01-Jul-2021| Pre-Series A Issue       | -               | 50,000             | 6,00,000  |
+| 15-Mar-2023| Series A Issue           | -               | 1,00,000           | 5,00,000  |
+
+Current Holding: 5,00,000 Equity Shares (Class A Common)
+
+--------------------------------------------------------------------------------
+FOLIO NO: SF/EQ/002
+--------------------------------------------------------------------------------
+
+| Field                    | Details                                          |
+|--------------------------|--------------------------------------------------|
+| Name of Member           | Anjali Deshmukh                                  |
+| Father's/Spouse's Name   | Suresh Deshmukh                                  |
+| Occupation               | Professional (Finance)                           |
+| Nationality              | Indian                                           |
+| PAN                      | AXXPD5678B                                       |
+| Address                  | 12, Carter Road, Bandra West, Mumbai - 400050    |
+| Email                    | anjali.deshmukh@smartfinance.in                  |
+
+| Date       | Particulars              | Shares Acquired | Shares Transferred | Balance   |
+|------------|--------------------------|-----------------|--------------------| ----------|
+| 10-Jun-2020| Subscription to MoA      | 3,00,000        | -                  | 3,00,000  |
+| 15-Oct-2020| Seed Round Conversion    | 1,00,000        | -                  | 4,00,000  |
+| 01-Jul-2021| Pre-Series A Issue       | -               | 30,000             | 3,70,000  |
+| 15-Mar-2023| Series A Issue           | -               | 70,000             | 3,00,000  |
+
+Current Holding: 3,00,000 Equity Shares (Class A Common)
+
+--------------------------------------------------------------------------------
+FOLIO NO: SF/EQ/003
+--------------------------------------------------------------------------------
+
+| Field                    | Details                                          |
+|--------------------------|--------------------------------------------------|
+| Name of Member           | Rohan Kapoor                                     |
+| Father's/Spouse's Name   | Anil Kapoor                                      |
+| Occupation               | Business                                         |
+| Nationality              | Indian                                           |
+| PAN                      | AXXPK9012C                                       |
+| Address                  | 78, Linking Road, Santacruz West, Mumbai - 400054|
+| Email                    | rohan.kapoor@smartfinance.in                     |
+
+| Date       | Particulars              | Shares Acquired | Shares Transferred | Balance   |
+|------------|--------------------------|-----------------|--------------------| ----------|
+| 10-Jun-2020| Subscription to MoA      | 2,00,000        | -                  | 2,00,000  |
+| 15-Oct-2020| Seed Round Conversion    | 50,000          | -                  | 2,50,000  |
+| 01-Jul-2021| Pre-Series A Issue       | -               | 20,000             | 2,30,000  |
+| 15-Mar-2023| Series A Issue           | -               | 30,000             | 2,00,000  |
+
+Current Holding: 2,00,000 Equity Shares (Class A Common)
+
+--------------------------------------------------------------------------------
+FOLIO NO: SF/EQ/004
+--------------------------------------------------------------------------------
+
+| Field                    | Details                                          |
+|--------------------------|--------------------------------------------------|
+| Name of Member           | Mumbai Angels Network LLP                        |
+| Type                     | Limited Liability Partnership                    |
+| LLPIN                    | AAP-1234                                         |
+| Address                  | 501, Express Towers, Nariman Point, Mumbai-400021|
+| Email                    | investments@mumbaiangels.com                     |
+
+| Date       | Particulars              | Shares Acquired | Shares Transferred | Balance   |
+|------------|--------------------------|-----------------|--------------------| ----------|
+| 15-Oct-2020| Seed Round Investment    | 2,00,000        | -                  | 2,00,000  |
+| 01-Jul-2021| Pre-Series A Conversion  | 50,000          | -                  | 2,50,000  |
+
+Current Holding: 2,50,000 Equity Shares
+
+--------------------------------------------------------------------------------
+FOLIO NO: SF/CCPS/001
+--------------------------------------------------------------------------------
+
+| Field                    | Details                                          |
+|--------------------------|--------------------------------------------------|
+| Name of Member           | Matrix Partners India II LLP                     |
+| Type                     | Limited Liability Partnership                    |
+| LLPIN                    | AAG-5678                                         |
+| Address                  | 9th Floor, Platina, BKC, Mumbai - 400051         |
+| Email                    | legal@matrixpartners.in                          |
+
+| Date       | Particulars              | Shares Acquired | Shares Transferred | Balance   |
+|------------|--------------------------|-----------------|--------------------| ----------|
+| 01-Jul-2021| Pre-Series A Investment  | 6,00,000        | -                  | 6,00,000  |
+
+Current Holding: 6,00,000 Series Seed CCPS
+
+--------------------------------------------------------------------------------
+FOLIO NO: SF/CCPS/002
+--------------------------------------------------------------------------------
+
+| Field                    | Details                                          |
+|--------------------------|--------------------------------------------------|
+| Name of Member           | Sequoia Capital India LLP                        |
+| Type                     | Limited Liability Partnership                    |
+| LLPIN                    | AAH-9012                                         |
+| Address                  | 2nd Floor, Tower A, DLF Cyber City, Gurgaon      |
+| Email                    | investments@sequoiacap.in                        |
+
+| Date       | Particulars              | Shares Acquired | Shares Transferred | Balance   |
+|------------|--------------------------|-----------------|--------------------| ----------|
+| 15-Mar-2023| Series A Investment      | 10,00,000       | -                  | 10,00,000 |
+
+Current Holding: 10,00,000 Series A CCPS
+
+--------------------------------------------------------------------------------
+FOLIO NO: SF/CCPS/003
+--------------------------------------------------------------------------------
+
+| Field                    | Details                                          |
+|--------------------------|--------------------------------------------------|
+| Name of Member           | Tiger Global Management LLC                      |
+| Type                     | Foreign Venture Capital Investor (FVCI)          |
+| FVCI Registration        | IN/FVCI/14-15/0012                               |
+| Address                  | 9 West 57th Street, New York, NY 10019, USA      |
+| Email                    | investments@tigerglobal.com                      |
+
+| Date       | Particulars              | Shares Acquired | Shares Transferred | Balance   |
+|------------|--------------------------|-----------------|--------------------| ----------|
+| 15-Mar-2023| Series A Investment      | 8,00,000        | -                  | 8,00,000  |
+
+Current Holding: 8,00,000 Series A CCPS
+
+================================================================================
+                    REGISTER OF DIRECTORS
+             [Section 170 of Companies Act, 2013]
+================================================================================
+
+--------------------------------------------------------------------------------
+DIRECTOR 1
+--------------------------------------------------------------------------------
+
+| Field                        | Details                                      |
+|------------------------------|----------------------------------------------|
+| Name                         | Vikram Mehta                                 |
+| DIN                          | 08765432                                     |
+| Designation                  | Managing Director & CEO                      |
+| Date of Appointment          | 10-Jun-2020                                  |
+| Date of Current Term         | 10-Jun-2020 to 09-Jun-2025                   |
+| PAN                          | AXXPM1234A                                   |
+| Nationality                  | Indian                                       |
+| Date of Birth                | 15-Aug-1985                                  |
+| Residential Address          | 45, Malabar Hill, Mumbai - 400006            |
+| Educational Qualification    | MBA (IIM Ahmedabad), B.Tech (IIT Bombay)     |
+| Occupation                   | Business                                     |
+| Directorships in Other Cos   | None                                         |
+| Shareholding in Company      | 5,00,000 Equity Shares (12.5%)               |
+
+Committee Memberships:
+- Chairman - Executive Committee
+- Member - Risk Management Committee
+
+--------------------------------------------------------------------------------
+DIRECTOR 2
+--------------------------------------------------------------------------------
+
+| Field                        | Details                                      |
+|------------------------------|----------------------------------------------|
+| Name                         | Anjali Deshmukh                              |
+| DIN                          | 08765433                                     |
+| Designation                  | Whole-time Director & CFO                    |
+| Date of Appointment          | 10-Jun-2020                                  |
+| Date of Current Term         | 10-Jun-2020 to 09-Jun-2025                   |
+| PAN                          | AXXPD5678B                                   |
+| Nationality                  | Indian                                       |
+| Date of Birth                | 22-Mar-1987                                  |
+| Residential Address          | 12, Carter Road, Bandra West, Mumbai - 400050|
+| Educational Qualification    | CA, CFA, B.Com (Mumbai University)           |
+| Occupation                   | Professional                                 |
+| Directorships in Other Cos   | None                                         |
+| Shareholding in Company      | 3,00,000 Equity Shares (7.5%)                |
+
+Committee Memberships:
+- Member - Audit Committee
+- Member - Risk Management Committee
+- Chairperson - Asset Liability Committee (ALCO)
+
+--------------------------------------------------------------------------------
+DIRECTOR 3
+--------------------------------------------------------------------------------
+
+| Field                        | Details                                      |
+|------------------------------|----------------------------------------------|
+| Name                         | Rohan Kapoor                                 |
+| DIN                          | 08765434                                     |
+| Designation                  | Director & CTO                               |
+| Date of Appointment          | 10-Jun-2020                                  |
+| Date of Current Term         | 10-Jun-2020 to 09-Jun-2025                   |
+| PAN                          | AXXPK9012C                                   |
+| Nationality                  | Indian                                       |
+| Date of Birth                | 08-Nov-1986                                  |
+| Residential Address          | 78, Linking Road, Santacruz West, Mumbai     |
+| Educational Qualification    | M.Tech (IIT Delhi), B.Tech (NIT Trichy)      |
+| Occupation                   | Business                                     |
+| Directorships in Other Cos   | None                                         |
+| Shareholding in Company      | 2,00,000 Equity Shares (5%)                  |
+
+Committee Memberships:
+- Member - IT Strategy Committee
+- Member - Executive Committee
+
+--------------------------------------------------------------------------------
+DIRECTOR 4
+--------------------------------------------------------------------------------
+
+| Field                        | Details                                      |
+|------------------------------|----------------------------------------------|
+| Name                         | Tarun Davda                                  |
+| DIN                          | 06545789                                     |
+| Designation                  | Nominee Director (Matrix Partners)           |
+| Date of Appointment          | 01-Jul-2021                                  |
+| Nominating Shareholder       | Matrix Partners India II LLP                 |
+| PAN                          | AXXPD3456E                                   |
+| Nationality                  | Indian                                       |
+| Date of Birth                | 12-Sep-1978                                  |
+| Residential Address          | DLF Magnolias, Golf Course Road, Gurgaon     |
+| Educational Qualification    | MBA (Wharton), B.Tech (IIT Bombay)           |
+| Occupation                   | Venture Capitalist                           |
+| Directorships in Other Cos   | 8 Companies                                  |
+| Shareholding in Company      | Nil (represents Matrix Partners)             |
+
+Committee Memberships:
+- Member - Audit Committee
+- Member - Nomination & Remuneration Committee
+
+--------------------------------------------------------------------------------
+DIRECTOR 5
+--------------------------------------------------------------------------------
+
+| Field                        | Details                                      |
+|------------------------------|----------------------------------------------|
+| Name                         | Shailendra Singh                             |
+| DIN                          | 02567891                                     |
+| Designation                  | Nominee Director (Sequoia Capital)           |
+| Date of Appointment          | 15-Mar-2023                                  |
+| Nominating Shareholder       | Sequoia Capital India LLP                    |
+| PAN                          | AXXPS7890F                                   |
+| Nationality                  | Indian                                       |
+| Date of Birth                | 25-Dec-1975                                  |
+| Residential Address          | Westend Greens, DLF Phase 5, Gurgaon         |
+| Educational Qualification    | MBA (Kellogg), B.Tech (IIT Kanpur)           |
+| Occupation                   | Venture Capitalist                           |
+| Directorships in Other Cos   | 12 Companies                                 |
+| Shareholding in Company      | Nil (represents Sequoia Capital)             |
+
+Committee Memberships:
+- Member - Nomination & Remuneration Committee
+
+--------------------------------------------------------------------------------
+DIRECTOR 6
+--------------------------------------------------------------------------------
+
+| Field                        | Details                                      |
+|------------------------------|----------------------------------------------|
+| Name                         | Meera Sanghvi                                |
+| DIN                          | 03456789                                     |
+| Designation                  | Independent Director                         |
+| Date of Appointment          | 01-Sep-2022                                  |
+| Date of Current Term         | 01-Sep-2022 to 31-Aug-2027                   |
+| PAN                          | AXXPS2345G                                   |
+| Nationality                  | Indian                                       |
+| Date of Birth                | 18-Jul-1968                                  |
+| Residential Address          | Breach Candy, Mumbai - 400026                |
+| Educational Qualification    | LLB (Government Law College), BA Economics   |
+| Occupation                   | Legal Consultant (Former RBI)                |
+| Directorships in Other Cos   | 4 Companies                                  |
+| Shareholding in Company      | Nil                                          |
+
+Committee Memberships:
+- Chairperson - Audit Committee
+- Chairperson - Nomination & Remuneration Committee
+- Member - Risk Management Committee
+
+--------------------------------------------------------------------------------
+DIRECTOR 7
+--------------------------------------------------------------------------------
+
+| Field                        | Details                                      |
+|------------------------------|----------------------------------------------|
+| Name                         | Rajiv Anand                                  |
+| DIN                          | 04567890                                     |
+| Designation                  | Independent Director                         |
+| Date of Appointment          | 15-Mar-2023                                  |
+| Date of Current Term         | 15-Mar-2023 to 14-Mar-2028                   |
+| PAN                          | AXXPA6789H                                   |
+| Nationality                  | Indian                                       |
+| Date of Birth                | 30-Apr-1970                                  |
+| Residential Address          | Palm Beach Road, Navi Mumbai - 400706        |
+| Educational Qualification    | CA, MBA (ISB)                                |
+| Occupation                   | Banker (Former Deputy MD, Axis Bank)         |
+| Directorships in Other Cos   | 3 Companies                                  |
+| Shareholding in Company      | Nil                                          |
+
+Committee Memberships:
+- Chairperson - Risk Management Committee
+- Member - Audit Committee
+
+================================================================================
+                    REGISTER OF CHARGES
+             [Section 85 of Companies Act, 2013]
+================================================================================
+
+--------------------------------------------------------------------------------
+CHARGE 1
+--------------------------------------------------------------------------------
+
+| Field                        | Details                                      |
+|------------------------------|----------------------------------------------|
+| Charge ID                    | 70345678                                     |
+| Date of Creation             | 15-Nov-2023                                  |
+| Date of Registration         | 25-Nov-2023                                  |
+| Amount Secured               | ₹25,00,00,000                                |
+| Charge Holder                | HDFC Bank Limited                            |
+| Type of Charge               | Hypothecation                                |
+| Property Charged             | Book debts, receivables, and loan portfolio  |
+| CHG-1 Filing Date            | 20-Nov-2023                                  |
+| SRN                          | T12345678                                    |
+
+Charge Details:
+- Working Capital facility of ₹25 Crores
+- Interest Rate: MCLR + 1.25%
+- Tenure: 12 months, renewable annually
+- Security: First pari passu charge on current assets
+
+--------------------------------------------------------------------------------
+CHARGE 2
+--------------------------------------------------------------------------------
+
+| Field                        | Details                                      |
+|------------------------------|----------------------------------------------|
+| Charge ID                    | 70345679                                     |
+| Date of Creation             | 01-Feb-2024                                  |
+| Date of Registration         | 10-Feb-2024                                  |
+| Amount Secured               | ₹50,00,00,000                                |
+| Charge Holder                | ICICI Bank Limited                           |
+| Type of Charge               | Hypothecation                                |
+| Property Charged             | Book debts, receivables, and loan portfolio  |
+| CHG-1 Filing Date            | 05-Feb-2024                                  |
+| SRN                          | T23456789                                    |
+
+Charge Details:
+- Term Loan facility of ₹50 Crores
+- Interest Rate: Repo + 2.75%
+- Tenure: 36 months
+- Security: First pari passu charge on loan receivables
+
+================================================================================
+                    REGISTER OF CONTRACTS
+       [Section 189 - Contracts with Related Parties]
+================================================================================
+
+| Date       | Party Name         | Relationship    | Nature          | Amount     |
+|------------|--------------------|-----------------|-----------------|------------|
+| 01-Apr-2023| VM Consulting LLP  | Vikram (Partner)| Advisory Fees   | ₹12,00,000 |
+| 15-Jun-2023| TechBuild Solutions| Rohan (Director)| Software License| ₹8,50,000  |
+| 01-Sep-2024| Matrix Partners    | Investor        | Management Fee  | ₹25,00,000 |
+
+Note: All related party transactions have been approved by the Audit Committee
+and Board of Directors as required under Section 188 of the Companies Act, 2013.
+
+================================================================================
+                    REGISTER OF LOANS & INVESTMENTS
+              [Section 186 of Companies Act, 2013]
+================================================================================
+
+No loans to other companies or investments in other bodies corporate have
+been made as of the date of this register.
+
+================================================================================
+
+Last Updated: November 15, 2025
+Maintained by: Priya Sharma, Company Secretary
+
+================================================================================
+
+                       END OF STATUTORY REGISTERS
+
+================================================================================

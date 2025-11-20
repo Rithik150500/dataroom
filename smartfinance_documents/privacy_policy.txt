@@ -1,0 +1,280 @@
+================================================================================
+                    PRIVACY POLICY
+                          OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+                    Last Updated: November 1, 2024
+
+================================================================================
+                    1. INTRODUCTION
+================================================================================
+
+SmartFinance India Limited ("SmartFinance", "Company", "we", "us", "our")
+is committed to protecting the privacy of individuals ("you", "your", "user",
+"borrower") who use our services. This Privacy Policy explains how we collect,
+use, disclose, and protect your personal data when you use our website
+(www.smartfinance.in), mobile application ("App"), and lending services.
+
+This policy is published in compliance with:
+- Information Technology Act, 2000
+- Information Technology (Reasonable Security Practices) Rules, 2011
+- Reserve Bank of India Guidelines on Digital Lending
+- Digital Personal Data Protection Act, 2023
+
+================================================================================
+                    2. DATA WE COLLECT
+================================================================================
+
+2.1 INFORMATION YOU PROVIDE
+
+| Category              | Examples                                         |
+|-----------------------|--------------------------------------------------|
+| Identity Data         | Name, date of birth, gender, photograph          |
+| Contact Data          | Address, email, phone number                     |
+| KYC Documents         | PAN, Aadhaar, Voter ID, Passport, Driving License|
+| Financial Data        | Bank statements, income proof, employment details|
+| Loan Data             | Loan applications, agreements, payment history   |
+
+2.2 INFORMATION WE COLLECT AUTOMATICALLY
+
+| Category              | Examples                                         |
+|-----------------------|--------------------------------------------------|
+| Device Data           | Device ID, model, OS version, IP address         |
+| Location Data         | GPS coordinates (with consent)                   |
+| Usage Data            | App usage patterns, pages visited, click stream  |
+| Transaction Data      | Loan transactions, payment history               |
+
+2.3 INFORMATION FROM THIRD PARTIES
+
+| Source                | Data                                             |
+|-----------------------|--------------------------------------------------|
+| Credit Bureaus        | Credit score, credit history, inquiries          |
+| Bank Statement APIs   | Account details, transactions, balances          |
+| KYC Providers         | Identity verification, address verification      |
+| Employers             | Employment verification (with consent)           |
+| Account Aggregators   | Financial data (with consent)                    |
+
+================================================================================
+                    3. PURPOSE OF DATA COLLECTION
+================================================================================
+
+We collect and use your personal data for the following purposes:
+
+3.1 LOAN PROCESSING
+- Verify your identity and eligibility
+- Assess creditworthiness and determine loan terms
+- Process loan applications and disbursements
+- Service and manage your loan account
+
+3.2 LEGAL AND REGULATORY COMPLIANCE
+- Comply with RBI regulations for NBFCs
+- KYC/AML compliance
+- Report to credit bureaus
+- Tax compliance and reporting
+- Respond to legal requests
+
+3.3 CUSTOMER SERVICE
+- Respond to inquiries and complaints
+- Provide account information
+- Send transaction alerts and reminders
+- Resolve disputes
+
+3.4 RISK MANAGEMENT
+- Fraud prevention and detection
+- Credit risk assessment
+- Collection and recovery
+
+3.5 BUSINESS IMPROVEMENT
+- Analyze usage patterns
+- Improve products and services
+- Develop new offerings
+- Conduct research and analytics
+
+3.6 MARKETING (with consent)
+- Send promotional communications
+- Personalize offers
+- Cross-sell and upsell products
+
+================================================================================
+                    4. LEGAL BASIS FOR PROCESSING
+================================================================================
+
+We process your personal data on the following legal bases:
+
+| Purpose               | Legal Basis                                      |
+|-----------------------|--------------------------------------------------|
+| Loan processing       | Contract performance                             |
+| KYC/AML compliance    | Legal obligation                                 |
+| Credit bureau report  | Legal obligation                                 |
+| Fraud prevention      | Legitimate interest                              |
+| Marketing             | Consent                                          |
+| Analytics             | Legitimate interest                              |
+
+================================================================================
+                    5. DATA SHARING
+================================================================================
+
+5.1 We may share your data with:
+
+| Recipient             | Purpose                          | Safeguards        |
+|-----------------------|----------------------------------|-------------------|
+| Credit Bureaus        | Credit reporting                 | RBI regulated     |
+| Banking Partners      | Co-lending, verification         | Contractual       |
+| KYC Providers         | Identity verification            | Contractual, ISO  |
+| Payment Processors    | Payment processing               | PCI-DSS compliant |
+| Collection Agencies   | Recovery (if defaulted)          | Contractual, FPC  |
+| Cloud Providers       | Data hosting                     | SOC 2, ISO 27001  |
+| Analytics Providers   | Business analytics               | Contractual       |
+| Auditors              | Statutory audit                  | Professional duty |
+| Regulators            | Regulatory compliance            | Legal requirement |
+| Legal Counsel         | Legal matters                    | Privilege         |
+
+5.2 We do NOT:
+- Sell your personal data to third parties
+- Share your data for their independent marketing
+- Transfer data outside India without your consent and adequate safeguards
+
+================================================================================
+                    6. DATA RETENTION
+================================================================================
+
+We retain your data for the following periods:
+
+| Data Type             | Retention Period                                 |
+|-----------------------|--------------------------------------------------|
+| KYC Documents         | 5 years after relationship ends                  |
+| Loan Records          | 8 years after loan closure                       |
+| Transaction Records   | 8 years from transaction date                    |
+| Credit Bureau Data    | As per credit bureau norms                       |
+| Communications        | 5 years                                          |
+| Marketing Consents    | Until withdrawn                                  |
+| Unsuccessful Apps     | 1 year from rejection                            |
+
+After the retention period, data is securely deleted or anonymized.
+
+================================================================================
+                    7. DATA SECURITY
+================================================================================
+
+We implement appropriate technical and organizational measures:
+
+7.1 TECHNICAL MEASURES
+- Encryption at rest (AES-256) and in transit (TLS 1.2+)
+- Multi-factor authentication
+- Access controls and audit logs
+- Intrusion detection systems
+- Regular security testing and audits
+- Data loss prevention tools
+
+7.2 ORGANIZATIONAL MEASURES
+- Information security policy
+- Employee background verification
+- Regular security training
+- Incident response procedures
+- Vendor security assessments
+
+7.3 CERTIFICATIONS
+- ISO 27001:2013 (In Progress)
+- SOC 2 Type II (Planned)
+- PCI-DSS compliant payment processing
+
+================================================================================
+                    8. YOUR RIGHTS
+================================================================================
+
+Under applicable laws, you have the following rights:
+
+| Right                 | Description                                      |
+|-----------------------|--------------------------------------------------|
+| Access                | Request copy of your personal data               |
+| Correction            | Request correction of inaccurate data            |
+| Erasure               | Request deletion (subject to legal retention)    |
+| Portability           | Receive data in machine-readable format          |
+| Withdraw Consent      | Withdraw consent for optional processing         |
+| Object                | Object to processing based on legitimate interest|
+| Restrict              | Request restriction of processing                |
+| Nominate              | Nominate person to exercise rights after death   |
+
+To exercise your rights, contact: privacy@smartfinance.in
+
+We will respond within 30 days.
+
+Note: Some requests may be refused if they conflict with legal obligations
+(e.g., data required for RBI compliance cannot be deleted).
+
+================================================================================
+                    9. COOKIES AND TRACKING
+================================================================================
+
+9.1 COOKIES WE USE
+
+| Type                  | Purpose                          | Duration          |
+|-----------------------|----------------------------------|-------------------|
+| Essential             | Site functionality               | Session           |
+| Authentication        | Keep you logged in               | 30 days           |
+| Analytics             | Usage analytics                  | 2 years           |
+| Marketing             | Ad targeting (with consent)      | 1 year            |
+
+9.2 MANAGING COOKIES
+You can manage cookies through your browser settings. Disabling essential
+cookies may affect site functionality.
+
+================================================================================
+                    10. THIRD-PARTY LINKS
+================================================================================
+
+Our services may contain links to third-party websites. We are not responsible
+for their privacy practices. Please review their privacy policies.
+
+================================================================================
+                    11. CHILDREN'S PRIVACY
+================================================================================
+
+Our services are not intended for individuals under 18 years. We do not
+knowingly collect data from children. If we become aware of such collection,
+we will delete the data.
+
+================================================================================
+                    12. CHANGES TO THIS POLICY
+================================================================================
+
+We may update this Privacy Policy from time to time. We will notify you of
+material changes via email or in-app notification. Continued use after
+changes constitutes acceptance.
+
+================================================================================
+                    13. CONTACT US
+================================================================================
+
+For privacy-related queries or to exercise your rights:
+
+Data Protection Officer: Ms. Priya Sharma
+Email: privacy@smartfinance.in
+Phone: 1800-123-4567
+Address: 15th Floor, Tower B, One BKC, Bandra Kurla Complex, Mumbai - 400051
+
+Grievance Officer: Mr. Amit Shah
+Email: grievance@smartfinance.in
+Phone: +91 22 6789 0124
+
+For complaints not resolved within 30 days, you may approach the Data
+Protection Board of India (once established) or RBI Ombudsman for Digital
+Complaints.
+
+================================================================================
+                    14. CONSENT
+================================================================================
+
+By using our services, you acknowledge that you have read and understood this
+Privacy Policy and consent to the collection, use, and disclosure of your
+personal data as described herein.
+
+For optional processing (marketing, analytics), we will obtain your explicit
+consent through our App or website.
+
+================================================================================
+
+                    END OF PRIVACY POLICY
+
+================================================================================

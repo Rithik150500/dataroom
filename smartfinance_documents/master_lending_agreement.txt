@@ -1,0 +1,408 @@
+================================================================================
+                    MASTER LENDING AGREEMENT
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+
+               [Standard Loan Agreement Template]
+================================================================================
+
+                    LOAN AGREEMENT
+
+This Loan Agreement ("Agreement") is entered into on this _____ day of
+_________, 20__
+
+BETWEEN:
+
+SMARTFINANCE INDIA LIMITED, a company incorporated under the Companies Act,
+2013, having its registered office at 15th Floor, Tower B, One BKC, Bandra
+Kurla Complex, Mumbai - 400051 (CIN: U65929MH2020PLC345678), RBI Registration
+No. N-13.02216, hereinafter referred to as the "Lender"
+(which expression shall include its successors and assigns)
+
+                              AND
+
+Mr./Ms./M/s. _______________________, residing at / having its registered
+office at _________________________________, PAN: ____________,
+hereinafter referred to as the "Borrower"
+(which expression shall include his/her/its heirs, executors, administrators,
+legal representatives, successors and permitted assigns)
+
+The Lender and Borrower are individually referred to as "Party" and
+collectively as "Parties".
+
+================================================================================
+                         RECITALS
+================================================================================
+
+WHEREAS:
+
+A. The Lender is a Non-Banking Financial Company registered with the Reserve
+   Bank of India and engaged in the business of providing loans and financial
+   services through digital platforms.
+
+B. The Borrower has approached the Lender for a loan facility and has submitted
+   an application along with required documents.
+
+C. The Lender, based on its credit assessment, has agreed to provide a loan
+   facility to the Borrower on the terms and conditions set out herein.
+
+NOW THEREFORE, in consideration of the mutual covenants and agreements herein,
+the Parties agree as follows:
+
+================================================================================
+                    1. DEFINITIONS
+================================================================================
+
+1.1 "Applicable Laws" means all applicable laws, rules, regulations, guidelines,
+    directions issued by RBI, and any other regulatory authority.
+
+1.2 "Borrower Account" means the bank account of the Borrower designated for
+    disbursement and repayment of the Loan.
+
+1.3 "Business Day" means a day on which banks are open for business in Mumbai.
+
+1.4 "Default" means any event of default as specified in Clause 10.
+
+1.5 "Disbursement Date" means the date on which the Loan amount is credited
+    to the Borrower Account.
+
+1.6 "EMI" means Equated Monthly Installment comprising principal and interest.
+
+1.7 "Interest Rate" means the rate of interest applicable to the Loan as
+    specified in the Schedule.
+
+1.8 "Loan" means the principal amount sanctioned and disbursed to the Borrower.
+
+1.9 "Loan Schedule" means the schedule containing loan details attached hereto.
+
+1.10 "Maturity Date" means the date on which the last EMI is due.
+
+1.11 "Outstanding Amount" means the aggregate of principal, interest, fees,
+     charges, and other amounts payable by the Borrower.
+
+1.12 "Penal Charges" means charges payable for delay in payment of EMI.
+
+1.13 "Prepayment" means payment of Outstanding Amount before Maturity Date.
+
+================================================================================
+                    2. LOAN DETAILS
+================================================================================
+
+The details of the Loan shall be as specified in the Loan Schedule, including:
+
+| Parameter                  | Details                    |
+|----------------------------|----------------------------|
+| Loan Amount                | ₹_____________             |
+| Interest Rate              | ___% p.a.                  |
+| Interest Type              | Reducing Balance           |
+| Processing Fee             | ___% of Loan Amount        |
+| Loan Tenure                | ___ months                 |
+| EMI Amount                 | ₹_____________             |
+| EMI Due Date               | ___ of each month          |
+| Disbursement Mode          | Direct to Bank Account     |
+| Repayment Mode             | NACH / E-mandate           |
+
+================================================================================
+                    3. DISBURSEMENT
+================================================================================
+
+3.1 The Lender shall disburse the Loan amount to the Borrower Account after:
+    (a) Execution of this Agreement
+    (b) Completion of KYC verification
+    (c) Registration of E-NACH mandate
+    (d) Payment of processing fee
+    (e) Fulfillment of any other conditions
+
+3.2 The Lender may disburse the Loan in one or more tranches.
+
+3.3 The Borrower shall utilize the Loan only for the purpose declared in the
+    loan application.
+
+================================================================================
+                    4. INTEREST AND CHARGES
+================================================================================
+
+4.1 INTEREST CALCULATION
+    Interest shall be calculated on reducing balance method from the
+    Disbursement Date until full repayment.
+
+4.2 PROCESSING FEE
+    A non-refundable processing fee as specified in the Schedule shall be
+    deducted from the Loan amount at disbursement.
+
+4.3 PENAL CHARGES
+    In case of delay in payment of EMI, penal charges at the rate specified
+    in the Schedule shall be levied on the overdue amount.
+
+4.4 OTHER CHARGES
+    | Charge Type              | Amount                     |
+    |--------------------------|----------------------------|
+    | Bounce Charges           | ₹500 per bounce            |
+    | Prepayment Charges       | As per Schedule            |
+    | Document Retrieval       | ₹500 per request           |
+    | Duplicate Statement      | ₹100 per statement         |
+    | GST                      | As applicable              |
+
+4.5 INTEREST RATE REVISION
+    The Lender reserves the right to revise the Interest Rate with 30 days'
+    prior notice to the Borrower. The revised rate shall apply from the next
+    EMI due date.
+
+================================================================================
+                    5. REPAYMENT
+================================================================================
+
+5.1 The Borrower shall repay the Loan by way of EMIs as per the repayment
+    schedule provided.
+
+5.2 EMIs shall be auto-debited from the Borrower Account on the due date
+    through E-NACH mandate.
+
+5.3 In case of insufficient balance in the Borrower Account, the Borrower
+    shall ensure payment through other modes within 3 days.
+
+5.4 Payments shall be appropriated in the following order:
+    (a) Charges and fees
+    (b) Penal charges
+    (c) Interest
+    (d) Principal
+
+5.5 PREPAYMENT
+    The Borrower may prepay the Outstanding Amount subject to:
+    (a) Minimum 3 EMIs paid
+    (b) Prepayment charges as per Schedule
+    (c) Prior notice of 7 days
+    (d) Full prepayment only (no part prepayment)
+
+================================================================================
+                    6. REPRESENTATIONS AND WARRANTIES
+================================================================================
+
+The Borrower represents and warrants that:
+
+6.1 All information provided in the loan application is true and complete.
+
+6.2 The Borrower has full capacity and authority to enter into this Agreement.
+
+6.3 The Borrower is not insolvent or subject to any insolvency proceedings.
+
+6.4 There is no litigation or dispute that may affect the Borrower's ability
+    to repay the Loan.
+
+6.5 The Borrower has not defaulted on any loan or credit facility.
+
+6.6 The Borrower shall use the Loan for lawful purposes only.
+
+6.7 All documents submitted are genuine and not forged or fabricated.
+
+================================================================================
+                    7. BORROWER'S COVENANTS
+================================================================================
+
+The Borrower covenants and agrees to:
+
+7.1 Maintain sufficient balance in the Borrower Account for EMI deduction.
+
+7.2 Inform the Lender immediately of any change in contact details, employment,
+    or financial condition.
+
+7.3 Not create any charge or encumbrance on assets without Lender's consent.
+
+7.4 Cooperate with the Lender for recovery proceedings if required.
+
+7.5 Provide additional documents or information as requested by the Lender.
+
+7.6 Not assign or transfer obligations under this Agreement.
+
+7.7 Comply with all Applicable Laws.
+
+================================================================================
+                    8. LENDER'S RIGHTS
+================================================================================
+
+The Lender shall have the right to:
+
+8.1 Verify the Borrower's information through credit bureaus and other sources.
+
+8.2 Report the Borrower's credit history to credit information companies.
+
+8.3 Assign or transfer its rights under this Agreement to any third party.
+
+8.4 Engage third-party agencies for collection and recovery.
+
+8.5 Modify terms of the Loan with prior notice to the Borrower.
+
+8.6 Accelerate the Loan and demand immediate repayment upon Default.
+
+================================================================================
+                    9. DATA PRIVACY AND CONSENT
+================================================================================
+
+9.1 The Borrower consents to collection, processing, and use of personal data
+    for loan processing, servicing, and related purposes.
+
+9.2 The Borrower authorizes the Lender to:
+    (a) Access credit information from credit bureaus
+    (b) Share data with RBI and regulatory authorities
+    (c) Share data with collection agencies and legal counsel
+    (d) Use data for marketing of financial products
+
+9.3 The Lender shall protect the Borrower's data in accordance with its
+    Privacy Policy and applicable data protection laws.
+
+================================================================================
+                    10. EVENTS OF DEFAULT
+================================================================================
+
+The following shall constitute Events of Default:
+
+10.1 Non-payment of EMI or any amount due for more than 7 days.
+
+10.2 Breach of any representation, warranty, or covenant.
+
+10.3 Providing false or misleading information.
+
+10.4 Borrower becoming insolvent or filing for bankruptcy.
+
+10.5 Death or incapacity of the Borrower (for individuals).
+
+10.6 Any adverse material change in the Borrower's financial condition.
+
+10.7 Non-cooperation in recovery proceedings.
+
+10.8 Cross-default on any other loan or credit facility.
+
+================================================================================
+                    11. CONSEQUENCES OF DEFAULT
+================================================================================
+
+Upon occurrence of an Event of Default, the Lender may:
+
+11.1 Declare the entire Outstanding Amount immediately due and payable.
+
+11.2 Charge penal interest on the Outstanding Amount.
+
+11.3 Report the default to credit information companies.
+
+11.4 Initiate legal proceedings for recovery.
+
+11.5 Engage recovery agents to collect the Outstanding Amount.
+
+11.6 Exercise any other remedy available under law.
+
+================================================================================
+                    12. GRIEVANCE REDRESSAL
+================================================================================
+
+12.1 For any complaint, the Borrower may contact:
+
+     Grievance Redressal Officer: Mr. Amit Shah
+     Email: grievance@smartfinance.in
+     Phone: 1800-123-4567 (Toll-free)
+     Address: 15th Floor, Tower B, One BKC, Mumbai - 400051
+
+12.2 Complaints shall be resolved within 30 days of receipt.
+
+12.3 If not satisfied, the Borrower may approach:
+     - RBI Ombudsman for Digital Complaints
+     - Banking Ombudsman (for NBFC complaints)
+
+================================================================================
+                    13. MISCELLANEOUS
+================================================================================
+
+13.1 NOTICES
+     All notices shall be sent to the addresses mentioned in this Agreement
+     and shall be deemed delivered upon receipt.
+
+13.2 WAIVER
+     No waiver of any breach shall constitute waiver of any other breach.
+
+13.3 SEVERABILITY
+     If any provision is held invalid, other provisions shall remain in force.
+
+13.4 ENTIRE AGREEMENT
+     This Agreement constitutes the entire agreement between the Parties.
+
+13.5 AMENDMENT
+     This Agreement may be amended only by written instrument signed by both
+     Parties.
+
+13.6 GOVERNING LAW AND JURISDICTION
+     This Agreement shall be governed by laws of India. Courts in Mumbai shall
+     have exclusive jurisdiction.
+
+================================================================================
+                    14. ACKNOWLEDGMENTS
+================================================================================
+
+The Borrower acknowledges that:
+
+14.1 The Borrower has read and understood all terms of this Agreement.
+
+14.2 The Key Fact Statement containing loan details has been provided.
+
+14.3 The Borrower has received the loan sanction letter.
+
+14.4 The Borrower is aware of the total cost of borrowing.
+
+14.5 The Borrower has been informed of the grievance redressal mechanism.
+
+================================================================================
+                    SIGNATURES
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date first
+written above.
+
+For SMARTFINANCE INDIA LIMITED
+
+
+Sd/-
+___________________________
+Authorized Signatory
+Name:
+Designation:
+
+BORROWER
+
+
+Sd/-
+___________________________
+Name:
+PAN:
+Address:
+
+WITNESSES:
+
+1. Signature: _______________ Name: _______________ Address: _______________
+
+2. Signature: _______________ Name: _______________ Address: _______________
+
+================================================================================
+                    LOAN SCHEDULE
+================================================================================
+
+| Parameter                  | Details                    |
+|----------------------------|----------------------------|
+| Loan Agreement No.         |                            |
+| Borrower Name              |                            |
+| Borrower PAN               |                            |
+| Loan Amount                | ₹                          |
+| Disbursement Date          |                            |
+| Interest Rate              | % p.a. (Reducing Balance)  |
+| Tenure                     | months                     |
+| EMI Amount                 | ₹                          |
+| Total Interest Payable     | ₹                          |
+| Processing Fee             | % (₹                    )  |
+| EMI Start Date             |                            |
+| EMI End Date               |                            |
+| Bank Account No.           |                            |
+| Bank Name                  |                            |
+| IFSC Code                  |                            |
+
+================================================================================
+
+                       END OF MASTER LENDING AGREEMENT
+
+================================================================================

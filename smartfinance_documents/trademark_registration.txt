@@ -1,0 +1,242 @@
+================================================================================
+                TRADEMARK REGISTRATION CERTIFICATES
+                            OF
+                SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+              TRADEMARK REGISTRATION CERTIFICATE
+                      CLASS 36 - PRIMARY
+================================================================================
+
+                    GOVERNMENT OF INDIA
+              TRADE MARKS REGISTRY, MUMBAI
+
+--------------------------------------------------------------------------------
+
+                CERTIFICATE OF REGISTRATION
+
+This is to certify that the Trade Mark shown herein has been registered in the
+name of the proprietor mentioned below in accordance with the provisions of the
+Trade Marks Act, 1999.
+
+--------------------------------------------------------------------------------
+
+| Field                      | Details                                      |
+|----------------------------|----------------------------------------------|
+| Application Number         | 4567890                                      |
+| Registration Number        | 4567890                                      |
+| Class                      | 36                                           |
+| Filing Date                | August 1, 2020                               |
+| Registration Date          | February 15, 2021                            |
+| Valid Until                | August 1, 2030                               |
+| Renewal Due                | August 1, 2030                               |
+
+--------------------------------------------------------------------------------
+
+PROPRIETOR:
+
+SmartFinance India Limited
+15th Floor, Tower B, One BKC,
+Bandra Kurla Complex,
+Mumbai - 400051, Maharashtra
+
+--------------------------------------------------------------------------------
+
+TRADE MARK:
+
+                    [SMARTFINANCE Logo]
+
+     (Word mark with device - stylized "SF" monogram with "SmartFinance"
+      wordmark in proprietary typeface)
+
+--------------------------------------------------------------------------------
+
+GOODS/SERVICES:
+
+Class 36: Financial affairs; monetary affairs; insurance services; banking
+services; financial lending services; consumer lending services; personal
+loan services; business loan services; digital lending platform services;
+loan origination and servicing; credit assessment services; debt collection
+services; financial technology services; mobile payment services; electronic
+fund transfer services; bill payment services.
+
+--------------------------------------------------------------------------------
+
+                                        Sd/-
+                                        ___________________________
+                                        REGISTRAR OF TRADE MARKS
+                                        Mumbai
+
+================================================================================
+              TRADEMARK REGISTRATION CERTIFICATE
+                      CLASS 9 - SOFTWARE
+================================================================================
+
+| Field                      | Details                                      |
+|----------------------------|----------------------------------------------|
+| Application Number         | 4567891                                      |
+| Registration Number        | 4567891                                      |
+| Class                      | 9                                            |
+| Filing Date                | August 1, 2020                               |
+| Registration Date          | March 10, 2021                               |
+| Valid Until                | August 1, 2030                               |
+
+GOODS/SERVICES:
+
+Class 9: Computer software; mobile applications; downloadable software for
+financial transactions; software for credit scoring and risk assessment;
+software for loan management; application programming interfaces (API)
+software; database management software; data processing software; software
+for electronic payment processing.
+
+Status: REGISTERED
+
+================================================================================
+              TRADEMARK REGISTRATION CERTIFICATE
+                      CLASS 42 - TECHNOLOGY
+================================================================================
+
+| Field                      | Details                                      |
+|----------------------------|----------------------------------------------|
+| Application Number         | 4567892                                      |
+| Registration Number        | 4567892                                      |
+| Class                      | 42                                           |
+| Filing Date                | August 1, 2020                               |
+| Registration Date          | April 5, 2021                                |
+| Valid Until                | August 1, 2030                               |
+
+GOODS/SERVICES:
+
+Class 42: Software as a service (SaaS) featuring software for financial
+services; platform as a service (PaaS) featuring computer software platforms
+for lending; design and development of computer software; software development;
+technological services relating to financial technology; data analytics
+services; cloud computing services; software maintenance services.
+
+Status: REGISTERED
+
+================================================================================
+              TRADEMARK APPLICATION - CLASS 35
+                      (PENDING REGISTRATION)
+================================================================================
+
+| Field                      | Details                                      |
+|----------------------------|----------------------------------------------|
+| Application Number         | 5678901                                      |
+| Class                      | 35                                           |
+| Filing Date                | January 15, 2024                             |
+| Status                     | Under Examination                            |
+
+GOODS/SERVICES:
+
+Class 35: Business management services; business information services;
+customer relationship management; data processing services; business
+consulting services for financial technology companies.
+
+Current Status: Examination report received; response filed on June 1, 2024.
+
+================================================================================
+              TRADEMARK APPLICATION - CLASS 36
+                      (UNDER OPPOSITION)
+================================================================================
+
+| Field                      | Details                                      |
+|----------------------------|----------------------------------------------|
+| Application Number         | 5678902                                      |
+| Class                      | 36                                           |
+| Filing Date                | March 1, 2024                                |
+| Status                     | Under Opposition                             |
+
+TRADE MARK: "SMARTCREDIT" (Word Mark)
+
+Opposition Details:
+- Opposition Number: OPP/1234567
+- Opponent: SmartCredit Technologies Pvt Ltd
+- Opposition Filed: September 15, 2024
+- Counter Statement Filed: October 15, 2024
+- Evidence Stage: In Progress
+- Expected Resolution: Q1 2025
+
+================================================================================
+                    TRADEMARK PORTFOLIO SUMMARY
+================================================================================
+
+| Reg/App No. | Mark            | Class | Status      | Valid Until |
+|-------------|-----------------|-------|-------------|-------------|
+| 4567890     | SMARTFINANCE    | 36    | Registered  | Aug 2030    |
+| 4567891     | SMARTFINANCE    | 9     | Registered  | Aug 2030    |
+| 4567892     | SMARTFINANCE    | 42    | Registered  | Aug 2030    |
+| 5678901     | SMARTFINANCE    | 35    | Pending     | -           |
+| 5678902     | SMARTCREDIT     | 36    | Opposition  | -           |
+| 5678903     | SF (Device)     | 36    | Pending     | -           |
+
+================================================================================
+                    DOMAIN NAME PORTFOLIO
+================================================================================
+
+| Domain Name              | Registrar      | Expiry Date  | Auto-Renew |
+|--------------------------|----------------|--------------|------------|
+| smartfinance.in          | GoDaddy        | Jun 10, 2025 | Yes        |
+| smartfinanceindia.com    | GoDaddy        | Jun 10, 2025 | Yes        |
+| getsmartfinance.in       | GoDaddy        | Jun 10, 2025 | Yes        |
+| smartfinance.co.in       | GoDaddy        | Jun 10, 2025 | Yes        |
+| smartfinanceapp.com      | Namecheap      | Aug 1, 2025  | Yes        |
+
+Defensive Registrations:
+| smartfinanceloan.in      | GoDaddy        | Jun 10, 2025 | Yes        |
+| smartfinancecredit.in    | GoDaddy        | Jun 10, 2025 | Yes        |
+
+================================================================================
+                    INTELLECTUAL PROPERTY SUMMARY
+================================================================================
+
+PATENTS:
+- No patents filed or registered
+- Trade secrets approach preferred for algorithms and models
+
+COPYRIGHTS:
+- Software code - inherent copyright protection
+- No separate registration filed
+- Work-for-hire provisions in employment agreements
+
+TRADE SECRETS:
+- Credit scoring algorithm (SmartScore)
+- Risk assessment models
+- Fraud detection rules
+- Collection optimization algorithms
+- Customer segmentation models
+
+Protection Measures:
+- Employee and contractor NDAs
+- Access controls and audit logs
+- Encryption of sensitive data
+- Restricted access to source code
+
+================================================================================
+                    IP MAINTENANCE CALENDAR
+================================================================================
+
+| Date          | Action                              | Mark/Domain         |
+|---------------|-------------------------------------|---------------------|
+| Aug 1, 2030   | Trademark renewal - Class 36        | SMARTFINANCE        |
+| Aug 1, 2030   | Trademark renewal - Class 9         | SMARTFINANCE        |
+| Aug 1, 2030   | Trademark renewal - Class 42        | SMARTFINANCE        |
+| Jun 10, 2025  | Domain renewal - all .in domains    | Multiple            |
+| Q1 2025       | Opposition resolution expected      | SMARTCREDIT         |
+
+================================================================================
+                    IP COUNSEL
+================================================================================
+
+Trademark Attorney: Anand and Anand
+Contact: Ms. Archana Shanker
+Address: B-41, Nizamuddin East, New Delhi - 110013
+Email: archana@anandandanand.com
+Phone: +91 11 4050 1000
+
+================================================================================
+
+                    END OF TRADEMARK REGISTRATION
+
+================================================================================

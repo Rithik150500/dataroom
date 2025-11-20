@@ -1,0 +1,279 @@
+================================================================================
+            AUDITED FINANCIAL STATEMENTS
+                    OF
+          SMARTFINANCE INDIA LIMITED
+              FOR FY 2023-24
+================================================================================
+
+================================================================================
+            INDEPENDENT AUDITOR'S REPORT
+================================================================================
+
+To the Members of SmartFinance India Limited
+
+REPORT ON THE AUDIT OF THE FINANCIAL STATEMENTS
+
+Opinion
+
+We have audited the accompanying financial statements of SmartFinance India
+Limited ("the Company"), which comprise the Balance Sheet as at March 31, 2024,
+the Statement of Profit and Loss, the Statement of Changes in Equity and the
+Statement of Cash Flows for the year then ended, and notes to the financial
+statements, including a summary of significant accounting policies and other
+explanatory information.
+
+In our opinion and to the best of our information and according to the
+explanations given to us, the aforesaid financial statements give the
+information required by the Companies Act, 2013 in the manner so required
+and give a true and fair view in conformity with the Indian Accounting
+Standards prescribed under Section 133 of the Act read with the Companies
+(Indian Accounting Standards) Rules, 2015, as amended ("Ind AS"), and other
+accounting principles generally accepted in India, of the state of affairs
+of the Company as at March 31, 2024, and its profit, changes in equity and
+its cash flows for the year ended on that date.
+
+Basis for Opinion
+
+We conducted our audit in accordance with the Standards on Auditing (SAs)
+specified under Section 143(10) of the Companies Act, 2013. Our responsibilities
+under those Standards are further described in the Auditor's Responsibilities
+section of our report. We are independent of the Company in accordance with
+the Code of Ethics issued by ICAI. We believe that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our opinion.
+
+Key Audit Matters
+
+| Key Audit Matter                | How our audit addressed the key audit matter|
+|---------------------------------|---------------------------------------------|
+| Expected Credit Loss Provision  | - Tested design and operating effectiveness |
+| The Company has loan receivables| of controls over ECL computation             |
+| of ₹215.42 Cr as at March 31,   | - Evaluated appropriateness of ECL model    |
+| 2024. ECL provision requires    | - Tested mathematical accuracy              |
+| significant judgment on PD, LGD,| - Assessed forward-looking information      |
+| EAD, and forward-looking info.  | - Compared with peer benchmarks             |
+|---------------------------------|---------------------------------------------|
+| Revenue Recognition             | - Tested IT controls over loan systems      |
+| Interest income of ₹32.18 Cr    | - Recalculated interest on sample basis     |
+| requires accurate computation   | - Verified loan agreements and rates        |
+| using effective interest rate   | - Tested processing fee amortization        |
+| method.                         |                                             |
+
+For Walker Chandiok & Co. LLP
+Chartered Accountants
+Firm Registration No.: 001076N/N500013
+
+Sd/-
+CA Neeraj Goel
+Partner
+Membership No.: 099514
+
+Place: Mumbai
+Date: May 28, 2024
+UDIN: 24099514XXXXXX
+
+================================================================================
+            BALANCE SHEET AS AT MARCH 31, 2024
+================================================================================
+
+(All amounts in ₹ Lakhs unless otherwise stated)
+
+                                            As at          As at
+                                        31-Mar-2024    31-Mar-2023
+--------------------------------------------------------------------------------
+
+ASSETS
+
+Financial Assets
+  Cash and cash equivalents                 2,845.32       1,654.21
+  Bank balances other than above            3,125.67       1,876.45
+  Loans                                    21,542.18      12,876.54
+  Investments                                 425.00         350.00
+  Other financial assets                      312.45         187.32
+                                          ----------     ----------
+  Total Financial Assets                   28,250.62      16,944.52
+                                          ----------     ----------
+
+Non-Financial Assets
+  Current tax assets (net)                    125.67          87.45
+  Deferred tax assets (net)                   234.56         167.89
+  Property, plant and equipment               312.78         245.67
+  Right-of-use assets                         567.89         612.34
+  Intangible assets                           456.78         378.45
+  Other non-financial assets                  178.90         134.56
+                                          ----------     ----------
+  Total Non-Financial Assets                1,876.58       1,626.36
+                                          ----------     ----------
+
+TOTAL ASSETS                               30,127.20      18,570.88
+                                          ==========     ==========
+
+LIABILITIES AND EQUITY
+
+LIABILITIES
+
+Financial Liabilities
+  Borrowings                               16,234.56       8,765.43
+  Lease liabilities                           598.76         634.21
+  Other financial liabilities                 678.90         456.78
+                                          ----------     ----------
+  Total Financial Liabilities              17,512.22       9,856.42
+                                          ----------     ----------
+
+Non-Financial Liabilities
+  Current tax liabilities (net)               145.67          78.90
+  Provisions                                  234.56         167.89
+  Other non-financial liabilities             312.45         234.56
+                                          ----------     ----------
+  Total Non-Financial Liabilities             692.68         481.35
+                                          ----------     ----------
+
+TOTAL LIABILITIES                          18,204.90      10,337.77
+                                          ----------     ----------
+
+EQUITY
+  Equity share capital                        365.00         365.00
+  Other equity                             11,557.30       7,868.11
+                                          ----------     ----------
+TOTAL EQUITY                               11,922.30       8,233.11
+                                          ----------     ----------
+
+TOTAL LIABILITIES AND EQUITY               30,127.20      18,570.88
+                                          ==========     ==========
+
+================================================================================
+        STATEMENT OF PROFIT AND LOSS FOR FY 2023-24
+================================================================================
+
+(All amounts in ₹ Lakhs unless otherwise stated)
+
+                                        Year ended     Year ended
+                                        31-Mar-2024    31-Mar-2023
+--------------------------------------------------------------------------------
+
+REVENUE FROM OPERATIONS
+
+Interest income                            3,218.45       1,876.54
+Fees and commission income                   567.89         345.67
+Net gain on fair value changes                45.67          23.45
+                                          ----------     ----------
+Total Revenue from Operations              3,832.01       2,245.66
+                                          ----------     ----------
+
+Other income                                  78.90          56.78
+                                          ----------     ----------
+Total Income                               3,910.91       2,302.44
+                                          ----------     ----------
+
+EXPENSES
+
+Finance costs                              1,234.56         678.90
+Impairment on financial instruments          456.78         312.45
+Employee benefit expenses                    876.54         567.89
+Depreciation and amortization                234.56         198.76
+Other expenses                               567.89         398.67
+                                          ----------     ----------
+Total Expenses                             3,370.33       2,156.67
+                                          ----------     ----------
+
+Profit before tax                            540.58         145.77
+                                          ----------     ----------
+
+Tax expense:
+  Current tax                                156.78          45.67
+  Deferred tax                               (66.67)        (23.45)
+                                          ----------     ----------
+Total tax expense                             90.11          22.22
+                                          ----------     ----------
+
+Profit for the year                          450.47         123.55
+                                          ==========     ==========
+
+Other comprehensive income
+  Items not reclassified to P&L               12.34           8.76
+  Tax on above                                (3.10)         (2.20)
+                                          ----------     ----------
+Total other comprehensive income               9.24           6.56
+                                          ----------     ----------
+
+Total comprehensive income for year          459.71         130.11
+                                          ==========     ==========
+
+Earnings per share (Face value ₹10)
+  Basic (₹)                                   12.34           3.38
+  Diluted (₹)                                 10.87           2.98
+
+================================================================================
+            KEY FINANCIAL RATIOS
+================================================================================
+
+| Ratio                              | FY 2023-24 | FY 2022-23 | Change   |
+|------------------------------------|------------|------------|----------|
+| Capital Adequacy Ratio             | 22.5%      | 21.8%      | +0.7%    |
+| Tier I Capital Ratio               | 21.2%      | 20.5%      | +0.7%    |
+| Net Interest Margin                | 8.2%       | 7.8%       | +0.4%    |
+| Return on Assets (ROA)             | 1.85%      | 0.95%      | +0.90%   |
+| Return on Equity (ROE)             | 4.5%       | 1.6%       | +2.9%    |
+| Gross NPA Ratio                    | 3.2%       | 3.8%       | -0.6%    |
+| Net NPA Ratio                      | 1.8%       | 2.2%       | -0.4%    |
+| Provision Coverage Ratio           | 68%        | 62%        | +6%      |
+| Cost to Income Ratio               | 52%        | 58%        | -6%      |
+| Debt to Equity Ratio               | 1.36       | 1.07       | +0.29    |
+
+================================================================================
+            LOAN BOOK ANALYSIS
+================================================================================
+
+ASSET CLASSIFICATION (As at March 31, 2024)
+
+| Category                    | Amount (₹ Lakhs) | % of Book | ECL (₹ Lakhs) |
+|-----------------------------|------------------|-----------|---------------|
+| Stage 1 (Performing)        | 19,876.45        | 92.3%     | 198.76        |
+| Stage 2 (Under-performing)  | 1,234.56         | 5.7%      | 123.46        |
+| Stage 3 (Non-performing)    | 431.17           | 2.0%      | 258.70        |
+|-----------------------------|------------------|-----------|---------------|
+| Total                       | 21,542.18        | 100.0%    | 580.92        |
+
+PRODUCT-WISE BREAK-UP
+
+| Product                     | Amount (₹ Lakhs) | % of Book | Avg. Yield    |
+|-----------------------------|------------------|-----------|---------------|
+| Personal Loans              | 15,234.56        | 70.7%     | 18.5%         |
+| Business Loans              | 4,567.89         | 21.2%     | 19.2%         |
+| Consumer Durable Loans      | 1,739.73         | 8.1%      | 16.8%         |
+|-----------------------------|------------------|-----------|---------------|
+| Total                       | 21,542.18        | 100.0%    | 18.3%         |
+
+================================================================================
+            RELATED PARTY TRANSACTIONS
+================================================================================
+
+| Party Name              | Relationship    | Nature           | Amount (₹ L) |
+|-------------------------|-----------------|------------------|--------------|
+| VM Consulting LLP       | Founder related | Consultancy fees | 12.00        |
+| TechBuild Solutions     | Director related| Software license | 8.50         |
+| Matrix Partners India   | Investor        | Management fees  | 25.00        |
+|-------------------------|-----------------|------------------|--------------|
+| Total                   |                 |                  | 45.50        |
+
+All related party transactions are at arm's length and approved by Audit
+Committee.
+
+================================================================================
+            AUDITOR INFORMATION
+================================================================================
+
+| Field                    | Details                                      |
+|--------------------------|----------------------------------------------|
+| Statutory Auditor        | Walker Chandiok & Co. LLP                    |
+| Firm Registration        | 001076N/N500013                              |
+| Partner                  | CA Neeraj Goel                               |
+| Membership Number        | 099514                                       |
+| Address                  | 21st Floor, DLF Square, Gurgaon              |
+| Audit Fee for FY24       | ₹18.00 Lakhs + GST                           |
+| Tax Audit Fee            | ₹3.00 Lakhs + GST                            |
+
+================================================================================
+
+                    END OF AUDITED FINANCIAL STATEMENTS
+
+================================================================================

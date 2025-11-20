@@ -1,0 +1,500 @@
+================================================================================
+            HR POLICIES AND EMPLOYEE HANDBOOK
+                        OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+                    VERSION 3.0
+              Effective: April 1, 2024
+
+================================================================================
+                TABLE OF CONTENTS
+================================================================================
+
+1.  INTRODUCTION AND COMPANY VALUES
+2.  EMPLOYMENT POLICIES
+3.  COMPENSATION AND BENEFITS
+4.  LEAVE POLICY
+5.  WORK FROM HOME POLICY
+6.  CODE OF CONDUCT
+7.  ANTI-HARASSMENT POLICY (POSH)
+8.  INFORMATION SECURITY POLICY
+9.  GRIEVANCE REDRESSAL
+10. DISCIPLINARY POLICY
+11. SEPARATION POLICY
+
+================================================================================
+            1. INTRODUCTION AND COMPANY VALUES
+================================================================================
+
+ABOUT SMARTFINANCE
+
+SmartFinance India Limited is a technology-driven NBFC committed to making
+credit accessible to underserved segments through innovative digital solutions.
+
+MISSION
+To democratize access to credit through technology and data-driven decision
+making.
+
+VISION
+To be India's most trusted digital lending platform.
+
+CORE VALUES
+
+1. CUSTOMER FIRST
+   - We exist to serve our customers
+   - We treat customers fairly and transparently
+   - We protect customer data and privacy
+
+2. INTEGRITY
+   - We are honest and ethical in all dealings
+   - We comply with all laws and regulations
+   - We do what is right, not what is easy
+
+3. INNOVATION
+   - We embrace technology and new ideas
+   - We continuously improve our products
+   - We encourage experimentation and learning
+
+4. COLLABORATION
+   - We work as one team
+   - We respect diverse perspectives
+   - We communicate openly and transparently
+
+5. EXCELLENCE
+   - We strive for the highest quality
+   - We hold ourselves accountable
+   - We celebrate success and learn from failure
+
+================================================================================
+            2. EMPLOYMENT POLICIES
+================================================================================
+
+2.1 EQUAL OPPORTUNITY
+
+SmartFinance is an equal opportunity employer. We do not discriminate on
+the basis of:
+- Race, caste, religion, or ethnicity
+- Gender or sexual orientation
+- Age
+- Disability
+- Marital status
+- Political affiliation
+
+2.2 HIRING PROCESS
+
+- All positions posted internally and externally
+- Structured interview process
+- Background verification mandatory
+- Offer letters issued by HR
+
+2.3 PROBATION
+
+- 6 months for all employees
+- Review at 3 months and 6 months
+- Extension up to 3 months if required
+- Confirmation in writing
+
+2.4 WORKING HOURS
+
+Regular Hours: 9:30 AM to 6:30 PM, Monday to Friday
+Core Hours: 10:30 AM to 5:30 PM
+Flexible timing within core hours permitted
+
+2.5 ATTENDANCE
+
+- Biometric attendance mandatory
+- Regularization within 3 days
+- 3+ late arrivals = 1 leave deduction
+- Unauthorized absence = Leave Without Pay
+
+================================================================================
+            3. COMPENSATION AND BENEFITS
+================================================================================
+
+3.1 SALARY STRUCTURE
+
+- Basic Salary: 40-50% of CTC
+- HRA: 50% of Basic (metro cities)
+- Special Allowance: Variable
+- Statutory: PF, ESI, Gratuity
+
+3.2 PAYROLL
+
+- Pay Date: Last working day of month
+- Payment Mode: Bank transfer
+- Payslip: Available on HRMS portal
+
+3.3 PROVIDENT FUND
+
+- Employee Contribution: 12% of Basic
+- Employer Contribution: 12% of Basic
+- UAN assigned at joining
+- Voluntary PF (VPF) allowed
+
+3.4 HEALTH INSURANCE
+
+Group Mediclaim Policy:
+- Sum Insured: ₹5,00,000
+- Coverage: Employee + Spouse + 2 Children
+- Parents: Optional at employee cost
+- Insurer: HDFC Ergo
+
+Benefits:
+- Cashless hospitalization at network hospitals
+- Pre and post hospitalization
+- Day care procedures
+- Maternity coverage (after 1 year)
+
+3.5 TERM LIFE INSURANCE
+
+- Coverage: 3x Annual CTC
+- Premium paid by Company
+- Beneficiary nomination required
+
+3.6 EMPLOYEE STOCK OPTIONS (ESOP)
+
+Eligibility:
+- Confirmed employees
+- Minimum 1 year of service
+- Performance rating of 3+ out of 5
+
+Vesting Schedule:
+- 25% after 1 year (cliff)
+- 25% after 2 years
+- 25% after 3 years
+- 25% after 4 years
+
+Exercise Period: 10 years from grant
+
+3.7 PERFORMANCE BONUS
+
+- Based on individual and company performance
+- Paid annually in April
+- Range: 0-30% of annual CTC
+- Discretionary; not guaranteed
+
+3.8 SALARY REVISION
+
+- Annual appraisal cycle: January-March
+- Effective: April 1
+- Based on performance rating, market data, and affordability
+
+================================================================================
+            4. LEAVE POLICY
+================================================================================
+
+4.1 LEAVE ENTITLEMENT (Per Calendar Year)
+
+| Leave Type          | Days | Carry Forward | Encashment     |
+|---------------------|------|---------------|----------------|
+| Earned Leave (EL)   | 18   | Up to 30 days | Yes (on exit)  |
+| Sick Leave (SL)     | 12   | No            | No             |
+| Casual Leave (CL)   | 6    | No            | No             |
+
+4.2 SPECIAL LEAVES
+
+| Leave Type          | Duration        | Applicability           |
+|---------------------|-----------------|-------------------------|
+| Maternity Leave     | 26 weeks        | As per Maternity Act    |
+| Paternity Leave     | 5 days          | Within 1 month of birth |
+| Marriage Leave      | 3 days          | Once during employment  |
+| Bereavement Leave   | 3 days          | Immediate family        |
+| Adoption Leave      | 12 weeks        | For legal adoption      |
+| Comp Off            | As accrued      | For weekend work        |
+
+4.3 PUBLIC HOLIDAYS
+
+12 public holidays per year as announced. List published in January.
+
+4.4 LEAVE RULES
+
+- Prior approval required (except emergencies)
+- Apply through HRMS
+- Manager approval mandatory
+- Medical certificate for SL > 2 days
+- EL cannot be clubbed with SL without medical certificate
+- Leave Without Pay (LWP) only with HR approval
+
+================================================================================
+            5. WORK FROM HOME POLICY
+================================================================================
+
+5.1 ELIGIBILITY
+
+- Confirmed employees
+- Roles suitable for remote work
+- Prior manager approval
+
+5.2 WFH ALLOWANCE
+
+- Regular WFH: Nil
+- Hybrid model: 3 days office, 2 days WFH
+
+5.3 EXPECTATIONS
+
+- Available during working hours
+- Respond to communications promptly
+- Attend virtual meetings with camera on
+- Maintain productivity standards
+- Ensure secure network connection
+- Protect confidential information
+
+5.4 EQUIPMENT
+
+- Laptop provided by Company
+- Additional equipment at employee cost
+- Ergonomic setup responsibility of employee
+
+================================================================================
+            6. CODE OF CONDUCT
+================================================================================
+
+6.1 PROFESSIONAL BEHAVIOR
+
+- Treat colleagues with respect
+- Maintain professional communication
+- Dress appropriately
+- Be punctual for meetings
+- Meet deadlines and commitments
+
+6.2 CONFLICTS OF INTEREST
+
+Employees must avoid and disclose:
+- Financial interest in competitors or vendors
+- Outside employment
+- Family members working in competing organizations
+- Acceptance of gifts beyond ₹2,000
+
+6.3 ANTI-BRIBERY AND CORRUPTION
+
+Strictly prohibited:
+- Offering or accepting bribes
+- Facilitating payments
+- Inappropriate gifts to government officials
+- Any form of kickback
+
+6.4 FAIR LENDING PRACTICES
+
+- Treat all borrowers fairly
+- Transparent disclosure of terms
+- No mis-selling or coercion
+- Follow RBI Fair Practice Code
+- Protect customer data
+
+6.5 SOCIAL MEDIA
+
+- No sharing of confidential information
+- Distinguish personal views from Company views
+- No negative comments about Company
+- Prior approval for speaking on behalf of Company
+
+================================================================================
+            7. PREVENTION OF SEXUAL HARASSMENT (POSH)
+================================================================================
+
+7.1 POLICY
+
+SmartFinance has zero tolerance for sexual harassment. This policy is in
+compliance with the Sexual Harassment of Women at Workplace (Prevention,
+Prohibition and Redressal) Act, 2013.
+
+7.2 DEFINITION
+
+Sexual harassment includes:
+- Physical contact and advances
+- Demand or request for sexual favors
+- Sexually colored remarks
+- Showing pornography
+- Any other unwelcome physical, verbal or non-verbal conduct of sexual nature
+
+7.3 INTERNAL COMMITTEE (IC)
+
+Presiding Officer: Ms. Priya Sharma (Company Secretary)
+Members:
+- Ms. Neha Gupta (Head HR)
+- Mr. Aditya Jain (Chief Risk Officer)
+- External Member: Adv. Kavita Menon (Women's Rights Advocate)
+
+7.4 COMPLAINT PROCESS
+
+1. Written complaint to IC within 3 months
+2. IC inquiry within 90 days
+3. Confidentiality maintained
+4. No retaliation against complainant
+5. Appropriate action based on findings
+
+7.5 CONSEQUENCES
+
+Depending on severity:
+- Warning
+- Suspension
+- Termination
+- Legal action
+
+================================================================================
+            8. INFORMATION SECURITY POLICY
+================================================================================
+
+8.1 DATA CLASSIFICATION
+
+- Public: May be shared externally
+- Internal: Company-wide access
+- Confidential: Need-to-know basis
+- Restricted: Highly sensitive (e.g., customer PII)
+
+8.2 ACCESS CONTROLS
+
+- Role-based access
+- Strong passwords required
+- Multi-factor authentication
+- Access review quarterly
+
+8.3 ACCEPTABLE USE
+
+- Company systems for business use only
+- No unauthorized software installation
+- No copying data to personal devices
+- Report security incidents immediately
+
+8.4 CUSTOMER DATA
+
+- Access only as required for job
+- No sharing without authorization
+- Encryption for transmission
+- Secure disposal when no longer needed
+
+8.5 INCIDENT REPORTING
+
+Report immediately to: security@smartfinance.in
+Contact: IT Security Team - Ext. 500
+
+================================================================================
+            9. GRIEVANCE REDRESSAL
+================================================================================
+
+9.1 SCOPE
+
+This policy covers grievances related to:
+- Working conditions
+- Compensation and benefits
+- Interpersonal issues
+- Policy implementation
+- Any other work-related concern
+
+9.2 PROCESS
+
+Level 1: Immediate Manager (Resolution within 7 days)
+Level 2: Department Head (Resolution within 7 days)
+Level 3: HR (Resolution within 14 days)
+Level 4: Grievance Committee (Resolution within 14 days)
+
+9.3 GRIEVANCE COMMITTEE
+
+Chair: CEO
+Members: CHRO, CFO, Legal Head
+
+9.4 PRINCIPLES
+
+- Confidentiality
+- No retaliation
+- Fair hearing
+- Timely resolution
+
+================================================================================
+            10. DISCIPLINARY POLICY
+================================================================================
+
+10.1 MISCONDUCT
+
+Minor Misconduct:
+- Repeated late coming
+- Unauthorized absence
+- Violation of dress code
+- Minor insubordination
+
+Major Misconduct:
+- Fraud or dishonesty
+- Theft or misappropriation
+- Harassment or violence
+- Gross negligence
+- Violation of confidentiality
+- Substance abuse at work
+- Willful damage to property
+
+10.2 DISCIPLINARY ACTIONS
+
+| Level    | Action                          | Authority        |
+|----------|----------------------------------|------------------|
+| Level 1  | Verbal warning                   | Manager          |
+| Level 2  | Written warning                  | Manager + HR     |
+| Level 3  | Final warning                    | HR Head          |
+| Level 4  | Suspension / Demotion            | CEO              |
+| Level 5  | Termination                      | CEO              |
+
+10.3 PROCESS
+
+1. Investigation by HR
+2. Show cause notice to employee
+3. Employee response
+4. Hearing if required
+5. Decision communicated in writing
+6. Appeal to Grievance Committee
+
+================================================================================
+            11. SEPARATION POLICY
+================================================================================
+
+11.1 TYPES OF SEPARATION
+
+- Resignation
+- Termination
+- Retirement (60 years)
+- Abandonment of service
+- Death
+
+11.2 NOTICE PERIOD
+
+| Category              | Notice Period |
+|-----------------------|---------------|
+| Probation             | 15 days       |
+| Confirmed - Junior    | 30 days       |
+| Confirmed - Mid       | 60 days       |
+| Confirmed - Senior    | 90 days       |
+
+11.3 EXIT PROCESS
+
+1. Resignation letter to manager (copy to HR)
+2. Acceptance and last working day confirmation
+3. Knowledge transfer and handover
+4. Exit interview with HR
+5. Clearance from all departments
+6. Return of Company property
+7. Full and final settlement (within 45 days)
+
+11.4 FULL AND FINAL SETTLEMENT
+
+Payable:
+- Salary for days worked
+- Leave encashment
+- Bonus (pro-rata)
+- Reimbursements
+
+Recoverable:
+- Notice period shortfall
+- Loans / advances
+- Training bond (if applicable)
+- Unreturned property
+
+================================================================================
+
+This handbook is not an employment contract. The Company reserves the right
+to modify these policies at any time.
+
+For questions, contact: hr@smartfinance.in
+
+================================================================================
+
+                    END OF HR POLICIES HANDBOOK
+
+================================================================================
