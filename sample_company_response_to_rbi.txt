@@ -1,0 +1,618 @@
+FINSERVE CAPITAL LIMITED
+CIN: U65990MH2015PLC264789
+RBI Registration No.: N-14.03268
+402, Sunshine Tower, Nariman Point, Mumbai - 400021
+
+Date: September 25, 2023
+
+To,
+Chief General Manager
+Department of Non-Banking Supervision
+Reserve Bank of India
+BKC, Mumbai - 400051
+
+Ref: RBI/DNBS/2023/Inspection/3456 dated July 15, 2023
+
+Dear Sir,
+
+Subject: Action Taken Report on RBI On-Site Inspection Observations
+
+We acknowledge receipt of your letter dated July 15, 2023 containing observations from the on-site inspection conducted with reference to our position as on March 31, 2023.
+
+The Board of Directors of the Company met on September 15, 2023 to review all the observations raised by the Reserve Bank of India. The Board has taken serious note of the observations and has directed the management to implement immediate corrective measures.
+
+We submit below our detailed Action Taken Report addressing each observation:
+
+---
+
+OBSERVATION 1: ASSET CLASSIFICATION - EVERGREENING CONCERNS
+
+ACTION TAKEN:
+
+The Board acknowledges the seriousness of this observation and deeply regrets the classification errors. We wish to clarify that these instances occurred due to inadequate system-level controls and not due to any deliberate intent to misrepresent asset quality. Nonetheless, we have taken immediate and comprehensive corrective action as detailed below.
+
+(a) Reclassification and Provisioning: All 8 identified accounts aggregating Rs. 4.2 Crores have been immediately reclassified as Non-Performing Assets with effect from the date of grant of the additional facility. Standard provisioning as per RBI norms has been made as follows:
+    - Sub-Standard Assets (4 accounts): Rs. 63 lakhs provisioned at 15%
+    - Doubtful Assets - Category D1 (3 accounts): Rs. 84 lakhs provisioned at 25%  
+    - Doubtful Assets - Category D2 (1 account): Rs. 40 lakhs provisioned at 40%
+    Total Additional Provision: Rs. 1.87 Crores
+
+(b) Portfolio Review: An independent review of the entire loan portfolio for the last 2 financial years (FY 2021-22 and FY 2022-23) has been conducted by our internal audit team under supervision of the external auditors. This review identified 3 additional cases (aggregating Rs. 1.8 Crores) where similar concerns existed. These have also been reclassified as NPA and appropriate provisions of Rs. 48 lakhs have been made.
+
+(c) System-Level Controls: We have implemented the following system controls in our core lending platform:
+    - Automatic red-flag alert when any fresh sanction is proposed for a borrower with any overdue amount (even Day 1 overdue)
+    - Mandatory approval from Credit Risk Committee for any additional facility to customers with overdues beyond 30 days
+    - System restriction preventing disbursement of fresh loans if any adjustment to overdue interest is proposed
+    - Monthly MIS report to MD and CRO listing all fresh sanctions to borrowers with any overdue history in preceding 120 days
+
+(d) Credit Risk Framework Enhancement: The Board has approved revised Credit Risk Management Policy incorporating the following:
+    - Clear prohibition on "evergreening" practices with illustrative examples
+    - Strengthened delegation of powers requiring two-level approval for exceptions
+    - Mandatory training for all credit staff on asset classification norms (completed for all staff on August 30, 2023)
+    - Quarterly certificate from Head of Credit to Board confirming no evergreening practices
+
+(e) Auditor Certificate: We enclose Certificate dated September 20, 2023 from our Statutory Auditors M/s. ABC & Associates confirming the reclassification of 11 accounts (8 + 3 additional) aggregating Rs. 6.0 Crores and provisioning of Rs. 2.35 Crores.
+
+IMPACT ON FINANCIALS:
+- Revised Gross NPA as on March 31, 2023: 11.2% (previously reported: 9.3%)
+- Revised Net NPA as on March 31, 2023: 6.4% (previously reported: 5.1%)
+- Impact on Profit After Tax: Reduction of Rs. 2.35 Crores (revised PAT: Rs. 13.87 Crores vs. reported Rs. 16.22 Crores)
+
+The revised financial position has been disclosed to all lenders and rating agencies. Our rating agency CRISIL has reaffirmed the rating at A- / Stable after considering the revised financials, noting the proactive corrective action taken.
+
+STATUS: FULLY COMPLIED
+
+---
+
+OBSERVATION 2: CAPITAL ADEQUACY - TIER II CAPITAL COMPUTATION
+
+ACTION TAKEN:
+
+The Board accepts that the subordinated debt of Rs. 5 Crores raised from Connect Finance Pvt Ltd (where two of our directors hold interests) should not have been included in Tier II Capital without express RBI approval for related party capital.
+
+(a) Exclusion from Tier II: Rs. 5 Crores has been immediately excluded from Tier II Capital computation. The revised CRAR computations are as follows:
+
+Position as on March 31, 2023 (Restated):
+- Tier I Capital: Rs. 131 Crores
+- Tier II Capital: Rs. 15 Crores (reduced from Rs. 20 Crores)
+- Total Capital: Rs. 146 Crores
+- Risk Weighted Assets: Rs. 819 Crores
+- CRAR: 17.8% (Tier I: 16.0%, Tier II: 1.8%)
+
+While the CRAR remains comfortable above the minimum 15% requirement, we acknowledge the material misstatement in our original computation.
+
+(b) Revised Returns: We have recomputed CRAR for Q4 FY 2022-23, Q1 FY 2023-24, Q2 FY 2023-24, and Q3 FY 2023-24 and filed revised NBS-8 Returns with the Reserve Bank. The restated CRAR for these quarters ranges from 17.8% to 18.5%, all comfortably above the minimum requirement.
+
+(c) Board Policy on Capital from Related Parties: The Board has approved a comprehensive policy on "Capital Raising from Related Parties" which mandates:
+    - Any capital raised from parties where directors or key management hold more than 10% interest shall not be treated as regulatory capital unless prior RBI approval is obtained
+    - All capital-raising proposals must be accompanied by a declaration on related party status
+    - Compliance Officer to certify that proposed capital qualifies as regulatory capital before finalization
+    - Annual declaration from all potential capital providers on their relationship with the company and its directors
+
+(d) Future Compliance: Going forward, we will seek prior clarification from RBI before including any capital from connected parties in our regulatory capital computation.
+
+CORRECTIVE ACTION FOR THE Rs. 5 CRORES:
+We have repaid Rs. 5 Crores to Connect Finance Pvt Ltd on August 31, 2023 and have raised fresh subordinated debt of Rs. 5 Crores from HDFC Bank Ltd (an unrelated party) on September 10, 2023, which now qualifies as Tier II Capital. Documentation enclosed.
+
+STATUS: FULLY COMPLIED
+
+---
+
+OBSERVATION 3: EXPOSURE NORMS - DOCUMENTATION GAPS
+
+ACTION TAKEN:
+
+(a) Comprehensive Relationship Review: We have conducted a detailed review of all borrowers to identify connected parties using the following parameters:
+    - Common promoters/directors (through MCA searches)
+    - Cross-guarantees or pledges
+    - Common registered addresses
+    - Interlocking investments
+    - Common management or key personnel
+    - Financial interdependence (evidenced by fund flows)
+
+This review covered our entire loan book of 2,847 borrowers. We identified 37 cases of connected borrowers which have now been classified into 14 distinct borrower groups.
+
+(b) Documentation: For each identified group, we have prepared detailed documentation including:
+    - MCA filings showing common directors/shareholders
+    - Copies of cross-guarantees/pledges
+    - Fund flow analysis establishing financial interconnection
+    - Legal opinion on whether entities constitute a "group" for exposure norm purposes
+
+For the specific case of Mehta Industries group mentioned in the observation (Rs. 38 Crores exposure), we have now documented that all three entities (Mehta Industries Pvt Ltd, Mehta Trading Co Pvt Ltd, and Mehta Logistics Ltd) have:
+    - Common promoter Mr. Rajesh Mehta holding 75%, 82%, and 68% respectively
+    - Registered at the same office address
+    - Cross-guarantees provided by Mr. Rajesh Mehta for all three entities
+    - Significant inter-company transactions evidenced by their financial statements
+
+(c) System Enhancement: We have created a "Connected Parties Register" in our lending system where all identified relationships are recorded. The system now automatically flags any new loan application from an entity connected to an existing borrower.
+
+(d) Credit Approval Process: The credit approval format has been revised to include a mandatory section on "Connected Parties and Group Exposure" which must be completed before any credit approval. Any exposure that takes the combined group exposure beyond 30% of NOF requires approval from the full Board.
+
+(e) Exposure Monitoring: We have implemented monthly monitoring of top 20 single borrower exposures and top 20 group exposures, which is now reported to the Risk Management Committee.
+
+CURRENT COMPLIANCE STATUS:
+After regrouping connected entities, our exposure norms compliance is as follows:
+- Largest single exposure: Rs. 32 Crores (22.5% of NOF of Rs. 142 Crores) - Within limit of 25%
+- Largest group exposure: Rs. 38 Crores (26.8% of NOF) - Within limit of 40%
+- All other exposures well within prescribed limits
+
+Documentation report and legal opinion enclosed.
+
+STATUS: FULLY COMPLIED
+
+---
+
+OBSERVATION 4: KYC/AML COMPLIANCE - PERIODIC UPDATION
+
+ACTION TAKEN:
+
+(a) Immediate KYC Updation: For all 12 cases identified in the sample (and proportionately, approximately 700 cases across the portfolio based on extrapolation), we have initiated immediate KYC updation. As of September 22, 2023, KYC updation has been completed for 584 accounts. The remaining 116 accounts where customers have not yet responded are being actively pursued, with target completion by October 15, 2023.
+
+(b) System-Driven Alerts: We have implemented automated KYC renewal reminders in our CRM system as follows:
+    - For high-risk customers: Alert 45 days before 2-year expiry
+    - For medium-risk customers: Alert 60 days before 8-year expiry
+    - For low-risk customers: Alert 90 days before 10-year expiry
+    - Escalation to branch manager if KYC not renewed within 30 days of due date
+    - Automatic restriction on processing any new loan/enhancement if KYC expired
+
+(c) Portfolio Review: A complete portfolio review has been conducted. The status is as follows:
+    - Total accounts: 2,847
+    - KYC up-to-date: 2,131 accounts (74.9%)
+    - KYC updation in progress: 716 accounts (25.1%)
+    - Target completion: October 15, 2023
+
+(d) Staff Training: Comprehensive training on KYC norms has been conducted for all operations staff (conducted on August 15-16, 2023). The training covered:
+    - RBI's Master Direction on KYC
+    - Risk categorization of customers
+    - Periodic updation requirements
+    - Documentation requirements
+    - Red flags for suspicious transactions
+
+(e) Board Oversight: Going forward, the Audit Committee will receive a quarterly KYC Compliance Report covering:
+    - Percentage of portfolio with up-to-date KYC
+    - Number of accounts where KYC is overdue
+    - Action plan and timeline for completing overdue KYCs
+    - Any systemic issues identified
+
+We enclose the KYC Compliance Dashboard as of September 22, 2023 showing account-wise status. We also enclose the Standard Operating Procedure on KYC Updation approved by the Board.
+
+STATUS: SUBSTANTIAL COMPLIANCE (Expected full compliance by Oct 15, 2023)
+
+---
+
+OBSERVATION 5: FAIR PRACTICES CODE - INTEREST RATE COMMUNICATION
+
+ACTION TAKEN:
+
+(a) Revised Loan Documentation: We have completely revised our loan agreement format for vehicle finance (and all other products) to include clear disclosure of:
+    - Stated interest rate (e.g., 12% per annum reducing balance)
+    - Processing fees (e.g., 2% of loan amount)
+    - Any other upfront charges
+    - Effective Interest Rate (EIR) or Annual Percentage Rate (APR) that captures the true cost of credit
+    - Worked example showing the calculation of EIR
+
+For example, for a loan of Rs. 5 lakhs at 12% interest with 2% processing fee (Rs. 10,000), the EIR is disclosed as 13.2% (approximately).
+
+(b) Amortization Schedule: All loan agreements now include a detailed amortization schedule showing:
+    - EMI number (Month 1 to Month 60)
+    - Opening Principal Outstanding
+    - EMI Amount
+    - Interest Component
+    - Principal Component
+    - Closing Principal Outstanding
+
+This gives complete transparency to customers on how their EMI is allocated between principal and interest over the loan tenure.
+
+(c) Marketing Material Review: All marketing brochures, website content, and advertisements have been reviewed and updated to reflect effective interest rates. Where space constraints prevent showing calculations, we now include a footnote directing customers to visit our branch or website for full cost disclosure.
+
+(d) Sales Staff Training: Training programs have been conducted for all sales and customer-facing staff (completed on August 25-28, 2023) on:
+    - Fair Practices Code requirements
+    - Transparent communication of charges
+    - Prohibition on misleading advertisements
+    - Handling customer queries on pricing
+    - Grievance redressal mechanism
+
+(e) Customer Communication: For all existing customers (loans originated before the documentation change), we have sent a letter explaining the effective interest rate on their loans and providing the detailed amortization schedule. This exercise was completed for all customers as of September 1, 2023.
+
+Sample revised loan documents and marketing materials enclosed for your review.
+
+STATUS: FULLY COMPLIED
+
+---
+
+OBSERVATION 6: RISK MANAGEMENT - CONCENTRATION RISK
+
+ACTION TAKEN:
+
+(a) Enhanced Stress Testing: Our stress testing framework has been completely revamped to include specific concentration risk scenarios including:
+    - Maharashtra-specific stress: 15% increase in NPAs in Maharashtra portfolio, impacting P&L by Rs. 3.2 Crores
+    - Two-wheeler segment stress: 20% increase in NPAs in two-wheeler finance, impacting P&L by Rs. 2.1 Crores
+    - Combined stress scenario: Simultaneous stress in both concentrated segments
+    - Impact on capital adequacy under each scenario
+
+The stress testing now covers baseline, moderate stress, and severe stress scenarios and is presented to the Risk Management Committee quarterly.
+
+(b) Internal Concentration Limits: The Board has approved the following internal prudential limits:
+    - No single state to exceed 40% of total loan book (Maharashtra currently at 38% - limit breached, corrective plan below)
+    - No single product to exceed 40% of total loan book (Vehicle finance at 35% - within limit)
+    - No single sub-product to exceed 20% of total loan book (Two-wheeler at 19% - within limit but under watch)
+
+These limits are now monitored monthly and reported to the Risk Management Committee.
+
+(c) Diversification Strategy: The Board has approved a 3-year diversification strategy (FY 2023-24 to FY 2025-26) to address concentration risks:
+
+GEOGRAPHIC DIVERSIFICATION:
+- Enter Rajasthan and Madhya Pradesh markets in FY 2024-25 (3 branches each)
+- Target Maharashtra portfolio to reduce to 32% by March 2026
+- Increase presence in Karnataka (currently 22%) and Gujarat (currently 18%)
+
+PRODUCT DIVERSIFICATION:
+- Launch gold loan product in FY 2024-25 (Target: 10% of portfolio by March 2026)
+- Increase ticket sizes in SME segment to reduce number of retail accounts
+- Develop Loan Against Property product for High Net Worth customers
+
+This strategy is expected to reduce concentration risks while maintaining asset quality standards.
+
+(d) Quarterly Reporting: Concentration metrics are now reported to the Risk Management Committee every quarter with the following dashboard:
+    - State-wise concentration (Top 5 states)
+    - Product-wise concentration (All products)
+    - Industry/Sector concentration (For SME loans)
+    - Ticket size concentration (% of portfolio in loans above Rs. 50 lakhs)
+    - Trend analysis over last 8 quarters
+
+Sample stress testing report and diversification strategy document enclosed.
+
+STATUS: FULLY COMPLIED with ongoing monitoring
+
+---
+
+OBSERVATION 7: IT SYSTEMS - AUDIT TRAIL GAPS
+
+ACTION TAKEN:
+
+(a) System Enhancement: We have worked with our core lending system vendor (Nucleus Software) to implement comprehensive audit trail functionality. As of September 5, 2023, the system now captures:
+    - All changes to loan account data (interest rate, tenure, EMI amount, account status)
+    - User ID and timestamp for every change
+    - Before and after values for modified fields
+    - Approval workflow trail showing each approver
+    - IP address and device information of user making the change
+
+(b) Tamper-Proof Logs: The audit logs are now stored in a separate database with restricted access. Only the IT Administrator and External IT Auditor have read-only access to these logs. The logs are configured for 7-year retention (exceeding RBI requirement of 5 years).
+
+(c) Automated Monitoring: We have implemented automated monitoring of critical changes:
+    - Any change in account classification (Standard to NPA or vice versa) triggers an email alert to CFO, CRO, and Internal Auditor
+    - Monthly report of all account classification changes is sent to Audit Committee
+    - Quarterly review of audit logs by Internal Audit team to detect any anomalies
+
+(d) IT Audit: We have engaged M/s. CyberSec Auditors LLP (CERT-In empanelled auditor) to conduct a comprehensive IT systems audit. The audit commenced on September 11, 2023 and covers:
+    - Review of application-level controls
+    - Database security and access controls
+    - Audit trail completeness and integrity
+    - Disaster recovery and backup procedures
+    - Cyber security posture
+
+The IT audit report is expected by November 10, 2023 and will be submitted to RBI upon receipt.
+
+(e) Internal Audit Scope: The quarterly internal audit scope has been expanded to include review of system audit trails. A sample of transactions is selected each quarter and the audit trail is verified for completeness.
+
+System configuration document showing audit trail implementation enclosed. Draft IT audit scope and timelines also enclosed.
+
+STATUS: SUBSTANTIAL COMPLIANCE (IT Audit report pending, expected by Nov 10, 2023)
+
+---
+
+OBSERVATION 8: BOARD GOVERNANCE - FREQUENCY OF RISK COMMITTEE MEETINGS
+
+ACTION TAKEN:
+
+(a) Meeting Frequency Policy: The Board has amended the Terms of Reference of the Risk Management Committee to mandate at least 4 meetings per year (quarterly). The meeting schedule for FY 2023-24 has been finalized:
+    - Q1 Meeting: Already held on July 20, 2023
+    - Q2 Meeting: Scheduled for October 18, 2023
+    - Q3 Meeting: Scheduled for January 17, 2024
+    - Q4 Meeting: Scheduled for April 16, 2024
+
+(b) Comprehensive Agenda: A standard agenda template has been developed for Risk Management Committee meetings covering:
+    - Credit risk metrics (NPA levels, concentration risks, exposure norms compliance)
+    - Operational risk events and losses
+    - Liquidity and ALM position
+    - Compliance risk (Regulatory violations, if any)
+    - Market risk (Interest rate risk, forex risk if any)
+    - Technology risk and cyber security
+    - Risk dashboard and key risk indicators (KRIs)
+    - Review of risk policies
+    - Findings of risk-based audits
+
+(c) Quality of Discussions: The minutes of Risk Management Committee meetings will now reflect not just the topics discussed but also:
+    - Key issues or concerns raised by members
+    - Management's response or action plan
+    - Specific decisions taken by the Committee
+    - Timeline for follow-up actions
+
+(d) Risk Management Committee Composition: Current composition is:
+    - Chairperson: Mr. Anil Kumar (Independent Director with risk management background)
+    - Member: Ms. Shalini Desai (Independent Director)
+    - Member: Mr. Rahul Sharma (Whole-time Director & MD)
+    - Permanent Invitee: Mr. Vikram Joshi (Chief Risk Officer)
+
+The Committee has requisite expertise and independence to provide effective risk oversight.
+
+Minutes of Risk Management Committee meeting held on July 20, 2023 enclosed as sample.
+
+STATUS: FULLY COMPLIED
+
+---
+
+OBSERVATION 9: PROVISIONING POLICY - SPECIFIC PROVISION ADEQUACY
+
+ACTION TAKEN:
+
+(a) Fresh Valuations: We have obtained fresh valuations for all 47 NPA accounts secured by mortgage of property where the last valuation was more than 18 months old. The valuation exercise was completed by September 15, 2023 using empanelled valuers registered with banks/financial institutions.
+
+(b) Additional Provisions: Based on the fresh valuations, we have identified that in 8 cases, the net realizable value (NRV) after applying a haircut of 25% is lower than the outstanding amount net of standard provisions. Accordingly, additional specific provisions totaling Rs. 42 lakhs have been made in these 8 accounts.
+
+The breakup is as follows:
+- Account 1: Outstanding Rs. 85 lakhs, NRV Rs. 55 lakhs, Additional provision: Rs. 8 lakhs
+- Account 2: Outstanding Rs. 62 lakhs, NRV Rs. 45 lakhs, Additional provision: Rs. 5 lakhs
+- [Similar details for remaining 6 accounts]
+
+(c) Valuation Policy: The Board has approved a comprehensive "Collateral Valuation and Revaluation Policy" which mandates:
+    - Fresh valuation for all property-secured loans at origination (already being done)
+    - Revaluation when account becomes NPA (within 90 days of classification)
+    - Subsequent revaluation every 18 months for all NPA accounts secured by property
+    - Valuation to be done by empanelled valuers only
+    - Two independent valuations for properties valued above Rs. 1 Crore
+    - Adequate provisions to be made if NRV falls below outstanding dues
+
+(d) Haircut Methodology: The policy prescribes the following haircuts on valuation for computing Net Realizable Value:
+    - Residential property: 20% haircut
+    - Commercial property: 25% haircut  
+    - Industrial property: 30% haircut
+    - Agricultural land: 35% haircut
+
+(e) Quarterly Review: Going forward, the CFO will place before the Audit Committee a quarterly report on adequacy of provisions in property-secured NPA accounts, based on latest available valuations and prescribed haircuts.
+
+List of properties revalued with valuer reports, and details of additional provisions made enclosed.
+
+STATUS: FULLY COMPLIED
+
+---
+
+OBSERVATION 10: CUSTOMER GRIEVANCE REDRESSAL - TURNAROUND TIME
+
+ACTION TAKEN:
+
+(a) Internal Benchmarks: The Board has approved revised "Customer Grievance Redressal Policy" setting the following benchmarks:
+    - Simple grievances (account statement, interest certificate etc.): Resolution within 3 working days
+    - Medium complexity grievances (EMI adjustment, prepayment issues): Resolution within 7 working days
+    - Complex grievances (disputed charges, legal matters): Resolution within 15 working days
+    - Target: 90% of all grievances to be resolved within benchmark timelines
+
+(b) Escalation Matrix: A clear escalation matrix has been established:
+    - Level 1: Branch Manager (Day 0-7)
+    - Level 2: Regional Manager (Day 8-14)
+    - Level 3: Nodal Officer (Day 15-21)
+    - Level 4: Internal Ombudsman (Day 22 onwards)
+
+(c) Grievance Tracking System: We have implemented an online grievance tracking system where:
+    - Every complaint gets a unique ticket number
+    - Customer can track status online
+    - Automated reminders to responsible officer if complaint pending beyond benchmark
+    - SMS/Email to customer on status updates and resolution
+
+(d) Root Cause Analysis: We have conducted root cause analysis of complaints received in FY 2022-23. The analysis revealed:
+    - 35% complaints related to processing delays (Action: Strengthened operations team)
+    - 28% complaints related to charges not communicated properly (Action: Enhanced transparency in documentation - already addressed in Observation 5)
+    - 22% complaints related to collections behavior (Action: Retrained collections team on conduct standards)
+    - 15% others (EMI bounce, prepayment, foreclosure related)
+
+Systemic issues have been addressed through process improvements and staff training.
+
+(e) Board Reporting: Starting from Q2 FY 2023-24, the Board receives a quarterly report on grievances covering:
+    - Number of grievances received (category-wise)
+    - Average turnaround time
+    - Percentage resolved within benchmark
+    - Complaints escalated to RBI Ombudsman (if any)
+    - Root cause analysis and corrective actions
+
+For Q1 FY 2023-24 (after implementing new system), we have achieved:
+- Total complaints: 18
+- Average resolution time: 9 days (improved from 22 days)
+- 83% resolved within benchmark timelines (target 90%)
+
+Sample grievance register and Board report format enclosed.
+
+STATUS: FULLY COMPLIED
+
+---
+
+OBSERVATION 11: TREASURY OPERATIONS - UNHEDGED INTEREST RATE RISK
+
+ACTION TAKEN:
+
+(a) Sensitivity Analysis: We have conducted detailed sensitivity analysis to quantify the impact of interest rate changes on our Net Interest Margin (NIM) and profitability. The analysis covers the following scenarios:
+
+BASE CASE (Current interest rate environment):
+- Average lending rate: 14.5% per annum
+- Average borrowing cost: 9.2% per annum
+- Spread: 5.3%
+- Net Interest Margin: 7.2%
+
+SCENARIO 1: Interest rates increase by 100 basis points
+- Lending rate remains 14.5% (portfolio is 75% fixed-rate)
+- Borrowing cost increases to 9.6% (40% of borrowings are floating)
+- Spread narrows to 4.9%
+- NIM declines to 6.9%
+- Impact on PAT: Reduction of Rs. 1.2 Crores (7%)
+
+SCENARIO 2: Interest rates increase by 200 basis points
+- Lending rate remains 14.5%
+- Borrowing cost increases to 10.0%
+- Spread narrows to 4.5%
+- NIM declines to 6.5%
+- Impact on PAT: Reduction of Rs. 2.4 Crores (14%)
+
+While the impact is manageable, it does represent a material risk that needs to be managed.
+
+(b) Hedging Strategy: The Board has approved a policy on "Interest Rate Risk Management" which includes:
+    - Target to gradually increase proportion of fixed-rate borrowings from 60% to 70% over next 2 years
+    - Explore use of interest rate swaps to convert floating rate borrowings to fixed rate (currently evaluating with banks)
+    - Price flexibility in loan products to allow interest rate reset in case of significant market movements (subject to customer notification and Fair Practices Code)
+
+(c) Enhanced ALM Policy: The ALM Policy has been revised to include detailed guidelines on interest rate risk management:
+    - Monthly computation of interest rate sensitivity (Duration Gap Analysis)
+    - Limits on interest rate risk: Net impact on NIM should not exceed 50 basis points under a 200 bps rate shock
+    - Quarterly reporting of interest rate risk to ALCO and Board
+
+(d) Interest Rate Risk Monitoring: The Asset-Liability Management Committee (ALCO) now reviews interest rate risk exposure at every monthly meeting. The ALCO comprises:
+    - Chairman: MD & CEO
+    - Members: CFO, Chief Risk Officer, Head of Treasury, Head of Credit
+
+The ALCO has been empowered to take tactical decisions on funding mix to manage interest rate risk within Board-approved policy framework.
+
+Detailed sensitivity analysis report and revised ALM Policy enclosed.
+
+STATUS: FULLY COMPLIED
+
+---
+
+OBSERVATION 12: INTERNAL AUDIT - SCOPE AND FREQUENCY
+
+ACTION TAKEN:
+
+(a) Expanded Scope: The Board has approved a comprehensive expansion of internal audit scope to include:
+    - Risk-based audit of critical processes (credit origination, disbursement, collections, accounting)
+    - Adequacy and effectiveness of internal controls
+    - Compliance with RBI Master Directions and internal policies
+    - System and IT controls (including cyber security)
+    - Management of operational risks
+    - Data integrity and reporting accuracy
+
+The internal audit follows a risk-based approach where high-risk processes are audited quarterly, medium-risk processes half-yearly, and low-risk processes annually.
+
+(b) IT Systems Audit: In addition to the external IT audit mentioned in response to Observation 7, the internal auditor will conduct focused IT audits covering:
+    - Application access controls
+    - Change management procedures
+    - Data backup and recovery
+    - Logical security (user roles, passwords, authentication)
+
+The first internal IT audit was completed in August 2023 and the report has been placed before the Audit Committee.
+
+(c) Audit Committee Oversight: All internal audit reports are presented to the Audit Committee with:
+    - Summary of key findings and risk ratings (High, Medium, Low)
+    - Management comments and action plans
+    - Timeline for implementation of recommendations
+    - Status of previous audit observations
+
+The Audit Committee meets quarterly and rigorously reviews audit findings. The Committee also has the power to seek clarifications from management and set deadlines for issue resolution.
+
+(d) Tracking and Closure: We have implemented a centralized "Audit Observation Tracking System" where:
+    - All observations (internal audit, external audit, RBI inspection) are logged
+    - Responsible officer and target closure date are assigned
+    - Monthly status updates are recorded
+    - Observations remain "open" until satisfactory closure evidence is provided
+    - Monthly report on pending observations goes to MD and Audit Committee
+
+As of September 22, 2023:
+- Total pending observations: 23
+- High priority: 2 (both being addressed, expected closure by Oct 15)
+- Medium priority: 12 (closure within 45-60 days)
+- Low priority: 9 (closure within 90 days)
+
+(e) Internal Auditor Qualifications: Our current internal auditor is a firm of Chartered Accountants with experience in NBFC audits. The firm has 3 dedicated personnel for our audit with mix of audit and domain expertise.
+
+Internal audit charter, risk-based audit plan for FY 2023-24, and sample internal audit reports enclosed.
+
+STATUS: FULLY COMPLIED
+
+---
+
+SUMMARY OF OVERALL COMPLIANCE STATUS:
+
+Out of 12 observations raised:
+- 10 observations: FULLY COMPLIED
+- 2 observations: SUBSTANTIAL COMPLIANCE with expected full compliance by dates indicated
+  * Observation 4 (KYC): Full compliance by October 15, 2023
+  * Observation 7 (IT Audit): Report submission by November 10, 2023
+
+FINANCIAL IMPACT OF COMPLIANCE:
+
+The implementation of corrective actions, particularly for Observations 1, 2, and 9, has resulted in the following financial adjustments:
+
+- Additional Provisioning (Obs 1): Rs. 2.35 Crores
+- Additional Provisioning (Obs 9): Rs. 0.42 Crores
+- Total Provisioning Impact: Rs. 2.77 Crores
+- Impact on PAT for FY 2022-23: Reduction from Rs. 16.22 Crores to Rs. 13.45 Crores (17% reduction)
+
+Revised Key Ratios (FY 2022-23):
+- CRAR: 17.8% (Down from 19.2%, but well above 15% minimum)
+- Gross NPA: 11.2% (Up from 9.3%)
+- Net NPA: 6.4% (Up from 5.1%)
+- ROA: 3.6% (Down from 4.3%)
+- ROE: 10.8% (Down from 13.1%)
+
+While the adjustments have impacted profitability metrics, the Company remains fundamentally sound with adequate capital and healthy liquidity position.
+
+COMMUNICATION TO STAKEHOLDERS:
+
+We have proactively communicated the revised financial position to all our stakeholders:
+- Lenders: Informed all banking partners, obtained reaffirmation of credit lines
+- Rating Agency: CRISIL has reaffirmed rating at A- / Stable, noting the transparent disclosure and prompt corrective action
+- Shareholders: Special notice sent to all shareholders explaining the adjustments
+- Investors: Update provided to our PE investors (who have expressed confidence in management's handling of the matter)
+
+LEARNING AND FUTURE PREVENTION:
+
+This inspection has been an important learning experience for the Company. The Board and management are committed to ensuring that such issues do not recur. We have taken the following structural measures:
+
+1. Strengthened the Risk and Compliance Function:
+   - Hired a dedicated Deputy Chief Risk Officer with prior RBI inspection experience
+   - Increased the compliance team from 3 to 6 members
+   - Allocated additional budget for compliance technology and training
+
+2. Enhanced Board Oversight:
+   - Increased frequency of Audit Committee meetings from quarterly to once every two months
+   - Independent Directors to conduct annual self-assessment of compliance with RBI norms
+   - External consultant to conduct mock RBI inspection annually to identify gaps proactively
+
+3. Culture of Compliance:
+   - Conducted organization-wide training on regulatory compliance and business ethics
+   - Incorporated compliance metrics in performance appraisal of all staff
+   - Instituted "Compliance Champion" awards to recognize exemplary compliance behavior
+
+4. Technology Investments:
+   - Allocated Rs. 50 lakhs for upgrading core lending system with enhanced controls
+   - Implementing AI-based transaction monitoring for early detection of potential violations
+   - Developing comprehensive MIS dashboard for real-time monitoring of all regulatory parameters
+
+CONCLUSION:
+
+We hope this detailed Action Taken Report addresses all the concerns raised by the Reserve Bank of India. We once again regret the lapses identified and assure the Reserve Bank that we have taken this matter with utmost seriousness.
+
+We have implemented immediate corrective measures and have put in place robust systems and processes to prevent recurrence. We remain committed to operating in full compliance with all RBI regulations and maintaining the highest standards of corporate governance and consumer protection.
+
+We request the Reserve Bank to review our Action Taken Report and consider the observations as substantially addressed. We are available for any clarifications or further information that may be required.
+
+We also request the Reserve Bank to conduct a follow-up inspection at a mutually convenient time to verify the implementation of corrective actions.
+
+Thanking you and assuring you of our best services always.
+
+For and on behalf of the Board of Directors
+FINSERVE CAPITAL LIMITED
+
+______________________
+[Digitally Signed]
+Rahul Sharma
+Managing Director & CEO
+DIN: 08765432
+
+Date: September 25, 2023
+Place: Mumbai
+
+Enclosures: 28 documents (List attached separately)
+
+CC:
+1. Chairman, Audit Committee
+2. Chairman, Risk Management Committee
+3. Statutory Auditors - ABC & Associates
+4. Chief Risk Officer
+5. Chief Compliance Officer

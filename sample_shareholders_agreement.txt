@@ -1,0 +1,289 @@
+SHAREHOLDERS AGREEMENT
+
+THIS SHAREHOLDERS AGREEMENT is made on this 15th day of June, 2020
+
+BETWEEN
+
+(1) TECHVENTURE INDIA PRIVATE LIMITED, a company incorporated under the Companies Act, 2013, having its registered office at #42, 3rd Floor, Koramangala 5th Block, Bangalore - 560095, Karnataka (hereinafter referred to as the "Company", which expression shall, unless repugnant to the context or meaning thereof, include its successors and assigns);
+
+AND
+
+(2) MR. RAHUL SHARMA, son of Mr. Vijay Sharma, residing at 123 Palm Grove, Indiranagar, Bangalore - 560038 (hereinafter referred to as "Founder 1");
+
+AND
+
+(3) MS. PRIYA MEHTA, daughter of Mr. Suresh Mehta, residing at 456 Brigade Road, MG Road, Bangalore - 560001 (hereinafter referred to as "Founder 2");
+
+(Founder 1 and Founder 2 are hereinafter collectively referred to as the "Founders" and individually as a "Founder")
+
+AND
+
+(4) BANGALORE ANGELS NETWORK TRUST, acting through its authorized representative, having its office at #88, Residency Road, Bangalore - 560025 (hereinafter referred to as "Investor 1");
+
+AND
+
+(5) MR. ANKIT VERMA, son of Mr. Anil Verma, residing at 789 Whitefield Main Road, Bangalore - 560066 (hereinafter referred to as "Investor 2");
+
+(Investor 1 and Investor 2 are hereinafter collectively referred to as the "Investors" and individually as an "Investor")
+
+The Company, the Founders, and the Investors are hereinafter individually referred to as a "Party" and collectively as the "Parties".
+
+---
+
+WHEREAS:
+
+A. The Company is engaged in the business of developing and providing Software as a Service (SaaS) solutions for enterprise resource management.
+
+B. As of the date of this Agreement, the authorized share capital of the Company is Rs. 50,00,000 (Rupees Fifty Lakhs Only) divided into 50,000 (Fifty Thousand) equity shares of Rs. 100 (Rupees One Hundred) each.
+
+C. The issued, subscribed and paid-up share capital of the Company is Rs. 20,00,000 (Rupees Twenty Lakhs Only) divided into 20,000 (Twenty Thousand) equity shares of Rs. 100 (Rupees One Hundred) each, held as follows:
+   - Founder 1: 12,000 shares (60%)
+   - Founder 2: 8,000 shares (40%)
+
+D. The Investors have agreed to subscribe to 2,500 equity shares of Rs. 100 each at a premium of Rs. 900 per share (total consideration of Rs. 25,00,000) representing 10% of the post-investment equity share capital of the Company.
+
+E. The Parties desire to record the terms and conditions governing their rights and obligations with respect to the Company.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+---
+
+ARTICLE 1: DEFINITIONS AND INTERPRETATION
+
+1.1 Definitions
+Unless the context otherwise requires, the following terms shall have the meanings set forth below:
+
+"Act" means the Companies Act, 2013, as amended from time to time.
+
+"Affiliate" means, with respect to any person, any other person that directly or indirectly controls, is controlled by, or is under common control with such person.
+
+"Board" means the board of directors of the Company.
+
+"Business" means the business of developing, marketing, and selling SaaS-based enterprise software solutions.
+
+"Competing Business" means any business that is directly competitive with the Business of the Company.
+
+"Equity Securities" means equity shares, preference shares, warrants, options, or other securities convertible into or exercisable for equity shares of the Company.
+
+"Fully Diluted Basis" means the total number of equity shares that would be outstanding if all outstanding convertible securities, warrants, options, and other rights to acquire equity shares were exercised or converted.
+
+"Material Adverse Effect" means any event, circumstance, or condition that has a materially adverse effect on the business, operations, assets, liabilities, financial condition, or prospects of the Company.
+
+---
+
+ARTICLE 2: INVESTMENT
+
+2.1 Subscription
+The Investors shall subscribe to 2,500 equity shares of face value Rs. 100 each at a premium of Rs. 900 per share, for an aggregate consideration of Rs. 25,00,000 (Rupees Twenty-Five Lakhs Only).
+
+2.2 Payment
+The Investors shall pay the subscription amount within 7 (seven) days of the execution of this Agreement.
+
+2.3 Allotment
+Upon receipt of the subscription amount, the Company shall allot the equity shares to the Investors within 15 (fifteen) days and file the necessary forms with the Registrar of Companies.
+
+---
+
+ARTICLE 3: REPRESENTATIONS AND WARRANTIES
+
+3.1 Representations by the Company
+The Company represents and warrants that:
+(a) It is duly incorporated and validly existing under the laws of India;
+(b) It has the corporate power and authority to own its assets and carry on its business;
+(c) The execution and performance of this Agreement has been duly authorized;
+(d) There is no litigation, pending or threatened, that would have a Material Adverse Effect;
+(e) The Company owns or has valid licenses for all intellectual property necessary for its business;
+(f) The Company is in compliance with all applicable laws and regulations.
+
+3.2 Representations by the Founders
+Each Founder represents and warrants that:
+(a) They have good and marketable title to their shares, free from any encumbrances;
+(b) They have the capacity to enter into this Agreement;
+(c) All information provided to the Investors is true and accurate.
+
+---
+
+ARTICLE 4: BOARD OF DIRECTORS
+
+4.1 Composition
+The Board shall consist of 5 (five) directors, appointed as follows:
+(a) 2 (two) directors nominated by Founder 1;
+(b) 1 (one) director nominated by Founder 2;
+(c) 1 (one) director nominated by the Investors (if holding at least 5% equity);
+(d) 1 (one) independent director mutually agreed upon by the Founders and Investors.
+
+4.2 Removal and Replacement
+Each appointing party shall have the right to remove and replace the director(s) nominated by them.
+
+4.3 Board Meetings
+The Board shall meet at least once every quarter. Notice of at least 7 (seven) days shall be given for each meeting.
+
+---
+
+ARTICLE 5: RESERVED MATTERS
+
+5.1 Investor Consent
+The Company shall not undertake any of the following actions without the prior written consent of Investors holding at least 75% of the Investor shares:
+
+(a) Amendment of the Memorandum or Articles of Association;
+(b) Issue of any Equity Securities (except under approved ESOP);
+(c) Creation of any encumbrance over the assets of the Company exceeding Rs. 10 lakhs;
+(d) Incurring any debt or borrowing exceeding Rs. 25 lakhs;
+(e) Sale, transfer, or disposal of assets exceeding Rs. 15 lakhs;
+(f) Entry into any material contract exceeding Rs. 20 lakhs annually;
+(g) Entering into any transaction with related parties;
+(h) Making any investment in any other entity;
+(i) Appointment or removal of the CEO, CFO, or CTO;
+(j) Approval of annual budgets and business plans;
+(k) Declaration of dividends;
+(l) Merger, consolidation, or sale of the Company;
+(m) Voluntary winding up or liquidation.
+
+---
+
+ARTICLE 6: FOUNDER VESTING
+
+6.1 Vesting Schedule
+The equity shares held by the Founders shall vest over a period of 4 (four) years from the date of this Agreement as follows:
+- 25% shall vest on completion of 1 year (cliff vesting)
+- The remaining 75% shall vest monthly over the next 36 months
+
+6.2 Acceleration
+Vesting shall accelerate in the following events:
+(a) Sale of the Company at a valuation exceeding Rs. 50 Crores;
+(b) Initial Public Offering (IPO) of the Company.
+
+6.3 Treatment of Unvested Shares
+In the event a Founder ceases to be associated with the Company (whether as an employee, director, or consultant), all unvested shares shall be subject to buyback by the Company at face value.
+
+---
+
+ARTICLE 7: TRANSFER RESTRICTIONS
+
+7.1 Lock-in Period
+The Founders shall not transfer any of their equity shares for a period of 2 (two) years from the date of this Agreement without the prior written consent of the Investors.
+
+7.2 Right of First Refusal
+If any shareholder proposes to transfer their shares, they must first offer such shares to the other shareholders on a pro-rata basis at the same price and terms.
+
+7.3 Tag-Along Rights
+If Founders propose to transfer their shares to a third party, the Investors shall have the right to participate in such transfer on the same terms and conditions.
+
+7.4 Drag-Along Rights
+If Investors holding at least 75% of Investor shares approve a sale of the Company, all other shareholders shall be obligated to participate in such sale on the same terms.
+
+---
+
+ARTICLE 8: ANTI-DILUTION PROTECTION
+
+8.1 Price-Based Anti-Dilution
+If the Company issues any Equity Securities at a price per share lower than the price paid by the Investors, the Investors shall be entitled to weighted average anti-dilution protection.
+
+8.2 Exceptions
+Anti-dilution protection shall not apply to:
+(a) Shares issued under the approved ESOP;
+(b) Shares issued in a Qualified Financing (raising at least Rs. 5 Crores at a higher valuation);
+(c) Shares issued in connection with strategic partnerships approved by the Board.
+
+---
+
+ARTICLE 9: INFORMATION RIGHTS
+
+9.1 Financial Information
+The Company shall provide to each Investor:
+(a) Audited annual financial statements within 90 days of the financial year end;
+(b) Unaudited quarterly financial statements within 30 days of the quarter end;
+(c) Monthly management accounts within 15 days of the month end.
+
+9.2 Inspection Rights
+Each Investor shall have the right to inspect the books and records of the Company upon reasonable notice.
+
+---
+
+ARTICLE 10: NON-COMPETE AND NON-SOLICITATION
+
+10.1 Non-Compete
+During the term of their association with the Company and for a period of 1 (one) year thereafter, the Founders shall not engage in any Competing Business.
+
+10.2 Non-Solicitation
+The Founders shall not, for a period of 1 (one) year after ceasing their association with the Company, solicit any employee, customer, or supplier of the Company.
+
+---
+
+ARTICLE 11: CONFIDENTIALITY
+
+11.1 Confidential Information
+Each Party agrees to maintain the confidentiality of all confidential information of the Company and shall not disclose such information to any third party without prior consent.
+
+---
+
+ARTICLE 12: DISPUTE RESOLUTION
+
+12.1 Arbitration
+Any dispute arising out of or in connection with this Agreement shall be referred to arbitration in accordance with the Arbitration and Conciliation Act, 1996.
+
+12.2 Seat and Venue
+The seat of arbitration shall be Bangalore, Karnataka, and the proceedings shall be conducted in English.
+
+12.3 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of India.
+
+---
+
+ARTICLE 13: GENERAL PROVISIONS
+
+13.1 Entire Agreement
+This Agreement constitutes the entire agreement between the Parties and supersedes all prior agreements and understandings.
+
+13.2 Amendments
+This Agreement may be amended only by a written instrument signed by all Parties.
+
+13.3 Severability
+If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+13.4 Notices
+All notices shall be in writing and delivered by hand, courier, or email to the addresses specified in this Agreement.
+
+---
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date first written above.
+
+SIGNED AND DELIVERED by the within-named Parties:
+
+For and on behalf of
+TECHVENTURE INDIA PRIVATE LIMITED
+
+_________________________
+Authorized Signatory
+Name: Rahul Sharma
+Designation: Director
+
+
+_________________________
+RAHUL SHARMA (Founder 1)
+
+
+_________________________
+PRIYA MEHTA (Founder 2)
+
+
+For and on behalf of
+BANGALORE ANGELS NETWORK TRUST
+
+_________________________
+Authorized Representative
+
+
+_________________________
+ANKIT VERMA (Investor 2)
+
+
+WITNESSES:
+
+1. _________________________
+   Name:
+   Address:
+
+2. _________________________
+   Name:
+   Address:

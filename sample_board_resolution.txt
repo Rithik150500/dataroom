@@ -1,0 +1,239 @@
+TECHVENTURE INDIA PRIVATE LIMITED
+CIN: U72900KA2019PTC123456
+
+EXTRACT OF MINUTES OF THE MEETING OF THE BOARD OF DIRECTORS
+held on Monday, November 18, 2025 at 10:00 AM
+at the Registered Office of the Company
+
+---
+
+PRESENT:
+
+1. Mr. Rahul Sharma - Director (Founder 1) - Chairperson
+2. Ms. Priya Mehta - Director (Founder 2)
+3. Mr. Ankit Verma - Director (Investor Nominee)
+4. Mr. Suresh Kumar - Independent Director
+5. Ms. Lakshmi Iyer - Director (Founder 1 Nominee)
+
+IN ATTENDANCE:
+
+1. Ms. Neha Agarwal - Chief Financial Officer
+2. Mr. Vivek Rao - Company Secretary
+
+---
+
+The Chairperson welcomed all the Directors and declared that the meeting was being held with due notice to all Directors and the requisite quorum was present.
+
+The Company Secretary informed that the following items of business were placed before the Board for consideration and approval:
+
+---
+
+RESOLUTION 1: APPROVAL OF QUARTERLY FINANCIAL RESULTS
+
+The CFO presented the unaudited financial results of the Company for the quarter ended September 30, 2025, highlighting the following:
+
+- Total Revenue: Rs. 1.85 Crores (up 28% QoQ)
+- Operating Expenses: Rs. 1.52 Crores
+- EBITDA: Rs. 33 Lakhs (18% margin)
+- Net Profit: Rs. 22 Lakhs
+- Cash Balance: Rs. 1.45 Crores
+- Customer Count: 42 (up from 35 in previous quarter)
+- Monthly Recurring Revenue (MRR): Rs. 62 Lakhs
+
+After detailed discussion and review of the financial statements, the following resolution was unanimously passed:
+
+"RESOLVED THAT the unaudited financial results of the Company for the quarter ended September 30, 2025, as presented to the Board, be and are hereby noted and approved.
+
+RESOLVED FURTHER THAT the said financial results be circulated to all shareholders as required under the Shareholders Agreement."
+
+---
+
+RESOLUTION 2: APPOINTMENT OF STATUTORY AUDITORS
+
+The Company Secretary informed the Board that the current term of M/s. XYZ & Co., Chartered Accountants (Firm Registration No. 012345S) as Statutory Auditors of the Company shall expire at the conclusion of the forthcoming Annual General Meeting.
+
+After due consideration of their performance, independence, and fee proposal, the Board considered reappointing them for a further term of 5 years.
+
+The following resolution was unanimously passed:
+
+"RESOLVED THAT pursuant to the provisions of Section 139 and other applicable provisions of the Companies Act, 2013, and the Companies (Audit and Auditors) Rules, 2014, M/s. XYZ & Co., Chartered Accountants (Firm Registration No. 012345S), be and are hereby reappointed as the Statutory Auditors of the Company to hold office for a period of 5 (five) years from the conclusion of the 6th Annual General Meeting until the conclusion of the 11th Annual General Meeting, subject to ratification by the shareholders at the Annual General Meeting.
+
+RESOLVED FURTHER THAT the remuneration payable to the Statutory Auditors shall be Rs. 2,50,000 (Rupees Two Lakhs Fifty Thousand Only) per annum plus applicable taxes and out-of-pocket expenses, as may be incurred by them in connection with the audit.
+
+RESOLVED FURTHER THAT the Board of Directors be and is hereby authorized to increase the remuneration by up to 10% annually based on the scope of work.
+
+RESOLVED FURTHER THAT the above appointment and remuneration be placed before the shareholders for their approval at the forthcoming Annual General Meeting."
+
+---
+
+RESOLUTION 3: ALLOTMENT OF EQUITY SHARES UNDER ESOP
+
+The Company Secretary informed the Board that 8 (eight) eligible employees have exercised their vested stock options under the TechVenture ESOP Scheme 2020, and the Company has received the exercise price as per the scheme.
+
+Details of Exercise:
+- Number of Options Exercised: 400 options
+- Number of Shares to be Allotted: 400 equity shares of Rs. 100 each
+- Exercise Price: Rs. 100 per share (face value)
+- Total Amount Received: Rs. 40,000
+- Post-allotment Paid-up Capital: Rs. 26,40,000
+
+After due deliberation and pursuant to the approval of the ESOP Scheme by the shareholders, the following resolution was unanimously passed:
+
+"RESOLVED THAT pursuant to the provisions of Section 62(1)(b) and other applicable provisions of the Companies Act, 2013, the SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021, and the TechVenture ESOP Scheme 2020, consent of the Board be and is hereby accorded for the allotment of 400 (Four Hundred) equity shares of face value Rs. 100 (Rupees One Hundred) each to the eligible employees who have exercised their vested stock options.
+
+RESOLVED FURTHER THAT the equity shares so allotted shall rank pari passu with the existing equity shares of the Company in all respects including dividend.
+
+RESOLVED FURTHER THAT the Company Secretary be and is hereby authorized to:
+(a) Issue share certificates to the allottees;
+(b) Update the Register of Members;
+(c) File Form PAS-3 with the Registrar of Companies within 30 days;
+(d) Take all such actions as may be necessary to give effect to this resolution."
+
+---
+
+RESOLUTION 4: APPROVAL OF RELATED PARTY TRANSACTION
+
+The Chairperson informed the Board that the Company's existing office lease agreement with Sharma Properties LLP (in which Mr. Rahul Sharma holds 40% interest) is due for renewal on December 31, 2025.
+
+Current Terms:
+- Premises: 3,000 sq ft at Koramangala 5th Block, Bangalore
+- Current Rent: Rs. 3,00,000 per month
+- Security Deposit: Rs. 9,00,000 (already paid)
+
+Proposed Renewal Terms:
+- Period: 3 years (January 1, 2026 to December 31, 2028)
+- Rent: Rs. 3,30,000 per month (10% increase, in line with market rates)
+- Annual Escalation: 5%
+- Lock-in: 2 years
+
+The CFO presented a comparative analysis showing that the proposed rent is 5% below the market rate for similar properties in the area.
+
+Mr. Rahul Sharma declared his interest in the transaction and abstained from voting.
+
+After discussion, the following resolution was passed by the non-interested Directors:
+
+"RESOLVED THAT pursuant to the provisions of Section 188 and other applicable provisions of the Companies Act, 2013, read with Rule 15 of the Companies (Meetings of Board and its Powers) Rules, 2014, and subject to such other approvals as may be required, consent of the Board be and is hereby accorded for renewal of the office lease agreement with Sharma Properties LLP for a period of 3 (three) years on the following terms:
+
+- Monthly Rent: Rs. 3,30,000 (Rupees Three Lakhs Thirty Thousand Only)
+- Annual Escalation: 5%
+- Lock-in Period: 2 years
+- Security Deposit: Rs. 9,00,000 (already deposited)
+
+RESOLVED FURTHER THAT the Board notes and records that:
+(a) Mr. Rahul Sharma has disclosed his interest as a 40% partner in Sharma Properties LLP;
+(b) The proposed rent is below market rates based on independent valuation;
+(c) The transaction is in the ordinary course of business and at arm's length;
+
+RESOLVED FURTHER THAT the transaction be placed before the shareholders for their approval at the forthcoming Annual General Meeting as required under Section 188 of the Act.
+
+RESOLVED FURTHER THAT Mr. Rahul Sharma, Director, be and is hereby authorized to execute the lease renewal agreement and all related documents on behalf of the Company."
+
+---
+
+RESOLUTION 5: APPROVAL FOR OPENING OF SERIES A FUNDING DISCUSSIONS
+
+The Chairperson informed the Board that the Company has received preliminary interest from 3 (three) venture capital firms for a potential Series A funding round.
+
+Proposed Terms (Indicative):
+- Amount: Rs. 15-20 Crores
+- Valuation: Rs. 60-75 Crores (pre-money)
+- Dilution: 20-25%
+- Timeline: Q1 FY 2025-26
+
+The Board discussed the growth trajectory, capital requirements for scaling, and the strategic value that potential investors could bring beyond capital.
+
+The following resolution was unanimously passed:
+
+"RESOLVED THAT the Board hereby grants in-principle approval to the management to initiate discussions with potential investors for raising a Series A funding round of up to Rs. 20 Crores (Rupees Twenty Crores).
+
+RESOLVED FURTHER THAT a Sub-Committee comprising Mr. Rahul Sharma, Ms. Priya Mehta, and Mr. Ankit Verma be and is hereby constituted to:
+(a) Evaluate proposals from potential investors;
+(b) Negotiate term sheets;
+(c) Engage legal and financial advisors;
+(d) Recommend final terms to the Board for approval.
+
+RESOLVED FURTHER THAT the Sub-Committee be authorized to incur expenses up to Rs. 10 Lakhs (Rupees Ten Lakhs Only) for due diligence, legal fees, and advisory costs.
+
+RESOLVED FURTHER THAT any binding commitments or final agreements shall be subject to approval by the Board and shareholders as required under the Shareholders Agreement and applicable laws."
+
+---
+
+RESOLUTION 6: PREVENTION OF SEXUAL HARASSMENT (POSH) - ANNUAL COMPLIANCE
+
+The Company Secretary presented the annual report on compliance with the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, for the period October 1, 2024 to September 30, 2025.
+
+Report Highlights:
+- Internal Complaints Committee (ICC) constituted with 4 members including external member
+- Number of complaints received: 0 (Zero)
+- Number of complaints resolved: N/A
+- Number of pending complaints: 0 (Zero)
+- Training sessions conducted: 2 (attended by 100% employees)
+- Policy circulation: Updated policy shared with all employees
+
+The following resolution was unanimously passed:
+
+"RESOLVED THAT the Board notes and approves the Annual Report on Prevention of Sexual Harassment compliance for the year ended September 30, 2025.
+
+RESOLVED FURTHER THAT the said report shall be disclosed in the Directors' Report to be presented at the forthcoming Annual General Meeting."
+
+---
+
+RESOLUTION 7: FIXATION OF DATE, TIME AND VENUE FOR ANNUAL GENERAL MEETING
+
+After discussion, the following resolution was unanimously passed:
+
+"RESOLVED THAT the 6th Annual General Meeting (AGM) of the Company be held on Saturday, December 28, 2025, at 11:00 AM at the Registered Office of the Company.
+
+RESOLVED FURTHER THAT the following items be included in the agenda for the AGM:
+1. Adoption of Financial Statements for FY 2024-25
+2. Appointment of Statutory Auditors and fixation of their remuneration
+3. Ratification of Related Party Transaction (Office Lease)
+4. Any other business with the permission of the Chair
+
+RESOLVED FURTHER THAT the Notice of AGM along with the Annual Report be sent to all shareholders at least 21 days before the date of the meeting in accordance with the Companies Act, 2013.
+
+RESOLVED FURTHER THAT Mr. Vivek Rao, Company Secretary, be and is hereby authorized to undertake all necessary compliances for convening the AGM."
+
+---
+
+RESOLUTION 8: APPROVAL OF HIRING PLAN FOR Q4 FY 2024-25
+
+The Chairperson presented the hiring plan for Q4 (October-December 2025) to support the growing business operations.
+
+Proposed Hiring:
+- 3 Software Developers (Rs. 8-12 LPA each)
+- 2 Sales Executives (Rs. 6-8 LPA each)
+- 1 Customer Success Manager (Rs. 10 LPA)
+- 1 Senior Product Manager (Rs. 18 LPA)
+
+Total Budget: Rs. 68 Lakhs (annual cost)
+
+The following resolution was unanimously passed:
+
+"RESOLVED THAT the Board hereby approves the hiring plan for Q4 FY 2024-25 as presented, with a total budget of Rs. 68 Lakhs (Rupees Sixty-Eight Lakhs Only) on an annual cost basis.
+
+RESOLVED FURTHER THAT the CEO be and is hereby authorized to make these hires within the approved budget and salary bands, and to determine the specific terms of employment in consultation with the HR function."
+
+---
+
+CLOSURE
+
+There being no other business to transact, the Chairperson thanked all Directors for their participation and declared the meeting closed at 12:30 PM.
+
+
+Confirmed as a true record:
+
+
+_________________________
+Mr. Vivek Rao
+Company Secretary
+
+
+_________________________
+Mr. Rahul Sharma
+Chairperson & Director
+DIN: 08123456
+
+
+Date: November 18, 2025
+Place: Bangalore

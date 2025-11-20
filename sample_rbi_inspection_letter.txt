@@ -1,0 +1,250 @@
+RESERVE BANK OF INDIA
+Department of Non-Banking Supervision
+Mumbai Regional Office
+BKC, Mumbai - 400051
+
+Ref: RBI/DNBS/2023/Inspection/3456
+Date: July 15, 2023
+
+To,
+The Board of Directors
+FinServe Capital Limited
+402, Sunshine Tower
+Nariman Point, Mumbai - 400021
+
+Dear Sir/Madam,
+
+Subject: On-Site Inspection of FinServe Capital Limited - Observations and Recommendations
+
+An inspection of your company was conducted by the Reserve Bank of India from June 5, 2023 to June 16, 2023 with reference to the position as on March 31, 2023. The inspection was carried out in terms of Section 45L of the Reserve Bank of India Act, 1934.
+
+The Board of Directors is requested to examine the observations made in the inspection report and ensure compliance/rectification of the irregularities/deficiencies pointed out within a period of three months from the date of receipt of this letter. A detailed Action Taken Report (ATR) should be submitted to this office within the stipulated time.
+
+The significant observations requiring immediate attention of the Board are detailed below:
+
+---
+
+OBSERVATION 1: ASSET CLASSIFICATION - EVERGREENING CONCERNS
+[CRITICAL]
+
+During the scrutiny of loan accounts, it was observed that in 8 cases aggregating Rs. 4.2 Crores, fresh loans were sanctioned to customers shortly before or after their existing loans became overdue beyond 90 days. In 5 of these cases, the fresh funds were immediately adjusted against overdue interest on existing loans.
+
+This practice appears to be a case of 'evergreening' where fresh credit is extended to prevent existing accounts from slipping into NPA category, in violation of the asset classification norms prescribed under Master Direction - Non-Banking Financial Company - Systemically Important Non-Deposit taking Company and Deposit taking Company (Reserve Bank) Directions, 2016.
+
+As per RBI norms, any additional facility granted to prevent an account from being classified as NPA should itself be treated as NPA from the date of grant of additional facility.
+
+REQUIRED ACTION:
+(a) Immediately reclassify the 8 identified accounts as NPA and make appropriate provisions as per RBI norms.
+(b) Review the entire loan portfolio for similar cases in the last 2 financial years.
+(c) Implement system-level controls to flag any fresh sanctions to borrowers with overdue accounts.
+(d) Strengthen the Credit Risk Management framework to prevent such practices.
+(e) Submit a certificate from the Statutory Auditor confirming the reclassification and provisioning.
+
+---
+
+OBSERVATION 2: CAPITAL ADEQUACY - TIER II CAPITAL COMPUTATION
+[HIGH]
+
+The company has included Subordinated Debt of Rs. 20 Crores as Tier II Capital. However, upon verification, it was found that Rs. 5 Crores of this subordinated debt was raised from a company in which two directors of FinServe Capital hold significant interests (35% and 28% respectively).
+
+As per RBI guidelines, capital instruments subscribed by related parties may not qualify as regulatory capital unless they meet stringent conditions including arms-length pricing and genuine third-party nature.
+
+The inclusion of this Rs. 5 Crores has resulted in overstatement of Tier II Capital and consequently, CRAR has been reported at 19.2% whereas the actual CRAR (after adjustment) would be 17.8%. While still above the minimum requirement of 15%, this represents a material misstatement in regulatory returns.
+
+REQUIRED ACTION:
+(a) Exclude Rs. 5 Crores from Tier II Capital computation immediately.
+(b) Recompute and file revised CRAR for the last 4 quarters.
+(c) Establish a Board-approved policy on capital raising from related parties with clear guidelines.
+(d) Ensure future capital raising complies strictly with RBI guidelines on related party transactions.
+
+---
+
+OBSERVATION 3: EXPOSURE NORMS - DOCUMENTATION GAPS
+[MEDIUM]
+
+The company is complying with single borrower exposure limit (25% of NOF) and group exposure limit (40% of NOF) on an overall basis. However, in 3 cases, the classification of borrowers as part of the same "group" was not adequately documented.
+
+Specifically, for Mehta Industries group (3 related entities with total exposure of Rs. 38 Crores), the company had not maintained proper documentation to establish the interconnectedness of the entities, such as common management, cross-guarantees, or financial interdependence.
+
+Inadequate documentation may lead to underestimation of group exposure and circumvention of exposure limits.
+
+REQUIRED ACTION:
+(a) Conduct a comprehensive review of all borrower relationships to identify connected parties.
+(b) Maintain detailed documentation justifying the classification of entities as separate or grouped.
+(c) Implement a system where credit approvals for entities with any connections trigger additional scrutiny.
+(d) Submit a report on the methodology adopted for identifying connected parties.
+
+---
+
+OBSERVATION 4: KYC/AML COMPLIANCE - PERIODIC UPDATION
+[MEDIUM]
+
+As per RBI's Master Direction on KYC, periodic updation of KYC records is mandatory at the following intervals:
+- High risk customers: At least once in two years
+- Medium risk customers: At least once in eight years  
+- Low risk customers: At least once in ten years
+
+During sample checking of 50 loan accounts, it was found that KYC updation was overdue in 12 cases (24% of sample). In 3 cases, the KYC documents were more than 3 years old for customers classified as 'Medium Risk' who should have been updated within 2 years as per internal risk categorization.
+
+Non-compliance with KYC updation norms may expose the company to money laundering risks and regulatory penalties.
+
+REQUIRED ACTION:
+(a) Immediately initiate KYC updation for all overdue cases.
+(b) Implement a system-driven alert mechanism for timely KYC renewal.
+(c) Conduct a full portfolio review to identify all cases of overdue KYC and complete updation within 60 days.
+(d) Enhance training for operational staff on KYC compliance requirements.
+(e) Submit quarterly KYC compliance reports to the Board's Audit Committee.
+
+---
+
+OBSERVATION 5: FAIR PRACTICES CODE - INTEREST RATE COMMUNICATION
+[MEDIUM]
+
+The company's Fair Practices Code requires transparent communication of interest rates and charges to borrowers. During the inspection, it was noted that in the vehicle finance product, processing fees of 2% were being charged upfront, but the effective interest rate communicated to customers in the loan agreement reflected only the stated interest rate and not the effective rate including processing fees.
+
+This practice may not fully align with the spirit of fair and transparent lending practices mandated by RBI's Fair Practices Code.
+
+REQUIRED ACTION:
+(a) Revise loan documentation to clearly disclose the effective interest rate including all upfront charges.
+(b) Provide an amortization schedule showing principal and interest breakup for the entire loan tenure.
+(c) Ensure that marketing materials also reflect the effective cost of credit to customers.
+(d) Conduct training for sales staff on fair practices and transparent communication.
+
+---
+
+OBSERVATION 6: RISK MANAGEMENT - CONCENTRATION RISK
+[MEDIUM]
+
+The company's loan portfolio shows significant geographic concentration with 38% of loans in Maharashtra. Additionally, the vehicle finance segment accounts for 35% of the portfolio, and within this, two-wheeler finance is 55% of vehicle finance loans (approximately 19% of total portfolio).
+
+While these concentrations are not violative of any specific RBI norm, they represent elevated concentration risk. Any adverse economic developments in Maharashtra or in the two-wheeler segment could materially impact the company's asset quality.
+
+The company's stress testing framework does not adequately capture concentration risk scenarios.
+
+REQUIRED ACTION:
+(a) Enhance the stress testing framework to include concentration risk scenarios.
+(b) Set internal limits for geographic and product concentration with Board approval.
+(c) Develop a diversification strategy to reduce concentration over the next 2-3 years.
+(d) Report concentration metrics to the Board's Risk Management Committee quarterly.
+
+---
+
+OBSERVATION 7: IT SYSTEMS - AUDIT TRAIL GAPS
+[MEDIUM]
+
+The core lending system used by the company does not maintain a comprehensive audit trail of all changes made to loan terms, interest rates, or account statuses. In particular, changes to loan account classifications (Standard to NPA and vice versa) are not automatically logged with user IDs and timestamps.
+
+Absence of adequate audit trails may compromise the integrity of data and make it difficult to detect unauthorized changes or manipulations.
+
+REQUIRED ACTION:
+(a) Implement system enhancements to capture complete audit trails for all critical data changes.
+(b) Ensure that audit logs are tamper-proof and retained for at least 5 years.
+(c) Conduct periodic review of system logs by Internal Audit.
+(d) Submit an IT audit report from a CERT-In empanelled auditor within 90 days.
+
+---
+
+OBSERVATION 8: BOARD GOVERNANCE - FREQUENCY OF RISK COMMITTEE MEETINGS
+[LOW]
+
+As per RBI's Scale Based Regulation framework, Middle Layer NBFCs are required to constitute a Risk Management Committee of the Board. While the company has constituted such a committee, the committee met only 3 times during FY 2022-23.
+
+Given the company's asset size and the need for enhanced oversight, the Risk Management Committee should ideally meet at least quarterly (4 times a year) to ensure adequate supervision of risk management practices.
+
+REQUIRED ACTION:
+(a) Formalize a policy requiring the Risk Management Committee to meet at least quarterly.
+(b) Define a comprehensive agenda for each meeting covering credit risk, operational risk, liquidity risk, and compliance risk.
+(c) Ensure minutes of meetings reflect substantive discussions and decisions on risk matters.
+
+---
+
+OBSERVATION 9: PROVISIONING POLICY - SPECIFIC PROVISION ADEQUACY
+[LOW]
+
+While the company is following RBI's standard provisioning norms (15% for sub-standard, 25%/40%/100% for doubtful assets based on age), the adequacy of specific provisions was examined in light of the net realizable value of underlying securities.
+
+In 2 large NPA accounts (Rs. 2.8 Crores), where the primary security was mortgaged property, the valuations on record were more than 2 years old. Given the fluctuation in real estate prices, the company may be under-provided if current realizable values are lower.
+
+REQUIRED ACTION:
+(a) Obtain fresh valuations for all mortgaged properties securing NPA accounts where valuations are more than 18 months old.
+(b) Make additional specific provisions if net realizable value (after haircut) is below the outstanding amount net of provisions.
+(c) Establish a policy for periodic revaluation of collateral securities.
+
+---
+
+OBSERVATION 10: CUSTOMER GRIEVANCE REDRESSAL - TURNAROUND TIME
+[LOW]
+
+The company has established a grievance redressal mechanism as required under Fair Practices Code. However, analysis of the complaint register showed that the average turnaround time for complaint resolution was 22 days, with some complaints taking up to 45 days to resolve.
+
+While there is no specific regulatory requirement on turnaround time, best practices suggest that most complaints should be resolved within 15 days to ensure customer satisfaction.
+
+REQUIRED ACTION:
+(a) Set internal benchmarks for complaint resolution (e.g., 80% complaints resolved within 10 days).
+(b) Implement a system to escalate complaints that remain unresolved beyond the benchmark period.
+(c) Analyze root causes of complaints and take systemic corrective action.
+(d) Report complaint resolution metrics to the Board quarterly.
+
+---
+
+OBSERVATION 11: TREASURY OPERATIONS - UNHEDGED INTEREST RATE RISK
+[LOW]
+
+The company's borrowings consist of both fixed-rate (60%) and floating-rate (40%) instruments, while its loan book is predominantly fixed-rate (75%). This creates an interest rate risk where a rising interest rate environment would increase borrowing costs on floating-rate debt while lending income remains fixed.
+
+The ALM policy mentions interest rate risk management but does not prescribe any hedging strategies or limits on interest rate mismatches.
+
+REQUIRED ACTION:
+(a) Conduct sensitivity analysis to quantify impact of interest rate changes on net interest margin.
+(b) Consider use of interest rate derivatives for hedging where appropriate and permitted.
+(c) Enhance the ALM policy to include interest rate risk management strategies and limits.
+(d) Report interest rate risk exposure to the ALCO and Board quarterly.
+
+---
+
+OBSERVATION 12: INTERNAL AUDIT - SCOPE AND FREQUENCY
+[LOW]
+
+The company has appointed an internal auditor who conducts audits on a quarterly basis. However, the scope of internal audit is primarily focused on operational compliance and does not adequately cover risk management framework, adequacy of controls, and system audits.
+
+An expanded internal audit scope would provide better assurance to the Board on the overall control environment.
+
+REQUIRED ACTION:
+(a) Expand the internal audit scope to include risk-based audits of critical processes.
+(b) Conduct specialized IT systems audits at least annually.
+(c) Ensure internal audit reports are presented to the Audit Committee with management responses and timelines for remediation.
+(d) Implement a mechanism to track and close internal audit observations systematically.
+
+---
+
+GENERAL OBSERVATIONS:
+
+Overall, the company's operations are found to be reasonably compliant with RBI regulations. The Net Owned Funds and CRAR (adjusted) are above minimum requirements. The Board and management demonstrate adequate understanding of regulatory requirements.
+
+However, the observations highlighted above require immediate attention, particularly with respect to asset classification practices and capital computation. The Board is requested to treat these observations with the seriousness they deserve and take appropriate remedial action.
+
+A detailed Action Taken Report (ATR) addressing each observation, along with supporting documents and auditor certificates where required, should be submitted to this office on or before October 15, 2023.
+
+Failure to submit a satisfactory ATR within the stipulated timeframe may result in regulatory action including imposition of monetary penalties under Section 58B of the RBI Act, 1934.
+
+The Board is also advised to conduct a self-assessment of compliance with all RBI directions and Master Circulars at least annually and place the report before the Board for review.
+
+Yours faithfully,
+
+[Digitally Signed]
+
+_______________________
+Chief General Manager
+Department of Non-Banking Supervision
+Reserve Bank of India
+Mumbai
+
+Copy to:
+1. The Statutory Auditor - ABC & Associates, Chartered Accountants
+2. The Chief Risk Officer - FinServe Capital Limited
+3. The Chief Compliance Officer - FinServe Capital Limited
+
+---
+This is a computer-generated document and is valid without physical signature.
+Reference: RBI/DNBS/2023/Inspection/3456
+Date: July 15, 2023
