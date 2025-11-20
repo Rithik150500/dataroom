@@ -1,0 +1,357 @@
+================================================================================
+                DATA PROCESSING AGREEMENT (DPA)
+                            OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+                   [TEMPLATE FOR CUSTOMERS]
+
+================================================================================
+
+THIS DATA PROCESSING AGREEMENT (the "DPA") is entered into as of ___________
+
+BETWEEN
+
+___________________________
+[Customer Name]
+having its registered office at ___________________________
+(hereinafter referred to as the "Data Controller" or "Customer");
+
+AND
+
+TECHVENTURE INDIA PRIVATE LIMITED, a company incorporated under the Companies
+Act, 2013, having CIN U72900KA2019PTC123456 and its registered office at #42,
+3rd Floor, Koramangala 5th Block, Bangalore - 560095, Karnataka (hereinafter
+referred to as the "Data Processor" or "TechVenture").
+
+================================================================================
+
+                          RECITALS
+
+WHEREAS:
+
+A. The Customer and TechVenture have entered into a Master Services Agreement
+   dated ___________ (the "Principal Agreement") under which TechVenture
+   provides SaaS services to the Customer.
+
+B. In providing the Services, TechVenture may process Personal Data on
+   behalf of the Customer.
+
+C. The Parties wish to enter into this DPA to comply with applicable data
+   protection laws, including the Digital Personal Data Protection Act, 2023
+   ("DPDPA") and other applicable regulations.
+
+NOW, THEREFORE, the Parties agree as follows:
+
+================================================================================
+
+                  ARTICLE 1: DEFINITIONS
+
+1.1 "Applicable Data Protection Laws" means all laws relating to data
+    protection and privacy applicable to the processing of Personal Data,
+    including the DPDPA, Information Technology Act, 2000, and related rules.
+
+1.2 "Data Breach" means any accidental or unlawful destruction, loss,
+    alteration, unauthorized disclosure of, or access to Personal Data.
+
+1.3 "Data Principal" means the individual to whom the Personal Data relates.
+
+1.4 "Data Subject Request" means a request from a Data Principal exercising
+    their rights under Applicable Data Protection Laws.
+
+1.5 "Personal Data" means any data about an individual who is identifiable
+    by or in relation to such data as defined under DPDPA.
+
+1.6 "Processing" means any operation performed on Personal Data, including
+    collection, storage, use, disclosure, and deletion.
+
+1.7 "Services" means the SaaS services provided by TechVenture under the
+    Principal Agreement.
+
+1.8 "Sub-processor" means any third party engaged by TechVenture to process
+    Personal Data on behalf of the Customer.
+
+================================================================================
+
+               ARTICLE 2: SCOPE AND PURPOSE
+
+2.1 SCOPE
+    This DPA applies to all Processing of Personal Data by TechVenture on
+    behalf of the Customer in connection with the Services.
+
+2.2 DETAILS OF PROCESSING
+    The details of Processing are set out in Annex 1:
+    - Subject matter and nature of Processing
+    - Purpose of Processing
+    - Types of Personal Data
+    - Categories of Data Principals
+    - Duration of Processing
+
+2.3 ROLES
+    For the purposes of this DPA:
+    - The Customer is the Data Fiduciary (Controller)
+    - TechVenture is the Data Processor
+
+================================================================================
+
+             ARTICLE 3: DATA PROCESSOR OBLIGATIONS
+
+3.1 PROCESSING INSTRUCTIONS
+    TechVenture shall:
+    (a) Process Personal Data only on documented instructions from Customer
+    (b) Not process Personal Data for any other purpose
+    (c) Inform Customer if an instruction infringes Applicable Laws
+
+3.2 CONFIDENTIALITY
+    TechVenture shall:
+    (a) Ensure all personnel processing Personal Data are bound by
+        confidentiality obligations
+    (b) Limit access to Personal Data to personnel who need access
+
+3.3 SECURITY MEASURES
+    TechVenture shall implement appropriate technical and organizational
+    measures to protect Personal Data, including:
+    (a) Encryption of Personal Data in transit and at rest
+    (b) Measures to ensure ongoing confidentiality, integrity, availability
+    (c) Regular testing and evaluation of security measures
+    (d) Access controls and authentication mechanisms
+    (e) Audit logs and monitoring
+
+    The specific security measures are set out in Annex 2.
+
+3.4 SUB-PROCESSORS
+    TechVenture may engage Sub-processors subject to:
+    (a) Prior written authorization from Customer (general or specific)
+    (b) Written contract imposing equivalent data protection obligations
+    (c) TechVenture remains liable for Sub-processor compliance
+
+    Current Sub-processors are listed in Annex 3.
+
+3.5 DATA SUBJECT REQUESTS
+    TechVenture shall:
+    (a) Promptly notify Customer of any Data Subject Requests
+    (b) Assist Customer in responding to such requests
+    (c) Not respond directly unless instructed by Customer
+
+3.6 DATA BREACH NOTIFICATION
+    In case of a Data Breach, TechVenture shall:
+    (a) Notify Customer without undue delay (within 72 hours)
+    (b) Provide details of the breach including:
+        - Nature of the breach
+        - Categories and number of Data Principals affected
+        - Categories and number of records affected
+        - Likely consequences
+        - Measures taken to address the breach
+    (c) Cooperate with Customer's investigation
+
+3.7 ASSISTANCE
+    TechVenture shall assist Customer in:
+    (a) Ensuring compliance with security obligations
+    (b) Conducting data protection impact assessments
+    (c) Responding to inquiries from regulatory authorities
+
+3.8 AUDIT RIGHTS
+    TechVenture shall:
+    (a) Make available information necessary to demonstrate compliance
+    (b) Allow for audits by Customer or appointed auditor
+    (c) Contribute to audits and inspections (at Customer's cost)
+
+================================================================================
+
+             ARTICLE 4: DATA CONTROLLER OBLIGATIONS
+
+4.1 LAWFUL BASIS
+    The Customer warrants that:
+    (a) It has a lawful basis for Processing Personal Data
+    (b) It has obtained necessary consents from Data Principals
+    (c) It has provided required notices to Data Principals
+
+4.2 INSTRUCTIONS
+    The Customer shall:
+    (a) Provide documented instructions for Processing
+    (b) Ensure instructions comply with Applicable Laws
+    (c) Be responsible for accuracy of Personal Data provided
+
+================================================================================
+
+          ARTICLE 5: INTERNATIONAL DATA TRANSFERS
+
+5.1 DATA LOCATION
+    Personal Data shall be processed and stored in India unless otherwise
+    agreed in writing.
+
+5.2 CROSS-BORDER TRANSFERS
+    If Personal Data is transferred outside India, TechVenture shall ensure:
+    (a) Compliance with DPDPA transfer requirements
+    (b) Appropriate safeguards are in place
+    (c) Customer has given prior written consent
+
+================================================================================
+
+             ARTICLE 6: RETURN AND DELETION
+
+6.1 UPON TERMINATION
+    Upon termination of the Principal Agreement, TechVenture shall:
+    (a) Return or delete all Personal Data as instructed by Customer
+    (b) Provide data export within 30 days
+    (c) Delete all copies within 90 days
+
+6.2 EXCEPTIONS
+    TechVenture may retain Personal Data if required by applicable law,
+    subject to continued confidentiality obligations.
+
+6.3 CERTIFICATION
+    Upon request, TechVenture shall certify deletion of Personal Data.
+
+================================================================================
+
+                    ARTICLE 7: LIABILITY
+
+7.1 LIABILITY
+    Each Party's liability under this DPA shall be subject to the limitations
+    set forth in the Principal Agreement.
+
+7.2 INDEMNITY
+    TechVenture shall indemnify Customer against losses arising from
+    TechVenture's breach of this DPA, subject to liability caps in the
+    Principal Agreement.
+
+================================================================================
+
+               ARTICLE 8: GENERAL PROVISIONS
+
+8.1 TERM
+    This DPA shall remain in effect for the duration of the Principal
+    Agreement and for as long as TechVenture processes Personal Data.
+
+8.2 CONFLICT
+    In case of conflict between this DPA and the Principal Agreement, this
+    DPA shall prevail with respect to data protection matters.
+
+8.3 AMENDMENTS
+    This DPA may be amended only by written agreement of both Parties.
+
+8.4 GOVERNING LAW
+    This DPA shall be governed by the laws of India.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this DPA.
+
+
+For [CUSTOMER NAME]
+(Data Controller)
+
+
+_________________________
+Name: ___________________________
+Designation: ___________________________
+Date: ___________________________
+
+
+
+For TECHVENTURE INDIA PRIVATE LIMITED
+(Data Processor)
+
+
+_________________________
+Name: ___________________________
+Designation: ___________________________
+Date: ___________________________
+
+================================================================================
+
+                        ANNEX 1
+              DETAILS OF DATA PROCESSING
+
+1. SUBJECT MATTER AND NATURE OF PROCESSING:
+   Provision of SaaS services for enterprise resource management, including
+   storage, computation, and analysis of Customer data.
+
+2. PURPOSE OF PROCESSING:
+   - Providing and operating the Services
+   - Customer support and troubleshooting
+   - Service improvement and analytics
+   - Compliance with legal obligations
+
+3. TYPES OF PERSONAL DATA:
+   - Contact information (name, email, phone)
+   - Professional information (job title, department)
+   - Account information (username, preferences)
+   - Usage data (logs, activity records)
+   - Any other data uploaded by Customer
+
+4. CATEGORIES OF DATA PRINCIPALS:
+   - Customer's employees
+   - Customer's contractors
+   - Customer's customers (end-users of Customer's services)
+
+5. DURATION OF PROCESSING:
+   For the duration of the Principal Agreement plus 90 days for data return/
+   deletion.
+
+================================================================================
+
+                        ANNEX 2
+                   SECURITY MEASURES
+
+TechVenture implements the following security measures:
+
+1. ACCESS CONTROLS:
+   - Role-based access control (RBAC)
+   - Multi-factor authentication (MFA)
+   - Unique user accounts with strong passwords
+   - Regular access reviews
+
+2. ENCRYPTION:
+   - TLS 1.2+ for data in transit
+   - AES-256 encryption for data at rest
+   - Secure key management
+
+3. NETWORK SECURITY:
+   - Firewalls and intrusion detection
+   - DDoS protection
+   - Network segmentation
+   - VPN for administrative access
+
+4. APPLICATION SECURITY:
+   - Secure development lifecycle (SDLC)
+   - Regular security testing (VAPT)
+   - Code reviews
+   - Dependency scanning
+
+5. PHYSICAL SECURITY:
+   - Data center certifications (ISO 27001, SOC 2)
+   - Access controls and surveillance
+   - Environmental controls
+
+6. OPERATIONAL SECURITY:
+   - Security monitoring and alerting
+   - Incident response procedures
+   - Regular security training
+   - Background checks for personnel
+
+7. BACKUP AND RECOVERY:
+   - Regular automated backups
+   - Geo-redundant storage
+   - Disaster recovery procedures
+
+================================================================================
+
+                        ANNEX 3
+                    SUB-PROCESSORS
+
+TechVenture uses the following Sub-processors:
+
+Name                | Service              | Location | Data Processed
+--------------------|----------------------|----------|----------------
+Amazon Web Services | Cloud infrastructure | India    | All Customer Data
+Google Cloud        | Backup storage       | India    | Backup data
+Zendesk             | Customer support     | India/US | Support tickets
+SendGrid            | Email delivery       | US       | Email addresses
+
+Customer has provided general authorization for the above Sub-processors.
+TechVenture will notify Customer of any changes to Sub-processors with 30
+days' notice.
+
+================================================================================
