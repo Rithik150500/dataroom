@@ -1,0 +1,335 @@
+================================================================================
+                        FOUNDER AGREEMENT
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+THIS FOUNDER AGREEMENT is made on this 14th day of March, 2019
+
+BETWEEN
+
+(1) MR. RAHUL SHARMA, son of Mr. Vijay Sharma, residing at 123 Palm Grove,
+    Indiranagar, Bangalore - 560038 (hereinafter referred to as "Founder 1");
+
+AND
+
+(2) MS. PRIYA MEHTA, daughter of Mr. Suresh Mehta, residing at 456 Brigade
+    Road, MG Road, Bangalore - 560001 (hereinafter referred to as "Founder 2");
+
+(Founder 1 and Founder 2 are hereinafter collectively referred to as the
+"Founders" and individually as a "Founder")
+
+================================================================================
+
+                            RECITALS
+
+WHEREAS:
+
+A. The Founders are desirous of incorporating a private limited company under
+   the Companies Act, 2013 to carry on the business of developing and
+   providing Software as a Service (SaaS) solutions.
+
+B. The Founders wish to record their respective roles, responsibilities,
+   equity ownership, intellectual property assignments, and other terms
+   governing their relationship as co-founders of the Company.
+
+C. The Founders acknowledge that this Agreement is intended to establish a
+   clear framework for collaboration, dispute resolution, and orderly
+   management of their business relationship.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements
+hereinafter set forth, the Founders agree as follows:
+
+================================================================================
+
+                    ARTICLE 1: THE COMPANY
+
+1.1 INCORPORATION
+    The Founders agree to incorporate a private limited company under the
+    name "TechVenture India Private Limited" with the Registrar of Companies,
+    Karnataka, with the following initial share capital:
+
+    Authorized Capital: Rs. 50,00,000 (50,000 equity shares of Rs. 100 each)
+    Paid-up Capital:    Rs. 20,00,000 (20,000 equity shares of Rs. 100 each)
+
+1.2 BUSINESS PURPOSE
+    The Company shall be engaged in the business of developing, marketing,
+    and selling SaaS-based enterprise software solutions, including but not
+    limited to:
+    (a) Enterprise Resource Planning (ERP) software
+    (b) Customer Relationship Management (CRM) software
+    (c) Business process automation tools
+    (d) Related consulting and implementation services
+
+1.3 REGISTERED OFFICE
+    The registered office of the Company shall initially be located at:
+    #42, 3rd Floor, Koramangala 5th Block, Bangalore - 560095, Karnataka
+
+================================================================================
+
+                  ARTICLE 2: EQUITY OWNERSHIP
+
+2.1 INITIAL SHAREHOLDING
+    The initial equity ownership of the Company shall be as follows:
+
+    Founder 1 (Rahul Sharma):    12,000 shares (60%)
+    Founder 2 (Priya Mehta):      8,000 shares (40%)
+    Total:                       20,000 shares (100%)
+
+2.2 CAPITAL CONTRIBUTION
+    Each Founder agrees to contribute to the paid-up share capital of the
+    Company in proportion to their shareholding:
+
+    Founder 1: Rs. 12,00,000 (Rupees Twelve Lakhs Only)
+    Founder 2: Rs.  8,00,000 (Rupees Eight Lakhs Only)
+
+2.3 ESOP RESERVE
+    The Founders agree to reserve up to 15% of the fully diluted share capital
+    for an Employee Stock Option Plan (ESOP) to be established within 12 months
+    of incorporation.
+
+================================================================================
+
+              ARTICLE 3: ROLES AND RESPONSIBILITIES
+
+3.1 FOUNDER 1 - RAHUL SHARMA
+    Designation: Chief Executive Officer (CEO) and Director
+
+    Primary Responsibilities:
+    (a) Overall business strategy and direction
+    (b) Product vision and roadmap
+    (c) Investor relations and fundraising
+    (d) Strategic partnerships and alliances
+    (e) Board and stakeholder management
+    (f) Public relations and brand building
+
+3.2 FOUNDER 2 - PRIYA MEHTA
+    Designation: Chief Technology Officer (CTO) and Director
+
+    Primary Responsibilities:
+    (a) Technology strategy and architecture
+    (b) Software development and engineering
+    (c) Product development and quality assurance
+    (d) Technology team building and management
+    (e) Technical partnerships and vendor management
+    (f) Information security and data protection
+
+3.3 SHARED RESPONSIBILITIES
+    The Founders shall jointly be responsible for:
+    (a) Major hiring decisions
+    (b) Budget approvals above Rs. 5 lakhs
+    (c) Strategic decisions affecting company direction
+    (d) Legal and compliance matters
+
+================================================================================
+
+              ARTICLE 4: DECISION MAKING
+
+4.1 DEADLOCK MATTERS
+    The following matters shall require unanimous consent of both Founders:
+    (a) Changes to the business model or core product offering
+    (b) Raising external funding or debt above Rs. 25 lakhs
+    (c) Sale, merger, or acquisition of the Company
+    (d) Issuance of new shares (except under approved ESOP)
+    (e) Entry into any related party transactions
+    (f) Appointment of key executives (CXO level)
+    (g) Amendment to this Agreement
+
+4.2 RESOLUTION OF DEADLOCKS
+    In the event of a deadlock on any matter requiring unanimous consent:
+    (a) The Founders shall first attempt good faith negotiation for 15 days
+    (b) If unresolved, the matter shall be referred to a mutually agreed
+        advisor or mentor for non-binding mediation
+    (c) If still unresolved, the matter shall be referred to arbitration
+        as per Article 10 of this Agreement
+
+================================================================================
+
+           ARTICLE 5: INTELLECTUAL PROPERTY
+
+5.1 ASSIGNMENT OF PRIOR IP
+    Each Founder agrees to assign to the Company all intellectual property
+    rights in any work, invention, development, or creation that:
+    (a) Was created by the Founder prior to the incorporation of the Company
+    (b) Is related to or useful for the business of the Company
+    (c) Has been incorporated or will be incorporated into the Company's
+        products or services
+
+5.2 OWNERSHIP OF COMPANY IP
+    All intellectual property created by the Founders during their association
+    with the Company and related to the Company's business shall be the sole
+    and exclusive property of the Company.
+
+5.3 IP ASSIGNMENT DEED
+    Each Founder shall execute a separate IP Assignment Deed substantially
+    in the form attached as Schedule A to this Agreement.
+
+================================================================================
+
+                  ARTICLE 6: COMPENSATION
+
+6.1 INITIAL COMPENSATION
+    The Founders agree that for the first 12 months of the Company's
+    operations, or until the Company raises external funding of at least
+    Rs. 50 lakhs, whichever is earlier:
+
+    Founder 1: Rs. 50,000 per month
+    Founder 2: Rs. 50,000 per month
+
+6.2 REVIEW OF COMPENSATION
+    The Founders' compensation shall be reviewed and adjusted by the Board
+    of Directors upon:
+    (a) Completion of 12 months of operations
+    (b) Successful fundraising
+    (c) Achievement of key business milestones
+
+6.3 ESOP GRANTS
+    Each Founder shall be entitled to ESOP grants as approved by the Board
+    from time to time, subject to the terms of the ESOP Scheme.
+
+================================================================================
+
+               ARTICLE 7: TIME COMMITMENT
+
+7.1 FULL-TIME COMMITMENT
+    Each Founder agrees to devote substantially all of their professional
+    time and efforts to the business of the Company. "Substantially all"
+    shall mean at least 40 hours per week.
+
+7.2 NO COMPETING ACTIVITIES
+    During the term of this Agreement and for a period of 2 years thereafter,
+    no Founder shall:
+    (a) Engage in any business that competes with the Company
+    (b) Provide services to any competitor of the Company
+    (c) Hold any position in any competitor of the Company
+    (d) Own any interest (except passive investment of less than 2%) in any
+        competitor of the Company
+
+7.3 EXCEPTIONS
+    The following activities are permitted:
+    (a) Passive investments in publicly traded companies
+    (b) Personal investments in real estate
+    (c) Advisory roles in non-competing startups (with Board approval)
+    (d) Teaching, speaking, and writing engagements
+
+================================================================================
+
+          ARTICLE 8: DEPARTURE OF FOUNDER
+
+8.1 VOLUNTARY DEPARTURE
+    If a Founder voluntarily chooses to leave the Company:
+    (a) Such Founder shall provide at least 90 days' prior written notice
+    (b) During the notice period, the departing Founder shall cooperate in
+        transitioning responsibilities
+    (c) The departing Founder's unvested shares (if any) shall be forfeited
+    (d) The remaining Founder shall have the right of first refusal to
+        purchase the departing Founder's vested shares at fair market value
+
+8.2 INVOLUNTARY DEPARTURE
+    A Founder may be asked to leave the Company by the Board of Directors if:
+    (a) The Founder commits a material breach of this Agreement
+    (b) The Founder commits fraud, dishonesty, or willful misconduct
+    (c) The Founder is convicted of a criminal offense (other than minor
+        traffic violations)
+    (d) The Founder becomes incapacitated for more than 90 consecutive days
+
+8.3 FOUNDER VESTING
+    Upon the Company raising external funding of at least Rs. 25 lakhs, the
+    Founders' shares shall be subject to vesting as follows:
+    (a) 25% shall vest immediately
+    (b) The remaining 75% shall vest monthly over the next 36 months
+    (c) Acceleration upon change of control or IPO
+
+================================================================================
+
+                ARTICLE 9: CONFIDENTIALITY
+
+9.1 CONFIDENTIAL INFORMATION
+    Each Founder agrees to maintain the confidentiality of all proprietary
+    and confidential information of the Company, including but not limited to:
+    (a) Business plans and strategies
+    (b) Financial information
+    (c) Customer and vendor information
+    (d) Technical designs and source code
+    (e) Marketing and sales data
+
+9.2 SURVIVAL
+    The confidentiality obligations under this Article shall survive the
+    termination of this Agreement and any Founder's departure from the
+    Company for a period of 5 years.
+
+================================================================================
+
+             ARTICLE 10: DISPUTE RESOLUTION
+
+10.1 GOVERNING LAW
+     This Agreement shall be governed by and construed in accordance with
+     the laws of India.
+
+10.2 ARBITRATION
+     Any dispute arising out of or in connection with this Agreement shall
+     be finally settled by arbitration in accordance with the Arbitration
+     and Conciliation Act, 1996.
+
+10.3 ARBITRATION PROCEDURE
+     (a) The arbitration shall be conducted by a sole arbitrator mutually
+         appointed by the Founders
+     (b) If the Founders cannot agree on an arbitrator within 15 days, the
+         arbitrator shall be appointed by the High Court of Karnataka
+     (c) The seat of arbitration shall be Bangalore, Karnataka
+     (d) The proceedings shall be conducted in English
+
+================================================================================
+
+             ARTICLE 11: GENERAL PROVISIONS
+
+11.1 ENTIRE AGREEMENT
+     This Agreement constitutes the entire agreement between the Founders
+     with respect to the subject matter hereof and supersedes all prior
+     agreements and understandings.
+
+11.2 AMENDMENTS
+     This Agreement may be amended only by a written instrument signed by
+     both Founders.
+
+11.3 SEVERABILITY
+     If any provision of this Agreement is held to be invalid or unenforceable,
+     the remaining provisions shall continue in full force and effect.
+
+11.4 WAIVER
+     No waiver of any breach of this Agreement shall constitute a waiver of
+     any other or subsequent breach.
+
+11.5 NOTICES
+     All notices under this Agreement shall be in writing and delivered by
+     hand, courier, or email to the addresses specified above.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Founders have executed this Agreement on the date
+first written above.
+
+SIGNED AND DELIVERED
+
+
+_________________________
+RAHUL SHARMA (Founder 1)
+Date: 14th March, 2019
+
+
+_________________________
+PRIYA MEHTA (Founder 2)
+Date: 14th March, 2019
+
+
+WITNESSES:
+
+1. _________________________
+   Name: Vikram Reddy
+   Address: 567 Jayanagar 4th Block, Bangalore - 560041
+
+2. _________________________
+   Name: Sneha Kapoor
+   Address: 234 HSR Layout, Bangalore - 560102
+
+================================================================================

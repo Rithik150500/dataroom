@@ -1,0 +1,324 @@
+================================================================================
+              NON-DISCLOSURE AGREEMENT (NDA)
+                          OF
+              TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+                   [STANDARD TEMPLATE]
+
+================================================================================
+
+THIS NON-DISCLOSURE AGREEMENT (the "Agreement") is made and entered into on
+this _____ day of __________, 20____
+
+BETWEEN
+
+TECHVENTURE INDIA PRIVATE LIMITED, a company incorporated under the Companies
+Act, 2013, having CIN U72900KA2019PTC123456 and its registered office at #42,
+3rd Floor, Koramangala 5th Block, Bangalore - 560095, Karnataka (hereinafter
+referred to as "TechVenture" or the "Disclosing Party");
+
+AND
+
+___________________________
+[Name of Individual/Company]
+having its registered office / residing at ___________________________
+___________________________
+(hereinafter referred to as the "Receiving Party")
+
+The Disclosing Party and Receiving Party are hereinafter individually referred
+to as a "Party" and collectively as the "Parties".
+
+================================================================================
+
+                          RECITALS
+
+WHEREAS:
+
+A. The Disclosing Party is engaged in the business of developing and
+   providing Software as a Service (SaaS) solutions for enterprise
+   resource management.
+
+B. The Receiving Party is interested in [exploring a potential business
+   relationship / providing services / evaluating a potential investment /
+   other: ___________________________] with the Disclosing Party.
+
+C. In connection with the above Purpose, the Disclosing Party may disclose
+   certain confidential and proprietary information to the Receiving Party.
+
+D. The Parties wish to protect the confidentiality of such information
+   on the terms set forth in this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants contained herein
+and the disclosure of Confidential Information, the Parties agree as follows:
+
+================================================================================
+
+                  ARTICLE 1: DEFINITIONS
+
+1.1 "Confidential Information" means any and all information, whether
+    written, oral, electronic, visual, or in any other form, disclosed by
+    the Disclosing Party to the Receiving Party, including but not limited to:
+
+    (a) Technical Information: Software, source code, algorithms, designs,
+        specifications, architectures, databases, data structures, protocols,
+        APIs, documentation, and technical know-how.
+
+    (b) Business Information: Business plans, strategies, financial data,
+        pricing, marketing plans, customer lists, vendor information,
+        projections, and analyses.
+
+    (c) Product Information: Product designs, roadmaps, features,
+        development plans, and unreleased products.
+
+    (d) Corporate Information: Organizational structure, personnel
+        information, legal affairs, and acquisition plans.
+
+    (e) Any other information marked or identified as "Confidential" or
+        that by its nature would be understood to be confidential.
+
+1.2 "Purpose" means ___________________________
+    [Describe the specific purpose for which information is being disclosed]
+
+================================================================================
+
+          ARTICLE 2: EXCLUSIONS FROM CONFIDENTIAL INFORMATION
+
+2.1 Confidential Information does not include information that:
+
+    (a) Was already in the public domain at the time of disclosure, or
+        becomes publicly available through no fault of the Receiving Party;
+
+    (b) Was rightfully in the possession of the Receiving Party prior to
+        disclosure, as evidenced by written records;
+
+    (c) Is independently developed by the Receiving Party without use of
+        or reference to the Confidential Information;
+
+    (d) Is rightfully received from a third party without restriction on
+        disclosure and without breach of this Agreement;
+
+    (e) Is required to be disclosed by law, regulation, or court order,
+        provided that the Receiving Party gives prompt notice to the
+        Disclosing Party to enable it to seek a protective order.
+
+================================================================================
+
+               ARTICLE 3: OBLIGATIONS OF RECEIVING PARTY
+
+3.1 NON-DISCLOSURE
+    The Receiving Party agrees to:
+    (a) Hold all Confidential Information in strict confidence;
+    (b) Not disclose Confidential Information to any third party without
+        prior written consent of the Disclosing Party;
+    (c) Use Confidential Information solely for the Purpose.
+
+3.2 STANDARD OF CARE
+    The Receiving Party shall protect the Confidential Information using
+    the same degree of care it uses to protect its own confidential
+    information, but in no event less than a reasonable degree of care.
+
+3.3 LIMITED DISCLOSURE
+    The Receiving Party may disclose Confidential Information only to its
+    employees, officers, directors, advisors, and contractors who:
+    (a) Have a need to know for the Purpose;
+    (b) Are bound by confidentiality obligations at least as protective
+        as this Agreement;
+    (c) Are informed of the confidential nature of the information.
+
+3.4 RESPONSIBILITY
+    The Receiving Party shall be responsible for any breach of this
+    Agreement by any person to whom it has disclosed Confidential
+    Information.
+
+================================================================================
+
+           ARTICLE 4: NO LICENSE OR OWNERSHIP
+
+4.1 NO LICENSE
+    Nothing in this Agreement grants the Receiving Party any license or
+    right to use any Confidential Information, except for the Purpose.
+
+4.2 NO OWNERSHIP
+    All Confidential Information shall remain the sole property of the
+    Disclosing Party. No right, title, or interest in any intellectual
+    property is transferred or granted by this Agreement.
+
+4.3 NO OBLIGATION
+    Nothing in this Agreement obligates either Party to:
+    (a) Enter into any further agreement;
+    (b) Disclose any particular Confidential Information;
+    (c) Purchase any products or services;
+    (d) Continue discussions regarding the Purpose.
+
+================================================================================
+
+                ARTICLE 5: RETURN OF INFORMATION
+
+5.1 RETURN OR DESTRUCTION
+    Upon the written request of the Disclosing Party, or upon termination
+    of this Agreement, the Receiving Party shall:
+    (a) Return all Confidential Information in tangible form;
+    (b) Destroy all copies, extracts, and derivatives of Confidential
+        Information in any form;
+    (c) Provide written certification of such return or destruction.
+
+5.2 EXCEPTIONS
+    The Receiving Party may retain:
+    (a) One copy for archival purposes in a secure location;
+    (b) Copies required by law or regulation;
+    (c) Backup copies on IT systems, subject to continued confidentiality.
+
+================================================================================
+
+                    ARTICLE 6: TERM
+
+6.1 TERM OF AGREEMENT
+    This Agreement shall be effective from the date first written above
+    and shall continue for a period of [2/3] years, unless terminated
+    earlier by either Party with 30 days' written notice.
+
+6.2 SURVIVAL
+    The confidentiality obligations under this Agreement shall survive
+    termination and continue for a period of [3/5] years from the date
+    of disclosure of the Confidential Information, or for such longer
+    period as the Confidential Information qualifies as a trade secret.
+
+================================================================================
+
+                   ARTICLE 7: REMEDIES
+
+7.1 IRREPARABLE HARM
+    The Receiving Party acknowledges that any unauthorized disclosure or
+    use of Confidential Information may cause irreparable harm to the
+    Disclosing Party for which monetary damages may be inadequate.
+
+7.2 INJUNCTIVE RELIEF
+    The Disclosing Party shall be entitled to seek injunctive relief,
+    specific performance, or other equitable remedies, in addition to
+    any other remedies available at law.
+
+7.3 CUMULATIVE REMEDIES
+    All remedies available under this Agreement are cumulative and in
+    addition to any other remedies provided by law.
+
+================================================================================
+
+               ARTICLE 8: GENERAL PROVISIONS
+
+8.1 NO WARRANTY
+    ALL CONFIDENTIAL INFORMATION IS PROVIDED "AS IS" WITHOUT ANY WARRANTY,
+    EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS
+    FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+8.2 RELATIONSHIP
+    Nothing in this Agreement creates any partnership, joint venture,
+    agency, or employment relationship between the Parties.
+
+8.3 ASSIGNMENT
+    This Agreement may not be assigned by either Party without the prior
+    written consent of the other Party.
+
+8.4 ENTIRE AGREEMENT
+    This Agreement constitutes the entire agreement between the Parties
+    regarding the subject matter hereof and supersedes all prior
+    agreements and understandings.
+
+8.5 AMENDMENTS
+    This Agreement may be amended only by written agreement signed by
+    both Parties.
+
+8.6 SEVERABILITY
+    If any provision of this Agreement is held invalid or unenforceable,
+    the remaining provisions shall remain in full force and effect.
+
+8.7 WAIVER
+    No waiver of any breach shall constitute a waiver of any subsequent
+    breach or of any other provision.
+
+8.8 NOTICES
+    All notices under this Agreement shall be in writing and delivered
+    to the addresses specified above.
+
+8.9 GOVERNING LAW
+    This Agreement shall be governed by the laws of India.
+
+8.10 DISPUTE RESOLUTION
+     Any dispute arising out of or in connection with this Agreement
+     shall be settled by arbitration in Bangalore, Karnataka, in
+     accordance with the Arbitration and Conciliation Act, 1996.
+
+8.11 COUNTERPARTS
+     This Agreement may be executed in counterparts, each of which shall
+     be deemed an original.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date
+first written above.
+
+
+For TECHVENTURE INDIA PRIVATE LIMITED
+(Disclosing Party)
+
+
+_________________________
+Name: ___________________________
+Designation: ___________________________
+Date: ___________________________
+
+
+
+For [RECEIVING PARTY NAME]
+(Receiving Party)
+
+
+_________________________
+Name: ___________________________
+Designation: ___________________________
+Date: ___________________________
+
+
+WITNESSES:
+
+1. _________________________
+   Name:
+   Address:
+
+2. _________________________
+   Name:
+   Address:
+
+================================================================================
+
+            SCHEDULE A - DESCRIPTION OF PURPOSE
+
+The Confidential Information is being disclosed for the following Purpose:
+
+[  ] Evaluation of potential business partnership
+[  ] Evaluation of potential investment in the Company
+[  ] Provision of services by the Receiving Party
+[  ] Technology integration or API access
+[  ] Due diligence in connection with a potential transaction
+[  ] Other: ___________________________
+
+Description:
+___________________________
+___________________________
+___________________________
+
+================================================================================
+
+          SCHEDULE B - SPECIFIC CONFIDENTIAL INFORMATION
+                    (If Applicable)
+
+The following specific information shall be considered Confidential
+Information under this Agreement:
+
+1. ___________________________
+2. ___________________________
+3. ___________________________
+4. ___________________________
+5. ___________________________
+
+================================================================================

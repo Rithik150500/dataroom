@@ -1,0 +1,366 @@
+================================================================================
+                TECHVENTURE INDIA PRIVATE LIMITED
+                    EMPLOYEE STOCK OPTION PLAN 2020
+                      (TechVenture ESOP Scheme 2020)
+================================================================================
+
+                         PREAMBLE
+
+TechVenture India Private Limited (the "Company") establishes this Employee
+Stock Option Plan 2020 (the "Plan" or "Scheme") with the objective of
+attracting, retaining, and motivating talented employees by providing them
+an opportunity to participate in the growth and success of the Company.
+
+This Plan has been approved by the Board of Directors of the Company on
+March 20, 2020 and by the Shareholders of the Company at the Extraordinary
+General Meeting held on April 10, 2020.
+
+================================================================================
+
+                    ARTICLE 1: DEFINITIONS
+
+1.1  "Board" means the Board of Directors of the Company.
+
+1.2  "Compensation Committee" means the committee constituted by the Board
+     to administer this Plan, or in the absence of such committee, the Board
+     itself.
+
+1.3  "Company" means TechVenture India Private Limited.
+
+1.4  "Employee" means a permanent employee of the Company working in India
+     or outside India, including a Director of the Company, whether whole-time
+     or part-time.
+
+1.5  "Exercise Period" means the period after vesting within which the
+     Grantee should exercise the vested Options.
+
+1.6  "Exercise Price" means the price payable by the Grantee to the Company
+     for exercising the Options granted under the Plan.
+
+1.7  "Fair Market Value" means the value of an equity share determined by a
+     merchant banker or an independent valuer as required under applicable law.
+
+1.8  "Grant" means the Options granted to an eligible Employee under this Plan.
+
+1.9  "Grant Date" means the date on which the Board or Compensation Committee
+     grants Options to an eligible Employee.
+
+1.10 "Grantee" means an Employee who has been granted Options under this Plan.
+
+1.11 "Option" means the right, but not the obligation, granted to an Employee
+     to apply for and be allotted equity shares of the Company on satisfaction
+     of vesting conditions.
+
+1.12 "Option Agreement" means the agreement between the Company and the
+     Grantee setting out the terms and conditions of the Grant.
+
+1.13 "Plan" or "Scheme" means this TechVenture ESOP Scheme 2020.
+
+1.14 "Vesting" means the process by which the Grantee acquires the right to
+     exercise the Options granted.
+
+1.15 "Vesting Period" means the period during which vesting occurs as per
+     the vesting schedule.
+
+================================================================================
+
+                 ARTICLE 2: ADMINISTRATION
+
+2.1  COMPENSATION COMMITTEE
+     This Plan shall be administered by the Compensation Committee appointed
+     by the Board. Until such time as the Compensation Committee is constituted,
+     the Board shall administer the Plan.
+
+2.2  POWERS OF THE COMPENSATION COMMITTEE
+     The Compensation Committee shall have the following powers:
+     (a) To grant Options to eligible Employees
+     (b) To determine the number of Options to be granted to each Employee
+     (c) To determine the Exercise Price
+     (d) To determine the Vesting Period and Vesting Schedule
+     (e) To determine the Exercise Period
+     (f) To interpret the provisions of this Plan
+     (g) To prescribe forms and procedures for administration of this Plan
+     (h) To accelerate vesting in appropriate circumstances
+     (i) To make all other determinations necessary for administration
+
+2.3  DECISIONS BINDING
+     All decisions of the Compensation Committee shall be final and binding
+     on all parties.
+
+================================================================================
+
+             ARTICLE 3: ELIGIBILITY AND GRANT
+
+3.1  ELIGIBILITY
+     The following persons are eligible to participate in this Plan:
+     (a) Permanent employees of the Company
+     (b) Directors of the Company (whether whole-time or part-time)
+     (c) Employees and Directors of subsidiary companies (if any)
+
+     The following persons are NOT eligible:
+     (a) An Employee who is a Promoter or belongs to the Promoter Group
+     (b) A Director who holds more than 10% of the outstanding equity shares
+
+3.2  CRITERIA FOR GRANT
+     The Compensation Committee shall consider the following factors in
+     determining Grants:
+     (a) Job level and role criticality
+     (b) Performance and potential
+     (c) Tenure with the Company
+     (d) Contribution to the Company's growth
+     (e) Market benchmarks and retention requirements
+
+3.3  OPTION POOL
+     The maximum number of Options that may be granted under this Plan shall
+     not exceed 3,750 (Three Thousand Seven Hundred and Fifty), representing
+     15% of the issued and paid-up equity share capital of the Company as on
+     the date of approval of this Plan.
+
+3.4  GRANT PROCESS
+     (a) The Compensation Committee shall approve each Grant
+     (b) The Company shall issue an Option Agreement to the Grantee
+     (c) The Grantee shall sign and return the Option Agreement within
+         30 days of receipt
+     (d) Failure to return the signed Option Agreement shall result in
+         automatic cancellation of the Grant
+
+================================================================================
+
+                    ARTICLE 4: EXERCISE PRICE
+
+4.1  DETERMINATION OF EXERCISE PRICE
+     The Exercise Price for each Grant shall be determined by the Compensation
+     Committee and shall not be less than the face value of the equity shares.
+
+4.2  STANDARD EXERCISE PRICE
+     Unless otherwise determined by the Compensation Committee, the Exercise
+     Price shall be the face value of the equity shares, i.e., Rs. 100 per share.
+
+4.3  DISCLOSURE
+     The Exercise Price shall be clearly stated in the Option Agreement.
+
+================================================================================
+
+                     ARTICLE 5: VESTING
+
+5.1  STANDARD VESTING SCHEDULE
+     Unless otherwise specified in the Option Agreement, Options shall vest
+     according to the following schedule:
+
+     After Completion of     |  Cumulative Vesting  |  Options Vesting
+     ------------------------|----------------------|------------------
+     1 year (Cliff)          |       25%            |    Per Grant
+     2 years                 |       50%            |    Per Grant
+     3 years                 |       75%            |    Per Grant
+     4 years                 |      100%            |    Per Grant
+
+     Monthly vesting after the one-year cliff: Options shall vest monthly
+     on a pro-rata basis between the end of Year 1 and Year 4.
+
+5.2  VESTING CONDITIONS
+     Vesting is subject to the following conditions:
+     (a) Continued employment with the Company
+     (b) Satisfactory performance as determined by the Company
+     (c) Compliance with Company policies and this Plan
+
+5.3  ACCELERATION OF VESTING
+     The Compensation Committee may accelerate vesting upon:
+     (a) Change of Control of the Company
+     (b) Initial Public Offering (IPO)
+     (c) Death or permanent disability of the Grantee
+     (d) Any other circumstance deemed appropriate by the Committee
+
+5.4  CHANGE OF CONTROL
+     "Change of Control" means:
+     (a) Sale or transfer of more than 50% of the voting securities
+     (b) Sale of substantially all of the assets of the Company
+     (c) Merger or consolidation where Company's shareholders own less than
+         50% of the surviving entity
+
+================================================================================
+
+                    ARTICLE 6: EXERCISE
+
+6.1  EXERCISE PERIOD
+     Vested Options may be exercised:
+     (a) During the Exercise Period specified in the Option Agreement
+     (b) Standard Exercise Period: 10 years from the Grant Date
+     (c) Extended Exercise Period upon termination: as per Article 7
+
+6.2  EXERCISE PROCEDURE
+     To exercise Options, the Grantee shall:
+     (a) Submit a written Exercise Notice to the Company
+     (b) Specify the number of Options being exercised
+     (c) Pay the Exercise Price in full by bank transfer or cheque
+     (d) Complete any tax withholding requirements
+
+6.3  PARTIAL EXERCISE
+     The Grantee may exercise vested Options in whole or in part, subject
+     to a minimum of 50 Options per exercise (or such other minimum as
+     specified in the Option Agreement).
+
+6.4  ALLOTMENT OF SHARES
+     Upon valid exercise and receipt of Exercise Price:
+     (a) The Company shall allot equity shares within 15 days
+     (b) Share certificates shall be issued within 30 days
+     (c) The Company shall update the Register of Members
+     (d) The Company shall file necessary forms with the ROC
+
+================================================================================
+
+          ARTICLE 7: TERMINATION OF EMPLOYMENT
+
+7.1  VOLUNTARY RESIGNATION
+     If a Grantee voluntarily resigns:
+     (a) All unvested Options shall lapse immediately
+     (b) Vested but unexercised Options may be exercised within 90 days
+         from the last day of employment
+     (c) Any unexercised Options after this period shall lapse
+
+7.2  TERMINATION FOR CAUSE
+     If employment is terminated for Cause:
+     (a) All Options (vested and unvested) shall lapse immediately
+     (b) "Cause" includes fraud, dishonesty, breach of confidentiality,
+         material breach of employment agreement, or criminal conviction
+
+7.3  TERMINATION WITHOUT CAUSE
+     If employment is terminated by the Company without Cause:
+     (a) All unvested Options shall lapse immediately
+     (b) Vested Options may be exercised within 180 days from termination
+     (c) At the discretion of the Committee, additional vesting may be granted
+
+7.4  DEATH OR DISABILITY
+     In case of death or permanent disability:
+     (a) All unvested Options shall vest immediately (acceleration)
+     (b) The legal heirs or the disabled Grantee may exercise within 1 year
+     (c) The Exercise Price shall remain unchanged
+
+7.5  RETIREMENT
+     Upon retirement at normal retirement age:
+     (a) All Options shall continue to vest as per the original schedule
+     (b) Vested Options may be exercised within 1 year from retirement
+
+================================================================================
+
+            ARTICLE 8: NON-TRANSFERABILITY
+
+8.1  RESTRICTION ON TRANSFER
+     Options granted under this Plan:
+     (a) Are personal to the Grantee
+     (b) Cannot be sold, transferred, assigned, pledged, or encumbered
+     (c) Shall not be subject to attachment or execution
+     (d) May be transferred only upon death to legal heirs
+
+8.2  TRANSFER OF SHARES
+     Equity shares allotted upon exercise:
+     (a) May be subject to lock-in periods as determined by the Committee
+     (b) Shall be subject to the Company's transfer restrictions (ROFO, etc.)
+     (c) Shall be subject to any applicable shareholder agreements
+
+================================================================================
+
+                     ARTICLE 9: TAXATION
+
+9.1  TAX RESPONSIBILITY
+     The Grantee shall be solely responsible for all tax consequences
+     arising from:
+     (a) Grant of Options
+     (b) Vesting of Options
+     (c) Exercise of Options
+     (d) Sale of shares acquired upon exercise
+
+9.2  TAX WITHHOLDING
+     The Company shall:
+     (a) Deduct tax at source as required under applicable law
+     (b) The Grantee shall provide necessary information for tax compliance
+     (c) The Company may require the Grantee to make arrangements for tax
+         payment before allotment of shares
+
+9.3  TAX ADVICE
+     The Grantee is advised to consult independent tax advisors regarding
+     the tax implications of participating in this Plan.
+
+================================================================================
+
+       ARTICLE 10: AMENDMENTS AND TERMINATION
+
+10.1 AMENDMENT
+     The Board may amend this Plan at any time, provided that:
+     (a) Shareholder approval is obtained for material amendments
+     (b) No amendment shall adversely affect the rights of existing Grantees
+         without their consent
+     (c) Changes to vesting conditions require consent of affected Grantees
+
+10.2 TERMINATION
+     The Board may terminate this Plan at any time, provided that:
+     (a) Options already granted shall continue to be governed by this Plan
+     (b) No new Grants shall be made after termination
+
+================================================================================
+
+              ARTICLE 11: GENERAL PROVISIONS
+
+11.1 NO RIGHT TO EMPLOYMENT
+     Nothing in this Plan shall be construed as conferring on the Grantee
+     any right to continue in employment with the Company.
+
+11.2 GOVERNING LAW
+     This Plan shall be governed by the laws of India and the jurisdiction
+     of courts in Bangalore, Karnataka.
+
+11.3 COMPLIANCE
+     This Plan is intended to comply with:
+     (a) Companies Act, 2013 and rules thereunder
+     (b) Income Tax Act, 1961 (for taxation of ESOPs)
+     (c) Any other applicable laws
+
+11.4 EFFECTIVE DATE
+     This Plan shall be effective from April 10, 2020.
+
+================================================================================
+
+                        APPROVALS
+
+BOARD RESOLUTION
+
+"RESOLVED THAT the TechVenture Employee Stock Option Plan 2020 as placed
+before the meeting be and is hereby approved.
+
+RESOLVED FURTHER THAT the Board authorizes the creation of an ESOP pool of
+3,750 Options (15% of issued capital) for grant to eligible employees.
+
+RESOLVED FURTHER THAT the Compensation Committee be and is hereby authorized
+to administer the Plan and make Grants to eligible employees."
+
+Date: March 20, 2020
+
+
+SHAREHOLDER RESOLUTION
+
+"RESOLVED THAT pursuant to Section 62(1)(b) of the Companies Act, 2013 and
+the Companies (Share Capital and Debentures) Rules, 2014, consent be and is
+hereby accorded for the adoption of the TechVenture Employee Stock Option
+Plan 2020 and creation of an ESOP pool of 3,750 Options."
+
+Date: April 10, 2020
+
+================================================================================
+
+For TECHVENTURE INDIA PRIVATE LIMITED
+
+
+_________________________
+Mr. Rahul Sharma
+Director
+DIN: 08123456
+
+
+_________________________
+Ms. Priya Mehta
+Director
+DIN: 08234567
+
+Date: April 10, 2020
+Place: Bangalore
+
+================================================================================

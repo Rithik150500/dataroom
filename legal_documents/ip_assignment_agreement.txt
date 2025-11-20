@@ -1,0 +1,387 @@
+================================================================================
+           INTELLECTUAL PROPERTY ASSIGNMENT AGREEMENT
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+THIS INTELLECTUAL PROPERTY ASSIGNMENT AGREEMENT (the "Agreement") is made
+on this _____ day of __________, 20____
+
+BETWEEN
+
+TECHVENTURE INDIA PRIVATE LIMITED, a company incorporated under the Companies
+Act, 2013, having CIN U72900KA2019PTC123456 and its registered office at #42,
+3rd Floor, Koramangala 5th Block, Bangalore - 560095, Karnataka (hereinafter
+referred to as the "Company" or the "Assignee");
+
+AND
+
+Mr./Ms. ___________________________
+Son/Daughter of ___________________________
+Residing at ___________________________
+___________________________
+(hereinafter referred to as the "Assignor")
+
+The Company and the Assignor are hereinafter individually referred to as a
+"Party" and collectively as the "Parties".
+
+================================================================================
+
+                          RECITALS
+
+WHEREAS:
+
+A. The Assignor is [a founder / an employee / a contractor] of the Company.
+
+B. In connection with the Assignor's relationship with the Company, the
+   Assignor has created, developed, or contributed to certain intellectual
+   property that is related to or useful for the business of the Company.
+
+C. The Parties wish to formalize the assignment of such intellectual property
+   to the Company on the terms and conditions set forth herein.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements
+contained herein, and for other good and valuable consideration, the receipt
+and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+
+================================================================================
+
+                  ARTICLE 1: DEFINITIONS
+
+1.1 "Assigned IP" means:
+    (a) All Prior IP as described in Schedule A;
+    (b) All Work Product created by the Assignor;
+    (c) All improvements, modifications, and derivatives thereof.
+
+1.2 "Company Business" means the business of developing and providing
+    software as a service (SaaS) solutions, enterprise software, and
+    related services.
+
+1.3 "Confidential Information" means any proprietary or confidential
+    information of the Company.
+
+1.4 "Intellectual Property Rights" means all rights, title, and interest
+    in and to:
+    (a) Patents and patent applications;
+    (b) Copyrights and copyrightable works;
+    (c) Trademarks, service marks, and trade names;
+    (d) Trade secrets and know-how;
+    (e) Software, source code, and object code;
+    (f) Domain names and URLs;
+    (g) All other intellectual property rights.
+
+1.5 "Prior IP" means intellectual property created by the Assignor prior
+    to joining the Company that is related to or useful for the Company
+    Business, as listed in Schedule A.
+
+1.6 "Work Product" means all inventions, discoveries, developments, designs,
+    ideas, concepts, software, code, documentation, and other work created
+    by the Assignor:
+    (a) During the term of employment/engagement;
+    (b) In connection with or relating to the Company Business;
+    (c) Using Company resources, facilities, or information.
+
+================================================================================
+
+                  ARTICLE 2: ASSIGNMENT OF IP
+
+2.1 ASSIGNMENT OF PRIOR IP
+    The Assignor hereby irrevocably assigns, transfers, and conveys to the
+    Company all right, title, and interest in and to the Prior IP listed in
+    Schedule A, including all Intellectual Property Rights therein.
+
+2.2 ASSIGNMENT OF WORK PRODUCT
+    The Assignor hereby irrevocably assigns, transfers, and conveys to the
+    Company all right, title, and interest in and to all Work Product,
+    including all Intellectual Property Rights therein.
+
+2.3 FUTURE WORK PRODUCT
+    The Assignor agrees that all Work Product created during the term of
+    employment/engagement shall automatically be assigned to the Company
+    upon creation.
+
+2.4 WORK FOR HIRE
+    To the extent any Work Product qualifies as "work for hire" under
+    applicable law, such Work Product shall be considered work made for
+    hire for the Company.
+
+2.5 NO RETAINED RIGHTS
+    The Assignor retains no rights in the Assigned IP except as expressly
+    granted in writing by the Company.
+
+================================================================================
+
+               ARTICLE 3: CONSIDERATION
+
+3.1 FOR EMPLOYEES/FOUNDERS
+    The consideration for this assignment includes:
+    (a) The Assignor's employment/engagement with the Company;
+    (b) Salary, compensation, and benefits;
+    (c) Stock options or equity grants (if applicable);
+    (d) Access to Company resources and opportunities.
+
+3.2 FOR CONTRACTORS
+    The consideration for this assignment is included in the fees payable
+    under the Assignor's service agreement with the Company.
+
+3.3 ACKNOWLEDGMENT
+    The Assignor acknowledges that the consideration is adequate and
+    sufficient for this assignment.
+
+================================================================================
+
+              ARTICLE 4: REPRESENTATIONS AND WARRANTIES
+
+4.1 ASSIGNOR REPRESENTATIONS
+    The Assignor represents and warrants that:
+
+    (a) OWNERSHIP: The Assignor is the sole owner of the Assigned IP and
+        has full right and authority to make this assignment.
+
+    (b) NO ENCUMBRANCES: The Assigned IP is free and clear of all liens,
+        encumbrances, security interests, and claims.
+
+    (c) NO INFRINGEMENT: The Assigned IP does not infringe any third-party
+        intellectual property rights.
+
+    (d) NO PRIOR ASSIGNMENT: The Assignor has not previously assigned,
+        transferred, or licensed any rights in the Assigned IP.
+
+    (e) COMPLETE DISCLOSURE: Schedule A contains a complete and accurate
+        list of all Prior IP.
+
+    (f) NO THIRD-PARTY CLAIMS: There are no pending or threatened claims
+        relating to the Assigned IP.
+
+    (g) NO EMPLOYER RESTRICTIONS: The Assignor is not subject to any
+        agreement with a prior employer that would prevent this assignment.
+
+4.2 INDEMNIFICATION
+    The Assignor shall indemnify and hold harmless the Company against
+    any claims arising from breach of these representations and warranties.
+
+================================================================================
+
+               ARTICLE 5: FURTHER ASSURANCES
+
+5.1 COOPERATION
+    The Assignor agrees to:
+
+    (a) Execute any additional documents necessary to perfect the Company's
+        rights in the Assigned IP, including patent applications,
+        copyright registrations, and trademark applications;
+
+    (b) Provide all information and materials relating to the Assigned IP;
+
+    (c) Testify in any legal proceedings relating to the Assigned IP;
+
+    (d) Assist in the prosecution or defense of any IP-related claims;
+
+    (e) Maintain records of Work Product creation.
+
+5.2 POWER OF ATTORNEY
+    In the event the Assignor fails or refuses to execute any required
+    documents, the Company is hereby irrevocably appointed as the
+    Assignor's attorney-in-fact to execute such documents on behalf of
+    the Assignor.
+
+5.3 SURVIVAL
+    The Assignor's obligations under this Article shall survive termination
+    of employment/engagement.
+
+================================================================================
+
+               ARTICLE 6: MORAL RIGHTS
+
+6.1 WAIVER OF MORAL RIGHTS
+    To the extent permitted by applicable law, the Assignor hereby:
+
+    (a) Waives all moral rights in the Assigned IP, including the right
+        of attribution and the right of integrity;
+
+    (b) Consents to any action by the Company that would otherwise
+        infringe such moral rights;
+
+    (c) Agrees not to assert any moral rights against the Company or
+        its licensees.
+
+6.2 ATTRIBUTION
+    The Company may, at its discretion, attribute authorship to the
+    Assignor, but is under no obligation to do so.
+
+================================================================================
+
+              ARTICLE 7: CONFIDENTIALITY
+
+7.1 CONFIDENTIAL INFORMATION
+    The Assignor agrees that:
+
+    (a) The Assigned IP and all related materials are Confidential
+        Information of the Company;
+
+    (b) The Assignor shall maintain the confidentiality of such information;
+
+    (c) The Assignor shall not use or disclose such information except
+        as required for the Company's business.
+
+7.2 RETURN OF MATERIALS
+    Upon termination of employment/engagement, the Assignor shall return
+    all materials relating to the Assigned IP.
+
+================================================================================
+
+            ARTICLE 8: EXCLUDED INVENTIONS
+
+8.1 PRIOR INVENTIONS
+    The inventions, if any, listed in Schedule B are excluded from this
+    Agreement as they were created prior to the Assignor's relationship
+    with the Company and are not related to the Company Business.
+
+8.2 PERSONAL PROJECTS
+    Inventions created entirely on the Assignor's own time, without use
+    of Company resources, and not related to the Company Business are
+    excluded, provided such inventions are disclosed to and approved by
+    the Company in writing.
+
+8.3 DISCLOSURE REQUIREMENT
+    The Assignor shall promptly disclose to the Company any invention
+    that may reasonably be considered to be related to the Company
+    Business to allow the Company to determine ownership.
+
+================================================================================
+
+               ARTICLE 9: GENERAL PROVISIONS
+
+9.1 ENTIRE AGREEMENT
+    This Agreement constitutes the entire agreement between the Parties
+    with respect to the subject matter hereof.
+
+9.2 AMENDMENTS
+    This Agreement may be amended only by written agreement signed by
+    both Parties.
+
+9.3 SEVERABILITY
+    If any provision is held invalid, the remaining provisions shall
+    remain in full force and effect.
+
+9.4 ASSIGNMENT
+    This Agreement and the rights assigned hereunder may be assigned by
+    the Company to any successor or affiliate without consent.
+
+9.5 GOVERNING LAW
+    This Agreement shall be governed by the laws of India. Any disputes
+    shall be subject to the exclusive jurisdiction of courts in Bangalore.
+
+9.6 SURVIVAL
+    The provisions of this Agreement shall survive termination of the
+    Assignor's employment or engagement with the Company.
+
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date
+first written above.
+
+
+For TECHVENTURE INDIA PRIVATE LIMITED
+(Assignee)
+
+
+_________________________
+Name: ___________________________
+Designation: ___________________________
+Date: ___________________________
+
+
+
+ASSIGNOR
+
+
+_________________________
+Name: ___________________________
+Date: ___________________________
+
+
+WITNESSES:
+
+1. _________________________
+   Name:
+   Address:
+
+2. _________________________
+   Name:
+   Address:
+
+================================================================================
+
+                       SCHEDULE A
+           LIST OF PRIOR INTELLECTUAL PROPERTY
+           (Assigned to the Company)
+
+[List all prior IP being assigned, with sufficient detail for identification]
+
+1. Description: ___________________________
+   Type: [ ] Software [ ] Design [ ] Process [ ] Other
+   Date Created: ___________________________
+   Brief Description: ___________________________
+
+2. Description: ___________________________
+   Type: [ ] Software [ ] Design [ ] Process [ ] Other
+   Date Created: ___________________________
+   Brief Description: ___________________________
+
+3. Description: ___________________________
+   Type: [ ] Software [ ] Design [ ] Process [ ] Other
+   Date Created: ___________________________
+   Brief Description: ___________________________
+
+[ ] I confirm that I have no Prior IP to assign.
+
+_________________________
+Assignor Signature
+Date: ___________________________
+
+================================================================================
+
+                       SCHEDULE B
+           LIST OF EXCLUDED INVENTIONS
+           (Not Assigned to the Company)
+
+[List any inventions/IP created before joining that are NOT related to
+the Company Business and are NOT being assigned]
+
+1. Description: ___________________________
+   Type: [ ] Software [ ] Design [ ] Process [ ] Other
+   Date Created: ___________________________
+   Brief Description: ___________________________
+   Reason for Exclusion: ___________________________
+
+[ ] I confirm that I have no excluded inventions to declare.
+
+_________________________
+Assignor Signature
+Date: ___________________________
+
+================================================================================
+
+                  ACKNOWLEDGMENT
+
+I, the undersigned Assignor, hereby acknowledge and confirm that:
+
+1. I have read and understood this Agreement;
+
+2. I have had the opportunity to seek independent legal advice;
+
+3. I am entering into this Agreement voluntarily;
+
+4. The information provided in Schedules A and B is complete and accurate;
+
+5. I understand that this assignment is irrevocable;
+
+6. I agree to be bound by the terms of this Agreement.
+
+
+_________________________
+Assignor Signature
+Date: ___________________________
+
+================================================================================
