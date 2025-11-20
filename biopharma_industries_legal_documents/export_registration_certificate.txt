@@ -1,0 +1,344 @@
+================================================================================
+                    EXPORT REGISTRATION AND CERTIFICATES
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+================================================================================
+
+DOCUMENT 1: CERTIFICATE OF PHARMACEUTICAL PRODUCT (CoPP)
+
+================================================================================
+
+                    CENTRAL DRUGS STANDARD CONTROL ORGANISATION
+                    DIRECTORATE GENERAL OF HEALTH SERVICES
+                    MINISTRY OF HEALTH AND FAMILY WELFARE
+                    GOVERNMENT OF INDIA
+
+--------------------------------------------------------------------------------
+
+CERTIFICATE OF A PHARMACEUTICAL PRODUCT
+
+Certificate Number:     CDSCO/CoPP/2025/5678
+Product Reference:      AMOXICILLIN CAPSULES 500mg
+
+--------------------------------------------------------------------------------
+
+This certificate conforms to the format recommended by the World Health
+Organization for a Certificate of a Pharmaceutical Product.
+
+--------------------------------------------------------------------------------
+
+EXPORTING (CERTIFYING) COUNTRY: INDIA
+
+1. NAME AND DOSAGE FORM OF PRODUCT
+
+   Product Name:        AMOXICILLIN CAPSULES BP 500mg
+   Dosage Form:         Hard Gelatin Capsules
+   Strength:            500mg (as Amoxicillin Trihydrate)
+
+2. NAME AND ADDRESS OF MANUFACTURER
+
+   BioPharma Industries Limited
+   Plot No. 234-235, MIDC Industrial Area
+   Thane-Belapur Road, Rabale
+   Thane - 400701, Maharashtra, INDIA
+
+3. PRODUCT STATUS IN INDIA
+
+   (a) Is this product licensed to be placed on the market for use in India?
+       YES
+
+   (b) Is the product actually on the market in India?
+       YES
+
+4. MARKETING AUTHORIZATION
+
+   Drug License Number:  MH/25D/2013/1234
+   Product Approval:     MH/29/2014/567
+   Approved On:          February 15, 2014
+
+5. GMP STATUS OF MANUFACTURING FACILITY
+
+   (a) Does the manufacturing plant comply with GMP as recommended by WHO?
+       YES
+
+   (b) Date of last inspection: August 5, 2024
+       Outcome: Compliant
+
+   (c) WHO-GMP Certificate Number: WHO/GMP/IN/2024/0567
+       Valid Until: March 14, 2027
+
+6. APPLICANT FOR CERTIFICATE
+
+   Name:    BioPharma Industries Limited
+   Address: Plot No. 234-235, MIDC Industrial Area
+            Thane - 400701, Maharashtra
+
+7. REMARKS
+
+   This product is manufactured in accordance with Good Manufacturing
+   Practices (Schedule M of Drugs and Cosmetics Rules, 1945) and complies
+   with the specifications of British Pharmacopoeia.
+
+--------------------------------------------------------------------------------
+
+                                             [SEAL OF CDSCO]
+
+                                             Sd/-
+                                             Drugs Controller General (India)
+                                             Central Drugs Standard Control
+                                             Organisation
+                                             FDA Bhawan, Kotla Road
+                                             New Delhi - 110002
+
+Date of Issue: January 15, 2025
+Valid Until: January 14, 2026
+
+--------------------------------------------------------------------------------
+
+Note: This Certificate of Pharmaceutical Product (CoPP) must be renewed
+annually. Separate CoPPs are issued for each product.
+
+================================================================================
+
+DOCUMENT 2: FREE SALE CERTIFICATE
+
+================================================================================
+
+                    CENTRAL DRUGS STANDARD CONTROL ORGANISATION
+                    GOVERNMENT OF INDIA
+
+--------------------------------------------------------------------------------
+
+FREE SALE CERTIFICATE
+
+Certificate Number:     CDSCO/FSC/2025/1234
+
+--------------------------------------------------------------------------------
+
+This is to certify that the following pharmaceutical products manufactured by:
+
+Manufacturer:           BioPharma Industries Limited
+Address:                Plot No. 234-235, MIDC Industrial Area
+                        Thane - 400701, Maharashtra, INDIA
+
+Are freely sold in India without any restriction:
+
+S.No  Product Name                      Drug License Approval No.
+--------------------------------------------------------------------
+1.    Amoxicillin Capsules 250mg        MH/29/2014/566
+2.    Amoxicillin Capsules 500mg        MH/29/2014/567
+3.    Azithromycin Tablets 250mg        MH/29/2018/234
+4.    Azithromycin Tablets 500mg        MH/29/2018/235
+5.    Metformin HCl Tablets 500mg       MH/29/2014/890
+6.    Metformin HCl Tablets 850mg       MH/29/2014/891
+7.    Amlodipine Tablets 5mg            MH/29/2014/123
+8.    Amlodipine Tablets 10mg           MH/29/2014/124
+9.    Cefixime Tablets 200mg            MH/29/2017/345
+10.   Ciprofloxacin Tablets 500mg       MH/29/2015/456
+
+The manufacturer holds valid Drug Manufacturing License No. MH/25D/2013/1234
+issued by Food and Drug Administration, Maharashtra.
+
+                                             Sd/-
+                                             Deputy Drugs Controller (India)
+
+Date of Issue: January 15, 2025
+Valid Until: January 14, 2026
+
+================================================================================
+
+DOCUMENT 3: EXPORT COUNTRY REGISTRATIONS
+
+================================================================================
+
+BioPharma Industries has registered products in the following countries:
+
+AFRICAN MARKETS:
+
+Country         Regulatory      Products    Registration   Status
+                Authority       Registered  Valid Until
+--------------------------------------------------------------------
+Kenya           PPB             12          2029           Active
+Nigeria         NAFDAC          10          2028           Active
+Tanzania        TFDA            8           2027           Active
+Uganda          NDA             6           2027           Active
+Ghana           FDA Ghana       7           2028           Active
+Ethiopia        EFDA            5           2026           Active
+South Africa    SAHPRA          3           2029           Active
+
+ASIAN MARKETS:
+
+Country         Regulatory      Products    Registration   Status
+                Authority       Registered  Valid Until
+--------------------------------------------------------------------
+Philippines     FDA Phil        8           2028           Active
+Vietnam         DAV             6           2027           Active
+Sri Lanka       NMRA            10          2029           Active
+Myanmar         FDA Myanmar     4           2026           Active
+Cambodia        DDF             5           2027           Active
+
+LATIN AMERICAN MARKETS:
+
+Country         Regulatory      Products    Filing Status
+                Authority       Filed
+--------------------------------------------------------------------
+Brazil          ANVISA          5           Filed Q3 FY26
+Mexico          COFEPRIS        3           Planned Q4 FY26
+
+MIDDLE EAST:
+
+Country         Regulatory      Products    Registration   Status
+                Authority       Registered  Valid Until
+--------------------------------------------------------------------
+Yemen           SBDMA           6           2027           Active
+Iraq            MOH Iraq        4           2026           Active
+
+================================================================================
+
+SAMPLE REGISTRATION CERTIFICATE (KENYA)
+
+================================================================================
+
+                    PHARMACY AND POISONS BOARD
+                    MINISTRY OF HEALTH
+                    REPUBLIC OF KENYA
+
+--------------------------------------------------------------------------------
+
+CERTIFICATE OF REGISTRATION
+
+Registration Number:    PPB/PH/KE/2019/0567
+
+Product Name:           AMOXIBIO 500
+                        (Amoxicillin Capsules BP 500mg)
+
+Manufacturer:           BioPharma Industries Limited
+                        Thane, Maharashtra, India
+
+Local Representative:   East Africa Pharma Limited
+                        Nairobi, Kenya
+
+Date of Registration:   March 15, 2019
+Valid Until:            March 14, 2029
+
+Classification:         Prescription Only Medicine (POM)
+
+This product has been registered for sale in Kenya and meets the quality,
+safety, and efficacy requirements of the Pharmacy and Poisons Board.
+
+                                             Sd/-
+                                             Registrar
+                                             Pharmacy and Poisons Board
+                                             Nairobi, Kenya
+
+================================================================================
+
+DOCUMENT 4: EXPORT PERFORMANCE
+
+================================================================================
+
+EXPORT REVENUE BY REGION (FY 2024-25):
+
+Region                  Revenue (Rs. Cr)    Percentage
+------------------------------------------------------
+Africa                  65.50               58.5%
+Asia                    35.20               31.4%
+Middle East             8.30                7.4%
+Latin America           3.00                2.7%
+------------------------------------------------------
+TOTAL                   112.00              100%
+
+TOP 5 EXPORT MARKETS (FY 2024-25):
+
+Country                 Revenue (Rs. Cr)
+----------------------------------------
+1. Kenya                28.50
+2. Nigeria              18.20
+3. Philippines          15.80
+4. Vietnam              12.40
+5. Sri Lanka            10.60
+
+EXPORT PROJECTIONS:
+
+FY 2025-26:            Rs. 135 Crores (20% growth)
+FY 2026-27:            Rs. 175 Crores (30% growth - with US market entry)
+FY 2027-28:            Rs. 250 Crores (43% growth)
+
+================================================================================
+
+DOCUMENT 5: US FDA STATUS
+
+================================================================================
+
+US FDA ESTABLISHMENT REGISTRATION:
+
+FEI Number:             3008765432
+DUNS Number:            86-543-2109
+Registration Status:    Registered (not yet inspected)
+US Agent:               PharmaReg Services Inc., New Jersey
+
+ANDA FILING STATUS:
+
+Product                           ANDA Number    Status          Expected
+                                                                 Approval
+------------------------------------------------------------------------
+Metformin HCl ER Tablets          ANDA 215XXX   APPROVED        -
+500mg/750mg/1000mg                              (June 2024)
+
+Amlodipine Besylate Tablets       ANDA 216XXX   APPROVED        -
+2.5mg/5mg/10mg                                  (Jan 2025)
+
+Atorvastatin Calcium Tablets      ANDA 217XXX   Under Review    Q2 FY26
+10mg/20mg/40mg/80mg
+
+Omeprazole DR Capsules            ANDA 218XXX   Under Review    Q3 FY26
+20mg/40mg
+
+Losartan Potassium Tablets        ANDA 219XXX   Tentative       Post-
+25mg/50mg/100mg                                 Approval        exclusivity
+
+Lisinopril Tablets                ANDA 220XXX   Tentative       Post-
+5mg/10mg/20mg/40mg                              Approval        exclusivity
+
+Gabapentin Capsules               ANDA 221XXX   CRL Received    Q4 FY26
+100mg/300mg/400mg                               (Amendment
+                                                filed)
+
+Metoprolol Succinate ER           ANDA 222XXX   Filed           FY 2026-27
+Tablets 25mg/50mg/100mg/200mg                   (Sep 2025)
+
+CRL = Complete Response Letter (deficiency to be addressed)
+
+US MARKET STRATEGY:
+
+1. Focus on high-value generic molecules with limited competition
+2. Priority to resolve Gabapentin CRL and convert tentative approvals
+3. Prepare for US FDA facility inspection (expected FY 2025-26)
+4. Build US distribution partnerships
+
+================================================================================
+
+DOCUMENT 6: EXPORT INCENTIVES AVAILED
+
+================================================================================
+
+1. RODTEP (Remission of Duties and Taxes on Exported Products)
+   - Rate: 0.5% - 4.3% depending on product
+   - FY 2024-25 benefit: Rs. 2.8 Crores
+
+2. DUTY DRAWBACK
+   - On import content of exported products
+   - FY 2024-25 benefit: Rs. 1.5 Crores
+
+3. ADVANCE AUTHORIZATION
+   - Duty-free import of inputs for export production
+   - FY 2024-25 authorization: Rs. 15 Crores
+
+4. EXPORT PROMOTION CAPITAL GOODS (EPCG) SCHEME
+   - Duty-free import of capital goods against export obligation
+   - EPCG license for laboratory equipment: Rs. 2 Crores
+
+================================================================================
+                    END OF EXPORT REGISTRATION CERTIFICATES
+================================================================================

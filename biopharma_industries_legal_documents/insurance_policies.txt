@@ -1,0 +1,459 @@
+================================================================================
+                    INSURANCE POLICIES
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+                    INSURANCE PORTFOLIO SUMMARY
+
+================================================================================
+
+INSURANCE BROKER:
+M/s. Marsh India Insurance Brokers Pvt Ltd
+Address: 101, Maker Chambers IV, Nariman Point, Mumbai - 400021
+Contact: Mr. Vikram Mehta, +91-22-4567-XXXX, vikram.mehta@marsh.com
+
+================================================================================
+
+POLICY 1: PRODUCT LIABILITY INSURANCE
+
+================================================================================
+
+Policy Number:          PL/2025/MUM/123456
+Insurer:                ICICI Lombard General Insurance Co. Ltd.
+Policy Period:          April 1, 2025 to March 31, 2026
+Premium:                Rs. 8,50,000/- (plus GST)
+
+COVERAGE:
+
+Sum Insured:
+- Any One Occurrence:   Rs. 10,00,00,000/- (Rupees Ten Crores)
+- Aggregate per Policy: Rs. 20,00,00,000/- (Rupees Twenty Crores)
+
+Covered Products:       All pharmaceutical formulations manufactured by the
+                        Insured including tablets, capsules, and oral liquids
+
+Geographical Scope:     Worldwide (excluding USA and Canada)
+
+Covered Risks:
+(a) Bodily injury, sickness, disease, or death caused by products
+(b) Damage to third-party property caused by products
+(c) Legal defense costs
+(d) Recall expenses (Sub-limit: Rs. 2 Crores per occurrence)
+
+Key Exclusions:
+- Claims arising from USA/Canada
+- Known defects at policy inception
+- Contractual liability beyond tort law
+- Intentional non-compliance with regulations
+- Products not manufactured as per Drug License
+
+Deductible:             Rs. 1,00,000/- per occurrence
+
+Claims History:
+- No claims in last 5 years
+- Two pending product liability suits (disclosed to insurer)
+
+--------------------------------------------------------------------------------
+
+POLICY 2: PROPERTY ALL RISK INSURANCE
+
+================================================================================
+
+Policy Number:          PAR/2025/MUM/789012
+Insurer:                Tata AIG General Insurance Co. Ltd.
+Policy Period:          April 1, 2025 to March 31, 2026
+Premium:                Rs. 12,30,000/- (plus GST)
+
+COVERAGE:
+
+Asset                           Sum Insured (Rs.)
+-------------------------------------------------
+Buildings (Thane + Baddi)       18,00,00,000
+Plant & Machinery               22,00,00,000
+Electrical Installations         3,50,00,000
+Laboratory Equipment             3,00,00,000
+Furniture & Fixtures             1,50,00,000
+Stock (Raw Materials)           12,00,00,000
+Stock (Finished Goods)          10,00,00,000
+Stock (Packing Materials)        4,00,00,000
+-------------------------------------------------
+TOTAL SUM INSURED               74,00,00,000
+
+Covered Perils:
+(a) Fire, lightning, explosion
+(b) Aircraft damage
+(c) Riot, strike, malicious damage
+(d) Storm, tempest, flood, inundation
+(e) Earthquake
+(f) Impact damage
+(g) Subsidence and landslide
+(h) Bursting/overflowing of water tanks
+(i) Leakage from automatic sprinkler installation
+(j) Bush fire
+
+Additional Covers:
+- Terrorism Pool (as per GIC Pool)
+- Architects, surveyors fees (5% of claim)
+- Debris removal (5% of claim)
+- Temporary removal of stocks
+- Loss of rent (Rs. 50 Lakhs)
+- Start-up expenses (Rs. 25 Lakhs)
+
+Business Interruption Cover:
+- Gross Profit:         Rs. 35,00,00,000/-
+- Indemnity Period:     12 months
+- Premium:              Included
+
+Deductible:             Rs. 50,000/- per claim (Rs. 2,50,000 for STFI)
+
+--------------------------------------------------------------------------------
+
+POLICY 3: MARINE CARGO INSURANCE (OPEN POLICY)
+
+================================================================================
+
+Policy Number:          MC/2025/MUM/345678
+Insurer:                New India Assurance Co. Ltd.
+Policy Period:          April 1, 2025 to March 31, 2026
+Premium:                As declared (estimated Rs. 6,50,000/-)
+
+COVERAGE:
+
+Type of Cargo:          Raw materials (APIs, excipients), finished goods,
+                        packing materials, laboratory equipment, samples
+
+Transit:
+- Import:               Supplier's warehouse to Insured's premises
+- Export:               Insured's premises to customer's warehouse
+- Inland:               Inter-warehouse and inter-facility transit
+
+Sum Insured per Conveyance:
+- Sea/Air:              Rs. 5,00,00,000/-
+- Inland:               Rs. 2,00,00,000/-
+
+Covered Risks:          Institute Cargo Clauses (A) - All Risks
+                        Institute War Clauses
+                        Institute Strikes Clauses
+
+Special Conditions:
+- Cold chain coverage for temperature-sensitive products
+- Coverage for samples sent for regulatory testing
+- Coverage for exhibition goods
+
+Deductible:             Nil for sea/air, Rs. 5,000 for inland
+
+--------------------------------------------------------------------------------
+
+POLICY 4: DIRECTORS AND OFFICERS (D&O) LIABILITY INSURANCE
+
+================================================================================
+
+Policy Number:          DO/2025/MUM/567890
+Insurer:                HDFC Ergo General Insurance Co. Ltd.
+Policy Period:          April 1, 2025 to March 31, 2026
+Premium:                Rs. 4,20,000/- (plus GST)
+
+COVERAGE:
+
+Sum Insured:            Rs. 10,00,00,000/- (Rupees Ten Crores)
+
+Insured Persons:        All past, present, and future Directors and Officers
+                        of the Company
+
+Coverage:
+(a) Wrongful acts in capacity as Director/Officer
+(b) Breach of duty
+(c) Breach of trust
+(d) Neglect
+(e) Misleading statements
+(f) Employment practices liability
+(g) Defense costs
+
+Extensions:
+- Regulatory investigation costs
+- Extradition proceedings
+- Criminal prosecution costs
+- Outside directorship liability
+
+Key Exclusions:
+- Fraud, dishonesty, criminal acts
+- Personal profit or remuneration illegally received
+- Pollution
+- Prior and pending litigation
+- Bodily injury (covered under other policies)
+
+--------------------------------------------------------------------------------
+
+POLICY 5: GROUP MEDICLAIM INSURANCE (EMPLOYEES)
+
+================================================================================
+
+Policy Number:          GMC/2025/MUM/234567
+Insurer:                Star Health and Allied Insurance Co. Ltd.
+Policy Period:          April 1, 2025 to March 31, 2026
+Premium:                Rs. 28,50,000/- (plus GST)
+
+COVERAGE:
+
+Number of Employees:    426
+Dependents:             Spouse + 2 children
+
+Sum Insured:
+- Per Family:           Rs. 5,00,000/-
+- Corporate Buffer:     Rs. 50,00,000/-
+
+Coverage:
+(a) Hospitalization expenses (room, ICU, treatment, surgery)
+(b) Pre-hospitalization (30 days)
+(c) Post-hospitalization (60 days)
+(d) Day care procedures
+(e) Domiciliary treatment
+(f) Ambulance charges
+(g) Maternity benefit (Rs. 50,000 normal, Rs. 75,000 caesarean)
+(h) New born baby cover
+
+Room Category:          Single AC room / actual (no sub-limits)
+
+No Waiting Period:      For all employees on rolls as of policy inception
+
+Pre-existing Diseases:  Covered from Day 1 (floater basis)
+
+Network Hospitals:      5,000+ hospitals across India (cashless facility)
+
+--------------------------------------------------------------------------------
+
+POLICY 6: GROUP PERSONAL ACCIDENT INSURANCE
+
+================================================================================
+
+Policy Number:          GPA/2025/MUM/890123
+Insurer:                Bajaj Allianz General Insurance Co. Ltd.
+Policy Period:          April 1, 2025 to March 31, 2026
+Premium:                Rs. 3,80,000/- (plus GST)
+
+COVERAGE:
+
+Category               Employees    Sum Insured
+-------------------------------------------------
+Category A (Senior)    25           Rs. 50,00,000
+Category B (Middle)    120          Rs. 25,00,000
+Category C (Junior)    281          Rs. 10,00,000
+
+Coverage:
+(a) Accidental death (100% SI)
+(b) Permanent total disability (100% SI)
+(c) Permanent partial disability (as per scale)
+(d) Temporary total disability (weekly benefit)
+(e) Medical expenses (limit Rs. 50,000)
+(f) Education grant (2 children, Rs. 20,000 each)
+(g) Funeral expenses (Rs. 15,000)
+
+24-hour worldwide coverage
+
+--------------------------------------------------------------------------------
+
+POLICY 7: WORKMEN'S COMPENSATION INSURANCE
+
+================================================================================
+
+Policy Number:          WC/2025/MUM/456789
+Insurer:                United India Insurance Co. Ltd.
+Policy Period:          April 1, 2025 to March 31, 2026
+Premium:                Rs. 2,10,000/- (plus GST)
+
+COVERAGE:
+
+Number of Workmen:      310 (factory workers, as per Workmen's Compensation
+                        Act definition)
+
+Annual Wages:           Rs. 9,50,00,000/-
+
+Coverage:
+As per Workmen's Compensation Act, 1923:
+(a) Death due to work-related injury/disease
+(b) Permanent total disability
+(c) Permanent partial disability
+(d) Temporary disablement
+(e) Occupational diseases as per Schedule
+
+Limit of Indemnity:     Unlimited (as per Act)
+
+Medical Extension:      Rs. 25,000 per person
+
+Legal expenses:         Rs. 50,000
+
+--------------------------------------------------------------------------------
+
+POLICY 8: PUBLIC LIABILITY (INDUSTRIAL RISK) INSURANCE
+
+================================================================================
+
+Policy Number:          PLI/2025/MUM/678901
+Insurer:                Oriental Insurance Co. Ltd.
+Policy Period:          April 1, 2025 to March 31, 2026
+Premium:                Rs. 85,000/- (plus GST)
+
+COVERAGE (Mandatory under Public Liability Insurance Act, 1991):
+
+Sum Insured:            Rs. 5,00,00,000/-
+
+Coverage:
+Death or injury to any person (other than workmen) or damage to property
+arising out of an accident occurring in the course of handling hazardous
+substances.
+
+Hazardous Substances:   As per Public Liability Insurance Rules
+                        (Certain solvents, chemicals used in manufacturing)
+
+This is mandatory insurance for units handling hazardous substances.
+
+--------------------------------------------------------------------------------
+
+POLICY 9: CYBER LIABILITY INSURANCE
+
+================================================================================
+
+Policy Number:          CY/2025/MUM/901234
+Insurer:                ICICI Lombard General Insurance Co. Ltd.
+Policy Period:          April 1, 2025 to March 31, 2026
+Premium:                Rs. 2,80,000/- (plus GST)
+
+COVERAGE:
+
+Sum Insured:            Rs. 5,00,00,000/-
+
+Covered Risks:
+(a) Data breach response costs
+(b) Regulatory fines and penalties
+(c) Business interruption from cyber attack
+(d) Cyber extortion
+(e) Network security liability
+(f) Privacy liability
+(g) Media liability
+(h) Technology E&O
+
+Key Systems Protected:
+- ERP system (SAP)
+- Quality Management System
+- Laboratory Information Management System
+- Production tracking system
+- Customer and supplier databases
+
+Retroactive Date:       April 1, 2020
+
+Deductible:             Rs. 2,50,000 / 12 hours waiting for BI
+
+--------------------------------------------------------------------------------
+
+POLICY 10: CLINICAL TRIAL LIABILITY INSURANCE
+
+================================================================================
+
+Policy Number:          CT/2025/MUM/012345
+Insurer:                Tata AIG General Insurance Co. Ltd.
+Policy Period:          April 1, 2025 to March 31, 2026
+Premium:                Rs. 1,50,000/- (plus GST)
+
+COVERAGE:
+
+Sum Insured:            Rs. 3,00,00,000/-
+
+Covered Clinical Studies:
+- Bioequivalence studies conducted at CROs
+- Stability studies
+- Any clinical study conducted for product registration
+
+Coverage:
+(a) Bodily injury to study participants
+(b) Death of study participants
+(c) Legal defense costs
+(d) Compensation as per DCGI guidelines
+
+Deductible:             Rs. 50,000
+
+This coverage is required under DCGI regulations for conducting
+bioequivalence and clinical studies.
+
+================================================================================
+
+INSURANCE SUMMARY TABLE
+
+================================================================================
+
+Policy Type                     Sum Insured     Premium      Expiry Date
+                                (Rs. Lakhs)     (Rs.)
+------------------------------------------------------------------------
+Product Liability               2,000           8,50,000     Mar 31, 2026
+Property All Risk               7,400           12,30,000    Mar 31, 2026
+Marine Cargo                    500/conveyance  6,50,000*    Mar 31, 2026
+D&O Liability                   1,000           4,20,000     Mar 31, 2026
+Group Mediclaim                 50/family       28,50,000    Mar 31, 2026
+Group Personal Accident         Variable        3,80,000     Mar 31, 2026
+Workmen's Compensation          As per Act      2,10,000     Mar 31, 2026
+Public Liability (PLI)          500             85,000       Mar 31, 2026
+Cyber Liability                 500             2,80,000     Mar 31, 2026
+Clinical Trial Liability        300             1,50,000     Mar 31, 2026
+------------------------------------------------------------------------
+TOTAL ANNUAL PREMIUM                            Rs. 71,05,000
+
+* Estimated based on declarations
+
+================================================================================
+
+CLAIMS PROCEDURE
+
+================================================================================
+
+1. IMMEDIATE NOTIFICATION
+
+   All claims must be notified to the insurance broker immediately:
+   - Contact: Mr. Vikram Mehta
+   - Email: claims@marsh.com
+   - Phone: +91-22-4567-XXXX
+   - Emergency: +91-98XXX-XXXXX (24/7)
+
+2. DOCUMENTATION
+
+   The following documents are typically required:
+   - Claim form
+   - Policy copy
+   - FIR (for theft, accident)
+   - Photographs
+   - Invoices and proof of loss
+   - Survey report (if applicable)
+
+3. CLAIMS COORDINATOR
+
+   Company's Insurance Coordinator:
+   Name: Mr. Manish Verma
+   Title: Finance Manager
+   Email: insurance@biopharma.com
+   Phone: +91-22-2568-XXXX
+
+================================================================================
+
+RISK MANAGEMENT RECOMMENDATIONS
+
+================================================================================
+
+The following risk management improvements are recommended for potential
+premium reduction and coverage enhancement:
+
+1. Product Liability
+   - Expand pharmacovigilance system
+   - Enhance product recall procedures
+   - Consider coverage for US market
+
+2. Property
+   - Upgrade fire detection and suppression systems
+   - Improve inventory management to reduce stock levels
+   - Consider AFSP (Associated Fire Sum Plan) grading
+
+3. Cyber
+   - Implement additional cybersecurity measures
+   - Conduct regular penetration testing
+   - Train employees on cyber hygiene
+
+================================================================================
+                    END OF INSURANCE POLICIES
+================================================================================

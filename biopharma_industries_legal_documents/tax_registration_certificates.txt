@@ -1,0 +1,358 @@
+================================================================================
+                    TAX REGISTRATION CERTIFICATES
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+================================================================================
+
+DOCUMENT 1: PERMANENT ACCOUNT NUMBER (PAN)
+
+================================================================================
+
+                    INCOME TAX DEPARTMENT
+                    GOVERNMENT OF INDIA
+
+PERMANENT ACCOUNT NUMBER CARD
+
+PAN:                    AABCB1234D
+Name:                   BIOPHARMA INDUSTRIES LIMITED
+Father's Name:          N/A (Company)
+Date of Birth/
+Incorporation:          15/01/2012
+Status:                 Company
+
+Signature:              [Digital Signature]
+
+Issued By:              Income Tax Department, Mumbai
+Date of Issue:          February 10, 2012
+
+Note: This PAN is valid throughout India and is required for all financial
+transactions above prescribed limits.
+
+================================================================================
+
+DOCUMENT 2: TAX DEDUCTION AND COLLECTION ACCOUNT NUMBER (TAN)
+
+================================================================================
+
+                    INCOME TAX DEPARTMENT
+                    GOVERNMENT OF INDIA
+
+TAN ALLOTMENT LETTER
+
+TAN:                    MUMB12345E
+Name of Deductor:       BIOPHARMA INDUSTRIES LIMITED
+Address:                Plot No. 234-235, MIDC Industrial Area
+                        Thane-Belapur Road, Rabale
+                        Thane - 400701, Maharashtra
+
+Category:               Company
+AO Code:                MUM/W/13/1
+
+Date of Allotment:      February 15, 2012
+
+The above TAN has been allotted under Section 203A of the Income Tax Act, 1961.
+
+This TAN must be quoted in:
+- All TDS/TCS returns
+- All TDS/TCS challans
+- All TDS/TCS certificates issued
+
+================================================================================
+
+DOCUMENT 3: GOODS AND SERVICES TAX (GST) REGISTRATION
+
+================================================================================
+
+                    GOODS AND SERVICES TAX
+                    GOVERNMENT OF INDIA
+
+GST REGISTRATION CERTIFICATE
+
+This is a system generated certificate and does not require signature.
+
+--------------------------------------------------------------------------------
+
+GSTIN:                  27AABCB1234D1Z5
+Legal Name:             BIOPHARMA INDUSTRIES LIMITED
+Trade Name:             BIOPHARMA INDUSTRIES LIMITED
+
+Address of Principal Place of Business:
+Plot No. 234-235, MIDC Industrial Area
+Thane-Belapur Road, Rabale
+Thane - 400701
+Maharashtra
+
+Date of Liability:      July 1, 2017
+Effective Date of Registration: July 1, 2017
+Type of Registration:   Regular
+
+Constitution of Business: Public Limited Company
+
+Particulars of Authorized Signatory:
+Name:                   Dr. Ramesh Narayan Kulkarni
+Designation:            Managing Director
+Mobile:                 +91-98XXX-XXXXX
+Email:                  ramesh.kulkarni@biopharma.com
+
+Nature of Business Activities:
+- Manufacturer
+- Exporter
+- Supplier of Services
+
+Description of Goods:
+- Pharmaceutical preparations (HSN 3004)
+- Medicaments (HSN 3003)
+
+Additional Places of Business:
+
+1. Baddi Manufacturing Unit
+   Plot No. 45-46, Phase II
+   Industrial Area, Baddi
+   District Solan - 173205
+   Himachal Pradesh
+   (Separate GSTIN: 02AABCB1234D1Z7)
+
+--------------------------------------------------------------------------------
+
+COMPLIANCE STATUS:
+
+GST Return Filing:
+
+Return Type    Period           Due Date        Filing Date    Status
+--------------------------------------------------------------------------------
+GSTR-1        September 2025   Oct 11, 2025    Oct 10, 2025   Filed
+GSTR-3B       September 2025   Oct 20, 2025    Oct 18, 2025   Filed
+GSTR-1        October 2025     Nov 11, 2025    Nov 10, 2025   Filed
+GSTR-3B       October 2025     Nov 20, 2025    Nov 18, 2025   Filed
+GSTR-9        FY 2024-25       Dec 31, 2025    Pending        -
+
+All returns filed within due dates. No late fees or penalties.
+
+GST Audit (GSTR-9C):
+- FY 2022-23: Filed on time
+- FY 2023-24: Filed on time
+- FY 2024-25: Due December 31, 2025
+
+Input Tax Credit:
+- ITC claims properly documented
+- No adverse observations in GST audits
+- No blocked credit issues
+
+================================================================================
+
+DOCUMENT 4: PROFESSIONAL TAX REGISTRATION (MAHARASHTRA)
+
+================================================================================
+
+                    SALES TAX DEPARTMENT
+                    GOVERNMENT OF MAHARASHTRA
+
+PROFESSIONAL TAX REGISTRATION CERTIFICATE
+
+PTRC Number:            27AABCB1234D1P001
+PTEC Number:            27AABCB1234D1E001
+
+Name:                   BIOPHARMA INDUSTRIES LIMITED
+Address:                Plot No. 234-235, MIDC Industrial Area
+                        Thane - 400701
+
+PTRC (Registration Certificate):
+- For deduction from employees
+- Monthly return filing required
+
+PTEC (Enrollment Certificate):
+- For company's own enrollment
+- Annual fee: Rs. 2,500/-
+
+Date of Registration:   March 1, 2012
+
+Compliance Status:      All returns filed on time
+                        All taxes deposited on time
+
+================================================================================
+
+DOCUMENT 5: INCOME TAX ASSESSMENT STATUS
+
+================================================================================
+
+INCOME TAX COMPLIANCE STATUS
+
+Assessment Years and Filing Status:
+
+AY              Return Filed    Assessed        Status
+--------------------------------------------------------------------------------
+2020-21         Sep 30, 2020    Processed       No demand/refund
+2021-22         Oct 15, 2021    Processed       Refund Rs. 2.5 Lakhs received
+2022-23         Sep 30, 2022    Processed       No demand/refund
+2023-24         Oct 31, 2023    Processed       Refund Rs. 3.2 Lakhs received
+2024-25         Oct 15, 2024    Processed       Refund Rs. 4.8 Lakhs pending
+2025-26         Due Oct 2025    -               -
+
+Tax Audit Report (Form 3CD):
+- All years filed under Section 44AB
+- Audited by M/s. DEF & Co., Chartered Accountants
+- No qualified opinions
+
+Transfer Pricing (If applicable):
+- No international transactions with Associated Enterprises
+- Transfer Pricing report not required
+
+Pending Assessments/Litigation:
+- No scrutiny assessments pending
+- No appeals pending with CIT(A) or ITAT
+- No demands outstanding
+
+TDS Compliance:
+- All TDS returns (24Q, 26Q, 27Q) filed on time
+- All TDS deposited before due dates
+- Form 16/16A issued to all deductees
+
+Advance Tax:
+- Paid in quarterly installments
+- No interest under Section 234B/234C
+
+================================================================================
+
+DOCUMENT 6: IMPORT EXPORT CODE (IEC)
+
+================================================================================
+
+                    DIRECTORATE GENERAL OF FOREIGN TRADE
+                    MINISTRY OF COMMERCE AND INDUSTRY
+
+IMPORTER EXPORTER CODE (IEC) CERTIFICATE
+
+IEC Number:             AABCB1234D
+IEC Status:             Valid
+
+Name:                   BIOPHARMA INDUSTRIES LIMITED
+Address:                Plot No. 234-235, MIDC Industrial Area
+                        Thane-Belapur Road, Rabale
+                        Thane - 400701, Maharashtra
+
+PAN:                    AABCB1234D
+Date of Issue:          April 10, 2013
+Valid:                  Permanent (subject to annual update)
+
+Authorized Dealer Bank:
+Name:                   State Bank of India
+Branch:                 MIDC Thane Branch
+AD Code:                0123456
+
+Export Benefits Availed:
+- Duty Drawback Scheme
+- RoDTEP (Remission of Duties and Taxes on Exported Products)
+- Advance Authorization (for duty-free import of inputs for export)
+
+Annual IEC Update:
+- FY 2024-25: Updated on April 15, 2024
+- FY 2025-26: Due April 2025
+
+================================================================================
+
+DOCUMENT 7: LUT (LETTER OF UNDERTAKING) FOR GST
+
+================================================================================
+
+                    GOODS AND SERVICES TAX
+
+LUT FOR EXPORT WITHOUT PAYMENT OF IGST
+
+ARN:                    AD2704250123456
+GSTIN:                  27AABCB1234D1Z5
+Legal Name:             BIOPHARMA INDUSTRIES LIMITED
+
+Financial Year:         2025-26
+LUT Valid From:         April 1, 2025
+LUT Valid Until:        March 31, 2026
+
+This LUT is furnished under Rule 96A of CGST Rules, 2017 for making exports
+of goods without payment of integrated tax.
+
+The exporter undertakes to:
+1. Pay IGST along with interest if goods are not exported within 3 months
+2. Comply with all GST law provisions
+3. Furnish bank guarantee if required
+
+Previous Years LUT Status:
+- FY 2023-24: Valid, complied
+- FY 2024-25: Valid, complied
+- FY 2025-26: Current
+
+================================================================================
+
+DOCUMENT 8: CUSTOMS REGISTRATION
+
+================================================================================
+
+                    CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS
+
+AD CODE / CUSTOMS REGISTRATION
+
+AD Code:                0123456789012
+Customs Broker:         M/s. ABC Clearing Agents
+                        License No.: 11/234/2010
+
+Authorized Ports:
+- JNPT (Nhava Sheva) - Sea Port
+- Mumbai Airport - Air Cargo
+- ICD Mulund - Inland Container Depot
+
+AEO (Authorized Economic Operator) Status:
+- Application under process
+- Expected certification: Q1 FY 2026-27
+
+================================================================================
+
+DOCUMENT 9: TAX COMPLIANCE CERTIFICATE
+
+================================================================================
+
+                    CERTIFICATE OF TAX COMPLIANCE
+
+We, M/s. DEF & Co., Chartered Accountants, hereby certify that:
+
+BioPharma Industries Limited (CIN: U24230MH2012PLC234567)
+
+Has complied with all direct and indirect tax obligations as on October 31, 2025:
+
+1. INCOME TAX
+   - All returns filed up to AY 2024-25
+   - All taxes paid including advance tax
+   - TDS compliances up to date
+   - No outstanding demands
+
+2. GOODS AND SERVICES TAX
+   - All returns filed up to October 2025
+   - All GST liabilities discharged
+   - ITC reconciliation completed
+   - No adverse observations
+
+3. PROFESSIONAL TAX
+   - All returns filed
+   - All taxes deposited
+
+4. CUSTOMS DUTY
+   - All import duties paid
+   - No pending assessments
+
+5. OTHER STATUTORY DUES
+   - PF/ESI compliances up to date
+   - No pending statutory dues
+
+                                             For M/s. DEF & Co.
+                                             Chartered Accountants
+                                             FRN: 012345N
+
+                                             Sd/-
+                                             CA Dinesh Shah
+                                             Partner
+                                             M. No.: 098765
+
+Date: November 1, 2025
+Place: Mumbai
+
+================================================================================
+                    END OF TAX REGISTRATION CERTIFICATES
+================================================================================

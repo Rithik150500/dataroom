@@ -1,0 +1,386 @@
+================================================================================
+                    TRADEMARK AND INTELLECTUAL PROPERTY
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+                    CONTROLLER GENERAL OF PATENTS, DESIGNS AND TRADEMARKS
+                    TRADEMARK REGISTRY OF INDIA
+
+================================================================================
+
+SECTION 1: COMPANY TRADEMARK REGISTRATIONS
+
+================================================================================
+
+1.1 CORPORATE TRADEMARK
+
+--------------------------------------------------------------------------------
+
+Trademark:              BIOPHARMA INDUSTRIES
+Application Number:     2456789
+Registration Number:    2456789
+Class:                  5 (Pharmaceutical preparations and substances)
+Status:                 REGISTERED
+
+Proprietor:             BioPharma Industries Limited
+                        Plot No. 234-235, MIDC Industrial Area
+                        Thane - 400701, Maharashtra
+
+Filing Date:            January 20, 2012
+Registration Date:      August 15, 2013
+Valid Until:            January 19, 2032 (Renewed)
+Renewal Due:            January 19, 2032
+
+Description:            Word mark "BIOPHARMA INDUSTRIES" in standard characters
+
+Goods Covered:          Pharmaceutical and medicinal preparations, tablets,
+                        capsules, syrups, ointments, medical and veterinary
+                        preparations, substances, all included in Class 5
+
+Attorney:               M/s. IP Rights LLP, Mumbai
+Ref:                    IPR/TM/BIO/2012/001
+
+--------------------------------------------------------------------------------
+
+1.2 CORPORATE LOGO
+
+--------------------------------------------------------------------------------
+
+Trademark:              [BioPharma Logo - Molecule Design]
+Application Number:     2567890
+Registration Number:    2567890
+Class:                  5
+Status:                 REGISTERED
+
+Filing Date:            March 15, 2012
+Registration Date:      November 20, 2013
+Valid Until:            March 14, 2032 (Renewed)
+
+Description:            Device mark comprising a stylized molecule symbol
+                        in blue and green colors with company name
+
+================================================================================
+
+SECTION 2: BRAND NAME REGISTRATIONS
+
+================================================================================
+
+The Company has registered the following brand names for its pharmaceutical
+products:
+
+S.No  Brand Name      App. No.    Reg. No.    Class  Status      Valid Until
+--------------------------------------------------------------------------------
+1.    AMOXYBIO        3456789     3456789     5      Registered  Mar 2031
+      (Amoxicillin products)
+
+2.    METBIO          3567890     3567890     5      Registered  Apr 2031
+      (Metformin products)
+
+3.    AMLОБIO         3678901     3678901     5      Registered  May 2031
+      (Amlodipine products)
+
+4.    ATORBIO         3789012     3789012     5      Registered  Jun 2031
+      (Atorvastatin products)
+
+5.    AZIBIO          3890123     3890123     5      Registered  Jul 2031
+      (Azithromycin products)
+
+6.    PANTOBIO        3901234     3901234     5      Registered  Aug 2031
+      (Pantoprazole products)
+
+7.    CEFIBIO         4012345     4012345     5      Registered  Sep 2031
+      (Cefixime products)
+
+8.    ROSБIO          4123456     4123456     5      Registered  Oct 2031
+      (Rosuvastatin products)
+
+9.    TELBIO          4234567     4234567     5      Registered  Nov 2031
+      (Telmisartan products)
+
+10.   LOSARBIO        4345678     4345678     5      Registered  Dec 2031
+      (Losartan products)
+
+11.   OMEBIO          4456789     4456789     5      Registered  Jan 2032
+      (Omeprazole products)
+
+12.   MONTBIO         4567890     4567890     5      Registered  Feb 2032
+      (Montelukast products)
+
+--------------------------------------------------------------------------------
+
+ALL TRADEMARKS ARE:
+- Registered in Class 5 (Pharmaceuticals)
+- Renewed timely with no lapses
+- No opposition proceedings pending
+- No infringement claims
+
+================================================================================
+
+SECTION 3: FREEDOM TO OPERATE OPINIONS
+
+================================================================================
+
+BioPharma Industries manufactures generic pharmaceutical formulations. For each
+product, the Company has obtained legal opinions confirming freedom to operate.
+
+--------------------------------------------------------------------------------
+
+3.1 SAMPLE FREEDOM TO OPERATE OPINION
+
+--------------------------------------------------------------------------------
+
+LEGAL OPINION: FREEDOM TO OPERATE
+Product: Atorvastatin Calcium Tablets 10mg/20mg/40mg/80mg
+
+Prepared By:        M/s. IP Rights LLP, Patent and Trademark Attorneys
+Date:               March 15, 2017
+Reference:          IPR/FTO/BIO/2017/ATOR/001
+
+EXECUTIVE SUMMARY:
+
+Based on our review of the patent landscape, we opine that BioPharma Industries
+Limited is free to manufacture, market, and sell Atorvastatin Calcium Tablets
+in the Indian market and for export to non-regulated markets.
+
+ANALYSIS:
+
+1. ACTIVE PHARMACEUTICAL INGREDIENT (API):
+
+   Original Innovator:    Pfizer Inc. (Brand: Lipitor)
+   Original Patent:       US Patent No. 4,681,893 (Compound patent)
+   Indian Patent Status:  No compound patent granted in India (pre-2005)
+   Expiry in USA:         November 2011
+   Status:                API is off-patent globally
+
+2. FORMULATION PATENTS:
+
+   A search of the Indian Patent Office database and global patent databases
+   was conducted for formulation patents covering atorvastatin tablets.
+
+   Patents Identified:    12 formulation patents globally
+   Patents in India:      3 patents granted
+
+   Analysis of Indian Patents:
+
+   a) IN 234567 - Controlled release formulation of atorvastatin
+      Patentee: XYZ Pharma
+      Expiry: 2025
+      Relevance: NOT RELEVANT - BioPharma's product is immediate release,
+      not controlled release. Different formulation approach.
+
+   b) IN 345678 - Combination of atorvastatin with ezetimibe
+      Patentee: ABC Labs
+      Expiry: 2026
+      Relevance: NOT RELEVANT - BioPharma's product is single entity
+      atorvastatin, not a combination product.
+
+   c) IN 456789 - Stabilized atorvastatin formulation using specific excipients
+      Patentee: PQR Healthcare
+      Expiry: 2024
+      Relevance: POTENTIALLY RELEVANT - Patent claims specific combination
+      of excipients for stability.
+
+      Detailed Analysis: BioPharma's formulation uses different excipients
+      and different ratios. Patent claims are limited to specific excipient
+      combination. BioPharma's formulation does not infringe the claims.
+
+      CONCLUSION: NO INFRINGEMENT
+
+3. MANUFACTURING PROCESS PATENTS:
+
+   No process patents identified that would restrict manufacture of
+   atorvastatin tablets using conventional wet granulation process.
+
+4. CONCLUSION:
+
+   Based on the above analysis, we opine that:
+
+   a) The API atorvastatin calcium is off-patent and freely available.
+
+   b) BioPharma Industries' formulation of Atorvastatin Calcium Tablets
+      does not infringe any valid and subsisting patent in India.
+
+   c) BioPharma Industries is free to manufacture, market, and sell
+      Atorvastatin Calcium Tablets in India and export markets.
+
+   d) For regulated markets (US, EU), separate patent analysis considering
+      local patent laws should be conducted.
+
+LIMITATIONS:
+
+- This opinion is based on patent search conducted as of the date hereof.
+- New patents may be granted after this date.
+- This opinion covers India only.
+- Trademark and regulatory aspects are not covered.
+
+                                             Sd/-
+                                             Mr. Rahul Mehta
+                                             Partner, M/s. IP Rights LLP
+                                             Registered Patent Agent
+
+--------------------------------------------------------------------------------
+
+3.2 FREEDOM TO OPERATE STATUS FOR ALL PRODUCTS
+
+--------------------------------------------------------------------------------
+
+Product                     FTO Opinion Date    Status          Expiry Risk
+--------------------------------------------------------------------------------
+Amoxicillin Capsules        Feb 2014            Clear           None
+Metformin Tablets           Mar 2014            Clear           None
+Amlodipine Tablets          Apr 2014            Clear           None
+Atorvastatin Tablets        Mar 2017            Clear           None
+Azithromycin Tablets        May 2018            Clear           None
+Omeprazole Capsules         Jun 2016            Clear           None
+Pantoprazole Tablets        Jul 2016            Clear           None
+Cefixime Tablets            Feb 2017            Clear           None
+Rosuvastatin Tablets        Aug 2019            Clear           None
+Telmisartan Tablets         Sep 2020            Clear           None
+Losartan Tablets            Oct 2019            Clear           None
+Montelukast Tablets         Nov 2021            Clear           None
+Dapagliflozin Tablets       Dec 2024            Clear*          *Patent watch
+
+* Dapagliflozin: Compound patent expired in India in 2024. Product launch
+  planned for FY 2025-26 after confirmation of patent expiry.
+
+================================================================================
+
+SECTION 4: PATENTS HELD BY THE COMPANY
+
+================================================================================
+
+BioPharma Industries is primarily a generic pharmaceutical company and does
+not hold any product patents. The Company holds only process/formulation
+improvement patents:
+
+STATUS: NIL
+
+The Company has not filed any patent applications to date.
+
+================================================================================
+
+SECTION 5: TRADE SECRET AND KNOW-HOW
+
+================================================================================
+
+The Company maintains the following as trade secrets and confidential know-how:
+
+1. Proprietary manufacturing processes for certain products
+2. Bioequivalence study protocols and data
+3. Stability improvement techniques
+4. Formulation optimization methods
+5. API vendor qualification data
+
+Protection Measures:
+- Confidentiality agreements with all employees
+- Restricted access to R&D and manufacturing areas
+- Document classification system
+- IT security measures
+
+================================================================================
+
+SECTION 6: DOMAIN NAME REGISTRATIONS
+
+================================================================================
+
+Domain Name                 Registrar       Expiry Date     Status
+--------------------------------------------------------------------------------
+biopharma.com              GoDaddy         Dec 2026        Active
+biopharmaindia.com         GoDaddy         Dec 2026        Active
+biopharma.in               NIXI            Dec 2026        Active
+biopharma.co.in            NIXI            Dec 2026        Active
+
+================================================================================
+
+SECTION 7: COPYRIGHT REGISTRATIONS
+
+================================================================================
+
+The Company has registered copyright for:
+
+1. Product literature and marketing materials
+2. Training manuals and SOPs (compilation)
+3. Software developed in-house for production tracking
+
+Registration Numbers:
+- L-78901/2018 (Product catalog)
+- L-89012/2019 (Employee handbook)
+- SW-9012/2020 (Production tracking software)
+
+================================================================================
+
+SECTION 8: IP ASSIGNMENT AGREEMENT
+
+================================================================================
+
+All employees involved in R&D activities have executed IP Assignment Agreements
+assigning all intellectual property created during employment to the Company.
+
+Key Terms:
+- All inventions made during employment belong to Company
+- Employee to disclose all inventions promptly
+- Employee to assist in patent filing
+- Assignment includes all future patents, copyrights, trade secrets
+- Survives termination of employment
+
+Employees covered: 52 (All R&D and technical staff)
+Compliance: 100%
+
+================================================================================
+
+SECTION 9: IP AUDIT AND VALUATION
+
+================================================================================
+
+Last IP Audit:              June 2024
+Conducted By:               M/s. IP Rights LLP
+
+Findings:
+- All trademarks current and renewed
+- No infringement risks identified
+- FTO opinions current for all products
+- Trade secret protection adequate
+
+Valuation of Intangibles:
+- Trademarks: Rs. 5.2 Crores
+- Know-how: Rs. 8.5 Crores
+- Total: Rs. 13.7 Crores
+
+(Valuation as per Income Approach by independent valuer)
+
+================================================================================
+
+SECTION 10: IP-RELATED LITIGATION
+
+================================================================================
+
+CURRENT STATUS: NIL
+
+No IP-related litigation pending either against the Company or initiated by
+the Company.
+
+No cease and desist notices received in last 5 years.
+No opposition proceedings in trademark matters.
+
+================================================================================
+
+SECTION 11: CONTACT FOR IP MATTERS
+
+================================================================================
+
+Internal Contact:
+Name:               Ms. Priya Desai
+Designation:        Manager - Regulatory and IP Affairs
+Email:              ip@biopharma.com
+Phone:              +91-22-2568-XXXX
+
+External Counsel:
+Firm:               M/s. IP Rights LLP
+Contact:            Mr. Rahul Mehta, Partner
+Address:            12th Floor, Maker Chambers IV, Nariman Point, Mumbai
+Email:              rahul@iprights.co.in
+Phone:              +91-22-4567-XXXX
+
+================================================================================
+                    END OF TRADEMARK AND IP DOCUMENTATION
+================================================================================

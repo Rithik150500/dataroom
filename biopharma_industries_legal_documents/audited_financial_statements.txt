@@ -1,0 +1,422 @@
+================================================================================
+                    AUDITED FINANCIAL STATEMENTS
+                    BIOPHARMA INDUSTRIES LIMITED
+                    FOR THE YEAR ENDED MARCH 31, 2025
+================================================================================
+
+                    INDEPENDENT AUDITOR'S REPORT
+
+To the Members of BioPharma Industries Limited
+
+Report on the Audit of the Financial Statements
+
+OPINION
+
+We have audited the financial statements of BioPharma Industries Limited
+("the Company"), which comprise the Balance Sheet as at March 31, 2025, and
+the Statement of Profit and Loss, Statement of Changes in Equity and Statement
+of Cash Flows for the year then ended, and notes to the financial statements,
+including a summary of significant accounting policies.
+
+In our opinion, the accompanying financial statements give a true and fair
+view of the financial position of the Company as at March 31, 2025, and of
+its financial performance and its cash flows for the year then ended in
+accordance with the Indian Accounting Standards (Ind AS) and other accounting
+principles generally accepted in India.
+
+BASIS FOR OPINION
+
+We conducted our audit in accordance with the Standards on Auditing (SAs)
+specified under Section 143(10) of the Companies Act, 2013. Our responsibilities
+under those Standards are further described in the Auditor's Responsibilities
+for the Audit of the Financial Statements section of our report.
+
+KEY AUDIT MATTERS
+
+Key audit matters are those matters that, in our professional judgment, were
+of most significance in our audit of the financial statements:
+
+1. Revenue Recognition
+   - Risk: Incorrect timing of revenue recognition for domestic and export sales
+   - Audit Response: Tested sales cut-off procedures, verified shipping documents
+   - Conclusion: Revenue recognition is appropriate
+
+2. Inventory Valuation
+   - Risk: Overstatement of inventory due to obsolescence or valuation errors
+   - Audit Response: Observed physical verification, tested NRV calculations
+   - Conclusion: Inventory valuation is appropriate
+
+3. Regulatory Compliance Provisions
+   - Risk: Inadequate provisions for regulatory matters
+   - Audit Response: Reviewed legal opinions, discussed with management
+   - Conclusion: Provisions are adequate
+
+                                             For M/s. DEF & Co.
+                                             Chartered Accountants
+                                             FRN: 012345N
+
+                                             Sd/-
+                                             CA Dinesh Shah
+                                             Partner
+                                             M. No.: 098765
+
+Date: May 25, 2025
+Place: Mumbai
+
+================================================================================
+
+                    BALANCE SHEET AS AT MARCH 31, 2025
+
+================================================================================
+
+                                          As at          As at
+Particulars                               March 31, 2025 March 31, 2024
+                                          (Rs. Lakhs)    (Rs. Lakhs)
+================================================================================
+
+I. EQUITY AND LIABILITIES
+
+(1) SHAREHOLDERS' FUNDS
+    (a) Share Capital                     2,000.00       2,000.00
+    (b) Reserves and Surplus              8,950.00       7,890.00
+                                         ----------     ----------
+    Total Shareholders' Funds            10,950.00       9,890.00
+
+(2) NON-CURRENT LIABILITIES
+    (a) Long-term Borrowings              1,800.00       2,100.00
+    (b) Deferred Tax Liabilities (Net)      450.00         420.00
+    (c) Long-term Provisions                280.00         260.00
+                                         ----------     ----------
+    Total Non-Current Liabilities         2,530.00       2,780.00
+
+(3) CURRENT LIABILITIES
+    (a) Short-term Borrowings             3,200.00       2,800.00
+    (b) Trade Payables
+        - MSME                              180.00         150.00
+        - Others                          2,850.00       2,450.00
+    (c) Other Current Liabilities           980.00         870.00
+    (d) Short-term Provisions               520.00         480.00
+                                         ----------     ----------
+    Total Current Liabilities             7,730.00       6,750.00
+
+                                         ----------     ----------
+TOTAL EQUITY AND LIABILITIES             21,210.00      19,420.00
+================================================================================
+
+II. ASSETS
+
+(1) NON-CURRENT ASSETS
+    (a) Property, Plant and Equipment     6,250.00       5,480.00
+    (b) Capital Work-in-Progress          1,950.00         650.00
+    (c) Intangible Assets                   180.00         150.00
+    (d) Financial Assets
+        - Investments                       150.00         150.00
+        - Other Financial Assets            120.00         100.00
+    (e) Other Non-Current Assets            280.00         250.00
+                                         ----------     ----------
+    Total Non-Current Assets              8,930.00       6,780.00
+
+(2) CURRENT ASSETS
+    (a) Inventories                       7,800.00       7,200.00
+    (b) Financial Assets
+        - Trade Receivables               5,980.00       5,450.00
+        - Cash and Cash Equivalents         420.00         380.00
+        - Bank Balances                   1,500.00       1,200.00
+        - Other Financial Assets            180.00         150.00
+    (c) Other Current Assets                400.00         360.00
+                                         ----------     ----------
+    Total Current Assets                 12,280.00      12,640.00
+
+                                         ----------     ----------
+TOTAL ASSETS                             21,210.00      19,420.00
+================================================================================
+
+================================================================================
+
+                    STATEMENT OF PROFIT AND LOSS
+                    FOR THE YEAR ENDED MARCH 31, 2025
+
+================================================================================
+
+                                          Year ended     Year ended
+Particulars                               March 31, 2025 March 31, 2024
+                                          (Rs. Lakhs)    (Rs. Lakhs)
+================================================================================
+
+I. REVENUE FROM OPERATIONS
+
+   Sale of Products
+   - Domestic Sales                       19,850.00      18,240.00
+   - Export Sales                         12,550.00      10,680.00
+                                         ----------     ----------
+   Gross Sales                            32,400.00      28,920.00
+
+   Less: Discounts and Returns              (650.00)       (520.00)
+                                         ----------     ----------
+   Net Revenue from Operations            31,750.00      28,400.00
+
+II. OTHER INCOME                             380.00         320.00
+                                         ----------     ----------
+III. TOTAL INCOME                         32,130.00      28,720.00
+================================================================================
+
+IV. EXPENSES
+
+   Cost of Materials Consumed             17,400.00      15,890.00
+   Changes in Inventories of FG & WIP       (450.00)       (280.00)
+   Employee Benefits Expense               4,250.00       3,980.00
+   Finance Costs                             480.00         420.00
+   Depreciation and Amortization             820.00         740.00
+   Research and Development Expenses         280.00         240.00
+   Other Expenses                          6,850.00       6,150.00
+                                         ----------     ----------
+   Total Expenses                         29,630.00      27,140.00
+================================================================================
+
+V. PROFIT BEFORE TAX                       2,500.00       1,580.00
+
+VI. TAX EXPENSE
+    (a) Current Tax                          650.00         420.00
+    (b) Deferred Tax                          30.00          20.00
+                                         ----------     ----------
+    Total Tax Expense                        680.00         440.00
+
+VII. PROFIT FOR THE YEAR                   1,820.00       1,140.00
+================================================================================
+
+VIII. OTHER COMPREHENSIVE INCOME
+
+    Items that will not be reclassified
+    to profit or loss:
+    - Remeasurements of defined benefit
+      plans                                  (18.00)        (12.00)
+    - Income tax relating to above             4.50           3.00
+                                         ----------     ----------
+    Total Other Comprehensive Income         (13.50)         (9.00)
+
+IX. TOTAL COMPREHENSIVE INCOME             1,806.50       1,131.00
+================================================================================
+
+X. EARNINGS PER SHARE (Face value Rs. 10)
+   Basic (Rs.)                                9.10           5.70
+   Diluted (Rs.)                              9.10           5.70
+================================================================================
+
+================================================================================
+
+                    KEY FINANCIAL RATIOS
+
+================================================================================
+
+Ratio                              FY 2024-25    FY 2023-24    Change
+--------------------------------------------------------------------------------
+Current Ratio                      1.59          1.87          (15.0%)
+Debt-Equity Ratio                  0.46          0.50          (8.0%)
+Debt Service Coverage Ratio        3.85          3.42          12.6%
+Return on Equity (%)               17.7%         12.2%         45.1%
+Inventory Turnover Ratio           4.08          3.95          3.3%
+Trade Receivables Turnover         5.56          5.45          2.0%
+Trade Payables Turnover            5.74          5.89          (2.5%)
+Net Capital Turnover Ratio         6.98          6.23          12.0%
+Net Profit Margin (%)              5.7%          4.0%          42.5%
+Return on Capital Employed (%)     18.2%         13.5%         34.8%
+
+Notes on Significant Changes:
+- Return on Equity increased due to higher profitability
+- Net Profit Margin improved due to operational efficiencies
+- Current Ratio decreased due to increased working capital financing
+
+================================================================================
+
+                    NOTES TO FINANCIAL STATEMENTS
+
+================================================================================
+
+1. CORPORATE INFORMATION
+
+   BioPharma Industries Limited ("the Company") is a public company domiciled
+   in India and incorporated under the provisions of the Companies Act. The
+   Company is engaged in the manufacture and sale of pharmaceutical formulations.
+
+2. SIGNIFICANT ACCOUNTING POLICIES
+
+   2.1 Basis of Preparation
+       The financial statements are prepared in accordance with Indian
+       Accounting Standards (Ind AS) notified under Section 133 of the
+       Companies Act, 2013.
+
+   2.2 Revenue Recognition
+       Revenue is recognized when control of products is transferred to the
+       customer at an amount that reflects the consideration expected.
+
+   2.3 Inventories
+       Inventories are valued at lower of cost and net realizable value.
+       Cost is determined using weighted average method.
+
+   2.4 Property, Plant and Equipment
+       PPE is stated at cost less accumulated depreciation and impairment.
+       Depreciation is provided on straight-line basis over useful life.
+
+3. PROPERTY, PLANT AND EQUIPMENT (Rs. Lakhs)
+
+   Category                    Gross Block    Depreciation   Net Block
+   --------------------------------------------------------------------
+   Land                        450.00         -              450.00
+   Buildings                   2,850.00       680.00         2,170.00
+   Plant and Machinery         4,250.00       1,420.00       2,830.00
+   Laboratory Equipment        580.00         210.00         370.00
+   Furniture and Fixtures      280.00         120.00         160.00
+   Vehicles                    180.00         90.00          90.00
+   Office Equipment            320.00         140.00         180.00
+   --------------------------------------------------------------------
+   Total                       8,910.00       2,660.00       6,250.00
+
+4. INVENTORIES (Rs. Lakhs)
+
+   Category                                   FY 2024-25    FY 2023-24
+   --------------------------------------------------------------------
+   Raw Materials                              3,250.00      3,050.00
+   Packing Materials                          1,180.00      1,080.00
+   Work-in-Progress                           850.00        720.00
+   Finished Goods                             2,520.00      2,350.00
+   --------------------------------------------------------------------
+   Total                                      7,800.00      7,200.00
+
+5. TRADE RECEIVABLES (Rs. Lakhs)
+
+   Ageing Analysis:
+   Less than 6 months                         5,420.00      4,980.00
+   6 months to 1 year                         480.00        390.00
+   More than 1 year                           80.00         80.00
+   --------------------------------------------------------------------
+   Total                                      5,980.00      5,450.00
+
+   Trade receivables are non-interest bearing and generally on 30-90 days
+   credit terms.
+
+6. BORROWINGS
+
+   (a) Long-term Borrowings (Rs. Lakhs)
+       Term Loan from Bank                    1,800.00      2,100.00
+       (Secured by first charge on PPE, repayable in monthly installments,
+       interest rate: 9.5% p.a.)
+
+   (b) Short-term Borrowings (Rs. Lakhs)
+       Working Capital Loan from Bank         3,200.00      2,800.00
+       (Secured by hypothecation of current assets, interest rate: MCLR + 0.75%)
+
+7. CONTINGENT LIABILITIES (Rs. Lakhs)
+
+   (a) Product liability claims pending       5.00          5.00
+   (b) Sales tax/GST matters under dispute    12.00         12.00
+   (c) Bank guarantees outstanding            85.00         75.00
+
+8. SEGMENT INFORMATION
+
+   The Company operates in a single business segment (pharmaceuticals) and
+   two geographical segments (domestic and export).
+
+   Geographical Segments:              FY 2024-25    FY 2023-24
+   ------------------------------------------------------------
+   Domestic Revenue                    19,200.00     17,720.00
+   Export Revenue                      12,550.00     10,680.00
+   ------------------------------------------------------------
+   Total                               31,750.00     28,400.00
+
+9. RELATED PARTY TRANSACTIONS (Rs. Lakhs)
+
+   (a) Key Managerial Personnel Remuneration
+       - Dr. Ramesh Kulkarni (MD)      100.00        92.00
+       - Mrs. Sunita Kulkarni (WTD)    72.00         65.00
+
+   (b) Rent paid to Kulkarni Properties LLP
+       (Firm in which directors are partners)
+                                       36.00         36.00
+
+10. RESEARCH AND DEVELOPMENT EXPENDITURE
+
+    R&D expenditure for the year: Rs. 280 Lakhs (PY: Rs. 240 Lakhs)
+    Percentage of revenue: 0.88% (PY: 0.85%)
+
+11. CORPORATE SOCIAL RESPONSIBILITY
+
+    CSR expenditure required: Rs. 29 Lakhs
+    CSR expenditure incurred: Rs. 31 Lakhs
+    Nature: Healthcare camps, education, environment
+
+12. EVENTS AFTER REPORTING DATE
+
+    No material events after the balance sheet date requiring adjustment
+    or disclosure.
+
+================================================================================
+
+                    CASH FLOW STATEMENT (INDIRECT METHOD)
+                    FOR THE YEAR ENDED MARCH 31, 2025
+
+================================================================================
+                                          (Rs. Lakhs)
+================================================================================
+
+A. CASH FLOW FROM OPERATING ACTIVITIES
+
+   Profit before tax                       2,500.00
+   Adjustments for:
+   - Depreciation                          820.00
+   - Finance costs                         480.00
+   - Interest income                       (120.00)
+                                          ----------
+   Operating profit before working
+   capital changes                         3,680.00
+
+   Changes in working capital:
+   - (Increase) in inventories             (600.00)
+   - (Increase) in trade receivables       (530.00)
+   - Increase in trade payables            430.00
+   - Increase in other liabilities         170.00
+                                          ----------
+   Cash generated from operations          3,150.00
+   - Income tax paid                       (620.00)
+                                          ----------
+   Net cash from operating activities      2,530.00
+
+B. CASH FLOW FROM INVESTING ACTIVITIES
+
+   - Purchase of PPE and CWIP              (2,890.00)
+   - (Increase) in bank deposits           (300.00)
+   - Interest received                     120.00
+                                          ----------
+   Net cash used in investing activities   (3,070.00)
+
+C. CASH FLOW FROM FINANCING ACTIVITIES
+
+   - Proceeds from short-term borrowings   400.00
+   - Repayment of long-term borrowings     (300.00)
+   - Finance costs paid                    (480.00)
+   - Dividend paid (including DDT)         (240.00)
+                                          ----------
+   Net cash used in financing activities   (620.00)
+
+Net increase/(decrease) in cash            40.00
+Cash at beginning of year                  380.00
+                                          ----------
+Cash at end of year                        420.00
+================================================================================
+
+Signed for and on behalf of the Board of Directors
+
+Sd/-                                       Sd/-
+Dr. Ramesh Narayan Kulkarni                Mrs. Sunita Ramesh Kulkarni
+Managing Director                          Whole-Time Director
+DIN: 00123456                              DIN: 00123457
+
+Sd/-                                       Sd/-
+Mr. Rajesh Sharma                          Ms. Kavita Patel
+Chief Financial Officer                    Company Secretary
+
+Place: Thane
+Date: May 25, 2025
+
+================================================================================
+                    END OF AUDITED FINANCIAL STATEMENTS
+================================================================================

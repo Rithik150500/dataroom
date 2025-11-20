@@ -1,0 +1,311 @@
+================================================================================
+                    WHO PREQUALIFICATION PROGRAMME
+                    GOOD MANUFACTURING PRACTICE CERTIFICATE
+================================================================================
+
+                    WORLD HEALTH ORGANIZATION
+                    Prequalification Team - Medicines
+                    Geneva, Switzerland
+
+================================================================================
+
+                    CERTIFICATE OF GMP COMPLIANCE
+
+================================================================================
+
+Certificate Number:     WHO/GMP/IN/2024/0567
+Inspection Reference:   WHO/INSP/2024/IND/BioPharma/001
+
+--------------------------------------------------------------------------------
+
+MANUFACTURER DETAILS:
+
+Company Name:           BIOPHARMA INDUSTRIES LIMITED
+Registration Number:    U24230MH2012PLC234567 (India)
+
+Manufacturing Site:     Plot No. 234-235, MIDC Industrial Area
+                        Thane-Belapur Road, Rabale
+                        Thane - 400701
+                        Maharashtra, INDIA
+
+Contact Person:         Dr. Ramesh Narayan Kulkarni, Managing Director
+Telephone:              +91-22-2568-XXXX
+Email:                  regulatory@biopharma.com
+
+--------------------------------------------------------------------------------
+
+CERTIFICATE VALIDITY:
+
+Issue Date:             March 15, 2024
+Expiry Date:            March 14, 2027
+Certificate Duration:   3 (Three) Years
+
+--------------------------------------------------------------------------------
+
+SCOPE OF CERTIFICATION:
+
+This certificate confirms that the manufacturing site listed above has been
+inspected by WHO Prequalification inspectors and found to be in compliance
+with WHO Good Manufacturing Practices for pharmaceutical products as
+contained in:
+
+- WHO Technical Report Series, No. 986, 2014, Annex 2
+- WHO Technical Report Series, No. 961, 2011, Annex 3
+- WHO Technical Report Series, No. 957, 2010, Annex 5
+
+DOSAGE FORMS COVERED:
+
+1. Oral Solid Dosage Forms - Tablets
+   - Film-coated tablets
+   - Uncoated tablets
+   - Enteric-coated tablets
+   - Modified-release tablets
+
+2. Oral Solid Dosage Forms - Capsules
+   - Hard gelatin capsules
+   - Enteric-coated capsules
+
+PRODUCT CATEGORIES:
+
+- Beta-lactam antibiotics (Penicillins - in dedicated facility)
+- Beta-lactam antibiotics (Cephalosporins - in dedicated facility)
+- Non-beta-lactam antibiotics
+- Cardiovascular drugs
+- Antidiabetic drugs
+- Gastrointestinal drugs
+- Analgesics and antipyretics
+
+================================================================================
+
+INSPECTION DETAILS:
+
+Inspection Type:        Re-inspection (Periodic)
+Inspection Dates:       January 15-18, 2024
+Duration:               4 days
+
+INSPECTION TEAM:
+
+Lead Inspector:         Dr. Maria Santos (WHO Prequalification Team)
+Inspector:              Mr. James Miller (External Expert - USA)
+Inspector:              Dr. Akiko Tanaka (External Expert - Japan)
+
+AREAS INSPECTED:
+
+1. Quality Management System
+2. Personnel qualifications and training
+3. Premises and equipment
+4. Documentation and records
+5. Production operations
+6. Quality control laboratory
+7. Contract manufacturing and analysis
+8. Complaints and product recalls
+9. Self-inspection
+10. Validation and qualification
+
+================================================================================
+
+INSPECTION OUTCOME:
+
+Overall Compliance Status: COMPLIANT
+
+Classification of Observations:
+
+- Critical Observations:    0 (Zero)
+- Major Observations:       0 (Zero)
+- Minor Observations:       3 (Three)
+
+MINOR OBSERVATIONS:
+
+1. Temperature Chart Recording Gap
+   Area: Stability Chamber
+   Observation: A gap of 4 hours was noted in the temperature chart of
+   stability chamber #3 on December 5, 2023 due to chart recorder pen
+   running out of ink.
+
+   CAPA Response: UPS capacity for chart recorders increased. Spare pens
+   maintained as standard inventory. Continuous electronic monitoring
+   with alarm system installed as backup.
+
+   Closure Status: CLOSED (February 20, 2024)
+
+2. SOP Training Timeline
+   Area: Document Control
+   Observation: Two SOPs (SOP/QC/045 and SOP/WH/023) showed training
+   completion dates exceeding 30 days from the effective date of the
+   revised SOP.
+
+   CAPA Response: Training management system enhanced with automated
+   alerts 15 days before training deadline. Training coordinator
+   accountability strengthened.
+
+   Closure Status: CLOSED (February 25, 2024)
+
+3. Change Control Final Approval
+   Area: Quality Assurance
+   Observation: Change Control CC-2023-089 for modification of cleaning
+   validation protocol lacked final approval signature from QA Head.
+
+   CAPA Response: Change control checklist enhanced to include signature
+   verification. Periodic audit of open change controls implemented.
+
+   Closure Status: CLOSED (February 22, 2024)
+
+All corrective and preventive actions have been verified as adequately
+implemented by the WHO Prequalification Team.
+
+================================================================================
+
+GMP COMPLIANCE STATEMENT:
+
+Based on the inspection conducted from January 15-18, 2024, and the
+verification of corrective and preventive actions implemented by the
+manufacturer, the WHO Prequalification Team certifies that:
+
+BioPharma Industries Limited, at the manufacturing site located at
+Plot No. 234-235, MIDC Industrial Area, Thane-Belapur Road, Rabale,
+Thane - 400701, Maharashtra, India:
+
+1. Operates a pharmaceutical quality system appropriate for the manufacture
+   of pharmaceutical products;
+
+2. Has premises, equipment, and utilities suitable for the intended
+   manufacturing operations;
+
+3. Employs qualified and trained personnel for all manufacturing and
+   quality functions;
+
+4. Maintains adequate documentation including Standard Operating Procedures,
+   Batch Manufacturing Records, and Quality Control records;
+
+5. Has validated manufacturing processes and qualified equipment;
+
+6. Operates a quality control laboratory capable of performing required
+   tests;
+
+7. Has systems for handling complaints, deviations, and product recalls;
+
+8. Maintains appropriate self-inspection programs.
+
+The manufacturing site is therefore considered to be in compliance with
+WHO Good Manufacturing Practices for the dosage forms and product
+categories specified in this certificate.
+
+================================================================================
+
+PREVIOUS INSPECTION HISTORY:
+
+Inspection Date    Type                Outcome         Certificate No.
+--------------------------------------------------------------------------------
+March 2021         Initial Inspection  COMPLIANT       WHO/GMP/IN/2021/0234
+January 2024       Re-inspection       COMPLIANT       WHO/GMP/IN/2024/0567
+
+--------------------------------------------------------------------------------
+
+CONDITIONS AND LIMITATIONS:
+
+1. This certificate is valid only for the manufacturing site, dosage forms,
+   and product categories specified herein.
+
+2. Any significant changes to the manufacturing site, processes, or quality
+   systems must be notified to the WHO Prequalification Team.
+
+3. The WHO Prequalification Team reserves the right to conduct unannounced
+   inspections at any time.
+
+4. This certificate may be suspended or withdrawn if the manufacturer is
+   found to be non-compliant with WHO GMP requirements or if significant
+   concerns arise regarding product quality or safety.
+
+5. This certificate does not constitute approval of any specific
+   pharmaceutical product. Products must be separately submitted for
+   prequalification assessment.
+
+6. The manufacturer must continue to maintain compliance with WHO GMP
+   requirements throughout the validity of this certificate.
+
+================================================================================
+
+NOTES FOR REGULATORY AUTHORITIES AND PROCUREMENT AGENCIES:
+
+1. This certificate may be relied upon by national regulatory authorities
+   and procurement agencies as evidence of GMP compliance.
+
+2. This certificate is issued under the WHO Prequalification Programme and
+   is intended to support procurement decisions by UN agencies and other
+   international organizations.
+
+3. The current status of this certificate can be verified on the WHO
+   Prequalification Programme website: https://extranet.who.int/prequal/
+
+4. This certificate relates only to GMP compliance and does not constitute
+   WHO prequalification of any specific product.
+
+================================================================================
+
+CERTIFICATE AUTHENTICATION:
+
+This certificate is issued by the World Health Organization, Prequalification
+of Medicines Programme.
+
+The authenticity of this certificate can be verified by:
+- Email: prequalification@who.int
+- Website: https://extranet.who.int/prequal/
+
+                                             [WHO LOGO]
+
+                                             Sd/-
+                                             Dr. Emer Cooke
+                                             Coordinator
+                                             Prequalification Team - Medicines
+                                             World Health Organization
+                                             Geneva, Switzerland
+
+Date of Issue: March 15, 2024
+
+================================================================================
+
+APPENDIX: FACILITY PROFILE
+
+MANUFACTURING AREAS:
+
+1. Non-Beta-Lactam Oral Solids Block
+   - Dispensing area
+   - Granulation area
+   - Compression area
+   - Coating area
+   - Capsule filling area
+   - Blister packing area
+   - Carton packing area
+
+2. Penicillin Dedicated Block (Self-contained)
+   - Separate entry/exit
+   - Separate air handling unit
+   - Dispensing to packing in contained area
+   - Negative pressure maintained
+
+3. Cephalosporin Dedicated Block (Self-contained)
+   - Separate entry/exit
+   - Separate air handling unit
+   - Negative pressure maintained
+
+QUALITY CONTROL LABORATORY:
+
+- Chemical testing laboratory
+- Instrumental analysis laboratory (HPLC, UV-Vis, IR, Dissolution)
+- Microbiology laboratory
+- Stability testing chambers (4 walk-in chambers)
+- Reference standard storage
+- Retained sample storage
+
+UTILITIES:
+
+- Purified Water system (Generation and distribution)
+- HVAC system with HEPA filtration
+- Compressed air system (oil-free)
+- Nitrogen generation system
+- Steam generation
+- Effluent Treatment Plant
+
+================================================================================
+                    END OF WHO GMP CERTIFICATE
+================================================================================

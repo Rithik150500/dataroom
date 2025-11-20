@@ -1,0 +1,339 @@
+================================================================================
+                    STATUTORY REGISTERS AND RECORDS
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+                    STATUTORY REGISTERS MAINTAINED UNDER
+                    THE COMPANIES ACT, 2013
+
+================================================================================
+
+CIN: U24230MH2012PLC234567
+Registered Office: Plot No. 234-235, MIDC Industrial Area, Thane-Belapur Road,
+                   Rabale, Thane - 400701, Maharashtra
+
+================================================================================
+
+REGISTER 1: REGISTER OF MEMBERS (SECTION 88)
+==========================================
+
+Current Shareholding Pattern as on October 31, 2025:
+
+Folio/  Name and Address           No. of    Class   Date of    Paid-up
+DP ID                              Shares            Acquisition Value (Rs.)
+--------------------------------------------------------------------------------
+001     Dr. Ramesh Narayan         1,00,00,000  Equity  15-01-2012  10,00,00,000
+        Kulkarni
+        45, Hiranandani Gardens,
+        Powai, Mumbai - 400076
+
+002     Mrs. Sunita Ramesh         35,00,000    Equity  15-01-2012  3,50,00,000
+        Kulkarni
+        45, Hiranandani Gardens,
+        Powai, Mumbai - 400076
+
+003     Mr. Anil Shankar Joshi     20,00,000    Equity  15-01-2012  2,00,00,000
+        12, Raheja Residency,
+        Thane West - 400601
+
+004     Pharma Growth Fund I       15,00,000    Equity  01-04-2020  1,50,00,000
+        c/o PharmaVentures Asset
+        Management LLP
+        14th Floor, Express Towers,
+        Nariman Point, Mumbai
+
+005-030 Other Shareholders         27,80,000    Equity  Various     2,78,00,000
+        (26 shareholders)
+
+031-090 ESOP Trust / Employees     2,20,000     Equity  Various     22,00,000
+        (60 allottees)
+--------------------------------------------------------------------------------
+TOTAL                              2,00,00,000                      20,00,00,000
+================================================================================
+
+Shareholding Summary:
+
+Category                          Shares        Percentage
+-----------------------------------------------------------
+Promoters                         1,55,00,000   77.50%
+  - Dr. Ramesh Kulkarni           1,00,00,000   50.00%
+  - Mrs. Sunita Kulkarni            35,00,000   17.50%
+  - Mr. Anil Joshi                  20,00,000   10.00%
+Investors (PE Fund)                 15,00,000    7.50%
+Public/Others                       27,80,000   13.90%
+ESOP / Employees                     2,20,000    1.10%
+-----------------------------------------------------------
+TOTAL                             2,00,00,000  100.00%
+
+================================================================================
+
+REGISTER 2: REGISTER OF DIRECTORS AND KMP (SECTION 170)
+=====================================================
+
+Current Directors:
+
+S.No  DIN        Name                    Designation            Date of      Date of
+                                                                Appointment  Cessation
+------------------------------------------------------------------------------------
+1     00123456   Dr. Ramesh Narayan      Managing Director      15-01-2012   -
+                 Kulkarni                (Promoter)
+
+2     00123457   Mrs. Sunita Ramesh      Whole-Time Director    15-01-2012   -
+                 Kulkarni                (Promoter)
+
+3     00234567   Mr. Anil Shankar        Non-Executive          15-01-2012   -
+                 Joshi                   Director (Promoter)
+
+4     00345678   Mrs. Priya Suresh       Independent Director   10-04-2019   -
+                 Menon
+
+5     00456789   Dr. Vikram Anand        Non-Executive          01-04-2020   -
+                 Rao                     Director (Investor
+                                         Nominee)
+
+6     00567890   Mr. Sandeep Kumar       Independent Director   10-04-2022   -
+                 Agarwal
+
+------------------------------------------------------------------------------------
+
+Key Managerial Personnel:
+
+S.No  Name                    Designation            Date of      Date of
+                                                     Appointment  Cessation
+--------------------------------------------------------------------------------
+1     Dr. Ramesh Kulkarni     Managing Director      15-01-2012   -
+2     Mr. Rajesh Sharma       Chief Financial        01-06-2015   -
+                              Officer
+3     Ms. Kavita Patel        Company Secretary      15-03-2018   -
+
+================================================================================
+
+REGISTER 3: REGISTER OF CONTRACTS (SECTION 189)
+=============================================
+
+Related Party Contracts:
+
+S.No  Date of      Name of Related   Nature of         Value         Board
+      Contract     Party             Contract          (Rs./annum)   Approval
+--------------------------------------------------------------------------------
+1     01-04-2019   Kulkarni          Office Space      36,00,000     Yes
+                   Properties LLP    Rental
+
+      Relationship: Firm in which Directors are Partners
+      Terms: Monthly rent of Rs. 3,00,000 for office space at Thane
+      Arm's Length: Yes, based on independent valuation
+
+2     15-01-2020   Dr. Ramesh        Managerial        1,00,00,000   AGM
+                   Kulkarni          Remuneration
+
+      Relationship: Managing Director and Promoter
+      Terms: As per Schedule V of Companies Act
+      Shareholder Approval: Yes
+
+3     15-01-2020   Mrs. Sunita       Managerial        72,00,000     AGM
+                   Kulkarni          Remuneration
+
+      Relationship: Whole-Time Director and Promoter
+      Terms: As per Schedule V of Companies Act
+      Shareholder Approval: Yes
+
+================================================================================
+
+REGISTER 4: REGISTER OF CHARGES (SECTION 85)
+==========================================
+
+Charge ID: 10123456789
+
+Date of Creation:     June 15, 2020
+Date of Registration: July 1, 2020
+
+Charge Holder:        State Bank of India, MIDC Thane Branch
+
+Nature of Charge:     First charge by way of hypothecation
+
+Amount Secured:       Rs. 45,00,00,000 (Working Capital Limit)
+                      Rs. 28,00,00,000 (Term Loan)
+
+Properties Charged:
+(a) All current assets including stocks of raw materials, work-in-progress,
+    finished goods, book debts, and receivables - present and future
+(b) First charge on movable fixed assets including plant and machinery
+(c) Equitable mortgage on factory land and building at Thane
+
+Terms:
+- Working Capital: Revolving facility, annual renewal
+- Term Loan: 5 years, monthly installments
+
+Charge ID: 10234567890
+
+Date of Creation:     March 1, 2018
+Date of Modification: Nil
+Date of Satisfaction: Nil
+
+Charge Holder:        ICICI Bank Limited, Nariman Point Branch
+
+Nature of Charge:     Second charge
+
+Amount Secured:       Rs. 10,00,00,000 (Unsecured CC/OD converted to secured)
+
+================================================================================
+
+REGISTER 5: REGISTER OF LOANS AND INVESTMENTS (SECTION 186)
+=========================================================
+
+Loans Given: NIL
+
+Investments Made:
+
+S.No  Date of       Name of Entity    Nature        Amount       Board
+      Investment                                    (Rs.)        Resolution
+--------------------------------------------------------------------------------
+1     15-03-2018    BioPharma         Subsidiary    1,00,00,000  Yes
+                    Healthcare        (100% owned)
+                    Solutions Pvt Ltd
+
+      Purpose: To set up marketing and distribution company
+      Status: Investment of Rs. 1 Crore in equity shares
+      Current Value: Rs. 1,50,00,000 (based on net asset value)
+
+================================================================================
+
+REGISTER 6: REGISTER OF BENEFICIAL OWNERS (SECTION 90)
+====================================================
+
+No declarations received regarding significant beneficial ownership beyond
+registered shareholding.
+
+All shareholders hold shares in their own names without any undisclosed
+beneficial ownership.
+
+================================================================================
+
+REGISTER 7: MINUTES OF BOARD AND GENERAL MEETINGS
+===============================================
+
+Board Meetings:
+
+Meeting  Date            Venue                   Directors    Key Resolutions
+No.                                              Present
+--------------------------------------------------------------------------------
+47       10-06-2025      Board Room, Thane       6/6          Q1 FY26 Results
+                                                              WHO-GMP Audit Update
+48       15-09-2025      Board Room, Thane       6/6          Q2 FY26 Results
+                                                              US FDA Update
+49       (Scheduled)     Board Room, Thane       -            Q3 FY26 Results
+         15-12-2025
+
+General Meetings:
+
+Meeting  Date            Venue              Members     Key Resolutions
+                                            Present
+--------------------------------------------------------------------------------
+AGM 13   28-09-2025      Registered         50          Accounts FY 2024-25
+                         Office, Thane      (In person/ Dividend Rs. 1.50/share
+                                            proxy)      Re-appointment of
+                                                        Directors
+
+All minutes are properly recorded, signed by the Chairman, and maintained at
+the registered office.
+
+================================================================================
+
+REGISTER 8: ANNUAL RETURN FILINGS (FORM MGT-7)
+============================================
+
+Financial Year    Date Filed    Filing Status
+----------------------------------------------
+2020-21           29-11-2021    Filed on time
+2021-22           30-11-2022    Filed on time
+2022-23           29-11-2023    Filed on time
+2023-24           29-11-2024    Filed on time
+2024-25           Due Nov 2025  -
+
+================================================================================
+
+REGISTER 9: REGISTER OF DEPOSITS
+==============================
+
+No public deposits accepted by the Company.
+
+The Company has not accepted any deposits under Chapter V of the Companies
+Act, 2013.
+
+================================================================================
+
+REGISTER 10: REGISTER OF SHARE TRANSFERS
+======================================
+
+Recent Share Transfers (Last 12 months):
+
+Transfer  Date        Transferor    Transferee    No. of    Consideration
+No.                                               Shares    (Rs.)
+--------------------------------------------------------------------------------
+TR-2025-  15-05-2025  Mr. Vijay     Mr. Prakash   10,000    20,00,000
+001                   Desai         Mehta
+
+TR-2025-  20-07-2025  ESOP Trust    Employee      5,000     10,00,000
+002                                 (Mr. Suresh
+                                    Sharma)
+
+TR-2025-  10-08-2025  ESOP Trust    Employee      3,000     6,00,000
+003                                 (Ms. Priya
+                                    Desai)
+
+All transfers duly stamped, instrument of transfer executed, and share
+certificates issued.
+
+================================================================================
+
+OTHER STATUTORY RECORDS MAINTAINED
+================================
+
+1. Books of Account (Section 128)
+   - Maintained at registered office
+   - Backup at third-party location
+   - Preserved for 8 years
+
+2. Register of Proxy (for General Meetings)
+   - Maintained for each meeting
+
+3. Register of Attendance (Section 186)
+   - For Board and General Meetings
+
+4. Disclosure by Directors (Form MBP-1)
+   - Annual disclosure of interest
+   - Updated for any changes
+
+5. Register of Secretarial Standards Compliance
+   - Compliance with SS-1 and SS-2
+
+================================================================================
+
+CERTIFICATE
+
+I, Ms. Kavita Patel, Company Secretary of BioPharma Industries Limited,
+hereby certify that:
+
+1. All statutory registers are maintained at the registered office of the
+   Company as required under the Companies Act, 2013.
+
+2. The registers are properly bound and pages serially numbered.
+
+3. All entries are made in chronological order and are complete and accurate.
+
+4. The registers are open for inspection during business hours.
+
+5. Extracts of registers are provided to members on request upon payment of
+   prescribed fees.
+
+                                             Sd/-
+                                             Ms. Kavita Patel
+                                             Company Secretary
+                                             ICSI M. No.: ACS 34567
+
+Date: November 1, 2025
+Place: Thane
+
+================================================================================
+                    END OF STATUTORY REGISTERS
+================================================================================

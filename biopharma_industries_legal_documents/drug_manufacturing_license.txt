@@ -1,0 +1,407 @@
+================================================================================
+                    DRUG MANUFACTURING LICENSE
+                    FORM 25-D / FORM 28-D
+================================================================================
+
+                    FOOD AND DRUG ADMINISTRATION
+                    GOVERNMENT OF MAHARASHTRA
+
+--------------------------------------------------------------------------------
+
+                    MANUFACTURING LICENSE
+                    (Under the Drugs and Cosmetics Act, 1940)
+
+================================================================================
+
+LICENSE NUMBER: MH/25D/2013/1234
+
+LICENSE CATEGORY: Form 25-D (Drugs other than those specified in Schedules C, C1 and X)
+                  Form 28-D (Drugs specified in Schedules C, C1 and X)
+
+--------------------------------------------------------------------------------
+
+LICENSEE DETAILS:
+
+Name:               BIOPHARMA INDUSTRIES LIMITED
+CIN:                U24230MH2012PLC234567
+License Class:      Manufacturing of Allopathic Drugs
+
+Registered Office:  Plot No. 234-235, MIDC Industrial Area
+                    Thane-Belapur Road, Rabale
+                    Thane - 400701, Maharashtra
+
+Manufacturing Site: Plot No. 234-235, MIDC Industrial Area
+                    Thane-Belapur Road, Rabale
+                    Thane - 400701, Maharashtra
+
+Total Built-up Area: 85,000 sq. ft.
+Manufacturing Area:  52,000 sq. ft.
+Quality Control Lab: 8,000 sq. ft.
+Warehouse Area:      15,000 sq. ft.
+Administrative Area: 10,000 sq. ft.
+
+--------------------------------------------------------------------------------
+
+LICENSE VALIDITY:
+
+Original Issue Date:    March 15, 2013
+Last Renewal Date:      March 15, 2023
+Valid Until:            March 14, 2028
+Renewal Due By:         January 14, 2028
+
+--------------------------------------------------------------------------------
+
+TECHNICAL STAFF (As Required Under Schedule M):
+
+1. TECHNICAL DIRECTOR / APPROVED TECHNICAL HEAD
+   Name:              Dr. Rajendra Mohan Patil
+   Qualification:     M. Pharm (Pharmaceutics), Ph.D.
+   Registration No.:  MH/27984
+   Experience:        22 years in pharmaceutical manufacturing
+   Appointment Date:  March 1, 2013
+   Status:           Active (Full-time employment)
+
+2. PRODUCTION MANAGER
+   Name:              Mr. Suresh Kumar Sharma
+   Qualification:     B. Pharm
+   Registration No.:  MH/31456
+   Experience:        15 years
+   Appointment Date:  April 1, 2013
+   Status:           Active
+
+3. HEAD OF QUALITY ASSURANCE
+   Name:              Mrs. Deepika Sunil Jain
+   Qualification:     M. Pharm (Quality Assurance)
+   Registration No.:  MH/29876
+   Experience:        18 years
+   Appointment Date:  March 15, 2013
+   Status:           Active
+
+4. HEAD OF QUALITY CONTROL
+   Name:              Dr. Anita Prakash Shah
+   Qualification:     M.Sc. (Analytical Chemistry), Ph.D.
+   Experience:        16 years
+   Appointment Date:  March 20, 2013
+   Status:           Active
+
+================================================================================
+
+LICENSED MANUFACTURING ACTIVITIES:
+
+This license authorizes the manufacture of the following categories of drugs:
+
+CATEGORY A: TABLETS AND CAPSULES (NON-BETA-LACTAM)
+
+1. Cardiovascular Drugs
+   - Antihypertensives (Amlodipine, Losartan, Telmisartan, Atenolol)
+   - Antianginals (Isosorbide)
+   - Lipid-lowering agents (Atorvastatin, Rosuvastatin)
+
+2. Antidiabetic Drugs
+   - Biguanides (Metformin)
+   - Sulfonylureas (Glimepiride)
+   - DPP-4 Inhibitors (Sitagliptin - under license)
+
+3. Gastrointestinal Drugs
+   - Proton Pump Inhibitors (Omeprazole, Pantoprazole, Rabeprazole)
+   - H2 Receptor Antagonists (Ranitidine)
+   - Prokinetics (Domperidone)
+
+4. Analgesics and Antipyretics
+   - Paracetamol
+   - Ibuprofen
+   - Diclofenac
+
+5. Vitamins and Nutritional Supplements
+   - Multivitamins
+   - Calcium supplements
+   - Iron supplements
+
+6. Respiratory Drugs
+   - Antihistamines (Cetirizine, Levocetirizine)
+   - Antitussives
+   - Bronchodilators (Montelukast)
+
+CATEGORY B: TABLETS AND CAPSULES (BETA-LACTAM - DEDICATED BLOCK)
+
+7. Penicillins (Manufactured in Dedicated Penicillin Block)
+   - Amoxicillin
+   - Ampicillin
+   - Amoxicillin + Clavulanic Acid
+
+8. Cephalosporins (Manufactured in Dedicated Cephalosporin Block)
+   - Cefixime
+   - Cefpodoxime
+   - Cefuroxime
+
+CATEGORY C: ANTI-INFECTIVES (NON-BETA-LACTAM)
+
+9. Macrolides
+   - Azithromycin
+   - Clarithromycin
+   - Erythromycin
+
+10. Fluoroquinolones
+    - Ciprofloxacin
+    - Ofloxacin
+    - Levofloxacin
+
+11. Antiparasitics
+    - Albendazole
+    - Ivermectin
+
+================================================================================
+
+LICENSED CAPACITY:
+
+Total Annual Production Capacity: 2.4 Billion Tablets/Capsules
+
+Breakdown by Dosage Form:
+- Film-coated Tablets:     1.2 billion units
+- Uncoated Tablets:        0.4 billion units
+- Hard Gelatin Capsules:   0.6 billion units
+- Enteric-coated Tablets:  0.2 billion units
+
+Breakdown by Facility Section:
+- Non-Beta-Lactam Block:   2.0 billion units
+- Penicillin Block:        0.25 billion units
+- Cephalosporin Block:     0.15 billion units
+
+================================================================================
+
+SCHEDULE M COMPLIANCE REQUIREMENTS:
+
+The licensee shall comply with the Good Manufacturing Practices as specified
+in Schedule M of the Drugs and Cosmetics Rules, 1945, including but not
+limited to:
+
+1. GENERAL REQUIREMENTS
+   - Factory premises shall be located away from environmental pollutants
+   - Buildings shall be designed to permit manufacturing operations in a
+     logical sequence
+   - Adequate space for manufacturing, storage, and quality control
+   - Premises shall be maintained in good state of repair
+
+2. WAREHOUSING AREA
+   - Adequate space for orderly storage of materials and products
+   - Quarantine areas for materials awaiting testing
+   - Separate area for rejected materials
+   - Temperature and humidity controlled as required
+
+3. PRODUCTION AREA
+   - Adequate size for logical workflow
+   - Air handling systems to prevent cross-contamination
+   - Dedicated and self-contained areas for sensitizing products (penicillins)
+   - Pressure differentials between areas to be maintained
+
+4. ANCILLARY AREAS
+   - Rest and refreshment rooms separate from manufacturing areas
+   - Facilities for changing clothes and personal hygiene
+   - Toilets not to open directly to production areas
+
+5. QUALITY CONTROL AREA
+   - Adequate space for laboratory operations
+   - Separate areas for biological, microbiological, and radioisotope testing
+   - Adequate storage space for samples and reagents
+
+6. PERSONNEL
+   - Adequate number of qualified personnel
+   - Training programs for personnel
+   - Annual medical examination
+   - Specific responsibilities and authorities defined
+
+7. SANITATION
+   - Detailed sanitation program in writing
+   - Regular pest control
+   - Validation of cleaning procedures
+
+8. EQUIPMENT
+   - Equipment shall be designed to prevent contamination
+   - Equipment shall be constructed of non-reactive materials
+   - Calibration at regular intervals
+   - Records of maintenance and calibration
+
+9. DOCUMENTATION
+   - Site Master File
+   - Standard Operating Procedures
+   - Batch Manufacturing Records
+   - Batch Testing Records
+   - Validation documents
+   - Training records
+
+10. PRODUCTION
+    - Production operations to follow clearly defined procedures
+    - In-process controls during manufacture
+    - Batch numbering system
+    - Packaging and labeling as per approved specifications
+
+11. QUALITY CONTROL
+    - Sampling procedures
+    - Validated test methods
+    - Testing as per approved specifications
+    - Out-of-specification investigations
+    - Stability studies
+
+================================================================================
+
+CONDITIONS OF LICENSE:
+
+1. The premises shall be used exclusively for the purposes specified in this
+   license and shall not be altered without prior permission of the Licensing
+   Authority.
+
+2. The Technical Director/Approved Technical Head shall be present at the
+   premises during manufacturing hours and shall be responsible for all
+   technical operations.
+
+3. No drug shall be manufactured without obtaining prior approval of the
+   formulation and process (Form 29 approval).
+
+4. Every batch of drug manufactured shall be tested by the Quality Control
+   Department before release and shall be released only if it conforms to
+   the approved specifications.
+
+5. Adequate records of all manufacturing and testing operations shall be
+   maintained for a period of at least one year after the expiry date of
+   the batch.
+
+6. Any adverse drug reaction of a serious nature shall be reported to the
+   Licensing Authority within 15 days of receipt of information.
+
+7. The license is non-transferable. Any change in constitution of the firm,
+   ownership, or location shall require fresh application.
+
+8. Drugs manufactured under this license shall be sold only to persons
+   licensed to sell drugs.
+
+9. The licensee shall permit inspection of the premises by Drug Inspectors
+   at any time without prior notice.
+
+10. Drugs specified in Schedule H and H1 shall be sold only on the
+    prescription of a Registered Medical Practitioner.
+
+11. Beta-lactam antibiotics (penicillins and cephalosporins) shall be
+    manufactured only in the dedicated blocks with separate air handling
+    systems and no cross-traffic.
+
+12. The licensee shall maintain a Pharmacovigilance system and report all
+    Adverse Drug Reactions to the National Pharmacovigilance Programme.
+
+================================================================================
+
+INSPECTION HISTORY:
+
+Inspection Date    Inspector                Type        Observations   Status
+--------------------------------------------------------------------------------
+March 10, 2013     Drug Inspector, FDA      Initial     3 Minor        Cleared
+                   Maharashtra              Inspection   Observations
+
+June 15, 2015      Asst. Commissioner,      Routine     2 Minor        Cleared
+                   FDA Maharashtra                      Observations
+
+April 12, 2018     Drug Inspector,          Routine     Nil            Clean
+                   FDA Maharashtra
+
+September 8, 2020  Joint Commissioner,      Complaint   Nil            Cleared
+                   FDA Maharashtra          Investigation
+
+April 12, 2021     Drug Inspector,          Routine     3 Minor        Cleared
+                   FDA Maharashtra                      Observations
+
+August 5, 2024     Drug Inspector,          Routine     Nil            Clean
+                   FDA Maharashtra          Annual
+
+================================================================================
+
+PRODUCT-WISE APPROVALS (FORM 29):
+
+The following products have been approved for manufacture under this license:
+
+S.No.  Product Name                    Approval No.      Approval Date
+--------------------------------------------------------------------------------
+1.     Amoxicillin 250mg Capsules      MH/29/2014/566   Feb 15, 2014
+2.     Amoxicillin 500mg Capsules      MH/29/2014/567   Feb 15, 2014
+3.     Metformin HCl 500mg Tablets     MH/29/2014/890   Mar 20, 2014
+4.     Metformin HCl 850mg Tablets     MH/29/2014/891   Mar 20, 2014
+5.     Metformin HCl 1000mg Tablets    MH/29/2016/892   Jun 10, 2016
+6.     Amlodipine 5mg Tablets          MH/29/2014/123   Apr 5, 2014
+7.     Amlodipine 10mg Tablets         MH/29/2014/124   Apr 5, 2014
+8.     Atorvastatin 10mg Tablets       MH/29/2015/234   Jan 15, 2015
+9.     Atorvastatin 20mg Tablets       MH/29/2015/235   Jan 15, 2015
+10.    Azithromycin 250mg Tablets      MH/29/2018/234   May 8, 2018
+11.    Azithromycin 500mg Tablets      MH/29/2018/235   May 8, 2018
+12.    Omeprazole 20mg Capsules        MH/29/2016/456   Aug 12, 2016
+13.    Pantoprazole 40mg Tablets       MH/29/2016/789   Sep 20, 2016
+14.    Cefixime 200mg Tablets          MH/29/2017/345   Feb 28, 2017
+15.    Cefixime 100mg DT               MH/29/2017/346   Feb 28, 2017
+...    (Total 47 products approved)
+
+[Complete list maintained in Product Master File at premises]
+
+================================================================================
+
+RENEWAL REQUIREMENTS:
+
+For renewal of this license, the following documents shall be submitted at
+least 60 days before expiry:
+
+1. Application in Form 27-D
+2. License fee as prescribed
+3. Copy of existing license
+4. Blueprint of premises (if any changes)
+5. List of products manufactured in previous year
+6. List of machinery and equipment
+7. List of technical staff with qualifications
+8. Undertaking to comply with Schedule M
+9. Details of any adverse observations in previous inspections
+10. Stability data for products manufactured
+
+================================================================================
+
+ACKNOWLEDGEMENT:
+
+This license has been issued subject to the provisions of the Drugs and
+Cosmetics Act, 1940 and the rules made thereunder. The licensee is required
+to comply with all conditions of the license and the Good Manufacturing
+Practices specified in Schedule M.
+
+Non-compliance with the conditions of this license or the provisions of the
+Act may result in suspension or cancellation of the license.
+
+                                             [SEAL OF FDA MAHARASHTRA]
+
+                                             Sd/-
+                                             Assistant Commissioner of FDA
+                                             Food and Drug Administration
+                                             Government of Maharashtra
+
+Date of Issue: March 15, 2023
+
+Office Address:
+Food and Drug Administration
+Government of Maharashtra
+MIDC Bhavan, 3rd Floor
+Station Road, Thane - 400601
+
+================================================================================
+                    END OF DRUG MANUFACTURING LICENSE
+================================================================================
+
+================================================================================
+                    ADDITIONAL LICENSE: LOAN LICENSE FOR EXPORT
+================================================================================
+
+LICENSE NUMBER: MH/20B/2013/5678
+
+This additional license is issued under Form 20-B for manufacture of drugs
+exclusively for export purposes.
+
+The conditions applicable to the main license (MH/25D/2013/1234) shall apply
+mutatis mutandis to this license.
+
+Products manufactured under this license shall not be sold in India without
+separate approval under Form 25-D/28-D license.
+
+Valid Until: March 14, 2028
+
+================================================================================
