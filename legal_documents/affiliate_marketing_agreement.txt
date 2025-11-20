@@ -1,0 +1,837 @@
+================================================================================
+                    AFFILIATE MARKETING AGREEMENT
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE AFFILIATE PROGRAM TERMS AND CONDITIONS
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+
+================================================================================
+                         PARTIES TO AGREEMENT
+================================================================================
+
+BETWEEN:
+
+TECHVENTURE INDIA PRIVATE LIMITED
+(hereinafter referred to as "Company" or "TechVenture" or "Merchant")
+CIN: U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                   Bangalore - 560095, Karnataka, India
+
+AND
+
+AFFILIATE: ___________________________
+(hereinafter referred to as "Affiliate" or "Publisher" or "Partner")
+Legal Name: ___________________________
+PAN: ___________________________
+Address: ___________________________
+         ___________________________
+Email: ___________________________
+Website/Platform: ___________________________
+
+================================================================================
+                              RECITALS
+================================================================================
+
+WHEREAS:
+
+A.  The Company operates an e-commerce platform and wishes to expand
+    its customer reach through affiliate marketing partnerships;
+
+B.  The Affiliate operates websites, blogs, social media platforms, or
+    other digital properties and wishes to earn commissions by promoting
+    the Company's products;
+
+C.  Both parties wish to establish a mutually beneficial affiliate
+    relationship governed by this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements
+set forth herein, the parties agree as follows:
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+ARTICLE 1:  DEFINITIONS
+ARTICLE 2:  ENROLLMENT AND ELIGIBILITY
+ARTICLE 3:  AFFILIATE OBLIGATIONS
+ARTICLE 4:  COMMISSION STRUCTURE
+ARTICLE 5:  TRACKING AND ATTRIBUTION
+ARTICLE 6:  PAYMENT TERMS
+ARTICLE 7:  PROMOTIONAL GUIDELINES
+ARTICLE 8:  PROHIBITED PRACTICES
+ARTICLE 9:  INTELLECTUAL PROPERTY
+ARTICLE 10: CONFIDENTIALITY
+ARTICLE 11: DATA PROTECTION
+ARTICLE 12: REPRESENTATIONS AND WARRANTIES
+ARTICLE 13: LIMITATION OF LIABILITY
+ARTICLE 14: INDEMNIFICATION
+ARTICLE 15: TERM AND TERMINATION
+ARTICLE 16: DISPUTE RESOLUTION
+ARTICLE 17: GENERAL PROVISIONS
+
+================================================================================
+                    ARTICLE 1: DEFINITIONS
+================================================================================
+
+1.1 In this Agreement, unless the context otherwise requires:
+
+    (a) "Affiliate Link" means the unique tracking URL provided to
+        Affiliate for tracking referrals to the Company's website;
+
+    (b) "Affiliate Network" means any third-party platform managing
+        the affiliate program on behalf of the Company;
+
+    (c) "Click" means a user clicking on an Affiliate Link;
+
+    (d) "Commission" means the payment earned by Affiliate for
+        qualifying transactions;
+
+    (e) "Conversion" means a completed qualifying action (purchase)
+        resulting from an Affiliate referral;
+
+    (f) "Cookie Duration" means the period during which an Affiliate
+        receives credit for a referral after initial click;
+
+    (g) "Creative Materials" means banners, text links, images, and
+        other promotional materials provided by the Company;
+
+    (h) "Effective Date" means the date this Agreement comes into force;
+
+    (i) "Net Sale" means gross sale value less returns, refunds,
+        cancellations, taxes, and shipping charges;
+
+    (j) "Qualifying Transaction" means a valid purchase that meets
+        all requirements for commission payment;
+
+    (k) "Referral" means a visitor directed to Company's website
+        through Affiliate's Link.
+
+================================================================================
+                    ARTICLE 2: ENROLLMENT AND ELIGIBILITY
+================================================================================
+
+2.1 APPLICATION PROCESS
+
+    (a) Complete online affiliate application form;
+    (b) Provide accurate information about platforms and audience;
+    (c) Accept terms of this Agreement;
+    (d) Await approval notification;
+    (e) Applications reviewed within 5-7 business days.
+
+2.2 ELIGIBILITY REQUIREMENTS
+
+    To participate, Affiliate must:
+
+    (a) Be at least 18 years of age;
+    (b) Have an active website, blog, or social media presence;
+    (c) Own or have rights to promotional platforms;
+    (d) Have meaningful audience or traffic;
+    (e) Comply with all applicable laws;
+    (f) Not be on any Company blacklist;
+    (g) Have valid PAN and bank account.
+
+2.3 PLATFORM REQUIREMENTS
+
+    Affiliate's platform must:
+
+    (a) Have original, quality content;
+    (b) Not contain prohibited content (see Article 8);
+    (c) Not infringe third-party rights;
+    (d) Be publicly accessible;
+    (e) Have clear affiliate disclosure.
+
+2.4 APPROVAL AND REJECTION
+
+    (a) Company reserves right to approve or reject applications;
+    (b) Rejection reasons may not be disclosed;
+    (c) Rejected applicants may reapply after 90 days;
+    (d) Approval can be revoked at any time.
+
+2.5 ACCOUNT SETUP
+
+    Upon approval:
+
+    (a) Unique Affiliate ID assigned;
+    (b) Access to Affiliate Dashboard;
+    (c) Access to Creative Materials;
+    (d) Generation of Affiliate Links;
+    (e) Real-time reporting available.
+
+================================================================================
+                    ARTICLE 3: AFFILIATE OBLIGATIONS
+================================================================================
+
+3.1 GENERAL OBLIGATIONS
+
+    Affiliate agrees to:
+
+    (a) Promote Company products ethically and honestly;
+    (b) Comply with all terms of this Agreement;
+    (c) Maintain accurate account information;
+    (d) Respond to Company communications promptly;
+    (e) Report any issues or violations;
+    (f) Keep login credentials confidential.
+
+3.2 DISCLOSURE REQUIREMENTS
+
+    Affiliate MUST:
+
+    (a) Clearly disclose affiliate relationship to audience;
+    (b) Use phrases like "Affiliate Link," "Ad," or "Sponsored";
+    (c) Comply with ASCI guidelines for advertising;
+    (d) Follow FTC guidelines if targeting US audience;
+    (e) Place disclosure prominently and clearly.
+
+    Example disclosures:
+    - "This post contains affiliate links. I may earn a commission."
+    - "Ad | Affiliate Link"
+    - "I partner with TechVenture as an affiliate."
+
+3.3 COMPLIANCE OBLIGATIONS
+
+    Affiliate must comply with:
+
+    (a) All applicable laws and regulations;
+    (b) Advertising Standards Council of India (ASCI) guidelines;
+    (c) Information Technology Act, 2000;
+    (d) Consumer Protection Act, 2019;
+    (e) Tax laws (GST, Income Tax);
+    (f) Platform-specific guidelines (Google, Facebook, etc.).
+
+3.4 CONTENT ACCURACY
+
+    Affiliate must ensure:
+
+    (a) Product descriptions are accurate;
+    (b) Prices are current and correct;
+    (c) Offers and promotions are valid;
+    (d) Claims are truthful and substantiated;
+    (e) No false or misleading statements.
+
+3.5 REPORTING
+
+    Affiliate should report:
+
+    (a) Technical issues with tracking;
+    (b) Suspected fraud by others;
+    (c) Changes in promotional methods;
+    (d) Material changes to platforms.
+
+================================================================================
+                    ARTICLE 4: COMMISSION STRUCTURE
+================================================================================
+
+4.1 BASE COMMISSION RATES
+
+    Standard commission rates by category:
+
+    -------------------------------------------------------------------------
+    | PRODUCT CATEGORY            | COMMISSION RATE                         |
+    -------------------------------------------------------------------------
+    | Electronics & Gadgets       | 2% - 5%                                 |
+    | Mobile Phones               | 1% - 3%                                 |
+    | Fashion & Apparel           | 8% - 12%                                |
+    | Home & Kitchen              | 5% - 8%                                 |
+    | Beauty & Personal Care      | 6% - 10%                                |
+    | Books & Media               | 4% - 6%                                 |
+    | Sports & Fitness            | 6% - 10%                                |
+    | Baby Products               | 5% - 8%                                 |
+    | Furniture                   | 4% - 8%                                 |
+    | Grocery                     | 1% - 4%                                 |
+    | Large Appliances            | 2% - 4%                                 |
+    -------------------------------------------------------------------------
+
+    Current rates available in Affiliate Dashboard.
+
+4.2 COMMISSION CALCULATION
+
+    Commission = Net Sale Value x Commission Rate
+
+    Net Sale = Product Price - Returns - Refunds - Cancellations
+               - Taxes - Shipping (if applicable)
+
+4.3 COMMISSION CAP
+
+    (a) Per product commission cap may apply;
+    (b) Example: Maximum Rs. 500 per item;
+    (c) Caps vary by category;
+    (d) See rate card for details.
+
+4.4 SPECIAL COMMISSION RATES
+
+    (a) PROMOTIONAL RATES: Temporary increased rates for campaigns
+    (b) PERFORMANCE BONUS: Additional commission for top affiliates
+    (c) NEW CUSTOMER BONUS: Higher rate for first-time buyers
+    (d) VOLUME BONUS: Increased rate for high sales volume
+
+4.5 COMMISSION ADJUSTMENT
+
+    Commissions may be:
+
+    (a) Pending: Order placed, awaiting delivery
+    (b) Approved: Order delivered, return window passed
+    (c) Rejected: Order cancelled, returned, or invalid
+    (d) Adjusted: Partial return or price adjustment
+
+4.6 NON-COMMISSIONABLE ITEMS
+
+    No commission earned on:
+
+    (a) Gift cards and store credit;
+    (b) Shipping and handling charges;
+    (c) Taxes;
+    (d) Warranty and service plans;
+    (e) Items purchased by Affiliate;
+    (f) Fraudulent or invalid transactions.
+
+================================================================================
+                    ARTICLE 5: TRACKING AND ATTRIBUTION
+================================================================================
+
+5.1 TRACKING METHOD
+
+    (a) Cookie-based tracking primary method;
+    (b) Affiliate Links contain unique tracking code;
+    (c) Cookie placed on user's browser upon click;
+    (d) Order attributed to Affiliate if cookie present.
+
+5.2 COOKIE DURATION
+
+    (a) Standard cookie duration: 24-30 days;
+    (b) Cookie overwrites previous affiliate cookie;
+    (c) Last-click attribution model used;
+    (d) Duration may vary by promotion.
+
+5.3 ATTRIBUTION RULES
+
+    (a) LAST-CLICK: Last affiliate before purchase gets credit
+    (b) DIRECT TRAFFIC: No affiliate credit if user types URL
+    (c) COOKIE OVERRIDE: Later affiliate overwrites earlier
+
+5.4 CROSS-DEVICE TRACKING
+
+    (a) Limited cross-device tracking supported;
+    (b) Best effort to track across devices;
+    (c) User must be logged in for cross-device;
+    (d) Not guaranteed in all cases.
+
+5.5 REPORTING AND ANALYTICS
+
+    Affiliate Dashboard provides:
+
+    (a) Real-time clicks and conversions;
+    (b) Sales reports by product and date;
+    (c) Commission earned and pending;
+    (d) Conversion rates and performance;
+    (e) Downloadable reports.
+
+5.6 TRACKING DISPUTES
+
+    (a) Report disputes within 30 days of transaction;
+    (b) Provide evidence (screenshots, etc.);
+    (c) Company investigates within 14 days;
+    (d) Company decision is final.
+
+================================================================================
+                    ARTICLE 6: PAYMENT TERMS
+================================================================================
+
+6.1 PAYMENT SCHEDULE
+
+    (a) Payments processed monthly;
+    (b) Payment date: 15th of following month;
+    (c) For sales finalized by end of previous month.
+
+    Example: January sales paid on February 15th.
+
+6.2 PAYMENT THRESHOLD
+
+    (a) Minimum payment threshold: Rs. 1,000;
+    (b) Balance below threshold carries forward;
+    (c) Upon termination, balance paid regardless of threshold.
+
+6.3 PAYMENT METHODS
+
+    (a) NEFT/IMPS bank transfer (primary);
+    (b) Cheque (for amounts above Rs. 10,000);
+    (c) Payment to Indian bank account only.
+
+6.4 PAYMENT INFORMATION
+
+    Affiliate must provide:
+
+    (a) Bank account details;
+    (b) IFSC code;
+    (c) Account holder name (matching PAN);
+    (d) PAN card copy;
+    (e) Updated information promptly.
+
+6.5 TAX DEDUCTIONS
+
+    (a) TDS deducted as per Income Tax Act;
+    (b) Currently 5% for PAN provided, 20% without PAN;
+    (c) GST applicable if Affiliate is registered;
+    (d) TDS certificate provided quarterly.
+
+6.6 INVOICE REQUIREMENTS
+
+    If GST registered, provide:
+
+    (a) GST-compliant invoice;
+    (b) Company GSTIN and Affiliate GSTIN;
+    (c) SAC code 998361 (advertising services);
+    (d) Invoice before payment date.
+
+6.7 PAYMENT HOLDS
+
+    Payments may be held for:
+
+    (a) Suspected fraud investigation;
+    (b) Policy violations under review;
+    (c) High refund/cancellation rates;
+    (d) Incomplete payment information.
+
+6.8 DISPUTED PAYMENTS
+
+    (a) Report discrepancies within 30 days of payment;
+    (b) Provide detailed information;
+    (c) Resolution within 14 business days.
+
+================================================================================
+                    ARTICLE 7: PROMOTIONAL GUIDELINES
+================================================================================
+
+7.1 APPROVED PROMOTIONAL METHODS
+
+    Affiliates may promote using:
+
+    (a) Website/blog content and reviews;
+    (b) Email marketing (to opt-in subscribers);
+    (c) Social media posts and stories;
+    (d) YouTube videos and tutorials;
+    (e) Comparison websites;
+    (f) Deal and coupon sites (if approved);
+    (g) Mobile apps (if approved).
+
+7.2 CONTENT GUIDELINES
+
+    Promotional content should:
+
+    (a) Be original and valuable;
+    (b) Accurately represent products;
+    (c) Include honest opinions and reviews;
+    (d) Disclose affiliate relationship;
+    (e) Not make false claims or guarantees;
+    (f) Comply with platform guidelines.
+
+7.3 USE OF CREATIVE MATERIALS
+
+    (a) Use only Company-provided creatives;
+    (b) Do not modify banners or logos;
+    (c) Keep materials current;
+    (d) Remove expired promotions promptly;
+    (e) Follow size and placement guidelines.
+
+7.4 EMAIL MARKETING RULES
+
+    (a) Send only to opt-in subscribers;
+    (b) Include unsubscribe option;
+    (c) Identify sender clearly;
+    (d) No purchased or rented lists;
+    (e) Comply with anti-spam laws;
+    (f) Maximum frequency: 2 emails/week with affiliate content.
+
+7.5 SOCIAL MEDIA GUIDELINES
+
+    (a) Follow platform advertising policies;
+    (b) Use appropriate disclosures (#ad, #sponsored);
+    (c) No fake engagement or followers;
+    (d) Personal accounts preferred over fake personas.
+
+7.6 COUPON AND DEAL SITES
+
+    (a) Only with prior approval;
+    (b) Display only valid, verified coupons;
+    (c) Update promptly when expired;
+    (d) No fake or unauthorized coupon codes;
+    (e) Clear attribution and disclosure.
+
+================================================================================
+                    ARTICLE 8: PROHIBITED PRACTICES
+================================================================================
+
+8.1 STRICTLY PROHIBITED ACTIONS
+
+    Affiliates must NOT:
+
+    (a) PAID SEARCH BIDDING
+        - Bid on Company's trademark terms
+        - Use brand name in ad copy
+        - Direct link in PPC ads
+
+    (b) COOKIE STUFFING
+        - Force cookies without user knowledge
+        - Use pop-ups, pop-unders, or frames
+        - Automatic redirect scripts
+
+    (c) TRADEMARK MISUSE
+        - Register domains with Company trademarks
+        - Use trademarks in social media handles
+        - Mislead users about official status
+
+    (d) FALSE ADVERTISING
+        - Make false or unsubstantiated claims
+        - Create fake urgency or scarcity
+        - Mislead about products or prices
+        - Use bait-and-switch tactics
+
+    (e) SPAM
+        - Send unsolicited emails
+        - Post spam comments or messages
+        - Use automated posting tools
+        - Engage in any spam activity
+
+    (f) INCENTIVIZED TRAFFIC
+        - Pay users to click links
+        - Offer rewards for purchases
+        - Use loyalty cashback sites without approval
+
+    (g) TRADEMARK INFRINGEMENT
+        - Create look-alike websites
+        - Impersonate Company
+        - Use confusing similar names
+
+    (h) ADWARE/MALWARE
+        - Distribute software with affiliate links
+        - Use browser toolbars
+        - Any malicious tracking
+
+    (i) SELF-REFERRAL
+        - Purchase through own affiliate links
+        - Refer immediate family members
+        - Use multiple accounts
+
+    (j) CONTENT VIOLATIONS
+        - Host on illegal or adult sites
+        - Promote on sites with prohibited content
+        - Use hateful or offensive content
+
+8.2 CONSEQUENCES OF VIOLATIONS
+
+    (a) Warning and request to remedy;
+    (b) Commission forfeiture;
+    (c) Account suspension;
+    (d) Permanent termination;
+    (e) Withholding of payments;
+    (f) Legal action.
+
+================================================================================
+                    ARTICLE 9: INTELLECTUAL PROPERTY
+================================================================================
+
+9.1 COMPANY'S INTELLECTUAL PROPERTY
+
+    (a) Company owns all trademarks, logos, and creative materials;
+    (b) Limited license granted to Affiliate for promotional purposes;
+    (c) License terminates upon Agreement termination;
+    (d) No rights transferred to Affiliate.
+
+9.2 LICENSE GRANT
+
+    Company grants Affiliate:
+
+    (a) Non-exclusive license;
+    (b) Non-transferable license;
+    (c) Revocable license;
+    (d) To use provided materials for promotion only.
+
+9.3 RESTRICTIONS
+
+    Affiliate must NOT:
+
+    (a) Modify or alter Company materials;
+    (b) Use materials in unauthorized manner;
+    (c) Create derivative works;
+    (d) Register similar trademarks;
+    (e) Use after termination.
+
+9.4 AFFILIATE'S CONTENT
+
+    (a) Affiliate retains ownership of original content;
+    (b) Company may use Affiliate's content for promotional purposes;
+    (c) Affiliate grants Company license to showcase promotions.
+
+================================================================================
+                    ARTICLE 10: CONFIDENTIALITY
+================================================================================
+
+10.1 CONFIDENTIAL INFORMATION
+
+    Confidential information includes:
+
+    (a) Commission rates and structures;
+    (b) Conversion rates and performance data;
+    (c) Promotional strategies;
+    (d) Customer data;
+    (e) Business plans and forecasts.
+
+10.2 OBLIGATIONS
+
+    Affiliate agrees to:
+
+    (a) Keep confidential information secret;
+    (b) Not disclose to third parties;
+    (c) Use only for Agreement purposes;
+    (d) Return upon termination.
+
+10.3 EXCEPTIONS
+
+    Does not apply to information that:
+
+    (a) Is publicly available;
+    (b) Was known before disclosure;
+    (c) Is required by law to disclose.
+
+================================================================================
+                    ARTICLE 11: DATA PROTECTION
+================================================================================
+
+11.1 CUSTOMER DATA
+
+    (a) Affiliate does not receive customer personal data;
+    (b) Only aggregated, anonymized data provided;
+    (c) Affiliate must not collect customer data;
+    (d) Compliance with DPDPA 2023 required.
+
+11.2 AFFILIATE DATA
+
+    (a) Company collects Affiliate data for program management;
+    (b) Used for payments, communication, and analytics;
+    (c) Shared with service providers as needed;
+    (d) Subject to Company's Privacy Policy.
+
+11.3 COMPLIANCE
+
+    Affiliate must:
+
+    (a) Have appropriate privacy policy;
+    (b) Obtain necessary consents;
+    (c) Comply with data protection laws;
+    (d) Report any data breaches.
+
+================================================================================
+                    ARTICLE 12: REPRESENTATIONS AND WARRANTIES
+================================================================================
+
+12.1 AFFILIATE REPRESENTS AND WARRANTS
+
+    (a) Has legal authority to enter Agreement;
+    (b) All information provided is accurate;
+    (c) Owns or has rights to promotional platforms;
+    (d) Will comply with all applicable laws;
+    (e) Content does not infringe third-party rights;
+    (f) Will maintain required disclosures.
+
+12.2 COMPANY REPRESENTS AND WARRANTS
+
+    (a) Has authority to enter Agreement;
+    (b) Will pay earned commissions per terms;
+    (c) Will provide tracking and reporting;
+    (d) Will provide promotional materials.
+
+12.3 NO OTHER WARRANTIES
+
+    COMPANY MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED,
+    INCLUDING WARRANTIES OF MERCHANTABILITY OR FITNESS FOR
+    PARTICULAR PURPOSE.
+
+================================================================================
+                    ARTICLE 13: LIMITATION OF LIABILITY
+================================================================================
+
+13.1 LIMITATION
+
+    TO THE MAXIMUM EXTENT PERMITTED BY LAW:
+
+    (a) COMPANY SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL,
+        SPECIAL, OR CONSEQUENTIAL DAMAGES;
+
+    (b) COMPANY'S TOTAL LIABILITY SHALL NOT EXCEED COMMISSIONS
+        PAID TO AFFILIATE IN PRECEDING 12 MONTHS;
+
+    (c) COMPANY NOT LIABLE FOR TRACKING FAILURES, PLATFORM
+        DOWNTIME, OR THIRD-PARTY ACTIONS.
+
+13.2 NO LIABILITY FOR
+
+    (a) Lost sales or commissions due to technical issues;
+    (b) User ad-blocking or cookie deletion;
+    (c) Algorithm changes on third-party platforms;
+    (d) Product availability or pricing changes.
+
+================================================================================
+                    ARTICLE 14: INDEMNIFICATION
+================================================================================
+
+14.1 AFFILIATE INDEMNIFICATION
+
+    Affiliate agrees to indemnify, defend, and hold harmless the Company
+    from any claims, losses, damages, and expenses arising from:
+
+    (a) Affiliate's breach of Agreement;
+    (b) Affiliate's promotional activities;
+    (c) Affiliate's content or materials;
+    (d) Violation of laws or regulations;
+    (e) Infringement of third-party rights;
+    (f) Tax liabilities;
+    (g) Data protection violations.
+
+================================================================================
+                    ARTICLE 15: TERM AND TERMINATION
+================================================================================
+
+15.1 TERM
+
+    (a) Agreement effective from Effective Date;
+    (b) Continues until terminated;
+    (c) Reviewed annually by Company.
+
+15.2 TERMINATION BY AFFILIATE
+
+    (a) May terminate at any time with 7 days notice;
+    (b) Email notice to affiliates@techventure.in;
+    (c) Continue to comply until termination effective.
+
+15.3 TERMINATION BY COMPANY
+
+    (a) May terminate at any time without cause with 7 days notice;
+    (b) May terminate immediately for cause (violations);
+    (c) May terminate program entirely with 30 days notice.
+
+15.4 EFFECT OF TERMINATION
+
+    Upon termination:
+
+    (a) Remove all Affiliate Links immediately;
+    (b) Stop using Company's intellectual property;
+    (c) Return confidential information;
+    (d) Pending commissions paid per normal schedule;
+    (e) Unpaid balance forfeited if terminated for cause;
+    (f) Access to Affiliate Dashboard revoked.
+
+15.5 SURVIVAL
+
+    Sections on confidentiality, indemnification, limitation of
+    liability, and dispute resolution survive termination.
+
+================================================================================
+                    ARTICLE 16: DISPUTE RESOLUTION
+================================================================================
+
+16.1 INFORMAL RESOLUTION
+
+    (a) Parties attempt to resolve disputes informally first;
+    (b) Contact affiliates@techventure.in;
+    (c) 30-day negotiation period.
+
+16.2 ARBITRATION
+
+    (a) Unresolved disputes referred to arbitration;
+    (b) Under Arbitration and Conciliation Act, 1996;
+    (c) Single arbitrator mutually appointed;
+    (d) Seat: Bangalore, Karnataka;
+    (e) Language: English;
+    (f) Award final and binding.
+
+16.3 GOVERNING LAW
+
+    Agreement governed by laws of India.
+
+16.4 JURISDICTION
+
+    Courts of Bangalore have exclusive jurisdiction.
+
+================================================================================
+                    ARTICLE 17: GENERAL PROVISIONS
+================================================================================
+
+17.1 ENTIRE AGREEMENT
+
+    This Agreement constitutes entire understanding and supersedes
+    all prior agreements.
+
+17.2 AMENDMENT
+
+    (a) Company may modify terms with 15 days notice;
+    (b) Continued participation = acceptance;
+    (c) Material changes highlighted.
+
+17.3 ASSIGNMENT
+
+    Affiliate cannot assign without written consent.
+
+17.4 INDEPENDENT CONTRACTOR
+
+    Affiliate is independent contractor, not employee or agent.
+
+17.5 SEVERABILITY
+
+    Invalid provisions do not affect remaining Agreement.
+
+17.6 WAIVER
+
+    Failure to enforce does not constitute waiver.
+
+17.7 NOTICES
+
+    (a) To Affiliate: Registered email
+    (b) To Company: affiliates@techventure.in
+
+17.8 FORCE MAJEURE
+
+    Neither party liable for failure due to events beyond control.
+
+================================================================================
+                         SIGNATURES
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement:
+
+
+For TECHVENTURE INDIA PRIVATE LIMITED:
+
+_________________________
+Name: ___________________________
+Designation: ___________________________
+Date: ___________________________
+
+
+For AFFILIATE:
+
+_________________________
+Name: ___________________________
+Designation: ___________________________
+Date: ___________________________
+
+================================================================================
+                         CONTACT INFORMATION
+================================================================================
+
+AFFILIATE SUPPORT
+
+Email:      affiliates@techventure.in
+Phone:      +91-80-4567-8904
+Dashboard:  affiliates.techventure.in
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    AFFILIATE MARKETING AGREEMENT
+                    VERSION 1.0
+
+================================================================================

@@ -1,0 +1,733 @@
+================================================================================
+                    PRODUCT LISTING GUIDELINES
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE MARKETPLACE LISTING STANDARDS
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+Last Updated: _____ day of __________, 20____
+
+================================================================================
+                         COMPANY INFORMATION
+================================================================================
+
+Company Name:     TECHVENTURE INDIA PRIVATE LIMITED
+CIN:              U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                  Bangalore - 560095, Karnataka, India
+Website:          www.techventure.in
+Email:            seller-support@techventure.in
+Phone:            +91-80-4567-8900
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+SECTION 1:  INTRODUCTION AND PURPOSE
+SECTION 2:  GENERAL LISTING REQUIREMENTS
+SECTION 3:  PRODUCT TITLE GUIDELINES
+SECTION 4:  PRODUCT DESCRIPTION STANDARDS
+SECTION 5:  IMAGE REQUIREMENTS
+SECTION 6:  PRICING GUIDELINES
+SECTION 7:  CATEGORY-SPECIFIC REQUIREMENTS
+SECTION 8:  LEGAL AND COMPLIANCE REQUIREMENTS
+SECTION 9:  PROHIBITED LISTINGS
+SECTION 10: LISTING QUALITY SCORE
+SECTION 11: CONTENT MODERATION
+SECTION 12: UPDATES AND MAINTENANCE
+SECTION 13: CONTACT INFORMATION
+
+================================================================================
+                    SECTION 1: INTRODUCTION AND PURPOSE
+================================================================================
+
+1.1 PURPOSE
+
+    These Product Listing Guidelines establish standards for creating
+    high-quality product listings on TechVenture's e-commerce platform.
+    Quality listings improve customer experience, increase conversions,
+    and ensure regulatory compliance.
+
+1.2 APPLICABILITY
+
+    These guidelines apply to:
+
+    (a) All sellers on TechVenture marketplace;
+    (b) All product categories;
+    (c) New and existing listings;
+    (d) All listing elements (title, description, images, etc.).
+
+1.3 BENEFITS OF QUALITY LISTINGS
+
+    (a) Higher visibility in search results;
+    (b) Improved conversion rates;
+    (c) Reduced returns and complaints;
+    (d) Better customer reviews;
+    (e) Increased seller rating;
+    (f) Access to premium programs.
+
+1.4 COMPLIANCE
+
+    (a) Listings must comply with these guidelines;
+    (b) Non-compliant listings may be suppressed or removed;
+    (c) Repeated violations lead to account action;
+    (d) Guidelines updated periodically.
+
+================================================================================
+                    SECTION 2: GENERAL LISTING REQUIREMENTS
+================================================================================
+
+2.1 MANDATORY INFORMATION
+
+    Every listing must include:
+
+    (a) Product title;
+    (b) At least one image;
+    (c) Product description;
+    (d) Price (MRP and selling price);
+    (e) Stock quantity;
+    (f) Category selection;
+    (g) Brand name;
+    (h) HSN code;
+    (i) Country of origin;
+    (j) Package contents.
+
+2.2 ACCURACY REQUIREMENTS
+
+    All information must be:
+
+    (a) Accurate and truthful;
+    (b) Current and up-to-date;
+    (c) Consistent across all fields;
+    (d) Verifiable if required;
+    (e) Free from misleading claims.
+
+2.3 LANGUAGE REQUIREMENTS
+
+    (a) Primary language: English;
+    (b) Regional languages supported for description;
+    (c) Correct grammar and spelling;
+    (d) No excessive abbreviations;
+    (e) No special characters for decoration.
+
+2.4 DUPLICATE LISTINGS
+
+    (a) One listing per unique product;
+    (b) Use variations for size/color options;
+    (c) Do not create duplicate listings;
+    (d) Duplicates will be merged or removed.
+
+2.5 LISTING OWNERSHIP
+
+    (a) Only list products you can fulfill;
+    (b) Have proper authorization for branded products;
+    (c) Maintain accurate inventory;
+    (d) Update stock promptly.
+
+================================================================================
+                    SECTION 3: PRODUCT TITLE GUIDELINES
+================================================================================
+
+3.1 TITLE STRUCTURE
+
+    Recommended format:
+    [Brand] + [Product Name] + [Key Feature] + [Size/Quantity/Variant]
+
+    Examples:
+    - Samsung Galaxy S23 Ultra 5G (Green, 256GB, 12GB RAM)
+    - Nike Air Max 270 Men's Running Shoes (Black, UK 9)
+    - Prestige Iris 750W Mixer Grinder with 3 Jars
+
+3.2 TITLE REQUIREMENTS
+
+    (a) Maximum length: 200 characters;
+    (b) Include brand name at beginning;
+    (c) Include product type;
+    (d) Mention key attributes;
+    (e) Use proper capitalization.
+
+3.3 TITLE DO'S
+
+    (a) Start with brand name;
+    (b) Include model name/number;
+    (c) Mention size, color, quantity;
+    (d) Use standard measurements;
+    (e) Include pack size (e.g., "Pack of 3").
+
+3.4 TITLE DON'TS
+
+    (a) No promotional text ("Sale," "Discount," "Free Shipping");
+    (b) No special characters (*, #, @, etc.);
+    (c) No all caps or excessive punctuation;
+    (d) No subjective claims ("Best," "Top");
+    (e) No seller information;
+    (f) No keyword stuffing;
+    (g) No HTML tags.
+
+3.5 EXAMPLES
+
+    GOOD:
+    - Boat Rockerz 450 Bluetooth Wireless Headphone (Black)
+    - Surf Excel Matic Top Load Detergent Powder, 4 kg
+    - HP 15s Ryzen 3 Dual Core 3250U - (8GB/512GB SSD/Windows 11) Laptop
+
+    BAD:
+    - BEST DEAL!!! Boat Headphone BLACK ***FREE SHIPPING***
+    - Detergent Washing Powder Surf Surf Excel Top Matic Best Quality
+    - Laptop HP 15s Cheap Price Free Bag Free Mouse
+
+================================================================================
+                    SECTION 4: PRODUCT DESCRIPTION STANDARDS
+================================================================================
+
+4.1 DESCRIPTION STRUCTURE
+
+    Include the following sections:
+
+    (a) PRODUCT OVERVIEW (2-3 sentences)
+        Brief summary of what the product is
+
+    (b) KEY FEATURES (5-10 bullet points)
+        Main features and benefits
+
+    (c) SPECIFICATIONS (Table format)
+        Technical details
+
+    (d) WHAT'S IN THE BOX
+        Complete list of contents
+
+    (e) WARRANTY INFORMATION
+        Coverage details
+
+4.2 DESCRIPTION REQUIREMENTS
+
+    (a) Minimum 100 words;
+    (b) Accurate and complete;
+    (c) Easy to read and scan;
+    (d) Use bullet points for features;
+    (e) Use tables for specifications.
+
+4.3 CONTENT GUIDELINES
+
+    (a) Focus on facts and features;
+    (b) Explain benefits clearly;
+    (c) Use simple language;
+    (d) Avoid jargon unless necessary;
+    (e) Include dimensions and weights.
+
+4.4 DESCRIPTION DO'S
+
+    (a) Highlight unique selling points;
+    (b) Answer common customer questions;
+    (c) Mention compatibility information;
+    (d) Include care/usage instructions;
+    (e) Use consistent formatting.
+
+4.5 DESCRIPTION DON'TS
+
+    (a) No promotional language;
+    (b) No time-sensitive claims ("Limited time");
+    (c) No competitor mentions;
+    (d) No contact information;
+    (e) No external links;
+    (f) No false or exaggerated claims;
+    (g) No copied content from other sources.
+
+4.6 FORMATTING
+
+    (a) Use headings and subheadings;
+    (b) Use bullet points for lists;
+    (c) Use tables for specifications;
+    (d) Use paragraphs for narratives;
+    (e) Maintain consistent style.
+
+================================================================================
+                    SECTION 5: IMAGE REQUIREMENTS
+================================================================================
+
+5.1 MAIN IMAGE REQUIREMENTS
+
+    (a) Product only on pure white background (RGB 255,255,255);
+    (b) Product must fill 85% of frame;
+    (c) No text, logos, or watermarks;
+    (d) No props or accessories (unless included);
+    (e) High resolution and sharp focus.
+
+5.2 TECHNICAL SPECIFICATIONS
+
+    -------------------------------------------------------------------------
+    | ATTRIBUTE               | REQUIREMENT                                 |
+    -------------------------------------------------------------------------
+    | Format                  | JPEG, PNG, GIF                              |
+    | Minimum resolution      | 1000 x 1000 pixels                          |
+    | Recommended resolution  | 2000 x 2000 pixels                          |
+    | Maximum file size       | 10 MB                                       |
+    | Aspect ratio            | 1:1 (square) preferred                      |
+    | Color mode              | RGB                                         |
+    | DPI                     | 72 or higher                                |
+    -------------------------------------------------------------------------
+
+5.3 ADDITIONAL IMAGES
+
+    Include multiple images showing:
+
+    (a) Different angles (front, back, sides);
+    (b) Close-ups of features;
+    (c) Product in use (lifestyle);
+    (d) Size reference;
+    (e) Package contents;
+    (f) Labels and certifications.
+
+    Recommended: 5-8 images per listing.
+
+5.4 IMAGE DO'S
+
+    (a) Use professional photography;
+    (b) Show accurate colors;
+    (c) Display all included items;
+    (d) Show scale with reference objects;
+    (e) Include infographics for features;
+    (f) Show multiple variants.
+
+5.5 IMAGE DON'TS
+
+    (a) No watermarks or logos;
+    (b) No promotional text or badges;
+    (c) No borders or frames;
+    (d) No collages for main image;
+    (e) No blurry or pixelated images;
+    (f) No stock photos;
+    (g) No images of other products;
+    (h) No misleading representations.
+
+5.6 CATEGORY-SPECIFIC IMAGE GUIDELINES
+
+    (a) APPAREL
+        - Model or mannequin images
+        - Flat lay images
+        - Detail shots of fabric/stitching
+
+    (b) ELECTRONICS
+        - All ports and connections
+        - Screen displays (if applicable)
+        - With accessories
+
+    (c) FURNITURE
+        - Room setting images
+        - Multiple angles
+        - Dimension diagrams
+
+================================================================================
+                    SECTION 6: PRICING GUIDELINES
+================================================================================
+
+6.1 PRICE DISPLAY
+
+    (a) MRP (Maximum Retail Price): Mandatory
+    (b) Selling Price: Your offer price
+    (c) Discount: Calculated automatically
+    (d) Currency: INR only
+
+6.2 PRICING RULES
+
+    (a) Selling price cannot exceed MRP;
+    (b) MRP must match product packaging;
+    (c) Include all taxes in price;
+    (d) No hidden charges;
+    (e) Accurate pricing always.
+
+6.3 MRP REQUIREMENTS
+
+    (a) Enter MRP printed on product;
+    (b) For unpackaged items, use market standard;
+    (c) For services, enter service price;
+    (d) Keep MRP consistent with market.
+
+6.4 PRICING ACCURACY
+
+    (a) Update prices promptly for changes;
+    (b) Honor listed prices for orders;
+    (c) No price gouging;
+    (d) Fair pricing practices.
+
+6.5 BULK/COMBO PRICING
+
+    (a) Clearly state quantity in title;
+    (b) Per-unit price recommended;
+    (c) Accurate MRP for combo.
+
+6.6 GST AND TAXES
+
+    (a) Prices must be inclusive of GST;
+    (b) Correct HSN code required;
+    (c) Applicable tax rate displayed.
+
+================================================================================
+                    SECTION 7: CATEGORY-SPECIFIC REQUIREMENTS
+================================================================================
+
+7.1 ELECTRONICS
+
+    Required information:
+    (a) Model number;
+    (b) Technical specifications;
+    (c) Warranty details;
+    (d) Power requirements;
+    (e) Compatibility;
+    (f) BIS certification (if applicable);
+    (g) Safety warnings.
+
+7.2 FASHION AND APPAREL
+
+    Required information:
+    (a) Size chart;
+    (b) Material composition;
+    (c) Care instructions;
+    (d) Fit type;
+    (e) Model measurements (if shown);
+    (f) Country of origin.
+
+7.3 BEAUTY AND PERSONAL CARE
+
+    Required information:
+    (a) Complete ingredient list;
+    (b) Expiry date/shelf life;
+    (c) Manufacturing date;
+    (d) Usage instructions;
+    (e) Warnings and precautions;
+    (f) FSSAI license (for cosmetics);
+    (g) Cruelty-free/vegan status (if claimed).
+
+7.4 FOOD AND GROCERY
+
+    Required information:
+    (a) FSSAI license number;
+    (b) Complete ingredient list;
+    (c) Nutritional information;
+    (d) Allergen warnings;
+    (e) Best before/expiry date;
+    (f) Storage instructions;
+    (g) Country of origin;
+    (h) Vegetarian/non-vegetarian symbol.
+
+7.5 HEALTH SUPPLEMENTS
+
+    Required information:
+    (a) FSSAI license;
+    (b) Complete composition;
+    (c) Dosage instructions;
+    (d) Warnings and contraindications;
+    (e) Not for medicinal use disclaimer;
+    (f) Manufacturing and expiry date.
+
+7.6 TOYS AND GAMES
+
+    Required information:
+    (a) Age recommendation;
+    (b) Safety warnings;
+    (c) Material information;
+    (d) Battery requirements;
+    (e) BIS certification;
+    (f) Small parts warning.
+
+7.7 FURNITURE
+
+    Required information:
+    (a) Dimensions (L x W x H);
+    (b) Material details;
+    (c) Assembly required (Yes/No);
+    (d) Weight capacity;
+    (e) Care instructions;
+    (f) Warranty information.
+
+7.8 AUTOMOTIVE
+
+    Required information:
+    (a) Compatibility (make/model/year);
+    (b) Part number;
+    (c) Material;
+    (d) Installation requirements;
+    (e) Warranty;
+    (f) Certification (if applicable).
+
+================================================================================
+                    SECTION 8: LEGAL AND COMPLIANCE REQUIREMENTS
+================================================================================
+
+8.1 LEGAL METROLOGY REQUIREMENTS
+
+    Products must display:
+
+    (a) Name and address of manufacturer/packer/importer;
+    (b) Country of origin;
+    (c) Net quantity;
+    (d) MRP inclusive of all taxes;
+    (e) Month and year of manufacture/packing/import;
+    (f) Customer care details.
+
+8.2 CONSUMER PROTECTION REQUIREMENTS
+
+    As per E-Commerce Rules, 2020:
+
+    (a) Accurate product description;
+    (b) Clear images representing actual product;
+    (c) Total price including taxes;
+    (d) Delivery charges separately displayed;
+    (e) Expiry date for applicable products;
+    (f) Country of origin;
+    (g) Exchange/return/refund policy;
+    (h) Warranty/guarantee information;
+    (i) Grievance redressal mechanism.
+
+8.3 PRODUCT CERTIFICATIONS
+
+    Display applicable certifications:
+
+    (a) BIS (Bureau of Indian Standards);
+    (b) FSSAI (Food Safety);
+    (c) CDSCO (Drugs and Cosmetics);
+    (d) AGMARK (Agricultural products);
+    (e) ISI mark;
+    (f) Energy rating (appliances).
+
+8.4 SAFETY COMPLIANCE
+
+    (a) Age warnings for children's products;
+    (b) Hazard warnings for applicable products;
+    (c) Usage warnings and precautions;
+    (d) Storage and handling instructions.
+
+8.5 IMPORT COMPLIANCE
+
+    For imported products:
+
+    (a) Importer name and address;
+    (b) Country of origin;
+    (c) Import license details (if required);
+    (d) BIS registration (for applicable products).
+
+8.6 CLAIMS AND CERTIFICATIONS
+
+    (a) Only make verifiable claims;
+    (b) Provide proof for certifications;
+    (c) No false or misleading claims;
+    (d) Organic, natural claims must be certified.
+
+================================================================================
+                    SECTION 9: PROHIBITED LISTINGS
+================================================================================
+
+9.1 PROHIBITED PRODUCTS
+
+    The following cannot be listed:
+
+    (a) Counterfeit or replica products;
+    (b) Stolen goods;
+    (c) Weapons and ammunition;
+    (d) Drugs and controlled substances;
+    (e) Tobacco and tobacco products;
+    (f) Alcohol;
+    (g) Pornographic material;
+    (h) Hazardous materials;
+    (i) Wildlife and wildlife products;
+    (j) Products violating IP rights;
+    (k) Recalled products;
+    (l) Prescription medicines;
+    (m) Products prohibited by law.
+
+    Complete prohibited list in Seller Policy.
+
+9.2 PROHIBITED CONTENT
+
+    Listings must not contain:
+
+    (a) Offensive or discriminatory content;
+    (b) Adult content;
+    (c) Violence or hate speech;
+    (d) Contact information;
+    (e) External links;
+    (f) Promotional language;
+    (g) False or misleading claims;
+    (h) Competitor references.
+
+9.3 PROHIBITED PRACTICES
+
+    (a) Keyword stuffing;
+    (b) Hidden text;
+    (c) Fake reviews or ratings;
+    (d) Incorrect categorization;
+    (e) Misleading images;
+    (f) Bait and switch.
+
+================================================================================
+                    SECTION 10: LISTING QUALITY SCORE
+================================================================================
+
+10.1 QUALITY SCORE COMPONENTS
+
+    Listings are scored on:
+
+    -------------------------------------------------------------------------
+    | COMPONENT                 | WEIGHT      | CRITERIA                    |
+    -------------------------------------------------------------------------
+    | Title quality             | 15%         | Format, completeness        |
+    | Image quality             | 25%         | Resolution, count, format   |
+    | Description quality       | 20%         | Completeness, formatting    |
+    | Attribute completeness    | 20%         | All fields filled           |
+    | Pricing accuracy          | 10%         | MRP, selling price          |
+    | Compliance                | 10%         | Legal requirements met      |
+    -------------------------------------------------------------------------
+
+10.2 SCORE RANGES
+
+    (a) 90-100: Excellent - Featured listings
+    (b) 70-89: Good - Standard visibility
+    (c) 50-69: Needs improvement - Reduced visibility
+    (d) Below 50: Poor - May be suppressed
+
+10.3 IMPROVING QUALITY SCORE
+
+    (a) Complete all mandatory fields;
+    (b) Add recommended number of images;
+    (c) Write detailed descriptions;
+    (d) Use proper formatting;
+    (e) Follow all guidelines.
+
+10.4 QUALITY SCORE BENEFITS
+
+    High-quality listings receive:
+
+    (a) Higher search ranking;
+    (b) Featured placement;
+    (c) Higher conversion rates;
+    (d) Better customer reviews;
+    (e) Lower return rates.
+
+================================================================================
+                    SECTION 11: CONTENT MODERATION
+================================================================================
+
+11.1 REVIEW PROCESS
+
+    (a) Automated screening on submission;
+    (b) Manual review for flagged listings;
+    (c) Quality sampling of approved listings;
+    (d) Customer-reported review.
+
+11.2 MODERATION ACTIONS
+
+    (a) APPROVE: Listing published
+    (b) EDIT: Changes required before approval
+    (c) REJECT: Does not meet guidelines
+    (d) SUPPRESS: Removed from search
+    (e) DELETE: Permanently removed
+
+11.3 COMMON REJECTION REASONS
+
+    (a) Poor image quality;
+    (b) Promotional text in title;
+    (c) Incomplete information;
+    (d) Incorrect category;
+    (e) Policy violation;
+    (f) Prohibited product.
+
+11.4 APPEAL PROCESS
+
+    (a) Submit appeal within 7 days;
+    (b) Provide corrected listing;
+    (c) Review completed in 3-5 days;
+    (d) Decision communicated via email.
+
+11.5 REPEAT VIOLATIONS
+
+    (a) Warning for first violation;
+    (b) Listing suppression for repeated issues;
+    (c) Account review for persistent problems;
+    (d) Possible account suspension.
+
+================================================================================
+                    SECTION 12: UPDATES AND MAINTENANCE
+================================================================================
+
+12.1 LISTING UPDATES
+
+    (a) Update inventory promptly;
+    (b) Update prices when changed;
+    (c) Update images if product changes;
+    (d) Remove discontinued products.
+
+12.2 SEASONAL UPDATES
+
+    (a) Update for seasonal variations;
+    (b) Refresh content periodically;
+    (c) Update images for freshness;
+    (d) Review and optimize regularly.
+
+12.3 BULK UPDATES
+
+    (a) Use Seller Central tools;
+    (b) Upload via Excel templates;
+    (c) API integration available;
+    (d) Maintain backup of listings.
+
+12.4 ARCHIVING
+
+    (a) Archive out-of-stock items;
+    (b) Archive discontinued products;
+    (c) Reactivate when back in stock;
+    (d) Delete permanently if not returning.
+
+================================================================================
+                    SECTION 13: CONTACT INFORMATION
+================================================================================
+
+13.1 SELLER SUPPORT
+
+    For listing assistance:
+
+    Email:      seller-support@techventure.in
+    Phone:      +91-80-4567-8906
+    Hours:      Monday to Saturday, 9:00 AM to 6:00 PM IST
+    Chat:       Available in Seller Central
+
+13.2 CATALOG TEAM
+
+    For catalog-related queries:
+
+    Email:      catalog@techventure.in
+
+13.3 COMPLIANCE TEAM
+
+    For compliance questions:
+
+    Email:      compliance@techventure.in
+
+13.4 SELLER CENTRAL
+
+    Access tools and resources:
+
+    URL:        seller.techventure.in
+    Help:       seller.techventure.in/help
+
+================================================================================
+                         ACKNOWLEDGMENT
+================================================================================
+
+By creating listings on our Platform, you agree to follow these Product
+Listing Guidelines. Non-compliance may result in listing suppression or
+account action.
+
+These guidelines are subject to periodic updates. Please check regularly
+for the latest version.
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    PRODUCT LISTING GUIDELINES
+                    VERSION 1.0
+
+================================================================================

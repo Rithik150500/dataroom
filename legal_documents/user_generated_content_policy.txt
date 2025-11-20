@@ -1,0 +1,690 @@
+================================================================================
+                    USER GENERATED CONTENT POLICY
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE USER CONTENT GUIDELINES AND POLICY
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+Last Updated: _____ day of __________, 20____
+
+================================================================================
+                         COMPANY INFORMATION
+================================================================================
+
+Company Name:     TECHVENTURE INDIA PRIVATE LIMITED
+CIN:              U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                  Bangalore - 560095, Karnataka, India
+Website:          www.techventure.in
+Email:            content@techventure.in
+Phone:            +91-80-4567-8900
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+SECTION 1:  INTRODUCTION AND SCOPE
+SECTION 2:  TYPES OF USER GENERATED CONTENT
+SECTION 3:  CONTENT GUIDELINES
+SECTION 4:  PROHIBITED CONTENT
+SECTION 5:  REVIEWS AND RATINGS
+SECTION 6:  QUESTIONS AND ANSWERS
+SECTION 7:  IMAGES AND VIDEOS
+SECTION 8:  LICENSE AND OWNERSHIP
+SECTION 9:  CONTENT MODERATION
+SECTION 10: REPORTING VIOLATIONS
+SECTION 11: CONSEQUENCES OF VIOLATIONS
+SECTION 12: INTELLECTUAL PROPERTY
+SECTION 13: PRIVACY IN CONTENT
+SECTION 14: SELLER CONTENT GUIDELINES
+SECTION 15: CONTACT INFORMATION
+
+================================================================================
+                    SECTION 1: INTRODUCTION AND SCOPE
+================================================================================
+
+1.1 PURPOSE
+
+    This User Generated Content Policy ("Policy") governs all content
+    submitted, posted, or shared by users on TechVenture India Private
+    Limited's e-commerce platform ("Platform"). This Policy ensures
+    our community remains helpful, trustworthy, and respectful.
+
+1.2 APPLICABILITY
+
+    This Policy applies to:
+
+    (a) All registered users and guests;
+    (b) Buyers posting reviews and content;
+    (c) Sellers posting product content;
+    (d) Any person submitting content to the Platform.
+
+1.3 AGREEMENT
+
+    By submitting any content to our Platform, you agree to:
+
+    (a) Comply with this Policy;
+    (b) Grant us the licenses described herein;
+    (c) Accept responsibility for your content;
+    (d) Allow moderation and removal of content.
+
+1.4 CONTENT DEFINITION
+
+    "User Generated Content" or "UGC" includes but is not limited to:
+
+    (a) Product reviews and ratings;
+    (b) Questions and answers;
+    (c) Photos and videos;
+    (d) Comments and replies;
+    (e) Profile information;
+    (f) Wish lists and collections;
+    (g) Any other user-submitted content.
+
+================================================================================
+                    SECTION 2: TYPES OF USER GENERATED CONTENT
+================================================================================
+
+2.1 PRODUCT REVIEWS
+
+    (a) Written reviews of purchased products;
+    (b) Star ratings (1-5 scale);
+    (c) Pros and cons;
+    (d) Recommendation status;
+    (e) Review helpfulness votes.
+
+2.2 CUSTOMER PHOTOS AND VIDEOS
+
+    (a) Photos of received products;
+    (b) Unboxing videos;
+    (c) Product usage demonstrations;
+    (d) Before and after images;
+    (e) Installation guides.
+
+2.3 QUESTIONS AND ANSWERS
+
+    (a) Questions about products;
+    (b) Answers from buyers and sellers;
+    (c) Technical specifications queries;
+    (d) Usage and compatibility questions.
+
+2.4 COMMENTS AND DISCUSSIONS
+
+    (a) Comments on reviews;
+    (b) Replies to questions;
+    (c) Community discussions;
+    (d) Feedback on answers.
+
+2.5 PROFILE CONTENT
+
+    (a) Display name and bio;
+    (b) Profile picture;
+    (c) Wishlist names;
+    (d) Public collections.
+
+================================================================================
+                    SECTION 3: CONTENT GUIDELINES
+================================================================================
+
+3.1 GENERAL GUIDELINES
+
+    All content should be:
+
+    (a) AUTHENTIC: Based on genuine experience with the product
+    (b) HELPFUL: Provide useful information to other shoppers
+    (c) RELEVANT: Related to the product or topic
+    (d) RESPECTFUL: Courteous and constructive
+    (e) HONEST: Truthful and unbiased
+    (f) ORIGINAL: Your own words and media
+
+3.2 CONTENT QUALITY STANDARDS
+
+    Good content includes:
+
+    (a) Specific details about features and performance;
+    (b) Context about your use case and needs;
+    (c) Comparison with similar products (factual);
+    (d) Pros and cons balanced fairly;
+    (e) Clear and readable writing;
+    (f) High-quality images and videos.
+
+3.3 REVIEW GUIDELINES
+
+    Helpful reviews:
+
+    (a) Focus on the product, not the service;
+    (b) Describe your actual experience;
+    (c) Mention specific features you liked/disliked;
+    (d) Indicate how long you've used the product;
+    (e) Update reviews if experience changes;
+    (f) Avoid emotional language.
+
+3.4 LANGUAGE REQUIREMENTS
+
+    (a) Content accepted in English and major Indian languages;
+    (b) Avoid excessive slang or abbreviations;
+    (c) Use appropriate grammar and punctuation;
+    (d) No excessive caps or special characters.
+
+================================================================================
+                    SECTION 4: PROHIBITED CONTENT
+================================================================================
+
+4.1 STRICTLY PROHIBITED
+
+    The following content is NOT allowed:
+
+    (a) OFFENSIVE CONTENT
+        - Hate speech or discrimination
+        - Threats or harassment
+        - Profanity and vulgar language
+        - Adult or sexually explicit content
+        - Violence or graphic imagery
+
+    (b) ILLEGAL CONTENT
+        - Promotes illegal activities
+        - Violates intellectual property rights
+        - Defamatory statements
+        - Privacy violations
+        - Regulated product promotion
+
+    (c) SPAM AND MANIPULATION
+        - Fake or paid reviews
+        - Repetitive or duplicate content
+        - Promotional or advertising content
+        - Links to external websites
+        - SEO keyword stuffing
+
+    (d) MISLEADING CONTENT
+        - False or inaccurate information
+        - Impersonation of others
+        - Fake credentials or expertise
+        - Manipulated images
+        - Misleading claims
+
+    (e) PRIVACY VIOLATIONS
+        - Personal information of others
+        - Order numbers or transaction details
+        - Phone numbers or email addresses
+        - Photos of people without consent
+
+    (f) IRRELEVANT CONTENT
+        - Not about the product
+        - About shipping or seller service
+        - Political or religious content
+        - Off-topic discussions
+
+4.2 CONFLICTS OF INTEREST
+
+    You may NOT review products if you:
+
+    (a) Are the seller or manufacturer;
+    (b) Are employed by the seller or competitor;
+    (c) Received payment or free product for review;
+    (d) Have family relationship with seller;
+    (e) Are reviewing a competing product to harm it.
+
+4.3 INCENTIVIZED REVIEWS
+
+    (a) Paid reviews are strictly prohibited;
+    (b) Reviews in exchange for products must be disclosed;
+    (c) Discount in exchange for review is prohibited;
+    (d) Incentivized reviews will be removed;
+    (e) Accounts may be banned.
+
+================================================================================
+                    SECTION 5: REVIEWS AND RATINGS
+================================================================================
+
+5.1 WHO CAN REVIEW
+
+    (a) Only verified purchasers can review (preferred);
+    (b) Non-purchasers may review with clear indication;
+    (c) One review per product per customer;
+    (d) Reviews can be updated after initial submission.
+
+5.2 RATING SCALE
+
+    Star ratings explained:
+
+    (a) 5 Stars - Excellent, highly recommend
+    (b) 4 Stars - Good, minor issues
+    (c) 3 Stars - Average, meets expectations
+    (d) 2 Stars - Below expectations, issues
+    (e) 1 Star - Poor, significant problems
+
+5.3 REVIEW ELEMENTS
+
+    (a) Overall rating (required);
+    (b) Written review (optional but encouraged);
+    (c) Title/headline (optional);
+    (d) Photos/videos (optional);
+    (e) Pros and cons (optional).
+
+5.4 REVIEW AUTHENTICITY
+
+    We verify reviews through:
+
+    (a) Purchase verification;
+    (b) Account history analysis;
+    (c) Content pattern detection;
+    (d) Reviewer credibility scoring;
+    (e) Machine learning algorithms.
+
+5.5 FAKE REVIEW DETECTION
+
+    We detect and remove:
+
+    (a) Reviews from same IP/device for different accounts;
+    (b) Reviews submitted too quickly;
+    (c) Reviews with similar language patterns;
+    (d) Reviews from accounts with suspicious activity;
+    (e) Reviews solicited through prohibited means.
+
+================================================================================
+                    SECTION 6: QUESTIONS AND ANSWERS
+================================================================================
+
+6.1 ASKING QUESTIONS
+
+    Guidelines for questions:
+
+    (a) Search existing Q&A before asking;
+    (b) Be specific about your query;
+    (c) Ask one question at a time;
+    (d) Avoid subjective questions;
+    (e) Do not include personal information.
+
+6.2 ANSWERING QUESTIONS
+
+    Guidelines for answers:
+
+    (a) Only answer if you have relevant knowledge;
+    (b) Be accurate and factual;
+    (c) Cite sources if applicable;
+    (d) Disclose if you're the seller;
+    (e) Do not promote or spam.
+
+6.3 PROHIBITED Q&A CONTENT
+
+    (a) Customer service issues (use support);
+    (b) Pricing or availability questions;
+    (c) Requests for contact information;
+    (d) Promotional answers by sellers;
+    (e) Misleading or false information.
+
+================================================================================
+                    SECTION 7: IMAGES AND VIDEOS
+================================================================================
+
+7.1 PHOTO GUIDELINES
+
+    Photos should:
+
+    (a) Show the actual product received;
+    (b) Be clear and well-lit;
+    (c) Be relevant to your review;
+    (d) Not include faces (unless yours with consent);
+    (e) Not include watermarks or logos;
+    (f) Be your own photos.
+
+7.2 VIDEO GUIDELINES
+
+    Videos should:
+
+    (a) Be under 10 minutes;
+    (b) Focus on the product;
+    (c) Have clear audio and video;
+    (d) Not include copyrighted music;
+    (e) Not be promotional;
+    (f) Not include inappropriate content.
+
+7.3 PROHIBITED MEDIA
+
+    (a) Copyrighted images/videos (not yours);
+    (b) Stock photos;
+    (c) Screenshots of other websites;
+    (d) Heavily filtered or edited photos;
+    (e) Photos containing personal information;
+    (f) Images of minors;
+    (g) Inappropriate or offensive media.
+
+7.4 TECHNICAL REQUIREMENTS
+
+    (a) Photos: JPEG, PNG - up to 10MB each
+    (b) Videos: MP4, MOV - up to 100MB
+    (c) Minimum resolution: 500x500 pixels
+    (d) Maximum photos per review: 10
+    (e) Maximum videos per review: 3
+
+================================================================================
+                    SECTION 8: LICENSE AND OWNERSHIP
+================================================================================
+
+8.1 YOUR OWNERSHIP
+
+    You retain ownership of all content you submit. We do not claim
+    ownership of your reviews, photos, videos, or other content.
+
+8.2 LICENSE GRANTED
+
+    By submitting content, you grant TechVenture a:
+
+    (a) Non-exclusive license;
+    (b) Worldwide license;
+    (c) Royalty-free license;
+    (d) Transferable license;
+    (e) Sublicensable license;
+    (f) Perpetual license.
+
+8.3 HOW WE MAY USE YOUR CONTENT
+
+    We may use your content to:
+
+    (a) Display on our Platform;
+    (b) Use in marketing and advertising;
+    (c) Share on social media;
+    (d) Include in emails and notifications;
+    (e) Display on third-party platforms;
+    (f) Create derivative works;
+    (g) Translate to other languages;
+    (h) Archive for records.
+
+8.4 ATTRIBUTION
+
+    (a) We may attribute content to your username;
+    (b) We may use content without attribution;
+    (c) We may remove your username if required;
+    (d) You may not receive compensation.
+
+8.5 YOUR REPRESENTATIONS
+
+    By submitting content, you represent that:
+
+    (a) You own the content or have rights to submit;
+    (b) Content does not infringe third-party rights;
+    (c) You have consent for any persons depicted;
+    (d) Content is accurate and honest;
+    (e) You agree to this Policy.
+
+================================================================================
+                    SECTION 9: CONTENT MODERATION
+================================================================================
+
+9.1 MODERATION PROCESS
+
+    (a) Automated screening for prohibited content;
+    (b) Manual review by moderation team;
+    (c) Community flagging and reporting;
+    (d) Periodic audits of published content.
+
+9.2 MODERATION ACTIONS
+
+    We may:
+
+    (a) Approve content for publication;
+    (b) Reject content that violates Policy;
+    (c) Edit content for formatting or clarity;
+    (d) Remove published content for violations;
+    (e) Permanently remove repeat violations.
+
+9.3 MODERATION TIMELINE
+
+    (a) Most content reviewed within 48-72 hours;
+    (b) High-volume periods may take longer;
+    (c) Complex cases may require additional review;
+    (d) Reported content prioritized.
+
+9.4 AUTOMATED MODERATION
+
+    We use technology to detect:
+
+    (a) Profanity and offensive language;
+    (b) Personal information;
+    (c) Spam patterns;
+    (d) Fake review indicators;
+    (e) Copyright violations.
+
+9.5 HUMAN REVIEW
+
+    Human moderators review:
+
+    (a) Content flagged by automation;
+    (b) User reports;
+    (c) Appeals and disputes;
+    (d) Complex or borderline cases.
+
+================================================================================
+                    SECTION 10: REPORTING VIOLATIONS
+================================================================================
+
+10.1 HOW TO REPORT
+
+    Report content violations:
+
+    (a) Click "Report" button on content;
+    (b) Select violation reason;
+    (c) Provide additional details;
+    (d) Submit report.
+
+10.2 REPORT REASONS
+
+    (a) Spam or promotional content;
+    (b) Offensive or inappropriate;
+    (c) False or misleading;
+    (d) Not about the product;
+    (e) Violates intellectual property;
+    (f) Contains personal information;
+    (g) Fake or incentivized review.
+
+10.3 WHAT HAPPENS AFTER REPORTING
+
+    (a) Report acknowledged;
+    (b) Content reviewed within 48 hours;
+    (c) Action taken if violation confirmed;
+    (d) Reporter may be notified of outcome;
+    (e) Content author may be notified.
+
+10.4 FALSE REPORTS
+
+    (a) Do not abuse reporting system;
+    (b) False reports may lead to action against reporter;
+    (c) Repeated false reports = account suspension.
+
+================================================================================
+                    SECTION 11: CONSEQUENCES OF VIOLATIONS
+================================================================================
+
+11.1 CONTENT ACTIONS
+
+    (a) Warning and request to modify;
+    (b) Content rejection/removal;
+    (c) Loss of content privileges;
+    (d) Permanent content removal.
+
+11.2 ACCOUNT ACTIONS
+
+    (a) Warning notification;
+    (b) Temporary content ban (7-30 days);
+    (c) Permanent content ban;
+    (d) Account suspension;
+    (e) Account termination.
+
+11.3 SEVERITY LEVELS
+
+    -------------------------------------------------------------------------
+    | VIOLATION                    | FIRST        | SECOND      | THIRD     |
+    -------------------------------------------------------------------------
+    | Minor (formatting, etc.)     | Warning      | Removal     | Ban       |
+    | Moderate (spam, irrelevant)  | Removal      | Temp ban    | Perm ban  |
+    | Severe (offensive, illegal)  | Removal+ban  | Account     | Legal     |
+    |                              |              | suspension  | action    |
+    -------------------------------------------------------------------------
+
+11.4 APPEALS
+
+    To appeal a content decision:
+
+    (a) Email content@techventure.in within 7 days;
+    (b) Provide content details and reason for appeal;
+    (c) Review completed within 7 business days;
+    (d) Decision communicated via email;
+    (e) Appeals decision is final.
+
+================================================================================
+                    SECTION 12: INTELLECTUAL PROPERTY
+================================================================================
+
+12.1 COPYRIGHT COMPLIANCE
+
+    (a) Only submit content you own or have rights to;
+    (b) Do not copy reviews from other sites;
+    (c) Do not use copyrighted images without permission;
+    (d) Do not include copyrighted music in videos.
+
+12.2 TRADEMARK COMPLIANCE
+
+    (a) Refer to products by proper names;
+    (b) Do not use brand logos in your content;
+    (c) Do not impersonate brands;
+    (d) Factual references to brands are allowed.
+
+12.3 REPORTING IP VIOLATIONS
+
+    If your IP is violated, contact:
+
+    Email:      ip@techventure.in
+
+    Provide:
+    (a) Description of your IP;
+    (b) Location of infringing content;
+    (c) Proof of ownership;
+    (d) Contact information.
+
+12.4 COUNTER-NOTIFICATION
+
+    If you believe content was wrongly removed:
+
+    (a) Submit counter-notification;
+    (b) Provide evidence of rights;
+    (c) Accept legal responsibility;
+    (d) Content may be restored after review.
+
+================================================================================
+                    SECTION 13: PRIVACY IN CONTENT
+================================================================================
+
+13.1 PROTECT YOUR PRIVACY
+
+    Do NOT include:
+
+    (a) Your full name (use display name);
+    (b) Address or location details;
+    (c) Phone number or email;
+    (d) Order numbers or account IDs;
+    (e) Financial information.
+
+13.2 PROTECT OTHERS' PRIVACY
+
+    (a) Do not include others' personal information;
+    (b) Obtain consent before including photos of others;
+    (c) Blur faces if consent not obtained;
+    (d) Do not identify private individuals.
+
+13.3 CHILDREN'S PRIVACY
+
+    (a) Do not post photos/videos of minors;
+    (b) Do not include children's personal information;
+    (c) Blur or obscure children's faces;
+    (d) Parent/guardian consent required.
+
+================================================================================
+                    SECTION 14: SELLER CONTENT GUIDELINES
+================================================================================
+
+14.1 SELLER OBLIGATIONS
+
+    Sellers must:
+
+    (a) Provide accurate product information;
+    (b) Not manipulate reviews or ratings;
+    (c) Respond professionally to questions;
+    (d) Not offer incentives for reviews;
+    (e) Not retaliate against negative reviewers.
+
+14.2 PROHIBITED SELLER ACTIONS
+
+    (a) Creating fake positive reviews;
+    (b) Creating fake negative reviews for competitors;
+    (c) Offering discounts for positive reviews;
+    (d) Threatening or harassing reviewers;
+    (e) Purchasing reviews;
+    (f) Using review manipulation services.
+
+14.3 SELLER RESPONSES
+
+    Sellers may respond to reviews:
+
+    (a) Professionally and courteously;
+    (b) Offering resolution for issues;
+    (c) Providing factual clarifications;
+    (d) Not defensively or aggressively.
+
+14.4 CONSEQUENCES FOR SELLERS
+
+    Violations may result in:
+
+    (a) Warning;
+    (b) Review privilege suspension;
+    (c) Listing suppression;
+    (d) Account suspension;
+    (e) Legal action.
+
+================================================================================
+                    SECTION 15: CONTACT INFORMATION
+================================================================================
+
+15.1 CONTENT TEAM
+
+    For content-related queries:
+
+    Email:      content@techventure.in
+    Phone:      +91-80-4567-8900
+
+15.2 REPORT VIOLATIONS
+
+    Email:      report@techventure.in
+
+15.3 INTELLECTUAL PROPERTY
+
+    Email:      ip@techventure.in
+
+15.4 APPEALS
+
+    Email:      appeals@techventure.in
+
+15.5 GENERAL SUPPORT
+
+    Email:      support@techventure.in
+    Phone:      +91-80-4567-8900
+
+================================================================================
+                         ACKNOWLEDGMENT
+================================================================================
+
+By submitting content to our Platform, you acknowledge that you have
+read, understood, and agree to this User Generated Content Policy.
+
+We reserve the right to modify this Policy at any time. Changes will
+be posted on this page with updated effective date.
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    USER GENERATED CONTENT POLICY
+                    VERSION 1.0
+
+================================================================================

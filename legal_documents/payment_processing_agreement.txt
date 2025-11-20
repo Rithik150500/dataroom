@@ -1,0 +1,921 @@
+================================================================================
+                    PAYMENT PROCESSING AGREEMENT
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE PAYMENT TERMS AND CONDITIONS
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+Last Updated: _____ day of __________, 20____
+
+================================================================================
+                         COMPANY INFORMATION
+================================================================================
+
+Company Name:     TECHVENTURE INDIA PRIVATE LIMITED
+CIN:              U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                  Bangalore - 560095, Karnataka, India
+Website:          www.techventure.in
+Email:            payments@techventure.in
+Phone:            +91-80-4567-8900
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+ARTICLE 1:  DEFINITIONS AND INTERPRETATION
+ARTICLE 2:  ACCEPTED PAYMENT METHODS
+ARTICLE 3:  PAYMENT PROCESSING
+ARTICLE 4:  PAYMENT SECURITY
+ARTICLE 5:  PRICING AND TAXES
+ARTICLE 6:  PAYMENT VERIFICATION
+ARTICLE 7:  PAYMENT FAILURES AND ERRORS
+ARTICLE 8:  REFUNDS AND CHARGEBACKS
+ARTICLE 9:  EMI AND FINANCING OPTIONS
+ARTICLE 10: CASH ON DELIVERY (COD)
+ARTICLE 11: DIGITAL WALLETS AND UPI
+ARTICLE 12: PROMOTIONAL CODES AND DISCOUNTS
+ARTICLE 13: RECURRING PAYMENTS AND SUBSCRIPTIONS
+ARTICLE 14: DATA PROTECTION AND COMPLIANCE
+ARTICLE 15: DISPUTE RESOLUTION
+ARTICLE 16: LIABILITY AND INDEMNIFICATION
+ARTICLE 17: CONTACT INFORMATION
+
+================================================================================
+                    ARTICLE 1: DEFINITIONS AND INTERPRETATION
+================================================================================
+
+1.1 DEFINITIONS
+
+    In this Payment Processing Agreement, unless the context otherwise
+    requires:
+
+    (a) "Authorization" means approval from the Card Issuer or Payment
+        Method provider to proceed with a transaction;
+
+    (b) "Card Issuer" means the bank or financial institution that
+        issued the payment card to the Customer;
+
+    (c) "Chargeback" means a reversal of a payment initiated by the
+        Card Issuer due to a dispute;
+
+    (d) "Payment Gateway" means the third-party service provider that
+        processes payment transactions on behalf of the Company;
+
+    (e) "Payment Method" means any method accepted by the Company for
+        payment including cards, net banking, UPI, wallets, and COD;
+
+    (f) "PCI-DSS" means Payment Card Industry Data Security Standard;
+
+    (g) "RBI" means Reserve Bank of India;
+
+    (h) "Transaction" means any financial operation including payments,
+        refunds, and adjustments;
+
+    (i) "UPI" means Unified Payments Interface as regulated by NPCI.
+
+================================================================================
+                    ARTICLE 2: ACCEPTED PAYMENT METHODS
+================================================================================
+
+2.1 CREDIT CARDS
+
+    We accept the following credit cards:
+
+    (a) Visa
+    (b) MasterCard
+    (c) American Express
+    (d) Diners Club
+    (e) RuPay
+
+    Requirements:
+    - Card must be enabled for online transactions;
+    - 3D Secure authentication required;
+    - Card must be valid and not expired;
+    - Sufficient credit limit available.
+
+2.2 DEBIT CARDS
+
+    We accept all major debit cards:
+
+    (a) Visa Debit
+    (b) MasterCard Debit
+    (c) Maestro
+    (d) RuPay Debit
+
+    Requirements:
+    - Online transactions must be enabled;
+    - PIN/OTP verification required;
+    - Sufficient account balance.
+
+2.3 NET BANKING
+
+    We support net banking from 50+ banks including:
+
+    (a) All major public sector banks;
+    (b) All major private sector banks;
+    (c) Select cooperative banks;
+    (d) Payment banks.
+
+    Requirements:
+    - Active internet banking facility;
+    - Transaction password/OTP;
+    - Daily/monthly limits should accommodate transaction.
+
+2.4 UPI (UNIFIED PAYMENTS INTERFACE)
+
+    UPI payment methods accepted:
+
+    (a) Google Pay
+    (b) PhonePe
+    (c) Paytm
+    (d) BHIM
+    (e) Amazon Pay
+    (f) WhatsApp Pay
+    (g) Bank-specific UPI apps
+
+    Payment modes:
+    - QR code scan;
+    - UPI ID/VPA;
+    - Intent flow (app redirect).
+
+2.5 DIGITAL WALLETS
+
+    We accept major digital wallets:
+
+    (a) Paytm Wallet
+    (b) Mobikwik
+    (c) Freecharge
+    (d) Amazon Pay Balance
+    (e) PhonePe Wallet
+    (f) JioMoney
+
+    Note: Wallet balance limits as per RBI regulations apply.
+
+2.6 BUY NOW PAY LATER (BNPL)
+
+    BNPL options available:
+
+    (a) Simpl
+    (b) LazyPay
+    (c) ZestMoney
+    (d) PayLater by ICICI
+    (e) Flexmoney
+    (f) ePayLater
+
+    Subject to:
+    - Credit approval by BNPL provider;
+    - Provider's terms and conditions;
+    - Product and amount restrictions.
+
+2.7 EMI OPTIONS
+
+    Equated Monthly Installments available on:
+
+    (a) Credit Cards (No-cost and Standard EMI);
+    (b) Debit Cards (select banks);
+    (c) Cardless EMI (Bajaj Finserv, etc.).
+
+    See Article 9 for detailed EMI terms.
+
+2.8 CASH ON DELIVERY (COD)
+
+    (a) Available for select pin codes;
+    (b) Order value limits apply;
+    (c) Additional handling charges may apply;
+    (d) Subject to product restrictions.
+
+    See Article 10 for detailed COD terms.
+
+2.9 GIFT CARDS AND STORE CREDIT
+
+    (a) TechVenture Gift Cards;
+    (b) Store Credit from refunds;
+    (c) Promotional credits.
+
+    Can be combined with other payment methods for partial payment.
+
+================================================================================
+                    ARTICLE 3: PAYMENT PROCESSING
+================================================================================
+
+3.1 PAYMENT FLOW
+
+    (a) CHECKOUT: Select payment method and enter details
+    (b) VALIDATION: Payment details verified for format and completeness
+    (c) AUTHORIZATION: Request sent to payment gateway/card issuer
+    (d) AUTHENTICATION: 3D Secure/OTP verification completed
+    (e) CONFIRMATION: Payment authorized and order confirmed
+    (f) SETTLEMENT: Funds transferred to merchant (T+2 days typical)
+
+3.2 AUTHORIZATION HOLD
+
+    (a) Authorization hold placed on card for order value;
+    (b) Hold released after settlement or cancellation;
+    (c) Hold may appear as pending charge on statement;
+    (d) Release time depends on card issuer (1-7 days).
+
+3.3 PAYMENT CONFIRMATION
+
+    Upon successful payment:
+
+    (a) Order confirmation displayed on screen;
+    (b) Confirmation email sent to registered email;
+    (c) SMS notification with order details;
+    (d) Payment reference number provided;
+    (e) Invoice generated and available in account.
+
+3.4 PAYMENT RECEIPT
+
+    (a) Digital receipt available in "My Orders";
+    (b) Includes payment method, amount, and reference;
+    (c) GST invoice provided separately;
+    (d) Can be downloaded or printed.
+
+3.5 PAYMENT GATEWAY PARTNERS
+
+    We use PCI-DSS compliant payment gateways:
+
+    (a) Razorpay
+    (b) PayU
+    (c) CCAvenue
+    (d) Paytm Payment Gateway
+    (e) BillDesk
+
+    Gateway assigned based on transaction type and availability.
+
+================================================================================
+                    ARTICLE 4: PAYMENT SECURITY
+================================================================================
+
+4.1 DATA SECURITY STANDARDS
+
+    We maintain strict security standards:
+
+    (a) PCI-DSS Level 1 Compliance;
+    (b) 256-bit SSL/TLS encryption;
+    (c) Tokenization of card data;
+    (d) No storage of CVV/PIN;
+    (e) Regular security audits.
+
+4.2 3D SECURE AUTHENTICATION
+
+    All card transactions require 3D Secure:
+
+    (a) Verified by Visa (VbV);
+    (b) MasterCard SecureCode;
+    (c) American Express SafeKey;
+    (d) RuPay PaySecure.
+
+    This adds an additional authentication layer with OTP or password.
+
+4.3 TOKENIZATION
+
+    As per RBI guidelines:
+
+    (a) Card details tokenized by card networks;
+    (b) Only token stored for future transactions;
+    (c) Full card number not stored by merchant;
+    (d) Secure token valid only for our platform.
+
+4.4 FRAUD PREVENTION
+
+    We employ multiple fraud detection measures:
+
+    (a) AI-based fraud scoring;
+    (b) Device fingerprinting;
+    (c) IP geolocation analysis;
+    (d) Velocity checks;
+    (e) Address Verification Service (AVS);
+    (f) Manual review for high-risk transactions.
+
+4.5 CUSTOMER SECURITY RESPONSIBILITY
+
+    To protect yourself:
+
+    (a) Never share OTP, PIN, or passwords;
+    (b) Use secure and private network;
+    (c) Verify website URL before payment;
+    (d) Log out after completing transaction;
+    (e) Monitor bank statements regularly;
+    (f) Report suspicious activity immediately.
+
+4.6 SECURITY INCIDENT REPORTING
+
+    Report security concerns to:
+
+    Email:      security@techventure.in
+    Phone:      +91-80-4567-8902
+
+================================================================================
+                    ARTICLE 5: PRICING AND TAXES
+================================================================================
+
+5.1 PRODUCT PRICING
+
+    (a) Prices displayed in Indian Rupees (INR);
+    (b) Prices include applicable taxes (GST);
+    (c) MRP and selling price clearly displayed;
+    (d) Savings/discount shown where applicable;
+    (e) Prices subject to change without notice.
+
+5.2 GOODS AND SERVICES TAX (GST)
+
+    (a) GST charged as per product category;
+    (b) CGST and SGST for intra-state;
+    (c) IGST for inter-state;
+    (d) GST details shown in invoice;
+    (e) GSTIN displayed on all invoices.
+
+5.3 GST INVOICE
+
+    Tax invoice includes:
+
+    (a) Seller's GSTIN and name;
+    (b) Invoice number and date;
+    (c) Buyer details;
+    (d) HSN/SAC codes;
+    (e) Taxable value and tax breakup;
+    (f) Place of supply.
+
+    For GST credit, provide your GSTIN at checkout.
+
+5.4 ADDITIONAL CHARGES
+
+    Order total may include:
+
+    (a) Product price;
+    (b) Shipping charges;
+    (c) COD handling fee;
+    (d) Gift wrapping charges;
+    (e) Installation charges;
+    (f) Any applicable surcharges.
+
+    All charges clearly displayed before payment.
+
+5.5 FOREIGN EXCHANGE
+
+    For international cards:
+
+    (a) Transaction in INR;
+    (b) Dynamic Currency Conversion (DCC) may be offered;
+    (c) Exchange rate by card issuer applies;
+    (d) Cross-border fees may be charged by issuer.
+
+================================================================================
+                    ARTICLE 6: PAYMENT VERIFICATION
+================================================================================
+
+6.1 VERIFICATION REQUIREMENTS
+
+    We may verify transactions for:
+
+    (a) First-time customers;
+    (b) High-value orders;
+    (c) Multiple orders in short period;
+    (d) Delivery address different from billing;
+    (e) Risk indicators flagged by fraud system.
+
+6.2 VERIFICATION PROCESS
+
+    Verification may include:
+
+    (a) Phone call to registered number;
+    (b) Email confirmation;
+    (c) Request for ID proof;
+    (d) Card statement showing transaction;
+    (e) Address verification documents.
+
+6.3 VERIFICATION TIMELINE
+
+    (a) Verification requested within 24 hours;
+    (b) Customer to respond within 48 hours;
+    (c) Non-response may result in cancellation;
+    (d) Expedited verification for urgent orders.
+
+6.4 VERIFICATION FAILURE
+
+    If verification fails:
+
+    (a) Order cancelled;
+    (b) Full refund processed;
+    (c) Customer notified via email/SMS;
+    (d) Appeal process available.
+
+================================================================================
+                    ARTICLE 7: PAYMENT FAILURES AND ERRORS
+================================================================================
+
+7.1 COMMON PAYMENT FAILURE REASONS
+
+    (a) Insufficient balance/credit limit;
+    (b) Incorrect card details;
+    (c) Card not enabled for online transactions;
+    (d) 3D Secure authentication failed;
+    (e) Bank server unavailable;
+    (f) Transaction timeout;
+    (g) Card expired or blocked;
+    (h) Daily/monthly limit exceeded;
+    (i) Suspected fraud by bank.
+
+7.2 FAILED TRANSACTION HANDLING
+
+    If payment fails:
+
+    (a) Error message displayed;
+    (b) Order not placed;
+    (c) No charges applied;
+    (d) Retry with same or different payment method.
+
+7.3 AMOUNT DEBITED BUT ORDER NOT CONFIRMED
+
+    If amount debited but order not confirmed:
+
+    (a) Do not retry payment immediately;
+    (b) Check email for order confirmation;
+    (c) Check "My Orders" section;
+    (d) Wait for 30 minutes for system reconciliation;
+    (e) If not confirmed, amount auto-reversed within 5-7 days.
+
+7.4 DOUBLE CHARGES
+
+    If charged twice for same order:
+
+    (a) Contact customer support immediately;
+    (b) Provide order number and transaction IDs;
+    (c) We will verify and process refund;
+    (d) Duplicate charge refunded within 5-7 days.
+
+7.5 REVERSAL TIMELINES
+
+    Failed transaction reversals:
+
+    -------------------------------------------------------------------------
+    | PAYMENT METHOD           | REVERSAL TIMELINE                          |
+    -------------------------------------------------------------------------
+    | Credit Card              | 5-7 business days                          |
+    | Debit Card               | 5-7 business days                          |
+    | Net Banking              | 5-7 business days                          |
+    | UPI                      | 1-3 business days                          |
+    | Wallets                  | 1-2 business days                          |
+    -------------------------------------------------------------------------
+
+================================================================================
+                    ARTICLE 8: REFUNDS AND CHARGEBACKS
+================================================================================
+
+8.1 REFUND PROCESSING
+
+    Refunds processed for:
+
+    (a) Cancelled orders;
+    (b) Returned products;
+    (c) Failed deliveries;
+    (d) Duplicate payments;
+    (e) Pricing errors.
+
+    See Refund and Return Policy for detailed terms.
+
+8.2 REFUND TO ORIGINAL PAYMENT METHOD
+
+    (a) Refunds processed to original payment source;
+    (b) Cannot refund to different card/account;
+    (c) If original method unavailable, alternative provided;
+    (d) COD refunds via bank transfer or store credit.
+
+8.3 REFUND TIMELINES
+
+    -------------------------------------------------------------------------
+    | PAYMENT METHOD           | REFUND TIMELINE                            |
+    -------------------------------------------------------------------------
+    | Credit Card              | 5-7 business days                          |
+    | Debit Card               | 5-7 business days                          |
+    | Net Banking              | 5-7 business days                          |
+    | UPI                      | 1-3 business days                          |
+    | Wallets                  | 1-2 business days                          |
+    | EMI                      | 7-10 business days (interest reversal)     |
+    | Store Credit             | Instant                                    |
+    -------------------------------------------------------------------------
+
+8.4 PARTIAL REFUNDS
+
+    Partial refunds issued for:
+
+    (a) Partial order returns;
+    (b) Shipping charge deductions;
+    (c) Value adjustments.
+
+8.5 CHARGEBACKS
+
+    (a) DO NOT file chargeback without contacting us first;
+    (b) We resolve most issues faster than chargeback process;
+    (c) Chargeback fees may be passed to customer if unjustified;
+    (d) Account may be suspended for excessive chargebacks;
+    (e) We provide documentation to contest fraudulent chargebacks.
+
+8.6 CHARGEBACK PROCESS
+
+    If you must file a chargeback:
+
+    (a) Contact us first for resolution;
+    (b) File with your card issuer;
+    (c) We will respond with documentation;
+    (d) Process takes 30-90 days;
+    (e) Decision by card network is final.
+
+================================================================================
+                    ARTICLE 9: EMI AND FINANCING OPTIONS
+================================================================================
+
+9.1 CREDIT CARD EMI
+
+    EMI available on credit cards:
+
+    (a) Tenure: 3, 6, 9, 12, 18, 24 months;
+    (b) Banks: HDFC, ICICI, SBI, Axis, Kotak, others;
+    (c) Minimum transaction: Rs. 3,000;
+    (d) Processing fee may apply.
+
+9.2 NO-COST EMI
+
+    No-cost EMI available on select products:
+
+    (a) Interest charged by bank;
+    (b) Equivalent discount applied by us;
+    (c) Effective interest rate: 0%;
+    (d) Subject to product and bank eligibility.
+
+9.3 STANDARD EMI
+
+    Standard EMI with interest:
+
+    (a) Interest rates: 12-18% per annum (varies by bank);
+    (b) EMI calculated including interest;
+    (c) Full amount blocked on card;
+    (d) Credit limit released as EMI paid.
+
+9.4 DEBIT CARD EMI
+
+    EMI on select debit cards:
+
+    (a) Banks: HDFC, ICICI, Axis, Kotak;
+    (b) Pre-approved customers only;
+    (c) Amount debited from account in installments;
+    (d) Interest rates apply.
+
+9.5 CARDLESS EMI
+
+    EMI without card:
+
+    (a) Bajaj Finserv EMI Card;
+    (b) Capital Float;
+    (c) Home Credit;
+    (d) ZestMoney.
+
+    Requires:
+    - Pre-approved credit line;
+    - KYC verification;
+    - Down payment may be required.
+
+9.6 EMI CANCELLATION
+
+    If order cancelled/returned:
+
+    (a) EMI cancelled with bank;
+    (b) Interest reversed (no-cost EMI);
+    (c) Refund as one-time credit to card;
+    (d) Future EMIs cancelled;
+    (e) Processing fee may not be refunded.
+
+9.7 EMI TERMS AND CONDITIONS
+
+    (a) EMI is between customer and bank/NBFC;
+    (b) We are not responsible for EMI disputes;
+    (c) Read bank's EMI terms before proceeding;
+    (d) Pre-closure charges may apply.
+
+================================================================================
+                    ARTICLE 10: CASH ON DELIVERY (COD)
+================================================================================
+
+10.1 COD AVAILABILITY
+
+    (a) Available for 15,000+ pin codes;
+    (b) Check availability at checkout;
+    (c) May be unavailable for remote areas;
+    (d) Subject to order value limits.
+
+10.2 COD ORDER LIMITS
+
+    -------------------------------------------------------------------------
+    | CUSTOMER TYPE             | COD LIMIT                                 |
+    -------------------------------------------------------------------------
+    | New Customer              | Rs. 10,000                                |
+    | Regular Customer          | Rs. 25,000                                |
+    | Premium Customer          | Rs. 50,000                                |
+    -------------------------------------------------------------------------
+
+10.3 COD CHARGES
+
+    (a) COD handling fee: Rs. 40-80 per order;
+    (b) Waived for orders above Rs. 999 (promotional);
+    (c) Displayed at checkout before order placement.
+
+10.4 COD PAYMENT OPTIONS
+
+    Pay delivery executive via:
+
+    (a) Cash (exact change preferred);
+    (b) UPI/QR code;
+    (c) Card swipe (where available).
+
+10.5 COD RESTRICTIONS
+
+    COD not available for:
+
+    (a) High-value electronics (above Rs. 50,000);
+    (b) International orders;
+    (c) Customers with high cancellation history;
+    (d) Select product categories.
+
+10.6 COD VERIFICATION
+
+    (a) Phone verification for first COD order;
+    (b) Address verification may be required;
+    (c) Order may be cancelled if unverified.
+
+10.7 REFUSED COD DELIVERY
+
+    If you refuse COD delivery:
+
+    (a) Product returned to warehouse;
+    (b) COD facility may be suspended;
+    (c) Repeated refusal = permanent COD ban;
+    (d) Prepaid methods recommended.
+
+================================================================================
+                    ARTICLE 11: DIGITAL WALLETS AND UPI
+================================================================================
+
+11.1 WALLET PAYMENTS
+
+    (a) Select wallet at checkout;
+    (b) Redirect to wallet app/website;
+    (c) Authenticate and confirm;
+    (d) Return to our platform;
+    (e) Order confirmed instantly.
+
+11.2 WALLET BALANCE LIMITS
+
+    As per RBI regulations:
+
+    (a) Minimum KYC wallet: Rs. 10,000 limit;
+    (b) Full KYC wallet: Rs. 1,00,000 limit;
+    (c) Monthly transaction limits apply;
+    (d) Check your wallet limits before payment.
+
+11.3 UPI PAYMENTS
+
+    UPI payment process:
+
+    (a) Enter UPI ID or scan QR code;
+    (b) Approve payment in UPI app;
+    (c) Enter UPI PIN;
+    (d) Payment confirmed instantly.
+
+11.4 UPI TRANSACTION LIMITS
+
+    (a) Per transaction: Rs. 1,00,000 (most banks);
+    (b) Daily limit: Rs. 1,00,000;
+    (c) Some banks have higher limits;
+    (d) Check with your bank.
+
+11.5 UPI PAYMENT ISSUES
+
+    If UPI payment fails:
+
+    (a) Check UPI app for status;
+    (b) Amount usually reversed immediately;
+    (c) If not, raise dispute in UPI app;
+    (d) Resolution within 5 business days.
+
+================================================================================
+                    ARTICLE 12: PROMOTIONAL CODES AND DISCOUNTS
+================================================================================
+
+12.1 APPLYING PROMO CODES
+
+    (a) Enter code at checkout;
+    (b) One promo code per order;
+    (c) Cannot be combined with other codes;
+    (d) Discount applied before payment.
+
+12.2 PROMO CODE TERMS
+
+    (a) Valid for specified period only;
+    (b) Minimum order value may apply;
+    (c) Category/product restrictions may apply;
+    (d) Usage limit per customer;
+    (e) Not valid on already discounted items (unless specified).
+
+12.3 BANK OFFERS
+
+    (a) Instant discount on select banks;
+    (b) Cashback credited to card/account;
+    (c) Terms set by partner bank;
+    (d) Cannot be combined with other bank offers.
+
+12.4 STORE CREDIT AND GIFT CARDS
+
+    (a) Enter code at checkout;
+    (b) Can be combined with other payment methods;
+    (c) Non-refundable, non-transferable;
+    (d) Validity as specified;
+    (e) Balance shown in account.
+
+================================================================================
+                    ARTICLE 13: RECURRING PAYMENTS AND SUBSCRIPTIONS
+================================================================================
+
+13.1 SUBSCRIPTION SERVICES
+
+    For subscription products:
+
+    (a) Auto-charge on specified frequency;
+    (b) Notification before each charge;
+    (c) Manage subscriptions in account;
+    (d) Cancel anytime before next billing.
+
+13.2 RECURRING PAYMENT AUTHORIZATION
+
+    (a) Standing instruction (SI) registered with bank;
+    (b) E-mandate as per RBI guidelines;
+    (c) Additional authentication not required each time;
+    (d) Limits as per e-mandate registration.
+
+13.3 SUBSCRIPTION MANAGEMENT
+
+    (a) View active subscriptions in account;
+    (b) Modify frequency or quantity;
+    (c) Pause or skip deliveries;
+    (d) Cancel subscription anytime.
+
+13.4 FAILED RECURRING PAYMENTS
+
+    If recurring payment fails:
+
+    (a) Notification sent via email/SMS;
+    (b) Retry attempted after 24 hours;
+    (c) Subscription paused after 3 failures;
+    (d) Update payment method to resume.
+
+================================================================================
+                    ARTICLE 14: DATA PROTECTION AND COMPLIANCE
+================================================================================
+
+14.1 REGULATORY COMPLIANCE
+
+    We comply with:
+
+    (a) Reserve Bank of India (RBI) guidelines;
+    (b) Payment Card Industry Data Security Standard (PCI-DSS);
+    (c) Digital Personal Data Protection Act, 2023;
+    (d) Information Technology Act, 2000;
+    (e) Prevention of Money Laundering Act, 2002.
+
+14.2 PAYMENT DATA HANDLING
+
+    (a) Card data processed by PCI-DSS compliant gateways;
+    (b) Only last 4 digits of card stored for reference;
+    (c) Full card numbers never stored on our servers;
+    (d) Tokenization used for saved cards;
+    (e) Transaction logs maintained as per regulations.
+
+14.3 DATA RETENTION
+
+    (a) Transaction records: 7 years (legal requirement);
+    (b) Payment preferences: Until account deletion;
+    (c) Failed transaction logs: 6 months;
+    (d) Fraud investigation data: 3 years.
+
+14.4 YOUR RIGHTS
+
+    (a) Access your payment history;
+    (b) Delete saved payment methods;
+    (c) Request transaction details;
+    (d) Opt out of payment-related marketing.
+
+================================================================================
+                    ARTICLE 15: DISPUTE RESOLUTION
+================================================================================
+
+15.1 PAYMENT DISPUTES
+
+    For payment-related disputes:
+
+    (a) Contact us within 30 days of transaction;
+    (b) Provide order number and transaction details;
+    (c) We investigate and respond within 48 hours;
+    (d) Resolution within 7-14 business days.
+
+15.2 ESCALATION
+
+    If not resolved satisfactorily:
+
+    (a) Escalate to senior manager;
+    (b) File complaint with banking ombudsman;
+    (c) Approach consumer forum;
+    (d) Legal remedies available.
+
+15.3 BANKING OMBUDSMAN
+
+    For unresolved banking-related complaints:
+
+    Reserve Bank of India - Banking Ombudsman Scheme
+    Website: https://cms.rbi.org.in
+
+================================================================================
+                    ARTICLE 16: LIABILITY AND INDEMNIFICATION
+================================================================================
+
+16.1 COMPANY LIABILITY
+
+    We are not liable for:
+
+    (a) Bank or payment gateway failures;
+    (b) Delays due to third-party systems;
+    (c) Unauthorized use of your payment credentials;
+    (d) Currency exchange rate fluctuations;
+    (e) Charges by your bank (forex, fees, etc.).
+
+16.2 CUSTOMER RESPONSIBILITY
+
+    You are responsible for:
+
+    (a) Providing accurate payment information;
+    (b) Maintaining security of your credentials;
+    (c) Verifying transaction details before confirming;
+    (d) Reporting unauthorized transactions promptly;
+    (e) Complying with your bank's terms.
+
+16.3 INDEMNIFICATION
+
+    You agree to indemnify us against claims arising from:
+
+    (a) Unauthorized use of your payment methods;
+    (b) Fraudulent chargebacks;
+    (c) Violation of bank/card terms;
+    (d) Your negligence in securing credentials.
+
+================================================================================
+                    ARTICLE 17: CONTACT INFORMATION
+================================================================================
+
+17.1 PAYMENT SUPPORT
+
+    For payment queries:
+
+    Email:      payments@techventure.in
+    Phone:      +91-80-4567-8900
+    Hours:      24/7 for urgent payment issues
+
+17.2 REFUND QUERIES
+
+    Email:      refunds@techventure.in
+    Response:   Within 24 hours
+
+17.3 FRAUD REPORTING
+
+    Email:      fraud@techventure.in
+    Phone:      +91-80-4567-8902
+    Response:   Immediate for suspected fraud
+
+17.4 GRIEVANCE OFFICER
+
+    For escalations:
+
+    Name:       ___________________________
+    Email:      grievance@techventure.in
+    Phone:      +91-80-4567-8901
+
+================================================================================
+                         ACKNOWLEDGMENT
+================================================================================
+
+By making a payment on our Platform, you acknowledge that you have
+read, understood, and agree to this Payment Processing Agreement.
+
+This Agreement is subject to change. Please review periodically for
+updates. Material changes will be notified via email.
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    PAYMENT PROCESSING AGREEMENT
+                    VERSION 1.0
+
+================================================================================

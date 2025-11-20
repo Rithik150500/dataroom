@@ -1,0 +1,847 @@
+================================================================================
+                    REFUND AND RETURN POLICY
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE REFUND AND RETURN POLICY
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+Last Updated: _____ day of __________, 20____
+
+================================================================================
+                         COMPANY INFORMATION
+================================================================================
+
+Company Name:     TECHVENTURE INDIA PRIVATE LIMITED
+CIN:              U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                  Bangalore - 560095, Karnataka, India
+Website:          www.techventure.in
+Email:            returns@techventure.in
+Phone:            +91-80-4567-8900
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+SECTION 1:  OVERVIEW AND SCOPE
+SECTION 2:  ELIGIBILITY FOR RETURNS
+SECTION 3:  NON-RETURNABLE PRODUCTS
+SECTION 4:  RETURN WINDOW BY CATEGORY
+SECTION 5:  RETURN CONDITIONS AND REQUIREMENTS
+SECTION 6:  HOW TO INITIATE A RETURN
+SECTION 7:  RETURN SHIPPING
+SECTION 8:  QUALITY CHECK PROCESS
+SECTION 9:  REFUND METHODS
+SECTION 10: REFUND TIMELINES
+SECTION 11: EXCHANGE POLICY
+SECTION 12: CANCELLATION POLICY
+SECTION 13: DAMAGED OR DEFECTIVE PRODUCTS
+SECTION 14: WRONG OR MISSING ITEMS
+SECTION 15: SPECIAL CIRCUMSTANCES
+SECTION 16: SELLER-FULFILLED ORDERS
+SECTION 17: FREQUENTLY ASKED QUESTIONS
+SECTION 18: CONTACT INFORMATION
+
+================================================================================
+                    SECTION 1: OVERVIEW AND SCOPE
+================================================================================
+
+1.1 PURPOSE
+
+    This Refund and Return Policy ("Policy") outlines the terms and
+    conditions under which products purchased from TechVenture India
+    Private Limited ("Company," "we," "our," "us") through our e-commerce
+    platform may be returned for refund, exchange, or replacement.
+
+1.2 APPLICABILITY
+
+    This Policy applies to:
+
+    (a) All products sold directly by TechVenture;
+    (b) Products sold by third-party sellers on our marketplace
+        (subject to seller-specific terms);
+    (c) All customers regardless of payment method;
+    (d) Both domestic and international orders (with specific conditions).
+
+1.3 COMPLIANCE
+
+    This Policy complies with:
+
+    (a) Consumer Protection Act, 2019;
+    (b) Consumer Protection (E-Commerce) Rules, 2020;
+    (c) Information Technology Act, 2000;
+    (d) Applicable state laws and regulations.
+
+1.4 CUSTOMER RIGHTS
+
+    Your statutory rights as a consumer are not affected by this Policy.
+    You may have additional rights under local consumer protection laws.
+
+================================================================================
+                    SECTION 2: ELIGIBILITY FOR RETURNS
+================================================================================
+
+2.1 GENERAL ELIGIBILITY CRITERIA
+
+    Products are eligible for return if:
+
+    (a) Return is initiated within the specified return window;
+    (b) Product is unused and in original condition;
+    (c) All original tags, labels, and packaging are intact;
+    (d) Product is not in the non-returnable category;
+    (e) Invoice/proof of purchase is available;
+    (f) Return reason is valid as per this Policy.
+
+2.2 VALID RETURN REASONS
+
+    (a) Product different from description or images;
+    (b) Defective or damaged product;
+    (c) Wrong product delivered;
+    (d) Missing parts or accessories;
+    (e) Quality not as expected;
+    (f) Size or fit issues (for applicable categories);
+    (g) Changed mind (within return window for eligible products);
+    (h) Duplicate order placed by mistake.
+
+2.3 CONDITIONS THAT MAY AFFECT ELIGIBILITY
+
+    Return eligibility may be rejected if:
+
+    (a) Product shows signs of use or wear;
+    (b) Packaging is damaged or missing;
+    (c) Tags or labels are removed or tampered;
+    (d) Product is altered or modified;
+    (e) Hygiene seal is broken (for applicable products);
+    (f) Serial number or IMEI is mismatched;
+    (g) Free gift or accessory is missing.
+
+================================================================================
+                    SECTION 3: NON-RETURNABLE PRODUCTS
+================================================================================
+
+3.1 ABSOLUTE NON-RETURNABLE ITEMS
+
+    The following products CANNOT be returned under any circumstances
+    (except if defective):
+
+    (a) Perishable goods (food items, flowers, plants);
+    (b) Personal hygiene products (undergarments, swimwear, socks);
+    (c) Beauty products (opened cosmetics, skincare, perfumes);
+    (d) Health and wellness products (supplements, medicines);
+    (e) Digital products (e-books, software downloads, subscriptions);
+    (f) Gift cards and store credits;
+    (g) Customized or personalized products;
+    (h) Products with broken hygiene seals;
+    (i) Hazardous materials and flammable products;
+    (j) Mattresses (if packaging is opened);
+    (k) Jewelry above Rs. 10,000 (without original certification).
+
+3.2 CONDITIONALLY NON-RETURNABLE ITEMS
+
+    The following can only be returned if defective or not as described:
+
+    (a) Electronics with registration/activation (once activated);
+    (b) Software with broken seal;
+    (c) Inkjet cartridges and toners;
+    (d) Assembled furniture;
+    (e) Vehicle parts once installed;
+    (f) Large appliances once installed;
+    (g) Products with tampered warranty seals.
+
+3.3 CATEGORY-SPECIFIC RESTRICTIONS
+
+    (a) Books: Only returnable if damaged or wrong edition;
+    (b) Mobile Phones: Must include all accessories, box, and documents;
+    (c) Watches: Must have warranty card and original packaging;
+    (d) Precious Items: Must have certification and secure packaging.
+
+================================================================================
+                    SECTION 4: RETURN WINDOW BY CATEGORY
+================================================================================
+
+4.1 STANDARD RETURN WINDOWS
+
+    -------------------------------------------------------------------------
+    | CATEGORY                        | RETURN WINDOW | EXCHANGE WINDOW     |
+    -------------------------------------------------------------------------
+    | Electronics & Gadgets           | 7 days        | 7 days              |
+    | Mobile Phones & Tablets         | 7 days        | 7 days              |
+    | Computers & Laptops             | 10 days       | 10 days             |
+    | Fashion & Apparel               | 15 days       | 15 days             |
+    | Footwear                        | 15 days       | 15 days             |
+    | Home & Kitchen                  | 10 days       | 10 days             |
+    | Large Appliances                | 7 days        | 10 days             |
+    | Furniture                       | 7 days        | 10 days             |
+    | Books & Media                   | 7 days        | 7 days              |
+    | Sports & Fitness                | 10 days       | 10 days             |
+    | Baby Products                   | 10 days       | 10 days             |
+    | Pet Supplies                    | 7 days        | 7 days              |
+    | Jewelry & Watches               | 7 days        | 7 days              |
+    | Automotive                      | 7 days        | 7 days              |
+    | Office Supplies                 | 15 days       | 15 days             |
+    -------------------------------------------------------------------------
+
+4.2 EXTENDED RETURN WINDOWS
+
+    (a) Premium Members: Additional 5 days on all categories;
+    (b) Festive Purchases: Extended returns through January 15th for
+        November-December purchases;
+    (c) Warranty Items: Manufacturing defects as per warranty terms.
+
+4.3 REDUCED RETURN WINDOWS
+
+    (a) Flash Sales: 3-day return window;
+    (b) Clearance Items: 3-day return window;
+    (c) Open-box Products: 3-day return window (defects only).
+
+================================================================================
+                    SECTION 5: RETURN CONDITIONS AND REQUIREMENTS
+================================================================================
+
+5.1 PRODUCT CONDITION
+
+    For successful returns, products must be:
+
+    (a) Unused: No signs of use, wear, or damage from customer;
+    (b) Complete: All parts, accessories, and freebies included;
+    (c) Original Packaging: Product in original box with all inserts;
+    (d) Tags Intact: All price tags, brand tags, and labels attached;
+    (e) Documentation: Invoice, warranty cards, and manuals included.
+
+5.2 PACKAGING REQUIREMENTS
+
+    (a) Use original packaging wherever possible;
+    (b) Secure product properly to prevent transit damage;
+    (c) Include all original materials (plastic covers, foam, etc.);
+    (d) Place return authorization clearly on outer box;
+    (e) Do not write on or damage original product packaging.
+
+5.3 ELECTRONICS-SPECIFIC REQUIREMENTS
+
+    (a) Factory reset device and remove personal data;
+    (b) Sign out of all accounts (iCloud, Google, etc.);
+    (c) Remove screen protectors if applied;
+    (d) Include all cables, chargers, and earphones;
+    (e) Match serial/IMEI numbers with invoice.
+
+5.4 FASHION-SPECIFIC REQUIREMENTS
+
+    (a) Try products without removing tags;
+    (b) Do not wash, alter, or wear products;
+    (c) Keep shoeboxes and dust bags intact;
+    (d) Include all buttons, belts, and accessories;
+    (e) Keep fragrance bottles sealed.
+
+================================================================================
+                    SECTION 6: HOW TO INITIATE A RETURN
+================================================================================
+
+6.1 ONLINE RETURN REQUEST
+
+    STEP 1: Log in to your account at www.techventure.in
+
+    STEP 2: Go to "My Orders" section
+
+    STEP 3: Select the order containing item(s) to return
+
+    STEP 4: Click "Return" button next to the item
+
+    STEP 5: Select return reason from dropdown
+
+    STEP 6: Upload photos if required (for damaged/defective items)
+
+    STEP 7: Choose return method:
+            - Schedule pickup (free for eligible returns)
+            - Self-ship to warehouse
+            - Drop at partner location
+
+    STEP 8: Confirm return request
+
+    STEP 9: Receive Return Authorization Number (RAN)
+
+6.2 RETURN VIA CUSTOMER SUPPORT
+
+    If unable to request online, contact us:
+
+    Phone:     +91-80-4567-8900 (9 AM - 6 PM, Mon-Sat)
+    Email:     returns@techventure.in
+    Chat:      Live chat on website/app
+
+    Provide the following information:
+    - Order number
+    - Item(s) to return
+    - Return reason
+    - Preferred return method
+    - Contact details
+
+6.3 RETURN AUTHORIZATION
+
+    (a) Return Authorization Number (RAN) is mandatory;
+    (b) RAN is valid for 7 days from issuance;
+    (c) Keep RAN displayed on return package;
+    (d) Returns without valid RAN may be rejected;
+    (e) One RAN is issued per return item.
+
+6.4 TRACKING YOUR RETURN
+
+    (a) Track return status in "My Returns" section;
+    (b) Email notifications at each stage;
+    (c) SMS updates for pickup and delivery;
+    (d) Estimated refund date displayed.
+
+================================================================================
+                    SECTION 7: RETURN SHIPPING
+================================================================================
+
+7.1 FREE RETURN SHIPPING
+
+    Return shipping is FREE when:
+
+    (a) Product is defective or damaged;
+    (b) Wrong product was delivered;
+    (c) Product significantly different from description;
+    (d) Product arrived after promised delivery date;
+    (e) Essential parts or accessories missing.
+
+7.2 CUSTOMER-PAID RETURN SHIPPING
+
+    Return shipping is at customer's cost when:
+
+    (a) Changed mind or no longer needed;
+    (b) Found better price elsewhere;
+    (c) Ordered wrong size/color (own error);
+    (d) Product doesn't match expectations (not misrepresented).
+
+    Estimated return shipping costs:
+    - Up to 500g: Rs. 50-80
+    - 500g - 1kg: Rs. 80-120
+    - 1kg - 5kg: Rs. 120-250
+    - Above 5kg: Calculated at checkout
+
+7.3 RETURN PICKUP SERVICE
+
+    (a) Free pickup available in 15000+ pin codes;
+    (b) Schedule pickup for convenient date and time;
+    (c) Pickup attempted up to 3 times;
+    (d) If unable to pickup, self-ship option provided;
+    (e) Keep product ready and packed for pickup.
+
+7.4 SELF-SHIP RETURNS
+
+    (a) Ship using any reliable courier service;
+    (b) Use trackable shipping method;
+    (c) Insure package for product value;
+    (d) Shipping cost reimbursed if our error (with receipt);
+    (e) Address: [Warehouse Address to be provided in RAN email].
+
+7.5 DROP-OFF LOCATIONS
+
+    (a) Drop at partner retail locations;
+    (b) Locations searchable on website/app;
+    (c) Free service at all locations;
+    (d) Instant return confirmation.
+
+================================================================================
+                    SECTION 8: QUALITY CHECK PROCESS
+================================================================================
+
+8.1 QC PROCESS OVERVIEW
+
+    All returns undergo quality check (QC) at our warehouse:
+
+    STEP 1: Package receipt and RAN verification (Day 1)
+
+    STEP 2: Product inspection against return reason (Day 1-2)
+
+    STEP 3: Verification of completeness and condition (Day 2)
+
+    STEP 4: QC decision - Approved or Rejected (Day 2-3)
+
+    STEP 5: Refund initiation if approved (Day 3)
+
+8.2 QC CRITERIA
+
+    (a) Product matches what was sold (serial/IMEI check);
+    (b) Product is in returnable condition;
+    (c) All accessories and freebies included;
+    (d) Packaging is adequate;
+    (e) Return reason is accurate.
+
+8.3 QC APPROVAL
+
+    If QC is PASSED:
+
+    (a) Refund is initiated immediately;
+    (b) Email confirmation sent;
+    (c) Estimated refund date provided;
+    (d) No further action required from customer.
+
+8.4 QC REJECTION
+
+    If QC FAILS, return may be rejected due to:
+
+    (a) Product used, damaged, or altered by customer;
+    (b) Missing parts, accessories, or packaging;
+    (c) Wrong product returned;
+    (d) Return reason does not match product condition;
+    (e) Product tampered or warranty seal broken.
+
+    In case of rejection:
+
+    (a) Customer notified within 24 hours;
+    (b) Photos/evidence of QC failure provided;
+    (c) Product shipped back at customer's cost;
+    (d) Option to dispute decision available;
+    (e) No refund processed.
+
+8.5 DISPUTED QC DECISIONS
+
+    To dispute a QC rejection:
+
+    (a) Contact customer support within 7 days;
+    (b) Provide evidence supporting your claim;
+    (c) Case escalated to senior review team;
+    (d) Decision provided within 5 business days;
+    (e) Decision of review team is final.
+
+================================================================================
+                    SECTION 9: REFUND METHODS
+================================================================================
+
+9.1 REFUND TO ORIGINAL PAYMENT METHOD
+
+    Default refund method is to original payment source:
+
+    -------------------------------------------------------------------------
+    | PAYMENT METHOD           | REFUND METHOD                              |
+    -------------------------------------------------------------------------
+    | Credit Card              | Credit to same card                        |
+    | Debit Card               | Credit to same card                        |
+    | Net Banking              | Credit to source bank account              |
+    | UPI                      | Credit to linked bank account              |
+    | Digital Wallet           | Credit to same wallet                      |
+    | EMI                      | Credit to card (EMI cancellation)          |
+    | BNPL                     | Loan cancellation/adjustment               |
+    -------------------------------------------------------------------------
+
+9.2 ALTERNATIVE REFUND METHODS
+
+    In certain cases, alternative refund methods may apply:
+
+    (a) BANK TRANSFER (NEFT/IMPS)
+        - When original payment method unavailable
+        - Requires bank account details verification
+        - Processing time: 5-7 business days
+
+    (b) STORE CREDIT
+        - Instant credit to TechVenture account
+        - Valid for 1 year from issue date
+        - Can be used for future purchases
+        - Non-transferable and non-refundable
+
+    (c) CHEQUE
+        - For amounts above Rs. 50,000
+        - When electronic transfer not possible
+        - Mailed to registered address
+        - Processing time: 10-15 business days
+
+9.3 CASH ON DELIVERY (COD) REFUNDS
+
+    For COD orders, refunds are processed as:
+
+    (a) PREFERRED: Bank account transfer (NEFT/IMPS)
+        - Provide bank details via secure form
+        - Verify account ownership
+        - Processing time: 5-7 business days
+
+    (b) ALTERNATIVE: Store credit
+        - If bank details not provided within 7 days
+        - Instant credit to account
+        - 1-year validity
+
+9.4 PARTIAL REFUNDS
+
+    Partial refunds may be issued when:
+
+    (a) Only some items from order are returned;
+    (b) Product has minor damage affecting value;
+    (c) Accessories or freebies are missing;
+    (d) Return shipping is customer-paid.
+
+    Deductions will be clearly communicated before finalizing return.
+
+================================================================================
+                    SECTION 10: REFUND TIMELINES
+================================================================================
+
+10.1 STANDARD REFUND TIMELINES
+
+    Refund processing begins after QC approval:
+
+    -------------------------------------------------------------------------
+    | REFUND METHOD            | TIMELINE FROM QC APPROVAL                  |
+    -------------------------------------------------------------------------
+    | Store Credit             | Instant (within 2 hours)                   |
+    | UPI / Wallet             | 1-2 business days                          |
+    | Debit Card               | 3-5 business days                          |
+    | Credit Card              | 5-7 business days                          |
+    | Net Banking              | 5-7 business days                          |
+    | EMI Cancellation         | 7-10 business days                         |
+    | Bank Transfer (NEFT)     | 5-7 business days                          |
+    | Cheque                   | 10-15 business days                        |
+    -------------------------------------------------------------------------
+
+    Note: Actual credit to your account depends on your bank's processing
+    time and may take additional 2-3 days.
+
+10.2 TOTAL TURNAROUND TIME
+
+    End-to-end return and refund timeline:
+
+    (a) Return pickup: 1-3 days from request
+    (b) Transit to warehouse: 3-5 days
+    (c) Quality check: 2-3 days
+    (d) Refund processing: As per method (see above)
+
+    TOTAL ESTIMATED TIME: 7-15 business days
+
+10.3 EXPEDITED REFUNDS
+
+    Instant refunds available for:
+
+    (a) Premium members with good return history;
+    (b) Low-value items (under Rs. 500);
+    (c) Verified manufacturing defects;
+    (d) Failed deliveries.
+
+    Refund credited upon pickup confirmation (before QC).
+
+10.4 DELAYED REFUNDS
+
+    If refund is delayed beyond stated timeline:
+
+    (a) Check refund status in "My Returns";
+    (b) Verify bank account/card details;
+    (c) Contact bank for card refunds;
+    (d) Contact us if issue persists;
+    (e) We will investigate and resolve within 48 hours.
+
+================================================================================
+                    SECTION 11: EXCHANGE POLICY
+================================================================================
+
+11.1 EXCHANGE ELIGIBILITY
+
+    Exchanges are available for:
+
+    (a) Size exchanges (apparel, footwear);
+    (b) Color exchanges;
+    (c) Variant exchanges (same product);
+    (d) Defective product replacement.
+
+11.2 EXCHANGE PROCESS
+
+    STEP 1: Initiate exchange request online
+
+    STEP 2: Select exchange reason and new variant
+
+    STEP 3: Schedule pickup for original item
+
+    STEP 4: New item shipped after pickup confirmation
+
+    STEP 5: Delivered within 5-7 business days
+
+11.3 EXCHANGE PRICING
+
+    (a) SAME PRICE: No additional payment required
+
+    (b) HIGHER PRICE: Pay difference before new item ships
+
+    (c) LOWER PRICE: Difference refunded as store credit
+
+11.4 EXCHANGE LIMITATIONS
+
+    (a) One exchange per item allowed;
+    (b) Exchange subject to stock availability;
+    (c) Cannot exchange for different product;
+    (d) If exchange item unavailable, refund processed;
+    (e) Exchange window same as return window.
+
+================================================================================
+                    SECTION 12: CANCELLATION POLICY
+================================================================================
+
+12.1 CANCELLATION BEFORE DISPATCH
+
+    (a) Orders can be cancelled before shipping;
+    (b) Cancel via "My Orders" or customer support;
+    (c) Full refund processed within 3-5 business days;
+    (d) No cancellation charges apply.
+
+12.2 CANCELLATION AFTER DISPATCH
+
+    (a) Cannot cancel orders already shipped;
+    (b) Refuse delivery or initiate return after receipt;
+    (c) Return shipping charges may apply;
+    (d) Refund after successful return.
+
+12.3 PARTIAL ORDER CANCELLATION
+
+    (a) Individual items can be cancelled from multi-item orders;
+    (b) Refund for cancelled item processed separately;
+    (c) Remaining items will be shipped as planned.
+
+12.4 COD ORDER CANCELLATION
+
+    (a) Multiple cancellations may affect COD eligibility;
+    (b) Repeated abuse will result in COD restriction;
+    (c) Pre-payment methods recommended for frequent buyers.
+
+12.5 CANCELLATION BY COMPANY
+
+    We may cancel orders due to:
+
+    (a) Out of stock items;
+    (b) Pricing errors;
+    (c) Payment failures;
+    (d) Unverified orders;
+    (e) Suspected fraud.
+
+    Full refund processed within 3-5 business days.
+
+================================================================================
+                    SECTION 13: DAMAGED OR DEFECTIVE PRODUCTS
+================================================================================
+
+13.1 DAMAGED IN TRANSIT
+
+    If product is damaged during delivery:
+
+    (a) Report within 24 hours of delivery;
+    (b) Do not discard packaging;
+    (c) Upload photos of damaged product and packaging;
+    (d) Free replacement or full refund;
+    (e) No return shipping required.
+
+13.2 MANUFACTURING DEFECTS
+
+    For products with manufacturing defects:
+
+    (a) Report within return window;
+    (b) Provide photos/videos of defect;
+    (c) Replacement or refund at customer's choice;
+    (d) Extended reporting for warranty items;
+    (e) Free return shipping.
+
+13.3 DEAD ON ARRIVAL (DOA)
+
+    For electronics that don't work out of the box:
+
+    (a) Report within 48 hours;
+    (b) Troubleshooting attempted by support;
+    (c) Immediate replacement if DOA confirmed;
+    (d) Priority pickup and express replacement;
+    (e) Full refund if replacement unavailable.
+
+13.4 DOCUMENTATION REQUIREMENTS
+
+    For damaged/defective claims, provide:
+
+    (a) Order number and product details;
+    (b) Clear photos of damage/defect;
+    (c) Video demonstrating issue (for electronics);
+    (d) Photo of outer packaging if transit damage;
+    (e) Description of issue.
+
+================================================================================
+                    SECTION 14: WRONG OR MISSING ITEMS
+================================================================================
+
+14.1 WRONG ITEM DELIVERED
+
+    If you receive wrong product:
+
+    (a) Report within 48 hours of delivery;
+    (b) Do not open or use the wrong product;
+    (c) Upload photo of wrong item received;
+    (d) Correct item shipped immediately (subject to stock);
+    (e) Wrong item picked up at same time;
+    (f) If correct item unavailable, full refund provided.
+
+14.2 MISSING ITEMS FROM ORDER
+
+    If items are missing from your order:
+
+    (a) Check if order is shipped in multiple packages;
+    (b) Report missing items within 48 hours;
+    (c) We will investigate with shipping partner;
+    (d) Missing items shipped free of charge;
+    (e) Refund if items cannot be shipped.
+
+14.3 MISSING ACCESSORIES
+
+    If accessories are missing from product:
+
+    (a) Report within 7 days;
+    (b) Photos of package contents required;
+    (c) Missing accessories shipped free;
+    (d) Return option if critical accessory missing.
+
+================================================================================
+                    SECTION 15: SPECIAL CIRCUMSTANCES
+================================================================================
+
+15.1 INTERNATIONAL RETURNS
+
+    For international orders:
+
+    (a) Return shipping at customer's cost;
+    (b) Customer responsible for customs clearance;
+    (c) Longer processing time (15-30 days);
+    (d) Refund in original currency;
+    (e) Local consumer protection laws may apply.
+
+15.2 GIFTED ITEMS
+
+    For items received as gifts:
+
+    (a) Exchange for store credit (without receipt);
+    (b) Gift receipt enables standard return;
+    (c) Refund to original purchaser (with their consent);
+    (d) Price verification from our records.
+
+15.3 PROMOTIONAL/BUNDLE ITEMS
+
+    (a) Entire bundle must be returned together;
+    (b) Free gifts must be returned with main product;
+    (c) Promo discount reversed if minimum not met;
+    (d) BOGO items: return one, refund one.
+
+15.4 BUSINESS/BULK ORDERS
+
+    (a) Separate return policy may apply;
+    (b) Contact business support for assistance;
+    (c) Extended processing time;
+    (d) Restocking fees may apply.
+
+================================================================================
+                    SECTION 16: SELLER-FULFILLED ORDERS
+================================================================================
+
+16.1 THIRD-PARTY SELLER RETURNS
+
+    For items sold by marketplace sellers:
+
+    (a) Return policies may vary by seller;
+    (b) Seller-specific return window displayed;
+    (c) Returns coordinated through our platform;
+    (d) Disputes mediated by TechVenture.
+
+16.2 SELLER RETURN PROCESS
+
+    (a) Return initiated through standard process;
+    (b) Seller notified of return request;
+    (c) Seller may approve/reject within 48 hours;
+    (d) If no response, auto-approved;
+    (e) Seller provides return label if required.
+
+16.3 SELLER REFUND TIMELINE
+
+    (a) Seller refunds within 5-7 business days of return receipt;
+    (b) If seller delays, we may refund and recover from seller;
+    (c) Escalate unresolved issues to grievance officer.
+
+================================================================================
+                    SECTION 17: FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q1: How long do I have to return a product?
+A:  Return windows vary by category from 7-30 days. Check your order
+    details for specific return window.
+
+Q2: Can I return a product without the original box?
+A:  Original packaging is preferred. Returns without original packaging
+    may be accepted with reduced refund value.
+
+Q3: Who pays for return shipping?
+A:  Return shipping is free for defective items or our errors. For
+    other returns, shipping may be deducted from refund.
+
+Q4: How will I receive my refund?
+A:  Refunds are processed to your original payment method. COD orders
+    are refunded via bank transfer or store credit.
+
+Q5: Can I return a used product?
+A:  No. Products must be unused and in original condition for return.
+    Only defective items can be returned after use.
+
+Q6: What if I miss the pickup?
+A:  We attempt pickup up to 3 times. After that, you can self-ship or
+    drop off at partner location.
+
+Q7: Can I cancel a return request?
+A:  Yes, if pickup has not been scheduled. Contact customer support
+    to cancel.
+
+Q8: Why was my return rejected?
+A:  Returns may be rejected if product is used, damaged, missing parts,
+    or does not match return reason. See Section 8.4.
+
+Q9: How do I track my refund?
+A:  Track in "My Returns" section or contact customer support with
+    your return ID.
+
+Q10: Can I exchange for a different product?
+A:   Exchanges are only for same product variants (size, color). For
+     different products, return and place new order.
+
+================================================================================
+                    SECTION 18: CONTACT INFORMATION
+================================================================================
+
+18.1 CUSTOMER SUPPORT
+
+    For return and refund queries:
+
+    Email:      returns@techventure.in
+    Phone:      +91-80-4567-8900
+    Hours:      Monday to Saturday, 9:00 AM to 6:00 PM IST
+    Chat:       Available on website and app
+
+18.2 ESCALATION
+
+    For unresolved issues:
+
+    Grievance Officer: grievance@techventure.in
+    Senior Manager:    escalation@techventure.in
+
+18.3 MAILING ADDRESS
+
+    TechVenture India Private Limited
+    Returns Department
+    #42, 3rd Floor, Koramangala 5th Block
+    Bangalore - 560095
+    Karnataka, India
+
+================================================================================
+                         POLICY ACKNOWLEDGMENT
+================================================================================
+
+By making a purchase on our Platform, you acknowledge that you have
+read, understood, and agree to this Refund and Return Policy.
+
+This Policy is subject to change. Please check this page periodically
+for updates. Continued use of the Platform after changes constitutes
+acceptance of the revised Policy.
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    REFUND AND RETURN POLICY
+                    VERSION 1.0
+
+================================================================================
