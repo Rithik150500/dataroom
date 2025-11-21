@@ -1,0 +1,185 @@
+================================================================================
+          SKYLINE BUSINESS PARK - PROJECT DOCUMENTATION
+                SKYLINE DEVELOPERS PRIVATE LIMITED
+                    CIN: U45201MH2012PTC228456
+================================================================================
+
+================================================================================
+                         PROJECT OVERVIEW
+================================================================================
+
+Project Name:           SKYLINE BUSINESS PARK
+Location:              MIDC SEZ, Taloja, Navi Mumbai
+Project Type:          IT/ITES Office Space (SEZ)
+Total Built-up Area:   8,50,000 sq ft (4 Buildings)
+Status:                2 buildings complete & leased, 2 under construction
+Total Investment:      Rs. 650 Crores
+RERA Registration:     P51700034567
+
+================================================================================
+                    LAND - LEASEHOLD TITLE
+================================================================================
+
+1. CIDCO LEASE DETAILS
+--------------------------------------------------------------------------------
+
+Land Area:              12 acres
+Lease Type:             Leasehold from CIDCO
+Lease Period:           60 years (Expires 2078)
+Lease Deed Date:        March 15, 2018
+Annual Lease Rent:      Rs. 12 Lakhs (Escalation every 5 years)
+Land Use:               SEZ for IT/ITES services
+Title Status:           Clean leasehold, no encumbrances
+
+2. SEZ APPROVALS
+--------------------------------------------------------------------------------
+
+SEZ Developer Approval:
+- Granted by:           Ministry of Commerce, Government of India
+- Date:                 March 2018
+- Developer:            Skyline Developers Pvt Ltd
+- SEZ Area:             12 acres (Entire plot notified)
+- Activity:             IT/ITES services
+
+SEZ Benefits:
+- 100% tax holiday for tenants (5 years)
+- 50% tax holiday for next 5 years
+- Customs duty exemption on imports
+
+Bond/Guarantee:
+- Amount:               Rs. 20 Crores (Bank Guarantee)
+- In favor of:          Customs Department
+- Purpose:              SEZ compliance
+
+================================================================================
+                    CONSTRUCTION STATUS
+================================================================================
+
+1. COMPLETED BUILDINGS (OPERATIONAL)
+--------------------------------------------------------------------------------
+
+Building A: 2,50,000 sq ft
+- Status:               100% complete & operational since 2021
+- Occupancy:            100% leased to TCS
+
+Building B: 2,00,000 sq ft
+- Status:               100% complete & operational since 2022
+- Occupancy:            85% leased (Infosys, Cognizant)
+- Vacant:               30,000 sq ft
+
+2. UNDER CONSTRUCTION
+--------------------------------------------------------------------------------
+
+Building C: 2,00,000 sq ft
+- Status:               Foundation work complete
+- Expected:             December 2026
+
+Building D: 2,00,000 sq ft
+- Status:               Planning approval stage
+- Expected:             December 2027
+
+================================================================================
+                    MAJOR TENANTS & LEASE AGREEMENTS
+================================================================================
+
+1. TCS (TATA CONSULTANCY SERVICES)
+--------------------------------------------------------------------------------
+
+Leased Area:            2,50,000 sq ft (Entire Building A)
+Lease Period:           9 years (January 2021 - December 2030)
+Monthly Rent:           Rs. 65 per sq ft + CAM charges
+Annual Rent:            Rs. 19.5 Crores
+Escalation:             5% annually
+Lock-in:                6 years (Till December 2026)
+Security Deposit:       Rs. 16.25 Crores (12 months rent)
+Status:                 Occupied, rents paid on time
+
+2. INFOSYS
+--------------------------------------------------------------------------------
+
+Leased Area:            1,00,000 sq ft
+Lease Period:           6 years (April 2022 - March 2028)
+Monthly Rent:           Rs. 70 per sq ft + CAM
+Annual Rent:            Rs. 8.4 Crores
+Lock-in:                3 years
+Security Deposit:       Rs. 8.4 Crores
+Status:                 Occupied, compliant
+
+3. COGNIZANT
+--------------------------------------------------------------------------------
+
+Leased Area:            70,000 sq ft
+Lease Period:           5 years (June 2023 - May 2028)
+Monthly Rent:           Rs. 68 per sq ft + CAM
+Annual Rent:            Rs. 5.7 Crores
+Lock-in:                3 years
+Security Deposit:       Rs. 5.7 Crores
+Status:                 Occupied, compliant
+
+4. SUMMARY
+--------------------------------------------------------------------------------
+
+Total Leased Area:      4,20,000 sq ft (Bldg A&B)
+Vacant Area:            30,000 sq ft (Building B)
+Occupancy Rate:         93%
+Total Annual Rental:    Rs. 28 Crores (current)
+Projected (full):       Rs. 55 Crores (on completion of C&D)
+
+================================================================================
+                    PROJECT FINANCING
+================================================================================
+
+1. SBI TERM LOAN
+--------------------------------------------------------------------------------
+
+Sanctioned Amount:      Rs. 350 Crores
+Disbursed:              Rs. 280 Crores
+Outstanding:            Rs. 180 Crores
+Interest Rate:          10.8% p.a. (Floating)
+Tenure:                 12 years
+
+Security:
+- Mortgage on leasehold land
+- Assignment of rental receivables to bank
+
+Repayment:
+- Monthly from rental income
+- 80% of rent goes to loan servicing
+
+Covenants:
+- DSCR >1.25x (Currently 1.6x)
+- Minimum occupancy 70%
+- No prepayment penalty after 3 years
+
+Status:                 No default, regular servicing
+
+2. FUNDING SUMMARY
+--------------------------------------------------------------------------------
+
+SBI Term Loan:          Rs. 280 Crores (Disbursed)
+Equity:                 Rs. 200 Crores (Promoters + HNIs)
+Tenant Deposits:        Rs. 28 Crores (Interest-free)
+Internal Accruals:      Rs. 142 Crores
+Total:                  Rs. 650 Crores
+
+================================================================================
+                    INCOME & VALUATION
+================================================================================
+
+Current Annual Rental:  Rs. 28 Crores (4.2 lakh sq ft occupied)
+Projected Full Rental:  Rs. 55 Crores p.a. (8.5 lakh sq ft)
+
+Valuation:
+- Method:               Discounted Cash Flow
+- Cap Rate:             8%
+- Current Value:        Rs. 720 Crores
+- Less: Debt:           Rs. 180 Crores
+- Equity Value:         Rs. 540 Crores
+
+================================================================================
+
+Place: Mumbai                                           Sd/-
+Date: November 2025                                Priya Sharma
+                                                Company Secretary
+
+================================================================================
