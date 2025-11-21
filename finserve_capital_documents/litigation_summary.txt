@@ -1,0 +1,419 @@
+================================================================================
+                    LITIGATION SUMMARY
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                  COMPREHENSIVE LITIGATION REPORT
+                      As on November 20, 2025
+
+================================================================================
+                      EXECUTIVE SUMMARY
+================================================================================
+
+LITIGATION STATUS OVERVIEW:
+
+Category                    Cases      Amount (Rs.)    Status
+--------------------------------------------------------------------------------
+Regulatory Cases               0              -        No pending cases
+Recovery Cases (by Co.)       47      15,00,00,000    Various stages
+Customer Disputes              3       1,20,00,000    Initial stages
+Employee Disputes              2          18,00,000    Labor Court
+Tax Disputes                   1          85,00,000    Appeal pending
+
+Total Contingent Liability: Rs. 3,03,00,000 (if all cases lost against Company)
+Total Recovery Expected: Rs. 9,00,00,000 (from recovery cases)
+
+================================================================================
+           I. REGULATORY LITIGATION - NIL
+================================================================================
+
+The Company confirms that:
+
+✅ No cases pending with Reserve Bank of India
+✅ No cases with SEBI or other financial regulators
+✅ No show cause notices pending
+✅ No monetary penalties imposed in last 5 years
+✅ No adverse orders from any regulator
+✅ Last RBI inspection observations: All closed
+
+================================================================================
+        II. RECOVERY LITIGATION (BY THE COMPANY)
+================================================================================
+
+Total Recovery Cases Filed: 47
+Total Amount Involved: Rs. 15,00,00,000
+Expected Recovery: Rs. 9,00,00,000 (60%)
+Recovery through legal: Rs. 2,10,00,000 (till date)
+
+--------------------------------------------------------------------------------
+                  CATEGORY-WISE BREAKUP
+--------------------------------------------------------------------------------
+
+Forum                    Cases    Amount (Rs. Lakhs)    Stage
+--------------------------------------------------------------------------------
+SARFAESI Actions           12         520              Various
+DRT (Debt Recovery         8         380              Hearing
+  Tribunal)
+Civil Courts              18         420              Filed/Pending
+Lok Adalat                 5          80              Settlement
+Arbitration                4         100              Award pending
+--------------------------------------------------------------------------------
+TOTAL                     47       1,500
+
+--------------------------------------------------------------------------------
+                    TOP 10 RECOVERY CASES
+--------------------------------------------------------------------------------
+
+Sl.  Borrower Name              Amount    Forum       Stage           Expected
+     (Account No.)              (Rs. L)                               Recovery
+--------------------------------------------------------------------------------
+1.   Sharma Engineering         85.00     DRT         Evidence        70%
+     (SMEL00234)                          Mumbai      stage
+     NPA Date: 15/01/2023
+     Security: Plant & Machinery
+
+2.   Patel Motors Pvt Ltd       72.00     SARFAESI    Possession      80%
+     (PMPL00567)                          Action      notice served
+     NPA Date: 20/03/2023
+     Security: Commercial Vehicle + Property
+
+3.   Gupta Traders              65.00     Civil       Decree          65%
+     (GTRD00789)                          Court       obtained
+     NPA Date: 10/05/2022
+     Security: Hypothecation of Stock
+
+4.   Kumar Industries           58.00     DRT         Admitted        60%
+     (KIND00123)                          Chennai
+     NPA Date: 25/07/2023
+     Security: Machinery
+
+5.   ABC Logistics              52.00     SARFAESI    Sale           75%
+     (ABCL00456)                          Action      notice issued
+     NPA Date: 12/09/2022
+     Security: Vehicles
+
+6.   New Age Textiles           48.00     Arbitration Award          55%
+     (NATX00234)                                      pending
+     NPA Date: 30/11/2022
+     Security: Stock + Receivables
+
+7.   Metro Constructions        45.00     Civil       Ex-parte        50%
+     (MCON00567)                          Court       decree
+     NPA Date: 18/02/2023
+     Security: Personal Guarantee
+
+8.   Star Enterprises           42.00     DRT         Reply filed     60%
+     (STEN00890)                          Mumbai
+     NPA Date: 05/04/2023
+     Security: Property Mortgage
+
+9.   Reliable Auto              38.00     SARFAESI    Possession      85%
+     (REAU00123)                          Action      taken
+     NPA Date: 22/06/2022
+     Security: Commercial Vehicles
+
+10.  Fast Foods India           35.00     Lok         Settlement      70%
+     (FFIN00456)                          Adalat      in progress
+     NPA Date: 14/08/2023
+     Security: Equipment
+
+--------------------------------------------------------------------------------
+
+RECOVERY ACTIONS STATUS:
+
+Action Type                    Initiated    Completed    In Progress
+--------------------------------------------------------------------------------
+Demand Notices                    47           47            -
+SARFAESI Notices (13(2))          18           18            -
+Possession Notices (13(4))        12            8            4
+Physical Possession                8            6            2
+Asset Sales                        5            3            2
+DRT Applications                   8            -            8
+Civil Suits                       18           12            6
+
+--------------------------------------------------------------------------------
+
+LEGAL EXPENSES (FY 2024-25 Budgeted):
+
+- Advocate Fees:           Rs. 25,00,000
+- Court Fees:              Rs.  8,00,000
+- Enforcement Expenses:    Rs. 12,00,000
+- Others:                  Rs.  5,00,000
+--------------------------------
+Total:                     Rs. 50,00,000
+
+================================================================================
+         III. CUSTOMER DISPUTES (AGAINST THE COMPANY)
+================================================================================
+
+Total Cases Filed by Customers: 3
+Total Amount Claimed: Rs. 1,20,00,000
+Contingent Liability: Rs. 1,20,00,000
+
+--------------------------------------------------------------------------------
+
+CASE 1: Consumer Complaint - Excess Interest
+
+Complainant:      Mr. Ramesh Kumar
+Forum:            District Consumer Forum, Mumbai
+Case No:          CC/2024/001234
+Date of Filing:   March 15, 2024
+Amount Claimed:   Rs. 45,00,000 (Principal refund + Compensation)
+
+Nature of Complaint:
+Complainant alleges that the Company charged excess interest and did not
+provide proper disclosure of effective interest rate.
+
+Company's Defense:
+- All disclosures made as per RBI Fair Practices Code
+- Sanction letter with APR provided
+- Signed acknowledgment from customer
+- Interest rate as per agreement
+
+Current Status: Hearing stage, next date January 15, 2025
+
+Legal Opinion: Strong defense, case likely to be dismissed
+
+Provision: Nil (based on legal opinion)
+
+--------------------------------------------------------------------------------
+
+CASE 2: Civil Suit - Wrongful Recovery
+
+Plaintiff:        M/s Excel Trading Co.
+Forum:            City Civil Court, Pune
+Suit No:          CS/2024/002345
+Date of Filing:   May 20, 2024
+Amount Claimed:   Rs. 50,00,000 (Damages)
+
+Nature of Suit:
+Plaintiff alleges harassment by recovery agents and wrongful repossession
+of vehicle.
+
+Company's Defense:
+- Recovery actions as per SARFAESI Act
+- Due notice given before repossession
+- Recovery agents trained and compliant
+- No evidence of harassment
+
+Current Status: Written statement filed, rejoinder pending
+
+Legal Opinion: Defenses strong, exposure limited to nominal damages if any
+
+Provision: Rs. 5,00,000 (conservative estimate)
+
+--------------------------------------------------------------------------------
+
+CASE 3: Consumer Complaint - Foreclosure Charges
+
+Complainant:      Ms. Sunita Devi
+Forum:            State Consumer Commission, Mumbai
+Case No:          FA/2024/000567
+Date of Filing:   July 10, 2024
+Amount Claimed:   Rs. 25,00,000 (Refund + Compensation)
+
+Nature of Complaint:
+Appeal against District Forum order. Complainant challenged foreclosure
+charges on floating rate loan.
+
+Company's Defense:
+- Loan was to a company (not consumer)
+- Even if consumer, charges were disclosed upfront
+- RBI guideline on nil foreclosure charges applicable only from specific date
+
+Current Status: Admitted, hearing not yet scheduled
+
+Legal Opinion: Moderate risk, may require settlement
+
+Provision: Rs. 15,00,000
+
+--------------------------------------------------------------------------------
+
+TOTAL PROVISIONS FOR CUSTOMER DISPUTES: Rs. 20,00,000
+
+================================================================================
+            IV. EMPLOYEE DISPUTES
+================================================================================
+
+Total Cases: 2
+Total Amount Claimed: Rs. 18,00,000
+Contingent Liability: Rs. 18,00,000
+
+--------------------------------------------------------------------------------
+
+CASE 1: Wrongful Termination
+
+Petitioner:       Mr. Vijay Singh (Ex-Collections Executive)
+Forum:            Labor Court, Mumbai
+Case No:          LC/2024/001234
+Date of Filing:   April 5, 2024
+Claim:            Reinstatement + Back wages (Rs. 12,00,000)
+
+Nature of Dispute:
+Petitioner claims wrongful termination. Was terminated for misconduct
+(harassment during recovery).
+
+Company's Defense:
+- Termination after domestic inquiry
+- Misconduct proven with evidence
+- Due process followed
+- Customer complaint on record
+
+Current Status: Evidence stage
+
+Legal Opinion: Strong defense, termination valid
+
+Provision: Rs. 3,00,000 (if any compensation awarded)
+
+--------------------------------------------------------------------------------
+
+CASE 2: Gratuity Dispute
+
+Petitioner:       Mr. Anil Sharma (Ex-Branch Manager)
+Forum:            Controlling Authority, Mumbai
+Case No:          GR/2024/000567
+Date of Filing:   June 12, 2024
+Claim:            Rs. 6,00,000 (Gratuity shortfall)
+
+Nature of Dispute:
+Petitioner claims gratuity was calculated incorrectly, excluding certain
+allowances.
+
+Company's Defense:
+- Gratuity calculated as per Payment of Gratuity Act
+- Allowances excluded as per rules
+- Calculation method consistent for all employees
+
+Current Status: Hearing completed, order awaited
+
+Legal Opinion: Moderate risk, may need to pay partial amount
+
+Provision: Rs. 3,00,000
+
+--------------------------------------------------------------------------------
+
+TOTAL PROVISIONS FOR EMPLOYEE DISPUTES: Rs. 6,00,000
+
+================================================================================
+              V. TAX DISPUTES
+================================================================================
+
+Total Cases: 1
+Amount Involved: Rs. 85,00,000
+Contingent Liability: Rs. 85,00,000
+
+--------------------------------------------------------------------------------
+
+CASE: Income Tax Demand - AY 2021-22
+
+Forum:            Commissioner of Income Tax (Appeals)
+Appeal No:        CIT(A)/2023/001234
+Date of Filing:   January 15, 2023
+Demand:           Rs. 85,00,000
+
+Nature of Dispute:
+Assessing Officer disallowed provision for Non-Performing Assets claiming
+it was not ascertained liability. Demand of Rs. 85 Lakhs raised including
+interest.
+
+Company's Defense:
+- Provision made as per RBI IRACP norms
+- Consistently allowed in earlier years
+- Supreme Court precedent (Vijaya Bank case) supports deduction
+- Tax audit report confirms provision as per RBI norms
+
+Current Status: Admitted by CIT(A), hearing scheduled December 2024
+
+Legal Opinion: Very strong case, expected to be decided in favor
+
+Provision: Nil (based on legal opinion and precedent)
+
+Stay: Stay against recovery obtained from CIT(A)
+
+--------------------------------------------------------------------------------
+
+OTHER TAX MATTERS:
+
+- GST: No disputes pending
+- Professional Tax: No disputes
+- Property Tax: No disputes
+
+================================================================================
+             VI. CONTINGENT LIABILITIES SUMMARY
+================================================================================
+
+As disclosed in Financial Statements for FY 2023-24:
+
+Category                        Amount (Rs. Lakhs)
+------------------------------------------------
+Customer Disputes                      120
+Employee Disputes                       18
+Tax Demands under Appeal                85
+Bank Guarantees                         50
+------------------------------------------------
+TOTAL                                  273
+
+================================================================================
+         VII. LEGAL RISK ASSESSMENT
+================================================================================
+
+RISK RATING:
+
+Category              Risk Level    Rationale
+--------------------------------------------------------------------------------
+Regulatory            LOW           No pending cases or adverse orders
+Recovery              LOW           Cases are for recovery, not against
+Customer              MODERATE      3 cases, defenses strong
+Employee              LOW           2 cases, valid terminations
+Tax                   LOW           Strong precedent in favor
+
+OVERALL LEGAL RISK: LOW
+
+KEY MITIGANTS:
+✅ No regulatory cases
+✅ Strong documentation and compliance
+✅ Trained legal team
+✅ Adequate provisions maintained
+✅ Insurance coverage (D&O, PI)
+
+================================================================================
+            VIII. LEGAL TEAM AND ADVISORS
+================================================================================
+
+INTERNAL LEGAL:
+
+Head - Legal:         Ms. Kavita Menon (Chief Compliance Officer)
+Legal Manager:        Mr. Sanjay Desai
+Legal Executive:      Ms. Priya Sharma
+
+EXTERNAL COUNSEL:
+
+General Corporate:    Regulatory Law Partners, Mumbai
+DRT Matters:          Advocate R.K. Shukla, Mumbai
+SARFAESI Actions:     Advocate M.N. Verma, Mumbai
+Labor Matters:        Advocate S.P. Joshi, Mumbai
+Tax Matters:          M/s Tax Advisory LLP, Mumbai
+
+================================================================================
+                    CERTIFICATION
+================================================================================
+
+We certify that the above litigation summary is complete and accurate to the
+best of our knowledge as on November 20, 2025.
+
+There are no material litigations other than those disclosed above that may
+have a significant impact on the Company's financial position.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-                                    Sd/-
+KAVITA MENON                            VIKRAM SHARMA
+Chief Compliance Officer                Company Secretary
+
+Date: November 20, 2025
+Place: Mumbai
+
+================================================================================
+                END OF LITIGATION SUMMARY
+================================================================================

@@ -1,0 +1,389 @@
+================================================================================
+               BUSINESS CONTINUITY PLAN (BCP)
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                 BOARD APPROVED POLICY DOCUMENT
+              As per RBI IT Framework for NBFC Sector
+             Last Reviewed and Updated: August 15, 2025
+
+================================================================================
+                      DOCUMENT CONTROL
+================================================================================
+
+Document Owner:         Chief Risk Officer
+Version:                3.0
+Effective Date:         August 15, 2025
+Next Review Date:       August 2026
+Classification:         Confidential
+
+Approvals:
+- IT Strategy Committee: August 10, 2025
+- Board of Directors:    August 12, 2025
+
+================================================================================
+                    EXECUTIVE SUMMARY
+================================================================================
+
+This Business Continuity Plan (BCP) establishes the framework to ensure
+continuity of critical business operations of FinServe Capital Limited in
+the event of any disruption. The plan covers:
+
+- Identification of critical business functions
+- Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO)
+- Disaster Recovery procedures
+- Communication protocols
+- Testing and maintenance
+
+================================================================================
+                  I. POLICY STATEMENT
+================================================================================
+
+FinServe Capital Limited is committed to ensuring continuity of critical
+operations and minimizing the impact of any disruption on:
+- Customers and borrowers
+- Employees
+- Regulatory compliance
+- Business operations
+- Reputation
+
+This BCP is aligned with:
+- RBI Master Direction on IT Framework for NBFC Sector
+- ISO 22301 Business Continuity Management Standard
+- Company's Risk Management Policy
+
+================================================================================
+              II. SCOPE AND OBJECTIVES
+================================================================================
+
+2.1 SCOPE
+
+This BCP covers:
+- All critical business functions
+- IT systems and infrastructure
+- Data and information assets
+- Personnel and facilities
+- Third-party service providers
+
+2.2 OBJECTIVES
+
+- Resume critical operations within defined timelines
+- Minimize financial and operational impact
+- Protect employees, customers, and assets
+- Maintain regulatory compliance
+- Preserve company reputation
+
+================================================================================
+        III. CRITICAL BUSINESS FUNCTIONS
+================================================================================
+
+Function                     Criticality    RTO        RPO
+--------------------------------------------------------------------------------
+Core Banking/Loan System     High           4 hours    1 hour
+Customer Database            High           4 hours    1 hour
+Treasury Operations          High           4 hours    1 hour
+Collections System           High           8 hours    4 hours
+Disbursement Processing      High           8 hours    4 hours
+Email and Communication      Medium         24 hours   4 hours
+HR and Payroll               Medium         48 hours   24 hours
+Regulatory Reporting         High           24 hours   4 hours
+Website and Customer Portal  Medium         24 hours   4 hours
+
+RTO: Recovery Time Objective - Maximum acceptable downtime
+RPO: Recovery Point Objective - Maximum acceptable data loss
+
+================================================================================
+             IV. RISK ASSESSMENT
+================================================================================
+
+4.1 POTENTIAL THREATS
+
+Natural Disasters:
+- Earthquakes
+- Floods
+- Cyclones/Storms
+- Fire
+
+Technology Failures:
+- Hardware failures
+- Software failures
+- Network outages
+- Cyber attacks
+- Data corruption
+
+Human-Related:
+- Pandemic/epidemic
+- Civil unrest
+- Terrorism
+- Key person unavailability
+- Strikes
+
+Third-Party Failures:
+- Vendor/supplier failure
+- Utility failure (power, telecom)
+- Bank/payment gateway issues
+
+4.2 BUSINESS IMPACT ANALYSIS
+
+Downtime          Financial Impact         Operational Impact
+--------------------------------------------------------------------------------
+< 4 hours         Low (< Rs. 5 L)          Minor inconvenience
+4-8 hours         Moderate (Rs. 5-20 L)    Customer complaints
+8-24 hours        High (Rs. 20-50 L)       Regulatory concern
+24-48 hours       Very High (Rs. 50 L-1 Cr) Reputational damage
+> 48 hours        Critical (> Rs. 1 Cr)    Regulatory action
+
+================================================================================
+           V. DISASTER RECOVERY (DR) STRATEGY
+================================================================================
+
+5.1 DR SITE
+
+Primary Site:     Peninsula Business Park, Lower Parel, Mumbai
+DR Site:          Data Center, Mahape, Navi Mumbai
+Distance:         25 km from primary site
+Mode:             Active-Passive with real-time replication
+Provider:         XYZ Data Center Services Pvt Ltd
+
+5.2 DR INFRASTRUCTURE
+
+The DR site maintains:
+- Replica of all production servers
+- Network connectivity with redundancy
+- Power backup (UPS + DG)
+- Fire suppression systems
+- Physical security
+
+5.3 DATA BACKUP
+
+Backup Type         Frequency       Retention     Storage
+--------------------------------------------------------------------------------
+Full Backup         Weekly          4 weeks       DR Site + Cloud
+Incremental         Daily           7 days        DR Site
+Transaction Logs    Real-time       72 hours      DR Site
+Database            Every 1 hour    7 days        DR Site
+
+5.4 RECOVERY PROCEDURES
+
+Level 1: Hardware Failure (Single Component)
+- Auto-failover to redundant component
+- RTO: < 30 minutes
+- No data loss expected
+
+Level 2: Server Failure
+- Restore from latest backup on standby server
+- RTO: 2-4 hours
+- Data loss: < 1 hour (as per backup frequency)
+
+Level 3: Site Disaster
+- Activate DR site
+- Redirect network traffic
+- RTO: 4-8 hours
+- Data loss: < 1 hour (real-time replication)
+
+================================================================================
+             VI. COMMUNICATION PLAN
+================================================================================
+
+6.1 CRISIS MANAGEMENT TEAM
+
+Role                    Primary          Alternate         Contact
+--------------------------------------------------------------------------------
+Crisis Director         MD               CFO               +91-XXXXXXXXXX
+IT Recovery Lead        CTO              IT Manager        +91-XXXXXXXXXX
+Operations Lead         COO              Ops Manager       +91-XXXXXXXXXX
+Communications Lead     CMO              PR Manager        +91-XXXXXXXXXX
+HR Lead                 CHRO             HR Manager        +91-XXXXXXXXXX
+Compliance Lead         CCO              Legal Head        +91-XXXXXXXXXX
+
+6.2 NOTIFICATION TREE
+
+Level 1 (Within 30 minutes):
+- Crisis Management Team
+- IT Team
+
+Level 2 (Within 2 hours):
+- Board of Directors
+- Senior Management
+- Key Vendors
+
+Level 3 (Within 4 hours):
+- All Employees
+- Critical Customers
+- Regulators (if required)
+
+Level 4 (Within 24 hours):
+- All Customers
+- Media (if required)
+- Other Stakeholders
+
+6.3 COMMUNICATION CHANNELS
+
+Primary:     Mobile phones, WhatsApp group
+Secondary:   Personal email
+Tertiary:    SMS broadcast, Physical assembly
+
+================================================================================
+              VII. PANDEMIC RESPONSE
+================================================================================
+
+(Enhanced after COVID-19 experience)
+
+7.1 WORK FROM HOME CAPABILITY
+
+- All employees have laptops with VPN access
+- Cloud-based collaboration tools (MS Teams, Zoom)
+- Digital signature capability
+- Remote access to core systems
+
+7.2 PANDEMIC TRIGGERS
+
+Level 1 (Awareness): WHO advisory, cases reported in country
+Level 2 (Preparedness): Cases in state, government advisory
+Level 3 (Activation): Lockdown, cases in office location
+
+7.3 PANDEMIC ACTIONS
+
+- Activate work from home for all non-essential staff
+- Rotate essential staff to reduce exposure
+- Enhanced hygiene at office
+- Suspend non-essential travel
+- Daily health monitoring
+
+================================================================================
+            VIII. TESTING AND MAINTENANCE
+================================================================================
+
+8.1 TESTING SCHEDULE
+
+Test Type           Frequency       Last Conducted    Next Scheduled
+--------------------------------------------------------------------------------
+Tabletop Exercise   Quarterly       July 2025         October 2025
+DR Drill            Annual          August 2025       August 2026
+Full Simulation     Biennial        August 2025       August 2027
+
+8.2 LAST DR DRILL RESULTS (August 2025)
+
+Date:               August 15, 2025
+Scenario:           Complete primary site failure
+Participants:       25 employees from IT, Operations, and Business
+
+Results:
+- Core Banking System:    Recovered in 3.5 hours (Target: 4 hours) ✅
+- Customer Database:      Recovered in 3 hours (Target: 4 hours) ✅
+- Collections System:     Recovered in 6 hours (Target: 8 hours) ✅
+- Disbursement System:    Recovered in 7 hours (Target: 8 hours) ✅
+- Email System:           Recovered in 18 hours (Target: 24 hours) ✅
+
+Issues Identified:
+1. Network routing delay - 30 minutes (Resolved)
+2. Incomplete documentation for one application (Updated)
+
+Overall Assessment: SUCCESSFUL
+
+8.3 MAINTENANCE
+
+The BCP shall be:
+- Reviewed annually
+- Updated for any significant change
+- Tested regularly
+- Communicated to all employees
+
+================================================================================
+         IX. THIRD-PARTY DEPENDENCIES
+================================================================================
+
+Critical Vendors        Service              BCP Status
+--------------------------------------------------------------------------------
+Core Banking Vendor     Loan Management      Verified
+Cloud Provider          Infrastructure       Verified
+Payment Gateway         Disbursements        Verified
+Credit Bureaus          Credit Checks        Verified
+Collection Agency       Collections          Verified
+
+All critical vendors have been assessed for business continuity capability
+and have contractual SLAs for disaster recovery.
+
+================================================================================
+              X. REGULATORY COMPLIANCE
+================================================================================
+
+10.1 RBI REQUIREMENTS
+
+As per RBI IT Framework for NBFCs:
+✅ Board-approved BCP policy
+✅ DR site with critical systems
+✅ Annual testing of BCP
+✅ Documentation of test results
+✅ Review by IT Strategy Committee
+
+10.2 REPORTING
+
+- BCP test results to IT Strategy Committee
+- Annual certification to Board
+- Reporting to RBI if disruption > 24 hours
+
+================================================================================
+                 XI. ROLES AND RESPONSIBILITIES
+================================================================================
+
+BOARD OF DIRECTORS:
+- Approve BCP policy
+- Review test results annually
+- Allocate resources for BCP
+
+IT STRATEGY COMMITTEE:
+- Oversee BCP implementation
+- Review test results quarterly
+- Recommend improvements
+
+CHIEF RISK OFFICER:
+- Policy owner
+- Coordinate testing
+- Update and maintain BCP
+
+IT HEAD:
+- Technical implementation
+- DR infrastructure
+- System recovery
+
+BUSINESS HEADS:
+- Identify critical functions
+- Participate in testing
+- Train team members
+
+ALL EMPLOYEES:
+- Understand their role in BCP
+- Participate in drills
+- Report issues
+
+================================================================================
+                    APPENDICES
+================================================================================
+
+Appendix A: Contact Directory (Confidential)
+Appendix B: System Recovery Procedures
+Appendix C: Vendor Contact List
+Appendix D: Alternate Site Floor Plan
+Appendix E: Critical Asset Inventory
+Appendix F: Test Scenarios and Checklists
+
+================================================================================
+                    CERTIFICATION
+================================================================================
+
+This Business Continuity Plan has been reviewed and approved.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-                                    Sd/-
+RAMESH GUPTA                            RAJESH KUMAR MEHTA
+Chief Risk Officer                      Managing Director
+
+Date: August 15, 2025
+Place: Mumbai
+
+================================================================================
+           END OF BUSINESS CONTINUITY PLAN
+================================================================================

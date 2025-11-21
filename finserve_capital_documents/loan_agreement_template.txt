@@ -1,0 +1,523 @@
+================================================================================
+                    LOAN AGREEMENT TEMPLATE
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+                 RBI Registration No: N-14.03268
+================================================================================
+
+                  STANDARD TERM LOAN AGREEMENT
+                    (FOR SME TERM LOANS)
+
+This LOAN AGREEMENT ("Agreement") is made and executed on this _____ day
+of ____________, 20____
+
+AT _______________
+
+BETWEEN
+
+FINSERVE CAPITAL LIMITED, a Non-Banking Financial Company incorporated under
+the Companies Act, 2013, having CIN U65990MH2015PLC264789, registered with
+Reserve Bank of India under Registration No. N-14.03268, and having its
+registered office at Unit 501-502, 5th Floor, Peninsula Business Park,
+Senapati Bapat Marg, Lower Parel, Mumbai - 400013
+(hereinafter referred to as the "Lender" or "Company")
+                                                            OF THE FIRST PART
+
+AND
+
+[BORROWER NAME], [Individual/Company/Partnership Firm/LLP] having PAN
+[PAN NUMBER] and residing/having registered office at [ADDRESS]
+(hereinafter referred to as the "Borrower")
+                                                           OF THE SECOND PART
+
+AND
+
+[GUARANTOR NAME] (if applicable), having PAN [PAN NUMBER] and residing at
+[ADDRESS]
+(hereinafter referred to as the "Guarantor")
+                                                            OF THE THIRD PART
+
+================================================================================
+                       SCHEDULE
+================================================================================
+
+LOAN DETAILS:
+
+Loan Account Number:        _______________
+Loan Amount:                Rs. _______________
+Loan Type:                  SME Term Loan
+Purpose:                    _______________
+Tenure:                     _____ months
+Interest Rate:              _____% per annum
+Interest Type:              [Fixed/Floating linked to Base Rate]
+EMI Amount:                 Rs. _______________
+EMI Due Date:               _____ of each month
+Disbursement Date:          _______________
+Maturity Date:              _______________
+
+CHARGES:
+
+Processing Fee:             Rs. _______________ (___% of loan amount)
+Documentation Charges:      Rs. _______________
+Stamp Duty:                 Rs. _______________
+CERSAI Charges:             Rs. _______________
+Prepayment Charges:         As per Schedule below
+Late Payment Charges:       2% per month on overdue amount
+Cheque/NACH Bounce:         Rs. 500 per instance
+
+SECURITY:
+
+Primary Security:           _______________
+Collateral Security:        _______________
+Guarantee:                  Personal Guarantee of _______________
+
+================================================================================
+                       RECITALS
+================================================================================
+
+A. The Borrower has applied for a term loan facility from the Lender for
+   the purpose stated in the Schedule.
+
+B. The Lender has agreed to provide the loan facility subject to the terms
+   and conditions contained in this Agreement.
+
+C. The Guarantor (if applicable) has agreed to guarantee the obligations
+   of the Borrower.
+
+NOW THEREFORE, in consideration of the loan and covenants herein, the
+Parties agree as follows:
+
+================================================================================
+                    ARTICLE 1 - THE LOAN
+================================================================================
+
+1.1 LOAN AMOUNT
+
+    The Lender agrees to lend and the Borrower agrees to borrow the Loan
+    Amount specified in the Schedule.
+
+1.2 PURPOSE
+
+    The Loan shall be used solely for the purpose specified in the Schedule.
+    The Borrower shall not divert the Loan for any other purpose.
+
+1.3 DISBURSEMENT
+
+    (a) The Loan shall be disbursed after:
+        - Execution of this Agreement and security documents
+        - Completion of all documentation
+        - Payment of processing fee and charges
+        - Satisfaction of all conditions precedent
+
+    (b) Disbursement shall be made by credit to the Borrower's bank account
+        or directly to vendors/suppliers as the Lender may decide.
+
+================================================================================
+                   ARTICLE 2 - INTEREST
+================================================================================
+
+2.1 INTEREST RATE
+
+    The Borrower shall pay interest on the outstanding principal at the
+    Interest Rate specified in the Schedule.
+
+    Effective Annual Interest Rate (APR): _____% per annum
+
+    The APR includes the impact of reducing balance, processing fees, and
+    other charges on the effective cost of borrowing.
+
+2.2 INTEREST CALCULATION
+
+    Interest shall be calculated on daily reducing balance basis.
+
+2.3 INTEREST RESET (FOR FLOATING RATE)
+
+    For floating rate loans, the interest rate shall be reset annually
+    based on the Lender's Base Rate prevailing at the time of reset.
+
+2.4 INTEREST ON DEFAULT
+
+    If any amount payable is not paid on the due date, the Borrower shall
+    pay additional interest at 2% per month (24% per annum) on the overdue
+    amount for the period of default.
+
+================================================================================
+                  ARTICLE 3 - REPAYMENT
+================================================================================
+
+3.1 REPAYMENT SCHEDULE
+
+    The Borrower shall repay the Loan along with interest in Equated Monthly
+    Installments (EMIs) as per the repayment schedule annexed hereto.
+
+3.2 EMI PAYMENT
+
+    (a) EMI shall be payable on the due date specified in the Schedule.
+
+    (b) Payment shall be made through NACH/ECS/Standing Instruction/PDCs.
+
+    (c) The Borrower shall ensure sufficient funds in the bank account on
+        the due date.
+
+3.3 PREPAYMENT
+
+    (a) The Borrower may prepay the Loan in full or in part subject to
+        prepayment charges as below:
+
+        Prepayment during          Prepayment Charges
+        -------------------------------------------------
+        0-6 months                 4% of prepaid amount
+        6-12 months                3% of prepaid amount
+        12-24 months               2% of prepaid amount
+        After 24 months            1% of prepaid amount
+
+    (b) For floating rate loans to individuals, no prepayment charges shall
+        be levied as per RBI guidelines.
+
+    (c) Partial prepayment shall be in multiples of Rs. 10,000.
+
+3.4 APPLICATION OF PAYMENTS
+
+    Payments received shall be applied in the following order:
+    1. Costs and expenses
+    2. Late payment charges
+    3. Interest due
+    4. Principal due
+
+================================================================================
+                   ARTICLE 4 - SECURITY
+================================================================================
+
+4.1 CREATION OF SECURITY
+
+    The Borrower shall create the following security in favor of the Lender:
+
+    (a) PRIMARY SECURITY:
+        [Description of primary security - hypothecation of stock/equipment/
+        receivables, etc.]
+
+    (b) COLLATERAL SECURITY:
+        [Description of collateral - mortgage of property, etc.]
+
+    (c) PERSONAL GUARANTEE:
+        [Name of Guarantor]
+
+4.2 SECURITY DOCUMENTATION
+
+    The Borrower shall execute:
+    - Deed of Hypothecation
+    - Mortgage Deed (if applicable)
+    - Personal Guarantee
+    - Any other document required by the Lender
+
+4.3 REGISTRATION
+
+    (a) Charge on movable assets shall be registered with CERSAI within 30
+        days of creation.
+
+    (b) Mortgage on immovable property shall be registered with Sub-Registrar.
+
+    (c) All registration costs shall be borne by the Borrower.
+
+4.4 INSURANCE
+
+    The Borrower shall insure the secured assets against fire, theft, and
+    other risks. The policy shall be in the joint names of Borrower and
+    Lender, with Lender as loss payee.
+
+4.5 RELEASE OF SECURITY
+
+    Upon repayment of all dues, the Lender shall:
+    (a) Release the security within 30 days
+    (b) Provide No Objection Certificate
+    (c) Mark CERSAI registration as satisfied
+
+================================================================================
+                  ARTICLE 5 - GUARANTEE
+================================================================================
+
+5.1 GUARANTEE
+
+    The Guarantor unconditionally and irrevocably guarantees to the Lender
+    the due payment and performance by the Borrower of all obligations under
+    this Agreement.
+
+5.2 CONTINUING GUARANTEE
+
+    This guarantee shall be a continuing guarantee and shall remain in force
+    until all dues are fully paid.
+
+5.3 PRIMARY OBLIGATION
+
+    The Guarantor's liability is as a primary obligor and not merely as a
+    surety. The Lender may proceed against the Guarantor without first
+    proceeding against the Borrower.
+
+================================================================================
+            ARTICLE 6 - REPRESENTATIONS AND WARRANTIES
+================================================================================
+
+6.1 The Borrower represents and warrants that:
+
+    (a) The Borrower has legal capacity and authority to enter into this
+        Agreement.
+
+    (b) All information provided in the loan application is true and correct.
+
+    (c) There is no litigation or proceeding pending against the Borrower
+        that may materially affect ability to repay.
+
+    (d) The Borrower is not a wilful defaulter with any bank or NBFC.
+
+    (e) The security is free from encumbrance (except as disclosed).
+
+    (f) The Borrower has not obtained this loan by misrepresentation.
+
+================================================================================
+               ARTICLE 7 - BORROWER'S COVENANTS
+================================================================================
+
+7.1 The Borrower shall:
+
+    (a) Pay all EMIs and other amounts on due dates.
+
+    (b) Use the Loan only for the stated purpose.
+
+    (c) Maintain books of account and records.
+
+    (d) Provide financial statements annually (or as required).
+
+    (e) Inform the Lender of any material change in business or financial
+        condition.
+
+    (f) Maintain the security in good condition.
+
+    (g) Pay all taxes, duties, and other charges on the security.
+
+    (h) Permit inspection of the security and records by the Lender.
+
+    (i) Not create any other charge on the security without consent.
+
+    (j) Not change constitution, management, or business without consent.
+
+7.2 The Borrower shall NOT:
+
+    (a) Divert the Loan for any purpose other than stated.
+
+    (b) Dispose of or encumber the security without consent.
+
+    (c) Enter into any transaction that may prejudice the Lender's interest.
+
+================================================================================
+              ARTICLE 8 - EVENTS OF DEFAULT
+================================================================================
+
+8.1 EVENTS OF DEFAULT
+
+    Each of the following is an Event of Default:
+
+    (a) Non-payment of EMI or any other amount within 7 days of due date.
+
+    (b) Three or more EMI bounces in a year.
+
+    (c) Breach of any representation, warranty, or covenant.
+
+    (d) Cross-default under any other loan agreement.
+
+    (e) Any security becoming impaired or inadequate.
+
+    (f) The Borrower becoming insolvent or bankrupt.
+
+    (g) Any litigation or proceeding materially affecting the Borrower.
+
+    (h) Death of individual Borrower or dissolution of firm.
+
+    (i) Diversion of Loan proceeds.
+
+    (j) Misrepresentation or fraud.
+
+8.2 CONSEQUENCES OF DEFAULT
+
+    Upon Event of Default, the Lender may:
+
+    (a) Declare all outstanding amounts immediately due and payable.
+
+    (b) Charge default interest and penal charges.
+
+    (c) Enforce the security.
+
+    (d) Take possession of secured assets.
+
+    (e) Appoint receiver for the security.
+
+    (f) File suit for recovery.
+
+    (g) Report default to credit bureaus.
+
+8.3 ACCELERATION
+
+    The Lender may recall the entire Loan by giving 60 days notice if:
+    (a) There is material adverse change in Borrower's condition
+    (b) The security becomes inadequate
+    (c) The Borrower breaches any material covenant
+
+================================================================================
+               ARTICLE 9 - ENFORCEMENT
+================================================================================
+
+9.1 The Lender may enforce the security through:
+
+    (a) SARFAESI Act, 2002 (for secured loans above Rs. 1 Lakh)
+    (b) Debt Recovery Tribunal (for debts above Rs. 20 Lakhs)
+    (c) Civil Court
+    (d) Arbitration
+
+9.2 The Borrower waives any defense of:
+    (a) Lis pendens
+    (b) Res judicata (if not adjudicated on merits)
+    (c) Limitation (subject to law)
+
+================================================================================
+              ARTICLE 10 - GENERAL PROVISIONS
+================================================================================
+
+10.1 NOTICES
+
+     All notices shall be sent to the addresses mentioned in this Agreement.
+     Notices shall be deemed served if sent by registered post/courier/email.
+
+10.2 ASSIGNMENT
+
+     The Lender may assign or transfer its rights under this Agreement to
+     any third party including Asset Reconstruction Companies (ARCs) or
+     other NBFCs/banks.
+
+10.3 DISCLOSURE
+
+     The Borrower consents to disclosure of information to:
+     (a) Credit Information Companies (CIBIL, Experian, etc.)
+     (b) Reserve Bank of India
+     (c) Other lenders (for credit assessment)
+     (d) Collection agents
+     (e) Assignees/transferees
+
+10.4 RECOVERY METHODS
+
+     The Borrower agrees that the Lender may engage recovery agents for
+     collection of dues. The Lender shall ensure that agents comply with
+     the Fair Practices Code.
+
+10.5 GOVERNING LAW
+
+     This Agreement shall be governed by laws of India.
+
+10.6 JURISDICTION
+
+     Courts at [City] shall have exclusive jurisdiction.
+
+10.7 ARBITRATION
+
+     Any dispute shall be referred to arbitration under Arbitration and
+     Conciliation Act, 1996. The arbitrator shall be appointed by the Lender.
+     Seat of arbitration: Mumbai.
+
+10.8 INDEMNITY
+
+     The Borrower shall indemnify the Lender against all losses, claims,
+     and expenses arising from breach of this Agreement.
+
+10.9 ENTIRE AGREEMENT
+
+     This Agreement, along with the schedules and annexures, constitutes
+     the entire agreement between the Parties.
+
+10.10 AMENDMENTS
+
+      This Agreement may be amended only by written instrument signed by
+      all Parties.
+
+================================================================================
+               IMPORTANT DISCLOSURES
+================================================================================
+
+AS REQUIRED UNDER RBI FAIR PRACTICES CODE:
+
+1. TOTAL AMOUNT PAYABLE:
+   Principal:                Rs. _______________
+   Total Interest:           Rs. _______________
+   Processing Fee:           Rs. _______________
+   Other Charges:            Rs. _______________
+   ------------------------------------------
+   Total Amount Payable:     Rs. _______________
+
+2. EFFECTIVE INTEREST RATE (APR): _____% per annum
+
+3. KEY CONTACT:
+   Branch Manager: _______________
+   Phone: _______________
+   Email: _______________
+
+4. GRIEVANCE REDRESSAL:
+   Grievance Officer: Mr. Sanjay Kulkarni
+   Phone: +91-22-4567-8901
+   Email: grievance@finservecapital.com
+
+   If not resolved within 30 days, approach:
+   Reserve Bank Integrated Ombudsman
+   https://cms.rbi.org.in
+
+5. CREDIT BUREAU REPORTING:
+   Your repayment behavior will be reported to Credit Information Companies.
+   Default will adversely affect your credit score.
+
+================================================================================
+                       EXECUTION
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the date
+first written above.
+
+For FINSERVE CAPITAL LIMITED              BORROWER
+
+Sd/-                                      Sd/-
+Name: ___________________                 Name: ___________________
+Designation: _____________                [Individual/Authorized Signatory]
+Date: ___________________                 Date: ___________________
+
+                                          GUARANTOR
+
+                                          Sd/-
+                                          Name: ___________________
+                                          Date: ___________________
+
+WITNESSES:
+
+1. Sd/-                                   2. Sd/-
+   Name: _________________                   Name: _________________
+   Address: ______________                   Address: ______________
+
+================================================================================
+                     ANNEXURES
+================================================================================
+
+Annexure 1: Repayment Schedule (EMI breakup)
+Annexure 2: List of documents collected
+Annexure 3: Details of security
+Annexure 4: Most Important Terms and Conditions (MITC)
+
+================================================================================
+
+ACKNOWLEDGMENT BY BORROWER:
+
+I/We acknowledge that:
+1. I/We have read and understood all terms and conditions.
+2. All disclosures have been made to me/us.
+3. I/We have received a copy of this Agreement.
+4. I/We understand the consequences of default.
+
+Borrower Signature: ___________________
+Date: ___________________
+
+================================================================================
+                 END OF LOAN AGREEMENT
+================================================================================

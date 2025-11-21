@@ -1,0 +1,381 @@
+================================================================================
+                    COMMITTEE MEETING MINUTES
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                  AUDIT COMMITTEE | RISK MANAGEMENT COMMITTEE
+                 NOMINATION & REMUNERATION COMMITTEE | SHAREHOLDERS
+
+================================================================================
+         I. AUDIT COMMITTEE MEETING MINUTES
+================================================================================
+
+                    FINSERVE CAPITAL LIMITED
+                  Minutes of 32nd Audit Committee Meeting
+                 Held on September 20, 2024 at 11:00 AM
+                        at Registered Office
+
+--------------------------------------------------------------------------------
+                         ATTENDANCE
+--------------------------------------------------------------------------------
+
+MEMBERS PRESENT:
+1. Ms. Meera Krishnan    - Chairperson (Independent Director)
+2. Mr. Suresh Iyer       - Member (Independent Director)
+3. Ms. Anjali Desai      - Member (Independent Director)
+
+IN ATTENDANCE:
+- Mr. Vikram Joshi       - Chief Financial Officer
+- Mr. Vikram Sharma      - Company Secretary
+- Ms. Kavita Menon       - Chief Compliance Officer
+- Partner, ABC & Associates - Statutory Auditors
+
+--------------------------------------------------------------------------------
+                        PROCEEDINGS
+--------------------------------------------------------------------------------
+
+ITEM 1: CONFIRMATION OF MINUTES
+
+The Minutes of the 31st Audit Committee Meeting held on July 18, 2024 were
+confirmed and approved.
+
+ITEM 2: REVIEW OF Q2 FY 2024-25 FINANCIAL RESULTS
+
+The CFO presented the unaudited financial results for Q2 FY 2024-25.
+
+Key Highlights:
+- Total Income: Rs. 15.8 Crores
+- PAT: Rs. 4.8 Crores
+- NIM: 7.2%
+
+The Committee reviewed:
+- Significant accounting judgments
+- Related party transactions
+- Contingent liabilities
+- Expected Credit Loss provisioning
+
+RESOLVED that the unaudited financial results for Q2 FY 2024-25 be recommended
+to the Board for approval.
+
+ITEM 3: INTERNAL AUDIT REPORT
+
+The Internal Auditor presented the report for Q1 FY 2024-25.
+
+Observations:
+- 3 significant findings (all addressed)
+- 8 moderate findings (6 addressed, 2 in progress)
+- 5 minor findings (all addressed)
+
+Key Areas Audited:
+- Loan origination process
+- KYC compliance
+- Collections procedures
+- IT general controls
+
+The Committee noted the report and directed management to close pending
+observations within 30 days.
+
+ITEM 4: STATUTORY AUDITOR'S LIMITED REVIEW REPORT
+
+The Statutory Auditor presented the Limited Review Report on Q2 results.
+The report contained no qualifications.
+
+RESOLVED that the Limited Review Report be noted and approved.
+
+ITEM 5: RELATED PARTY TRANSACTIONS
+
+The Company Secretary presented RPTs for Q2 FY 2024-25:
+
+- Office rent to Mehta Properties LLP: Rs. 45 Lakhs
+- Insurance brokerage to FinServe Insurance Broking: Rs. 4 Lakhs
+
+RESOLVED that the related party transactions be approved as being at arm's
+length and in ordinary course of business.
+
+ITEM 6: REVIEW OF RBI COMPLIANCE
+
+The Chief Compliance Officer presented RBI compliance status.
+
+RESOLVED that the compliance status be noted as satisfactory.
+
+ITEM 7: WHISTLE BLOWER COMPLAINTS
+
+No whistle blower complaints received during Q2.
+
+The meeting concluded at 1:00 PM.
+
+Sd/-                                    Sd/-
+MEERA KRISHNAN                          VIKRAM SHARMA
+Chairperson                             Company Secretary
+
+================================================================================
+        II. RISK MANAGEMENT COMMITTEE MINUTES
+================================================================================
+
+                    FINSERVE CAPITAL LIMITED
+              Minutes of 28th Risk Management Committee Meeting
+                 Held on September 22, 2024 at 10:00 AM
+
+--------------------------------------------------------------------------------
+
+MEMBERS PRESENT:
+1. Mr. Suresh Iyer       - Chairman (Independent Director)
+2. Dr. Priya Nair        - Member (Non-Executive Director)
+3. Mr. Ramesh Gupta      - Member (Chief Risk Officer)
+
+IN ATTENDANCE:
+- Mr. Rajesh Kumar Mehta - Managing Director
+- Mr. Vikram Joshi       - CFO
+
+--------------------------------------------------------------------------------
+
+ITEM 1: REVIEW OF CREDIT RISK
+
+Portfolio at Risk Analysis:
+- PAR 0-30: 8.2%
+- PAR 31-60: 3.5%
+- PAR 61-90: 2.1%
+- PAR 90+: 9.3%
+
+Concentration Analysis:
+- Top 20 borrowers: 28% of portfolio
+- Maharashtra exposure: 38% (recommend diversification)
+- Sector concentration within limits
+
+RESOLVED that management present geographic diversification plan at next meeting.
+
+ITEM 2: LIQUIDITY RISK REVIEW
+
+- LCR: 152% (comfortable)
+- No negative gaps in critical buckets (1-7 days, 8-14 days)
+- Unutilized bank lines: Rs. 45 Crores
+
+RESOLVED that liquidity position be noted as satisfactory.
+
+ITEM 3: STRESS TESTING RESULTS
+
+Stress scenarios tested:
+1. NPA increase by 50%: CRAR drops to 14.8% (below threshold)
+2. Interest rate increase by 200 bps: NIM drops by 80 bps
+3. Combination scenario: Capital injection of Rs. 30 Cr required
+
+RESOLVED that stress testing results be presented to Board with capital
+contingency plan.
+
+ITEM 4: OPERATIONAL RISK INCIDENTS
+
+Q2 Incidents:
+- 3 operational risk events (total loss Rs. 2.5 Lakhs)
+- No fraud detected
+- All incidents resolved
+
+RESOLVED that operational risk report be noted.
+
+ITEM 5: CYBER SECURITY UPDATE
+
+- 2 minor incidents in Q2 (phishing attempts, blocked)
+- VAPT remediation: 5 of 7 medium vulnerabilities closed
+- Cyber insurance claim for forensic costs: Rs. 2 Lakhs
+
+RESOLVED that cyber security status be noted with direction to close
+remaining vulnerabilities by December 2024.
+
+Meeting concluded at 12:30 PM.
+
+Sd/-
+SURESH IYER
+Chairman, Risk Management Committee
+
+================================================================================
+    III. NOMINATION AND REMUNERATION COMMITTEE MINUTES
+================================================================================
+
+                    FINSERVE CAPITAL LIMITED
+          Minutes of 18th Nomination & Remuneration Committee Meeting
+                 Held on August 28, 2024 at 3:00 PM
+
+--------------------------------------------------------------------------------
+
+MEMBERS PRESENT:
+1. Ms. Anjali Desai      - Chairperson (Independent Director)
+2. Ms. Meera Krishnan    - Member (Independent Director)
+3. Mr. Arun Srinivasan   - Member (Non-Executive Director)
+
+--------------------------------------------------------------------------------
+
+ITEM 1: REVIEW OF BOARD COMPOSITION
+
+The Committee reviewed the current Board composition:
+- 7 Directors (2 Executive, 2 Non-Executive, 3 Independent)
+- 1 Woman Director
+- All directors meet fit and proper criteria
+
+RESOLVED that Board composition is adequate and compliant with Companies Act
+and RBI requirements.
+
+ITEM 2: PERFORMANCE EVALUATION
+
+The Committee reviewed the process for annual performance evaluation of:
+- Board as a whole
+- Individual Directors
+- Board Committees
+
+RESOLVED that evaluation be conducted through structured questionnaires in
+March 2025.
+
+ITEM 3: REMUNERATION OF MANAGING DIRECTOR
+
+The Committee reviewed the remuneration of Mr. Rajesh Kumar Mehta (MD).
+
+Current CTC: Rs. 2 Crores per annum
+Performance for FY 2023-24: Met all KRAs
+Proposed increment: 8%
+Revised CTC: Rs. 2.16 Crores per annum
+
+RESOLVED that the revised remuneration be recommended to Board, subject to
+shareholder approval under Section 197.
+
+ITEM 4: SITTING FEES FOR DIRECTORS
+
+Current sitting fees:
+- Board Meeting: Rs. 50,000
+- Committee Meeting: Rs. 30,000
+
+RESOLVED that sitting fees be continued without revision.
+
+ITEM 5: SUCCESSION PLANNING
+
+The Committee reviewed succession plan for KMPs:
+- MD: 2 internal candidates identified, development plan in place
+- CFO: 1 internal candidate, 1 external search if needed
+- CRO: Internal succession identified
+
+RESOLVED that succession planning framework be noted as adequate.
+
+Meeting concluded at 4:30 PM.
+
+Sd/-
+ANJALI DESAI
+Chairperson, NRC
+
+================================================================================
+         IV. SHAREHOLDERS MEETING MINUTES
+================================================================================
+
+                    FINSERVE CAPITAL LIMITED
+              Minutes of 9th Annual General Meeting
+                 Held on September 28, 2024 at 11:00 AM
+            Through Video Conferencing / Other Audio Visual Means
+
+--------------------------------------------------------------------------------
+
+ATTENDANCE:
+- 127 members present in person or through proxy
+- Representing 78.5% of total voting power
+
+CHAIRMAN: Mr. Rajesh Kumar Mehta (Managing Director)
+
+--------------------------------------------------------------------------------
+
+ITEM 1: ORDINARY BUSINESS
+
+1.1 ADOPTION OF FINANCIAL STATEMENTS
+
+RESOLVED that the Audited Financial Statements for FY 2023-24 along with
+Reports of Directors and Auditors be adopted.
+
+Votes: For - 99.2%, Against - 0.8%
+
+1.2 DECLARATION OF DIVIDEND
+
+RESOLVED that dividend of Rs. 1.50 per equity share be declared for FY 2023-24.
+
+Votes: For - 100%, Against - 0%
+
+1.3 RE-APPOINTMENT OF DIRECTOR
+
+RESOLVED that Mr. Vikram Joshi (DIN: 03456789), who retires by rotation, be
+re-appointed as Director.
+
+Votes: For - 98.5%, Against - 1.5%
+
+--------------------------------------------------------------------------------
+
+ITEM 2: SPECIAL BUSINESS
+
+2.1 RATIFICATION OF REMUNERATION OF MANAGING DIRECTOR
+
+RESOLVED as Special Resolution that the remuneration of Mr. Rajesh Kumar
+Mehta as Managing Director be approved at Rs. 2.16 Crores per annum.
+
+Votes: For - 95.8%, Against - 4.2%
+
+2.2 ISSUANCE OF NCDs ON PRIVATE PLACEMENT BASIS
+
+RESOLVED as Special Resolution that the Board be authorized to issue NCDs
+up to Rs. 100 Crores on private placement basis.
+
+Votes: For - 97.3%, Against - 2.7%
+
+2.3 APPROVAL OF RELATED PARTY TRANSACTIONS
+
+RESOLVED as Ordinary Resolution that material related party transaction with
+Mehta Properties LLP for office rent up to Rs. 2 Crores per annum be approved.
+
+Votes: For - 91.2%, Against - 8.8%
+(Note: Promoter group abstained from voting)
+
+--------------------------------------------------------------------------------
+
+The Chairman thanked the shareholders for their participation and support.
+The meeting concluded at 12:30 PM.
+
+Sd/-                                    Sd/-
+RAJESH KUMAR MEHTA                      VIKRAM SHARMA
+Chairman                                Company Secretary
+
+--------------------------------------------------------------------------------
+
+SCRUTINIZER'S REPORT
+
+I, CS Priya Sharma (CP No. 12345), Scrutinizer appointed for the AGM, report
+that the voting was conducted in a fair and transparent manner. The results
+are as declared above.
+
+Sd/-
+CS PRIYA SHARMA
+Scrutinizer
+
+================================================================================
+                    SUMMARY OF MEETINGS
+================================================================================
+
+Committee                   Total Meetings    FY 2024-25 (till date)
+--------------------------------------------------------------------------------
+Board of Directors                 78                   5
+Audit Committee                    32                   3
+Risk Management Committee          28                   3
+Nomination & Remuneration          18                   2
+Annual General Meeting              9                   1
+Extraordinary General Meeting       4                   0
+
+================================================================================
+                      CERTIFICATION
+================================================================================
+
+Certified that the above are true extracts from the Minutes Books maintained
+by FinServe Capital Limited.
+
+For FINSERVE CAPITAL LIMITED
+
+Sd/-
+VIKRAM SHARMA
+Company Secretary
+
+Date: November 20, 2025
+Place: Mumbai
+
+================================================================================
+              END OF COMMITTEE MEETING MINUTES
+================================================================================

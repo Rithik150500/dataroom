@@ -72,6 +72,12 @@ SECTION 1: CORPORATE DOCUMENTS
      - Investor rights
      - ESOP pool details
 
+1.8  committee_meeting_minutes.txt
+     - Audit Committee Minutes
+     - Risk Management Committee Minutes
+     - Nomination & Remuneration Committee Minutes
+     - Shareholders Meeting Minutes
+
 --------------------------------------------------------------------------------
 
 SECTION 2: RBI REGULATORY COMPLIANCE
@@ -143,6 +149,12 @@ SECTION 4: FUNDING DOCUMENTS
      - Debenture Trustee details
      - NCD holder list
 
+4.3  credit_rating_letter.txt
+     - CRISIL Rating Letter (A- / Stable)
+     - Rating rationale and key drivers
+     - Financial performance analysis
+     - Rating sensitivities
+
 --------------------------------------------------------------------------------
 
 SECTION 5: EMPLOYMENT & HR
@@ -182,6 +194,39 @@ SECTION 7: INTELLECTUAL PROPERTY
      - Domain names
      - Proprietary credit scoring models
      - IP protection measures
+
+--------------------------------------------------------------------------------
+
+SECTION 8: LENDING OPERATIONS
+--------------------------------------------------------------------------------
+
+8.1  loan_agreement_template.txt
+     - Standard SME Term Loan Agreement
+     - Borrower covenants and obligations
+     - Security and guarantee provisions
+     - RBI Fair Practices Code disclosures
+
+--------------------------------------------------------------------------------
+
+SECTION 9: LITIGATION & LEGAL
+--------------------------------------------------------------------------------
+
+9.1  litigation_summary.txt
+     - Recovery cases (47 cases, Rs. 15 Cr)
+     - Customer disputes (3 cases)
+     - Employee disputes (2 cases)
+     - Tax disputes and contingent liabilities
+
+--------------------------------------------------------------------------------
+
+SECTION 10: BUSINESS CONTINUITY
+--------------------------------------------------------------------------------
+
+10.1 business_continuity_plan.txt
+     - BCP Policy (RBI mandated)
+     - Disaster Recovery procedures
+     - Critical business functions and RTO/RPO
+     - DR site details and testing records
 
 ================================================================================
                  KEY DUE DILIGENCE FOCUS AREAS

@@ -1,0 +1,308 @@
+================================================================================
+                    CRISIL CREDIT RATING
+                      FINSERVE CAPITAL LIMITED
+                   CIN: U65990MH2015PLC264789
+================================================================================
+
+                    RATING LETTER & RATIONALE
+
+================================================================================
+               CRISIL RATINGS LIMITED
+================================================================================
+
+Date: September 30, 2024
+
+The Board of Directors
+FinServe Capital Limited
+Unit 501-502, 5th Floor
+Peninsula Business Park
+Senapati Bapat Marg, Lower Parel
+Mumbai - 400013
+
+Subject: Credit Rating for Non-Convertible Debentures and Bank Facilities
+
+Dear Sir/Madam,
+
+We refer to the rating agreement executed between FinServe Capital Limited
+("the Company") and CRISIL Ratings Limited ("CRISIL") for rating the debt
+instruments/bank facilities of the Company.
+
+Based on our analysis, we have assigned/reaffirmed the following ratings:
+
+================================================================================
+                    RATING SUMMARY
+================================================================================
+
+Instrument                  Amount        Rating          Outlook
+                           (Rs. Cr)
+--------------------------------------------------------------------------------
+Long-Term Bank Facilities    200        CRISIL A-         Stable
+Non-Convertible Debentures   100        CRISIL A-         Stable
+Commercial Paper              50        CRISIL A2+        -
+--------------------------------------------------------------------------------
+Total                        350
+
+Rating History:
+Period              Rating          Outlook     Action
+----------------------------------------------------------
+September 2024      CRISIL A-       Stable      Reaffirmed
+September 2023      CRISIL A-       Stable      Reaffirmed
+September 2022      CRISIL A-       Stable      Upgraded
+September 2021      CRISIL BBB+     Stable      Reaffirmed
+September 2020      CRISIL BBB+     Negative    Downgraded
+September 2019      CRISIL A-       Stable      Initial
+
+================================================================================
+                    RATING DEFINITION
+================================================================================
+
+CRISIL A- (Long-Term):
+Instruments with this rating are considered to have ADEQUATE degree of safety
+regarding timely servicing of financial obligations. Such instruments carry
+LOW CREDIT RISK.
+
+CRISIL A2+ (Short-Term):
+Instruments with this rating are considered to have STRONG degree of safety
+regarding timely payment of financial obligations. Such instruments carry
+VERY LOW CREDIT RISK.
+
+================================================================================
+                    DETAILED RATIONALE
+================================================================================
+
+The ratings reflect FinServe Capital Limited's adequate capitalization,
+experienced management team, and established track record in SME and vehicle
+financing. The ratings also factor in the company's diversified funding
+profile and comfortable liquidity position.
+
+These strengths are partially offset by higher-than-peer asset quality
+metrics, geographic concentration in Maharashtra, and moderate scale of
+operations.
+
+--------------------------------------------------------------------------------
+                    KEY RATING DRIVERS
+--------------------------------------------------------------------------------
+
+STRENGTHS:
+
+1. ADEQUATE CAPITALIZATION
+
+   - CRAR at 18.2% as on September 30, 2025 (regulatory minimum: 15%)
+   - Tier I capital at 13.8% of risk-weighted assets
+   - Net Owned Funds at Rs. 142 Crores (well above Rs. 2 Cr minimum)
+   - Capital cushion to absorb potential asset quality deterioration
+   - Planned equity raise of Rs. 80 Crores in FY 2025-26 to support growth
+
+2. EXPERIENCED MANAGEMENT AND ESTABLISHED TRACK RECORD
+
+   - Promoter Mr. Rajesh Kumar Mehta has 25+ years in financial services
+   - Key management has average experience of 20+ years
+   - Track record of 10 years in NBFC operations
+   - Established presence in SME and vehicle financing
+   - Strong credit underwriting and collections systems
+
+3. DIVERSIFIED FUNDING PROFILE
+
+   - Mix of bank loans (56%), NCDs (29%), CPs (10%), and subordinated debt (5%)
+   - Relationships with 8 banks and 6 mutual funds
+   - Staggered maturity profile reducing refinancing risk
+   - Credit rating upgrade from BBB+ to A- in 2022 improved funding access
+
+4. COMFORTABLE LIQUIDITY
+
+   - Liquidity Coverage Ratio at 152% as on September 2025
+   - No negative cumulative gaps in near-term buckets
+   - Unutilized bank lines of Rs. 45 Crores
+   - ALM management framework in place
+
+5. ESTABLISHED MARKET POSITION IN TARGET SEGMENTS
+
+   - Focus on SME term loans, vehicle finance, and MSME working capital
+   - Average ticket size of Rs. 18 Lakhs in underserved segment
+   - Presence in Maharashtra, Karnataka, and Gujarat
+   - Geographic expansion to Tamil Nadu and Telangana in progress
+
+--------------------------------------------------------------------------------
+
+WEAKNESSES:
+
+1. HIGHER-THAN-PEER ASSET QUALITY METRICS
+
+   - Gross NPA at 9.3% as on September 2025 (peer average: 6-7%)
+   - Net NPA at 5.1%
+   - Credit costs elevated due to pandemic-related stress
+   - NPA has improved from peak of 11.2% in 2020-21
+   - Target to reduce Gross NPA to 8% by March 2025
+
+2. GEOGRAPHIC CONCENTRATION
+
+   - Maharashtra contributes 38% of portfolio
+   - Karnataka and Gujarat contribute 40% together
+   - Concentration risk to regional economic conditions
+   - Mitigation: Expansion to new states in progress
+
+3. MODERATE SCALE OF OPERATIONS
+
+   - Total assets of Rs. 428 Crores
+   - Classified as Middle Layer NBFC under Scale Based Regulation
+   - Limited pricing power compared to larger peers
+   - Growth plans to reach Rs. 1,000 Crores AUM by FY 2027-28
+
+4. COMPETITIVE PRESSURE ON MARGINS
+
+   - Net Interest Margin at 7.2% (down from 7.5% in FY 2022-23)
+   - Increasing competition from banks and fintech
+   - Cost of funds stable but operating costs increasing
+   - Focus on improving operating efficiency
+
+--------------------------------------------------------------------------------
+                  FINANCIAL PERFORMANCE
+--------------------------------------------------------------------------------
+
+                          FY22      FY23      FY24      FY25(P)
+----------------------------------------------------------------
+Total Assets (Rs. Cr)     298       356       392       428
+Loan Book (Rs. Cr)        255       310       365       410
+Net Worth (Rs. Cr)        102       118       131       145
+Total Income (Rs. Cr)      46        52        58        64
+PAT (Rs. Cr)               9        11         7         8
+
+Key Ratios:
+Net Interest Margin       7.5%      7.4%      7.2%      7.2%
+Cost to Income            43%       42%       42%       42%
+Gross NPA                 9.8%      8.5%      9.1%      9.3%
+Net NPA                   5.5%      4.5%      4.9%      5.1%
+CRAR                     17.8%     17.5%     17.8%     18.2%
+ROA                       3.2%      3.3%      1.9%      2.0%
+ROE                       9.5%     10.0%      5.7%      5.8%
+
+Note: FY24 and FY25(P) ROA/ROE lower due to higher provisioning for NPAs.
+
+--------------------------------------------------------------------------------
+                    OUTLOOK: STABLE
+--------------------------------------------------------------------------------
+
+CRISIL believes that FinServe Capital will maintain its adequate capital
+position and improve its asset quality metrics over the medium term. The
+outlook may be revised to 'Positive' if there is:
+
+- Sustained improvement in asset quality with Gross NPA below 7%
+- Significant improvement in profitability with ROA above 2.5%
+- Successful equity raise enhancing capital position
+
+Conversely, the outlook may be revised to 'Negative' if:
+
+- Asset quality deteriorates with Gross NPA above 12%
+- Profitability remains subdued with ROA below 1.5%
+- Capital position weakens with CRAR below 16%
+- Liquidity stress emerges due to funding challenges
+
+================================================================================
+                    KEY SENSITIVITIES
+================================================================================
+
+UPSIDE SCENARIOS:
+
+1. Sustained asset quality improvement with Gross NPA < 7%
+2. Successful equity raise of Rs. 80 Crores
+3. Improvement in ROA to above 2.5%
+4. Diversification reducing geographic concentration
+
+DOWNSIDE SCENARIOS:
+
+1. Asset quality deterioration with Gross NPA > 12%
+2. Capital erosion with CRAR < 16%
+3. Liquidity stress or funding challenges
+4. Adverse regulatory action
+
+================================================================================
+                    LIQUIDITY ANALYSIS
+================================================================================
+
+Liquidity Profile: ADEQUATE
+
+- Cash and bank balances: Rs. 27.5 Crores
+- Liquid investments: Rs. 23 Crores
+- Unutilized bank lines: Rs. 45 Crores
+- Total liquidity: Rs. 95.5 Crores
+
+Liquidity Coverage Ratio: 152%
+
+Maturity Profile:
+The company has no significant repayment obligations in the near term that
+could stress liquidity. NCDs of Rs. 35 Crores due in June 2025 are expected
+to be refinanced through fresh NCD issuance or bank borrowings.
+
+================================================================================
+                    ABOUT CRISIL RATINGS
+================================================================================
+
+CRISIL Ratings Limited is a SEBI-registered credit rating agency. CRISIL
+ratings are opinions on the relative degree of credit risk associated with
+the rated entity/instrument.
+
+This rating is not a recommendation to buy, sell, or hold the rated
+instrument. The rating is based on information provided by the Company and
+obtained from sources considered reliable by CRISIL.
+
+================================================================================
+                    RATING VALIDITY
+================================================================================
+
+This rating is valid for a period of one year from the date of this letter
+or until the next surveillance review, whichever is earlier.
+
+The Company is required to:
+1. Inform CRISIL of any material change in circumstances
+2. Provide information for annual surveillance
+3. Display this rating in all offer documents
+
+================================================================================
+                    KEY CONTACTS
+================================================================================
+
+CRISIL Ratings Limited
+
+Analytical Contacts:
+Mr. Sanjay Kumar, Director
+Email: sanjay.kumar@crisil.com
+
+Ms. Priya Sharma, Associate Director
+Email: priya.sharma@crisil.com
+
+Business Development:
+Mr. Amit Verma, Senior Manager
+Email: amit.verma@crisil.com
+
+Client Servicing:
+Email: clientservicing@crisil.com
+Phone: +91-22-3342-3000
+
+================================================================================
+                    DISCLAIMER
+================================================================================
+
+A CRISIL rating reflects CRISIL's current opinion on the likelihood of
+timely payment of the obligations under the rated instrument and is not a
+recommendation to buy, sell or hold the instrument. CRISIL ratings are based
+on information provided by the Company and obtained from other reliable
+sources.
+
+CRISIL is not responsible for any errors and especially states that it has
+no financial liability whatsoever to the subscribers/users/transmitters/
+distributors of this report.
+
+================================================================================
+
+For CRISIL Ratings Limited
+
+Sd/-
+SANJAY KUMAR
+Director
+
+Date: September 30, 2024
+Place: Mumbai
+
+================================================================================
+               END OF CREDIT RATING LETTER
+================================================================================
