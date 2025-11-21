@@ -1,0 +1,387 @@
+================================================================================
+              SKYLINE HEIGHTS - PROJECT DOCUMENTATION
+                SKYLINE DEVELOPERS PRIVATE LIMITED
+                    CIN: U45201MH2012PTC228456
+================================================================================
+
+================================================================================
+                         PROJECT OVERVIEW
+================================================================================
+
+Project Name:           SKYLINE HEIGHTS
+Location:              Ghodbunder Road, Thane (West), Maharashtra
+Project Type:          Residential Towers
+Configuration:         2 Towers, 42 Floors each
+Total Units:           480 apartments (1/2/3 BHK)
+Total Saleable Area:   5,20,000 sq ft
+Total Project Cost:    Rs. 420 Crores
+Current Status:        Under Construction (65% complete)
+Expected Completion:   December 2026
+RERA Registration:     P51700023456 (Active)
+
+================================================================================
+                    LAND TITLE & ACQUISITION
+================================================================================
+
+1. LAND DETAILS
+--------------------------------------------------------------------------------
+
+Land Area:              2.8 acres (11,331 sq meters)
+Survey Number:          Gat No. 145, Village Kolshet, Thane District
+7/12 Extract:           Available (Shows complete ownership history)
+Property Card:          Updated with current ownership
+Land Use:               Non-Agricultural (NA conversion done in 2008)
+
+2. TITLE CHAIN (30-YEAR SEARCH COMPLETED)
+--------------------------------------------------------------------------------
+
+Year        Owner/Transaction               Document Details
+--------------------------------------------------------------------------------
+1993-2008   Mr. Ramesh Dattatray Patil     Original owner (Farmer)
+            (Farmer)                        Acquired through family partition
+
+2008        NA Conversion                   Agricultural to Non-Agricultural
+                                           Order No.: NA/THA/2008/4567
+
+2011        Sai Realty Developers Pvt Ltd  Sale Deed from Ramesh Patil
+                                           Document No.: THN-1-2011-78901
+                                           Consideration: Rs. 42 Crores
+
+2013        Skyline Developers Pvt Ltd     Sale Deed from Sai Realty
+                                           Document No.: THN-1-2013-12345
+                                           Date: March 15, 2013
+                                           Consideration: Rs. 68 Crores
+                                           Sub-Registrar: Thane
+--------------------------------------------------------------------------------
+
+3. TITLE DUE DILIGENCE
+--------------------------------------------------------------------------------
+
+Title Search Report:    By ABC Law Firm (March 2013)
+Opinion:               Marketable title, free from encumbrances
+Updated Search:        October 2025 - Clean, no adverse claims
+
+Encumbrance Certificate: Clear for last 13 years (2012-2025)
+
+4. TITLE ISSUE & RESOLUTION
+--------------------------------------------------------------------------------
+
+Issue (2014):          One legal heir of original owner (Mr. Ramesh Patil)
+                       filed suit claiming defective partition (2008)
+Case Number:           Civil Suit No. 456/2014
+Forum:                 Civil Court, Thane
+Status:                Case dismissed in favor of Company (2016)
+                       Family partition deed found valid
+Appeal:                No appeal filed by plaintiff
+Documentation:         Court order dated June 15, 2016
+                       Legal opinion on case closure
+Title Insurance:       Obtained post-resolution
+                       Insurer: New India Assurance
+                       Coverage: Rs. 50 Crores
+
+5. CURRENT ENCUMBRANCES
+--------------------------------------------------------------------------------
+
+Mortgage in favor of HDFC Bank:
+- Purpose:             Construction loan
+- Registered:          Mortgage Deed dated June 15, 2022
+- Document No.:        THN-1-2022-23456
+- Amount Secured:      Rs. 180 Crores
+- Outstanding:         Rs. 90 Crores
+- Release Clause:      Proportionate release on completion milestones
+
+================================================================================
+                    REGULATORY APPROVALS
+================================================================================
+
+1. COMMENCEMENT CERTIFICATE
+--------------------------------------------------------------------------------
+
+Issued by:             Thane Municipal Corporation (TMC)
+CC Number:             TMC/2020/CC/4567
+Date:                  January 15, 2020
+Sanctioned Plan:       2 towers, G+42 floors, 480 units
+Total FSI:             6,20,000 sq ft (Built-up area)
+Conditions:            42 conditions (All complied)
+
+2. BUILDING PLAN APPROVAL
+--------------------------------------------------------------------------------
+
+Architect:             DEF Architects & Planners
+Structural Engineer:   GHI Consultants
+DCR Compliance:        DCR 2034 (Mumbai Metropolitan Region)
+
+Sanctioned Details:
+- FSI:                 2.5
+- Height:              145 meters
+- Parking:             2 cars per flat (960 total)
+- Amenities:           Clubhouse, gymnasium, swimming pool, garden
+
+3. ENVIRONMENT CLEARANCE
+--------------------------------------------------------------------------------
+
+Required:              Yes (Built-up area >20,000 sq m)
+Issued by:             Maharashtra SEIAA
+EC Number:             SEIAA/MH/2019/EC/098
+Date:                  September 10, 2019
+Validity:              Valid for life of project
+Conditions:            28 conditions (EMP, waste management, water conservation)
+Compliance:            Half-yearly reports submitted (All current)
+
+4. MPCB CONSENT
+--------------------------------------------------------------------------------
+
+Consent to Establish:  MPCB/RO-TH/CE/2020/789
+Consent to Operate:    Applied (on construction completion)
+Valid till:            December 31, 2026
+Conditions:            Dust suppression, noise control, waste segregation
+Status:                Compliant
+
+5. OTHER APPROVALS
+--------------------------------------------------------------------------------
+
+Tree Cutting Permission:
+- Trees on site:       18
+- Permission:          Tree Authority, TMC
+- Compensatory:        180 trees planted (10:1 ratio)
+- Certificate:         On record
+
+Fire NOC:
+- Design approval:     Obtained from Chief Fire Officer, Thane
+- Fire safety plan:    Approved
+- Systems:             As per National Building Code
+- Final NOC:           On completion (Standard practice)
+
+================================================================================
+                    RERA COMPLIANCE
+================================================================================
+
+1. RERA REGISTRATION
+--------------------------------------------------------------------------------
+
+Registration No.:      P51700023456
+Registered on:         March 20, 2020 (Within 3 months of CC)
+Validity:              Till December 31, 2026
+Status:                Active
+Extension:             Application filed for extension
+
+2. RERA ESCROW ACCOUNT
+--------------------------------------------------------------------------------
+
+Bank:                  ICICI Bank, Thane Branch
+Account Type:          RERA Escrow (Ring-fenced)
+Mandate:               70% of customer receipts
+
+Financial Summary:
+- Total Customer Receipts:     Rs. 285 Crores
+- Amount in Escrow (70%):      Rs. 200 Crores
+- Utilized for Construction:   Rs. 118 Crores
+- Current Balance:             Rs. 82 Crores
+
+Compliance:            YES (Always maintained >70% threshold)
+CA Certification:      Quarterly certificates filed with RERA
+
+3. QUARTERLY RETURNS
+--------------------------------------------------------------------------------
+
+Total Filings:         22 quarterly returns (Q2 2020 to Q3 2025)
+Details Filed:         Construction progress, fund utilization, unsold inventory
+Status:                All returns filed on time
+
+4. CUSTOMER COMPLAINTS
+--------------------------------------------------------------------------------
+
+Total Complaints:      8 (Filed with MahaRERA)
+Nature:
+- 5 related to delay in possession
+- 2 related to changes in common amenities
+- 1 related to structural quality
+
+Status:
+- 5 under process (compensation being calculated)
+- 2 resolved through mediation
+- 1 resolved (Engineer certificate provided)
+
+Refund Requests:       12 customers over 5 years
+                       All refunds processed within 45 days
+                       Total refunds: Rs. 4.2 Crores
+                       Units re-sold
+
+================================================================================
+                    CONSTRUCTION STATUS
+================================================================================
+
+As of October 31, 2025
+
+1. OVERALL COMPLETION: 65%
+
+2. TOWER-WISE PROGRESS
+--------------------------------------------------------------------------------
+
+TOWER A:
+- Structural work:     100% (Up to 42nd floor)
+- Plastering:          85%
+- Flooring:            60%
+- Electrical/Plumbing: 70%
+- External facade:     50%
+
+TOWER B:
+- Structural work:     95% (Up to 40th floor, roof slab pending)
+- Plastering:          70%
+- Flooring:            40%
+- Electrical/Plumbing: 60%
+- External facade:     30%
+
+Common Areas:
+- Amenities:           40%
+- Landscaping:         Not started
+
+3. DELAYS & MITIGATION
+--------------------------------------------------------------------------------
+
+Original Completion:   June 2025
+Revised Completion:    December 2026 (18-month delay)
+
+Reasons:
+- COVID-19 lockdowns (2020-21):           8 months
+- Labor shortage post-pandemic:           4 months
+- Supply chain disruptions:               3 months
+- Change in fire safety norms:            3 months
+
+Customer Communication:
+- Email notification sent (June 2023)
+- Revised timeline shared
+- Compensation: Rs. 5 per sq ft per month (RERA mandate)
+- Estimated liability: Rs. 2.8 Crores (Provision made)
+
+4. QUALITY CERTIFICATIONS
+--------------------------------------------------------------------------------
+
+- Structural Audit:    IIT Bombay (No defects found)
+- Concrete Testing:    NABL-accredited lab (Every pour tested)
+- IS Codes:            Full compliance
+
+================================================================================
+                    CONSTRUCTION CONTRACTS
+================================================================================
+
+1. MAIN CONTRACTOR
+--------------------------------------------------------------------------------
+
+Contractor:            Skyline Constructions LLP (Group company)
+Contract Type:         Lump-sum turnkey
+Contract Value:        Rs. 280 Crores
+Work Order Date:       February 2020
+Current Billing:       Rs. 182 Crores (65% as per progress)
+Performance BG:        Rs. 14 Crores (5% of contract value)
+
+2. SUB-CONTRACTORS
+--------------------------------------------------------------------------------
+
+Structural Work:       ABC Builders - Rs. 120 Cr (100% complete)
+MEP Works:             DEF Engineers - Rs. 45 Cr (65% complete)
+Facade:                GHI Facades - Rs. 35 Cr (45% complete)
+Elevators:             Otis India - Rs. 12 Cr (Equipment ordered)
+Architect:             DEF Architects - Rs. 8 Cr billed
+PMC:                   JKL Consultants - Rs. 5 Cr total fee
+
+================================================================================
+                    SALES & BOOKINGS
+================================================================================
+
+1. BOOKING STATUS (October 31, 2025)
+--------------------------------------------------------------------------------
+
+Total Units:           480
+Sold & Registered:     320 units (67%)
+Booked (ATS signed):   40 units (8%)
+Under Negotiation:     25 units (5%)
+Unsold:                95 units (20%)
+
+2. REVENUE & RECEIVABLES
+--------------------------------------------------------------------------------
+
+Total Sellable Value:  Rs. 432 Crores
+Sold Inventory Value:  Rs. 290 Crores (67%)
+Customer Receipts:     Rs. 285 Crores (98% of sold value)
+Receivables:           Rs. 5 Crores (Balance on possession)
+Unsold Inventory:      Rs. 95 Crores (At current prices)
+
+3. PAYMENT SCHEDULE
+--------------------------------------------------------------------------------
+
+20% on booking
+60% in construction-linked installments (8 milestones)
+20% on possession/registry
+
+4. HOME LOAN APPROVALS
+--------------------------------------------------------------------------------
+
+Project approved by:   15+ banks & HFCs
+Tripartite agreements: HDFC, ICICI, SBI, LIC Housing, etc.
+Customers with loans:  285 (89% of sold units)
+Average LTV:           75%
+
+================================================================================
+                    PROJECT FINANCING
+================================================================================
+
+1. HDFC BANK TERM LOAN
+--------------------------------------------------------------------------------
+
+Sanctioned Amount:     Rs. 180 Crores
+Disbursed:             Rs. 90 Crores (50%)
+Outstanding:           Rs. 90 Crores
+Interest Rate:         11.5% p.a. (Floating, MCLR-linked)
+Tenure:                5 years from full disbursement
+
+Security:
+- First charge on project land (Registered mortgage)
+- Hypothecation of receivables & unsold inventory
+- Personal guarantee of promoter directors
+- Pledge of 51% shares of the company
+
+Covenants:
+- Minimum sales achievement:   Complied
+- DSCR >1.3x:                 Currently at 1.5x
+- Debt-to-equity <2.5x:       Currently at 2.1x
+- 70% in RERA escrow:         Complied
+
+Status:                No default, all interest serviced on time
+
+2. FUNDING SOURCES SUMMARY
+--------------------------------------------------------------------------------
+
+Customer Advances:     Rs. 285 Crores (68%)
+Term Loan:             Rs. 90 Crores (21%)
+Promoter Equity:       Rs. 45 Crores (11%)
+Total Funding:         Rs. 420 Crores
+
+3. ADDITIONAL REQUIREMENT
+--------------------------------------------------------------------------------
+
+Cost escalation:       Rs. 25 Crores
+Source:                Structured debt + unsold inventory sales
+
+================================================================================
+                    LABOR & STATUTORY COMPLIANCE
+================================================================================
+
+Contract Labor License:    Obtained (600 workers on site)
+PF Registration:          Active (BOCW Act)
+ESI Registration:         Active
+BOCW Welfare Cess:        Paid (1% of construction cost)
+
+Safety Compliance:
+- Full-time Safety Officer appointed
+- PPE provided to all workers
+- No fatal accidents
+- 2 minor injuries (Treated)
+
+================================================================================
+
+Place: Mumbai                                           Sd/-
+Date: November 2025                                Priya Sharma
+                                                Company Secretary
+
+================================================================================

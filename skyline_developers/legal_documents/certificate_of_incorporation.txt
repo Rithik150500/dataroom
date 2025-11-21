@@ -1,17 +1,17 @@
 ================================================================================
                         MINISTRY OF CORPORATE AFFAIRS
                       CERTIFICATE OF INCORPORATION
-                    [Pursuant to Section 7(2) of the Companies Act, 2013]
+                    [Pursuant to Section 7(2) of the Companies Act, 1956]
 ================================================================================
 
-Certificate Number: 305678
-CIN: U45201MH2018PTC305678
+Certificate Number: 228456
+CIN: U45201MH2012PTC228456
 
 --------------------------------------------------------------------------------
 
 I hereby certify that SKYLINE DEVELOPERS PRIVATE LIMITED is incorporated on
-this Twelfth day of June, Two Thousand and Eighteen under the Companies Act,
-2013 (18 of 2013) and that the company is limited by shares.
+this Eighth day of February, Two Thousand and Twelve under the Companies Act,
+1956 (1 of 1956) and that the company is limited by shares.
 
 --------------------------------------------------------------------------------
                               COMPANY DETAILS
@@ -19,7 +19,7 @@ this Twelfth day of June, Two Thousand and Eighteen under the Companies Act,
 
 Company Name:           SKYLINE DEVELOPERS PRIVATE LIMITED
 
-Corporate Identity      U45201MH2018PTC305678
+Corporate Identity      U45201MH2012PTC228456
 Number (CIN):
 
 Company Category:       Company limited by Shares
@@ -30,22 +30,25 @@ Class of Company:       Private
 
 State:                  Maharashtra
 
-Registered Office       12th Floor, Skyline Tower,
-Address:                Bandra Kurla Complex,
-                        Mumbai - 400051
+Registered Office       15th Floor, Skyline Tower,
+Address:                Hiranandani Business Park, Powai,
+                        Mumbai - 400076
                         Maharashtra, India
 
-Email:                  corporate@skylinedevelopers.com
+Email:                  corporate@skylinedevelopers.in
 
 --------------------------------------------------------------------------------
                            AUTHORIZED CAPITAL
 --------------------------------------------------------------------------------
 
-The Nominal/Authorized Share Capital of the Company is Rs. 25,00,00,000/-
-(Rupees Twenty-Five Crores Only) divided into:
+The Nominal/Authorized Share Capital of the Company is Rs. 1,00,00,00,000/-
+(Rupees One Hundred Crores Only) divided into:
 
-25,00,000 (Twenty-Five Lakh) Equity Shares of Rs. 100/- (Rupees One Hundred
-Only) each.
+1,00,00,000 (One Crore) Equity Shares of Rs. 100/- (Rupees One Hundred Only)
+each.
+
+Note: Authorized capital increased from Rs. 10 Crores to Rs. 100 Crores vide
+Special Resolution dated March 15, 2018.
 
 --------------------------------------------------------------------------------
                          FIRST SUBSCRIBERS
@@ -54,22 +57,22 @@ Only) each.
 Sl.   Name                        Shares      DIN/PAN
 No.                               Subscribed
 
-1.    Rajesh Kumar Mehta          60,000      07856432
-      S/o Late Shri Mohan Mehta
-      Address: 15, Worli Sea Face,
-      Mumbai - 400018
-
-2.    Priya Sharma                30,000      08123456
-      W/o Shri Vikram Sharma
-      Address: 45, Carter Road,
-      Bandra West, Mumbai - 400050
-
-3.    Amit Deshmukh               10,000      08234567
-      S/o Shri Prakash Deshmukh
-      Address: 23, Nepean Sea Road,
+1.    Suresh Ramesh Mehta         40,000      00123456
+      S/o Shri Ramesh Mehta
+      Address: 25, Pedder Road,
       Mumbai - 400026
 
-      TOTAL                       1,00,000
+2.    Rekha Suresh Mehta          15,000      00234567
+      W/o Shri Suresh Mehta
+      Address: 25, Pedder Road,
+      Mumbai - 400026
+
+3.    Amit Suresh Mehta           15,000      00345678
+      S/o Shri Suresh Mehta
+      Address: 25, Pedder Road,
+      Mumbai - 400026
+
+      TOTAL                       70,000
 
 --------------------------------------------------------------------------------
                            FIRST DIRECTORS
@@ -78,54 +81,37 @@ No.                               Subscribed
 Sl.   Name                    DIN           Designation
 No.
 
-1.    Rajesh Kumar Mehta      07856432      Managing Director
-      Address: 15, Worli Sea Face, Mumbai - 400018
+1.    Suresh Ramesh Mehta     00123456      Managing Director
+      Address: 25, Pedder Road, Mumbai - 400026
       Occupation: Business
 
-2.    Priya Sharma            08123456      Whole-time Director
-      Address: 45, Carter Road, Bandra West, Mumbai - 400050
+2.    Rekha Suresh Mehta      00234567      Director
+      Address: 25, Pedder Road, Mumbai - 400026
       Occupation: Business
 
-3.    Amit Deshmukh           08234567      Director
-      Address: 23, Nepean Sea Road, Mumbai - 400026
-      Occupation: Chartered Accountant
+3.    Amit Suresh Mehta       00345678      Director
+      Address: 25, Pedder Road, Mumbai - 400026
+      Occupation: Business
 
 ================================================================================
 
-Given under my hand at Mumbai this Twelfth day of June, Two Thousand and
-Eighteen.
+Given under my hand at Mumbai this Eighth day of February, Two Thousand and
+Twelve.
 
                                                     Sd/-
                                           Registrar of Companies
                                           Maharashtra, Mumbai
 
 ================================================================================
-                              DIGITAL SIGNATURE
-================================================================================
-
-This certificate has been digitally signed by the Registrar of Companies,
-Maharashtra at Mumbai.
-
-Signature verification details:
-Signature Algorithm: SHA-256
-Certificate Serial: 2018MHROC305678
-
-================================================================================
                            IMPORTANT NOTICE
 ================================================================================
 
 1. This Certificate of Incorporation is conclusive evidence that the company
-   is incorporated under the Companies Act, 2013.
+   is incorporated under the Companies Act.
 
 2. The company shall have perpetual succession and a common seal with power
    to acquire, hold and dispose of property.
 
-3. The company's registered office must be situated in the State of
-   Maharashtra as mentioned in the Memorandum of Association.
-
-4. Any change in company details must be filed with the Registrar of
-   Companies within the prescribed time limits.
-
-5. This document can be verified online at www.mca.gov.in using the CIN.
+3. This document can be verified online at www.mca.gov.in using the CIN.
 
 ================================================================================
