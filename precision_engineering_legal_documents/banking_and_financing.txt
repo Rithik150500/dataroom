@@ -1,0 +1,212 @@
+================================================================================
+                    BANKING AND FINANCING
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28900MH2010PTC123456
+
+================================================================================
+
+                    1. TERM LOAN - ICICI BANK
+
+================================================================================
+
+LOAN DETAILS:
+
+Lender                  : ICICI Bank Limited
+Branch                  : Corporate Banking, Pune
+Loan Agreement Date     : January 15, 2023
+Facility Type           : Term Loan
+Original Amount         : Rs. 50,00,00,000/- (Rs. 50 Crores)
+Outstanding (Oct 2025)  : Rs. 40,00,00,000/- (Rs. 40 Crores)
+Interest Rate           : 9.25% p.a. (Floating, linked to Repo Rate)
+Spread                  : Repo + 2.75%
+Tenure                  : 84 months (7 years)
+Moratorium              : 12 months (availed January 2023 - December 2023)
+Repayment               : Quarterly installments of Rs. 2,00,00,000/-
+First Installment       : January 2024
+Last Installment        : January 2030
+
+Purpose:
+- Equipment Purchase (5-Axis CNC, Forging Press): Rs. 35 Crores
+- Working Capital Margin: Rs. 10 Crores
+- General Corporate Purpose: Rs. 5 Crores
+
+--------------------------------------------------------------------------------
+
+SECURITY:
+
+Primary Security:
+1. Equitable Mortgage of Land & Building
+   - Property: Plot No. A-42, MIDC Chakan, Pune
+   - Area: 25 acres
+   - Deposit of Original Title Deeds with Bank
+   - Registered Mortgage Deed (January 2023)
+
+2. Hypothecation of Plant & Machinery
+   - First charge on all existing and future P&M
+   - Value: Rs. 70 Crores (book value)
+   - Specific charge on new equipment purchased from loan
+
+Collateral Security:
+1. Personal Guarantee of Promoter Directors
+   - Mr. Rajesh Patel (CMD)
+   - Mr. Amit Patel (WTD)
+   - Net Worth: Rs. 25 Crores combined
+
+2. Corporate Guarantee
+   - From Patel Engineering Services Pvt. Ltd. (Group Company)
+
+Charge Registration:
+- ROC Charge ID: 100123456789
+- Date of Creation: January 20, 2023
+- CERSAI Registration: 2023011234567890
+
+--------------------------------------------------------------------------------
+
+FINANCIAL COVENANTS:
+
+Covenant                    | Required | Actual (Mar 25) | Status
+----------------------------+----------+-----------------+---------
+DSCR (Debt Service Cover)   | > 1.50x  | 1.85x          | Compliant
+TOL/TNW                     | < 2.50x  | 1.80x          | Compliant
+Current Ratio               | > 1.25x  | 1.35x          | Compliant
+Interest Coverage Ratio     | > 2.00x  | 2.50x          | Compliant
+
+Other Conditions:
+- No dividend without bank NOC
+- No new term loans without bank NOC
+- Change in management requires intimation
+- Quarterly stock statements mandatory
+
+--------------------------------------------------------------------------------
+
+REPAYMENT STATUS:
+
+All installments paid on time. No delays.
+
+Year    | Principal (Rs. Cr) | Interest (Rs. Cr) | Total (Rs. Cr)
+--------+--------------------+-------------------+-----------------
+2024    | 8.00               | 4.20              | 12.20
+2025    | 8.00               | 3.50              | 11.50 (till Oct)
+Remaining| 24.00              | 4.00 (est.)       | 28.00
+
+================================================================================
+
+                    2. WORKING CAPITAL - HDFC BANK
+
+================================================================================
+
+FACILITY DETAILS:
+
+Lender                  : HDFC Bank Limited
+Branch                  : Commercial Banking, Pune
+Facility Type           : Cash Credit (Hypothecation)
+Sanctioned Limit        : Rs. 25,00,00,000/- (Rs. 25 Crores)
+Current Utilization     : Rs. 21,00,00,000/- (84%)
+Interest Rate           : 10.75% p.a. (linked to MCLR)
+Validity                : Annual renewal (Last renewed: April 2025)
+
+Drawing Power Based on:
+- Stock (Raw Material + WIP + Finished Goods): Margin 25%
+- Book Debts (< 90 days): Margin 25%
+
+Security:
+- First Pari-passu charge on Current Assets
+- Second charge on Fixed Assets (after ICICI Bank)
+- Personal Guarantee of Promoter Directors
+
+Stock Audit:
+- Frequency: Quarterly
+- Last Audit: September 2025 (Clean report)
+
+--------------------------------------------------------------------------------
+
+WORKING CAPITAL CYCLE:
+
+Component               | Days
+------------------------+------
+Inventory Days          | 45
+Debtor Days             | 75
+Creditor Days           | 40
+------------------------+------
+Net Working Capital Days| 80
+
+================================================================================
+
+                    3. BANK GUARANTEES
+
+================================================================================
+
+Bank                | Type          | Amount (Rs. Cr) | Beneficiary      | Validity
+--------------------+---------------+-----------------+------------------+---------
+HDFC Bank           | Performance   | 3.00            | Tata Motors      | Mar 2026
+HDFC Bank           | Performance   | 2.00            | Mahindra         | Jun 2026
+ICICI Bank          | Financial     | 2.00            | Customs Duty     | Perpetual
+--------------------+---------------+-----------------+------------------+---------
+Total BGs           |               | 7.00            |                  |
+
+BG Margin: 10% (Cash margin deposited with banks)
+
+================================================================================
+
+                    4. BANKING RELATIONSHIPS
+
+================================================================================
+
+Bank            | Relationship | Facilities
+----------------+--------------+----------------------------------
+ICICI Bank      | Primary      | Term Loan, BG, Forex
+HDFC Bank       | Primary      | Cash Credit, BG, Current Account
+SBI             | Secondary    | Salary Account, FD
+Axis Bank       | Secondary    | Current Account (Collections)
+
+================================================================================
+
+                    5. CREDIT RATING
+
+================================================================================
+
+Rating Agency           : ICRA Limited
+Rating                  : ICRA BBB+ (Stable)
+Date                    : June 2025
+Outlook                 : Stable
+
+Rationale:
+- Established market position in automotive forging
+- Long-standing relationships with major OEMs
+- Healthy financial profile with improving margins
+- Adequate liquidity position
+
+Constraints:
+- Customer concentration risk
+- Working capital intensive operations
+- Exposure to cyclical automotive industry
+
+================================================================================
+
+                    6. INSURANCE ON FINANCED ASSETS
+
+================================================================================
+
+All assets financed are adequately insured with bank as loss payee/additional
+insured. (See Insurance document for details)
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that all banking facilities are in good standing, covenants
+are complied with, and there are no defaults.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________              ____________________________
+Rajesh Patel                              CFO
+Chairman & Managing Director
+
+Place: Pune
+Date: ____________________________
+
+================================================================================

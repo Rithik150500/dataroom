@@ -1,0 +1,281 @@
+================================================================================
+                    ENVIRONMENTAL COMPLIANCE
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28900MH2010PTC123456
+
+================================================================================
+
+                    1. CONSENT TO ESTABLISH
+
+================================================================================
+
+Consent Number          : MPCB/RO-Pune/CE/2010/1234
+Issued By               : Maharashtra Pollution Control Board (MPCB)
+Issue Date              : March 15, 2010
+Project                 : Setting up Forging & Machining Unit
+Location                : MIDC Chakan, Pune
+Industry Category       : Red (Large)
+
+Clearance Obtained for:
+- Hot forging of ferrous metals (3000 MT/annum)
+- CNC machining operations
+- Heat treatment (induction heating)
+- Surface treatment (shot blasting)
+
+================================================================================
+
+                    2. CONSENT TO OPERATE (Current)
+
+================================================================================
+
+Consent Number          : MPCB/RO-Pune/CTO/2024/5678
+Validity Period         : January 1, 2025 to December 31, 2027 (3 years)
+Category                : Red - Large
+Status                  : COMPLIANT
+
+Conditions: 47 specific conditions regarding air, water, noise, and hazardous
+waste management. Key conditions:
+
+1. Stack emissions to be within prescribed limits
+2. ETP to be operated continuously
+3. Hazardous waste disposal through authorized agency only
+4. Noise levels at boundary within 75 dB(A) day / 70 dB(A) night
+5. Annual Environmental Compliance Report submission
+
+Compliance Reports Submitted:
+- FY 2020-21: Compliant
+- FY 2021-22: Compliant
+- FY 2022-23: Compliant
+- FY 2023-24: Compliant
+- FY 2024-25: Compliant (Submitted October 2025)
+
+Violations: No show-cause notices in last 5 years
+Minor Observation: One observation in 2022 MPCB inspection (corrected within 30 days)
+
+================================================================================
+
+                    3. AIR EMISSION MONITORING
+
+================================================================================
+
+3.1 STACK EMISSIONS
+
+Emission Sources:
+- Induction Furnace Stacks (3 nos.)
+- Shot Blasting Unit Stack
+- DG Set Stack
+
+Monitoring Frequency: Quarterly
+Laboratory: MPCB recognized lab
+
+Results Summary (Latest - September 2025):
+
+Parameter           | Standard    | Observed   | Status
+--------------------+-------------+------------+---------
+Particulate Matter  | 150 mg/Nm³  | 85 mg/Nm³  | Compliant
+SO2                 | 400 mg/Nm³  | 45 mg/Nm³  | Compliant
+NOx                 | 600 mg/Nm³  | 120 mg/Nm³ | Compliant
+
+Pollution Control Equipment:
+- Bag filters on furnace stacks
+- Cyclone separator on shot blasting
+- DG stack with adequate height
+
+3.2 AMBIENT AIR QUALITY
+
+Monitoring: Half-yearly
+Location: 4 points at factory boundary
+
+All parameters (PM10, PM2.5, SO2, NOx) within NAAQS limits
+
+================================================================================
+
+                    4. WATER AND EFFLUENT MANAGEMENT
+
+================================================================================
+
+4.1 WATER CONSUMPTION
+
+Sources:
+- MIDC Industrial Water Supply: 40 KLD
+- Groundwater (Borewell with permission): 10 KLD
+- Total Consumption: 50 KLD
+
+Water Balance:
+- Process Cooling: 25 KLD (recycled)
+- Domestic Use: 10 KLD
+- Gardening/Other: 5 KLD
+- Effluent Generation: 20 KLD
+
+4.2 EFFLUENT TREATMENT PLANT (ETP)
+
+ETP Capacity           : 50 KLD
+Technology             : Physical-Chemical Treatment
+Commissioned           : 2015 (upgraded from original 30 KLD)
+Operator               : Full-time trained operator
+
+Treatment Process:
+1. Oil & Grease Trap
+2. Equalization Tank
+3. Coagulation & Flocculation
+4. Clarifier
+5. Pressure Sand Filter
+6. Activated Carbon Filter
+7. Treated water to MIDC Common ETP
+
+Effluent Monitoring: Monthly by MPCB recognized lab
+
+Results Summary (Latest - October 2025):
+
+Parameter    | Standard    | Observed   | Status
+-------------+-------------+------------+---------
+pH           | 6.5-8.5     | 7.2        | Compliant
+BOD          | 30 mg/L     | 18 mg/L    | Compliant
+COD          | 100 mg/L    | 65 mg/L    | Compliant
+TSS          | 50 mg/L     | 28 mg/L    | Compliant
+Oil & Grease | 10 mg/L     | 4 mg/L     | Compliant
+
+Discharge: To MIDC Common ETP after primary treatment
+Zero Liquid Discharge (ZLD): Target by 2026 as per MPCB directive
+
+================================================================================
+
+                    5. HAZARDOUS WASTE MANAGEMENT
+
+================================================================================
+
+Authorization Number    : MPCB/HW/2024/5678
+Validity               : Until March 31, 2026
+Categories Authorized  : HW-5 (Waste Oil), HW-13 (Metal Sludge)
+
+Annual Generation:
+- Waste Oil (HW-5): ~30 MT/year
+- ETP Sludge (HW-13): ~10 MT/year
+- Used Oil Filters: ~2 MT/year
+- Total: ~45 MT/year
+
+Waste Management:
+- Storage: Designated hazardous waste storage yard with impervious flooring
+- Disposal: Through authorized TSDF (Treatment, Storage, Disposal Facility)
+- TSDF: M/s. Maharashtra Enviro Power Ltd., Ranjangaon
+- Manifest Records: Maintained for last 5 years
+
+Annual Returns:
+- Form 4 filed annually with MPCB
+- All returns current
+
+E-Waste:
+- E-waste from computers/electronics disposed through authorized recycler
+- Records maintained
+
+================================================================================
+
+                    6. NOISE MONITORING
+
+================================================================================
+
+Monitoring Frequency: Half-yearly
+Locations: Factory boundary (4 points) + High noise zones inside
+
+Boundary Noise Levels (Latest - August 2025):
+
+Location        | Day (dB-A) | Night (dB-A) | Standard | Status
+----------------+------------+--------------+----------+---------
+North Boundary  | 68         | 62           | 75/70    | Compliant
+South Boundary  | 70         | 65           | 75/70    | Compliant
+East Boundary   | 65         | 58           | 75/70    | Compliant
+West Boundary   | 72         | 67           | 75/70    | Compliant
+
+Noise Control Measures:
+- Acoustic enclosures on forging presses
+- Silencers on air compressors
+- Green belt along boundary
+- PPE (ear plugs/muffs) in high noise areas
+
+Worker Exposure: Monitored, all within permissible limits
+
+================================================================================
+
+                    7. ENERGY AND SUSTAINABILITY
+
+================================================================================
+
+Energy Audit:
+- Conducted every 3 years by BEE accredited auditor
+- Last Audit: 2024
+- Recommendations implemented: LED lighting, VFDs on motors, power factor improvement
+
+Renewable Energy:
+- Solar Rooftop: 500 KW (Commissioned 2023)
+- Annual Generation: ~7 lakh units
+- Savings: ~Rs. 50 lakhs/year
+
+Carbon Footprint:
+- Baseline assessment done in 2022
+- Reduction target: 10% by 2025
+
+================================================================================
+
+                    8. GROUNDWATER
+
+================================================================================
+
+NOC from Central Ground Water Authority (CGWA):
+- NOC obtained for 10 KLD extraction
+- Annual compliance report submitted
+- Water level monitoring done
+
+Rainwater Harvesting:
+- Rooftop rainwater harvesting system
+- Recharge pits around factory
+- Annual recharge: ~5000 KL
+
+================================================================================
+
+                    9. ENVIRONMENTAL INCIDENTS
+
+================================================================================
+
+Last 5 Years:
+- Show-cause notices: NIL
+- Closure orders: NIL
+- Penalties: NIL
+- Community complaints: NIL
+
+Minor Observations:
+- 2022: Documentation gap in manifest records (Corrected in 30 days)
+
+================================================================================
+
+                    10. FUTURE COMPLIANCE ROADMAP
+
+================================================================================
+
+2025-26:
+- ZLD implementation (Rs. 1.5 Cr investment)
+- Additional solar capacity (200 KW)
+
+2026-27:
+- ETP upgrade for expansion
+- Carbon neutrality roadmap
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that the Company is in compliance with all environmental
+regulations and holds valid Consent to Operate from MPCB.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+Rajesh Patel
+Chairman & Managing Director
+
+Place: Pune
+Date: ____________________________
+
+================================================================================

@@ -1,0 +1,229 @@
+================================================================================
+                    CAPITAL STRUCTURE AND SHAREHOLDING
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28900MH2010PTC123456
+
+================================================================================
+
+                    1. CAPITAL STRUCTURE
+
+================================================================================
+
+AUTHORIZED SHARE CAPITAL:
+
+Rs. 30,00,00,000/- (Rupees Thirty Crores Only)
+Divided into 30,00,000 Equity Shares of Rs. 100/- each
+
+History of Authorized Capital:
+- On Incorporation (2010): Rs. 5 Crores
+- Increased (2015): Rs. 10 Crores
+- Increased (2018): Rs. 20 Crores (for PE investment)
+- Increased (2022): Rs. 30 Crores (for Strategic Investment)
+
+--------------------------------------------------------------------------------
+
+ISSUED, SUBSCRIBED AND PAID-UP SHARE CAPITAL:
+
+Rs. 15,00,00,000/- (Rupees Fifteen Crores Only)
+Divided into 15,00,000 Equity Shares of Rs. 100/- each fully paid-up
+
+================================================================================
+
+                    2. SHAREHOLDING PATTERN
+
+================================================================================
+
+Category                          | Shares    | Percentage | Investment
+----------------------------------+-----------+------------+-------------
+PROMOTER GROUP (Patel Family)     |           |            |
+  - Rajesh Patel (CMD)            | 4,50,000  | 30.00%     | Original
+  - Amit Patel (WTD)              | 3,00,000  | 20.00%     | Original
+  - Sunita Patel (Director)       | 1,50,000  | 10.00%     | Original
+  - Patel Family Trust            | 75,000    | 5.00%      | Original
+  Subtotal - Promoters            | 9,75,000  | 65.00%     |
+----------------------------------+-----------+------------+-------------
+PRIVATE EQUITY                    |           |            |
+  - IndoGrowth Partners Fund II   | 3,75,000  | 25.00%     | June 2018
+  Subtotal - PE                   | 3,75,000  | 25.00%     |
+----------------------------------+-----------+------------+-------------
+EMPLOYEE ESOP TRUST               |           |            |
+  - PEW ESOP Trust                | 75,000    | 5.00%      | 2015-2024
+  Subtotal - ESOP                 | 75,000    | 5.00%      |
+----------------------------------+-----------+------------+-------------
+STRATEGIC INVESTOR                |           |            |
+  - Japanese Auto Parts Co. Ltd.  | 75,000    | 5.00%      | March 2022
+  Subtotal - Strategic            | 75,000    | 5.00%      |
+----------------------------------+-----------+------------+-------------
+GRAND TOTAL                       | 15,00,000 | 100.00%    |
+
+================================================================================
+
+                    3. INVESTMENT HISTORY
+
+================================================================================
+
+3.1 INDOGROWTH PARTNERS INVESTMENT (2018)
+
+Investment Date         : June 15, 2018
+Amount Invested         : Rs. 18,75,00,000/- (Rs. 18.75 Crores)
+Shares Allotted         : 3,75,000 Equity Shares
+Price per Share         : Rs. 500/-
+Pre-money Valuation     : Rs. 56.25 Crores
+Post-money Valuation    : Rs. 75 Crores
+
+Investment Documents:
+- Share Subscription Agreement dated June 10, 2018
+- Shareholders Agreement dated June 10, 2018
+- Promoter Share Pledge Agreement
+- Non-Compete Agreement with Promoters
+
+Key Rights:
+- Board Seat (1 Nominee Director)
+- Affirmative Voting Rights on Reserved Matters
+- Anti-Dilution Protection (Weighted Average)
+- Information Rights (Monthly MIS, Quarterly Financials)
+- Tag-Along and Drag-Along Rights
+- Liquidation Preference (1x Non-participating)
+- Exit Rights after 5 years (Put Option at 15% IRR)
+
+--------------------------------------------------------------------------------
+
+3.2 JAPANESE AUTO PARTS CO. INVESTMENT (2022)
+
+Investment Date         : March 25, 2022
+Amount Invested         : Rs. 7,50,00,000/- (Rs. 7.5 Crores)
+Shares Allotted         : 75,000 Equity Shares
+Price per Share         : Rs. 1,000/-
+Pre-money Valuation     : Rs. 142.5 Crores
+Post-money Valuation    : Rs. 150 Crores
+
+Investment Documents:
+- Share Subscription and Purchase Agreement dated March 20, 2022
+- Amended & Restated Shareholders Agreement dated March 20, 2022
+- Technology License Agreement
+- Supply Agreement (Japan market)
+
+Key Rights:
+- Board Seat (1 Nominee Director)
+- Technology Transfer Rights
+- Right of First Offer for Japan exports
+- Co-Investment Rights
+- Limited Affirmative Voting Rights
+
+================================================================================
+
+                    4. ESOP SCHEME
+
+================================================================================
+
+PEW Employee Stock Option Plan 2015
+
+Total Pool               : 1,50,000 shares (10% of original capital)
+Granted                  : 1,00,000 options
+Exercised                : 75,000 shares
+Available for Grant      : 50,000 options
+In-the-money Options     : 25,000 (unvested)
+
+Exercise Price           : Rs. 100/- to Rs. 300/- (based on grant date)
+Vesting Schedule         : 4-year vesting with 1-year cliff
+Current Market Value     : Rs. 1,000/- per share (based on last transaction)
+
+Key Employees with ESOP:
+- CFO: 10,000 shares
+- VP Operations: 8,000 shares
+- Plant Head: 7,000 shares
+- Sr. Engineers (10): 50,000 shares collectively
+
+================================================================================
+
+                    5. SHARE TRANSFER RESTRICTIONS
+
+================================================================================
+
+As per Shareholders Agreement:
+
+5.1 Promoter Lock-in
+    - 100% promoter shares locked until IndoGrowth exit
+    - Exception: Inter-family transfers
+
+5.2 Right of First Refusal (ROFR)
+    - All shareholders have ROFR on any proposed transfer
+    - 30-day notice period
+    - Price at Fair Market Value by independent valuer
+
+5.3 Tag-Along Rights
+    - Minority shareholders can tag along on promoter sale
+    - Pro-rata participation
+
+5.4 Drag-Along Rights
+    - 75% shareholders can drag remaining shareholders
+    - Only on full company sale
+    - Floor price: Higher of (i) 20x TTM PAT or (ii) 2x invested capital
+
+5.5 Pre-emptive Rights
+    - All shareholders have pro-rata right on new issuances
+    - 15-day exercise period
+
+================================================================================
+
+                    6. VALUATION HISTORY
+
+================================================================================
+
+Date        | Event                    | Valuation    | Basis
+------------+--------------------------+--------------+------------------
+Apr 2010    | Incorporation            | Rs. 1 Cr     | Paid-up Capital
+Jun 2018    | IndoGrowth Investment    | Rs. 75 Cr    | Negotiated
+Mar 2022    | Japanese Auto Investment | Rs. 150 Cr   | Negotiated
+Mar 2025    | Annual Valuation         | Rs. 200 Cr   | DCF by Valuer
+
+================================================================================
+
+                    7. DIVIDEND HISTORY
+
+================================================================================
+
+Year        | Dividend     | Payout    | Total Amount
+            | per Share    | Ratio     | (Rs. Lakhs)
+------------+--------------+-----------+-------------
+FY 2019-20  | Rs. 5        | 15%       | 75
+FY 2020-21  | Nil          | -         | - (COVID)
+FY 2021-22  | Rs. 8        | 18%       | 120
+FY 2022-23  | Rs. 10       | 20%       | 150
+FY 2023-24  | Rs. 12       | 22%       | 180
+FY 2024-25  | Rs. 15 (Prop)| 25%       | 225 (Proposed)
+
+================================================================================
+
+                    8. CAP TABLE DOCUMENTS
+
+================================================================================
+
+Maintained Documents:
+- Register of Members (Form MGT-1)
+- Register of Share Transfers
+- Share Certificates (Original issue + Transfers)
+- Share Transfer Deeds
+- Beneficial Ownership Register (Form BEN-1)
+- Shareholder Agreements (Original + Amendments)
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that the above shareholding information is accurate as per
+the Register of Members maintained by the Company.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________              ____________________________
+Rajesh Patel                              Company Secretary
+Chairman & Managing Director
+
+Place: Pune
+Date: ____________________________
+
+================================================================================
