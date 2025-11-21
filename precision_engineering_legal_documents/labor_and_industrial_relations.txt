@@ -1,0 +1,284 @@
+================================================================================
+                    LABOR AND INDUSTRIAL RELATIONS
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28900MH2010PTC123456
+
+================================================================================
+
+                    1. EMPLOYEE STRENGTH
+
+================================================================================
+
+PERMANENT EMPLOYEES: 485
+
+Department              | Male  | Female | Total
+------------------------+-------+--------+------
+Shop Floor Workers      | 310   | 10     | 320
+Skilled Technicians     | 80    | 5      | 85
+Engineers & Supervisors | 40    | 5      | 45
+Management Staff        | 30    | 5      | 35
+------------------------+-------+--------+------
+Total                   | 460   | 25     | 485
+
+CONTRACT WORKERS: 120 (Through 3 licensed contractors)
+
+Total Workforce: 605
+
+================================================================================
+
+                    2. STATUTORY REGISTRATIONS
+
+================================================================================
+
+2.1 PROVIDENT FUND
+
+Establishment Code      : MH/12345/000456
+Registered Under        : Employees' Provident Funds Act, 1952
+Monthly ECR Filing      : All current (last 60 months filed on time)
+Pending Dues            : NIL
+Contribution Rate       : 12% Employee + 12% Employer
+
+2.2 ESI (EMPLOYEES STATE INSURANCE)
+
+Registration Number     : 12345678901234567
+Registered Under        : ESI Act, 1948
+Monthly Challan         : All current
+Dispensary Tie-up       : Chakan PHC and Sassoon Hospital, Pune
+Contribution            : 3.25% Employer + 0.75% Employee
+
+2.3 PROFESSIONAL TAX
+
+Registration            : Maharashtra Professional Tax
+Returns                 : Monthly returns filed on time
+Rate                    : As per Maharashtra slab
+
+2.4 LABOUR WELFARE FUND
+
+Registration            : Maharashtra Labour Welfare Fund
+Contributions           : Current
+
+================================================================================
+
+                    3. CONTRACT LABOR COMPLIANCE
+
+================================================================================
+
+Principal Employer Registration:
+- Registration No.: MH/PUN/PER/123/2010
+- Under: Contract Labour (Regulation & Abolition) Act, 1970
+- Valid: Perpetual (renewed 2023)
+
+Licensed Contractors:
+
+Contractor              | License No.      | Workers | Activity
+------------------------+------------------+---------+-----------------
+M/s. Sharma Manpower    | MH/PUN/C/456    | 50      | Material handling
+M/s. Quick Staff        | MH/PUN/C/789    | 45      | Housekeeping/Helper
+M/s. Tech Support       | MH/PUN/C/234    | 25      | Machine operators
+
+Compliance:
+[X] All contractor licenses valid and current
+[X] Wage registers maintained by contractors (inspected monthly)
+[X] Equal wages ensured as per Contract Labour Rules
+[X] PF/ESI compliance by contractors verified
+[X] Form XVI (Half-yearly returns) - All filed
+[X] Canteen, restrooms, drinking water facilities provided
+[X] No violations recorded
+
+================================================================================
+
+                    4. WAGES AND PAYMENT COMPLIANCE
+
+================================================================================
+
+4.1 MINIMUM WAGES
+
+Compliance              : Wages paid above Maharashtra state minimum wages
+Category                : Skilled Engineering Workers
+Current Wage Range      : Rs. 18,000 - Rs. 65,000 per month (plus allowances)
+Average Wage            : Rs. 32,000 per month
+
+4.2 PAYMENT OF WAGES ACT
+
+Payment Date            : By 7th of every month
+Mode                    : 100% Bank Transfer (cashless)
+Wage Slips              : Issued monthly to all employees
+Complaints/Disputes     : NIL
+
+4.3 BONUS
+
+Applicability           : Payment of Bonus Act, 1965
+Bonus Range             : 8.33% to 20% of salary
+Last Payout (FY 24-25)  : 20% (Maximum)
+Records                 : Maintained for 5 years
+
+4.4 GRATUITY
+
+Applicability           : Payment of Gratuity Act, 1972
+Eligible Employees      : 48 (5+ years of service)
+Total Gratuity Liability: Rs. 2.80 Crores (Actuarially valued, March 2025)
+Funding Status          : 80% funded (Rs. 2.24 Cr set aside in trust)
+
+================================================================================
+
+                    5. INDUSTRIAL RELATIONS
+
+================================================================================
+
+5.1 TRADE UNION
+
+Union Name              : Precision Workers Union
+Registration            : Registered under Trade Unions Act, 1926
+Recognition             : Recognized under Maharashtra Recognition of Trade
+                         Unions & Prevention of Unfair Labour Practices Act
+Membership              : 180 members (~37% of shop floor workers)
+Affiliation             : Independent (not affiliated to any central union)
+
+Union Office Bearers:
+- President: Mr. Ramesh Gaikwad (CNC Operator)
+- Secretary: Mr. Sunil Patil (Forging Operator)
+- Treasurer: Mr. Vijay Shinde (Machinist)
+
+5.2 COLLECTIVE BARGAINING AGREEMENT (CBA)
+
+Last CBA Signed         : January 1, 2023
+Validity                : 3 years (till December 31, 2025)
+Parties                 : Management and Precision Workers Union
+
+Key Terms:
+- Wage Increase: 8% average (Year 1: 3%, Year 2: 2.5%, Year 3: 2.5%)
+- DA Revision: Linked to CPI (every 6 months)
+- Medical Benefits: Enhanced coverage to Rs. 5 lakhs per family
+- Skill Upgradation: Rs. 50 lakhs annual budget for training
+- Leave Enhancement: 2 additional earned leave days
+- Safety Bonus: Rs. 2,000 per quarter for zero-accident shifts
+
+5.3 STRIKES AND DISPUTES
+
+Last Strike             : April 2019 (3-day tool-down strike)
+Cause                   : Wage revision demand
+Resolution              : Conciliation before Labour Commissioner, Pune
+Settlement              : Agreement signed May 2019
+Status since 2019       : No strikes, peaceful industrial relations
+
+Pending Labour Disputes : 1 (See Litigation section)
+
+5.4 GRIEVANCE REDRESSAL
+
+Mechanism               : 3-tier system (Supervisor -> HR -> Committee)
+Grievance Register      : Maintained
+FY 2024-25 Grievances   : 12 (All resolved within 30 days)
+
+================================================================================
+
+                    6. SAFETY AND HEALTH
+
+================================================================================
+
+6.1 SAFETY POLICY
+
+Written Safety Policy   : Notified and displayed
+Safety Officer          : Mr. A.S. Kulkarni (Diploma in Industrial Safety)
+Safety Budget           : Rs. 25 lakhs per annum
+
+6.2 PPE (Personal Protective Equipment)
+
+Mandatory PPE by Area:
+- Forging: Heat-resistant gloves, face shield, safety shoes, ear muffs
+- Machining: Safety glasses, gloves, safety shoes
+- All areas: Helmet in material movement zones
+
+PPE Compliance          : 100% (Daily monitoring)
+PPE Replacement         : As per schedule and wear-and-tear
+
+6.3 OCCUPATIONAL HEALTH
+
+Pre-employment Checkup  : Mandatory for all
+Periodic Checkup        : Annual for all, half-yearly for hazardous zones
+Occupational Health Center: On-site with full-time nurse
+Doctor Visit            : Twice weekly
+Hospital Tie-up         : Ruby Hall Clinic, Pune (for emergencies)
+
+Special Monitoring:
+- Noise-induced hearing loss: Audiometry for forging/machining workers
+- Heat stress: For forging area workers
+- Ergonomics: For repetitive motion jobs
+
+6.4 ACCIDENT RECORD
+
+Last 5 Years Summary:
+- Total Accidents: 15 (All minor - First aid/medical treatment cases)
+- Lost Time Injuries: 8
+- Fatal Accidents: NIL
+- LTIFR: 1.2 (Industry benchmark: 2.5)
+
+All accidents investigated, root cause analysis done, corrective actions
+implemented, and reports filed with Factory Inspector.
+
+================================================================================
+
+                    7. POSH COMPLIANCE
+
+================================================================================
+
+Internal Complaints Committee (ICC):
+- Presiding Officer: Ms. Sunita Patel (Director)
+- Members: 2 Employee Representatives (1 female)
+- External Member: NGO Representative (Sakhi Women's Organization)
+
+Compliance:
+[X] ICC constituted as per Sexual Harassment of Women at Workplace Act, 2013
+[X] Quarterly ICC meetings held
+[X] Annual report filed with District Officer
+[X] Awareness training conducted annually
+[X] Policy displayed at prominent locations
+
+Complaints in last 3 years: NIL
+
+================================================================================
+
+                    8. APPRENTICESHIP
+
+================================================================================
+
+Registration under Apprentices Act, 1961
+Current Apprentices     : 45
+Trades                  : Fitter, Turner, Machinist, Welder
+Stipend                 : As per government norms
+NATS Portal             : All contracts registered
+
+================================================================================
+
+                    9. HR POLICIES
+
+================================================================================
+
+[X] Employee Handbook (Last updated: January 2024)
+[X] Leave Policy
+[X] Code of Conduct
+[X] Anti-Sexual Harassment Policy
+[X] Disciplinary Policy
+[X] IT and Data Security Policy
+[X] Whistleblower Policy
+[X] Travel and Expense Policy
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that the Company is in compliance with all applicable labor
+laws and maintains harmonious industrial relations.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________              ____________________________
+Rajesh Patel                              HR Head
+Chairman & Managing Director
+
+Place: Pune
+Date: ____________________________
+
+================================================================================

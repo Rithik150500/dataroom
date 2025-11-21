@@ -1,0 +1,284 @@
+================================================================================
+                    LAND, BUILDING AND FIXED ASSETS
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28900MH2010PTC123456
+
+================================================================================
+
+                    1. MAIN FACTORY - CHAKAN, PUNE
+
+================================================================================
+
+1.1 LAND DETAILS
+
+Location                : Plot No. A-42, MIDC Industrial Area, Chakan
+District                : Pune
+State                   : Maharashtra
+Total Land Area         : 25 Acres (10.12 Hectares / 1,01,171 sq. meters)
+Built-up Area           : 85,000 sq. ft. (7,897 sq. meters)
+
+Acquisition Details:
+- Source: Maharashtra Industrial Development Corporation (MIDC)
+- Date of Allotment: February 20, 2010
+- Date of Sale Deed: May 15, 2010
+- Registration: Sub-Registrar Khed, Pune
+- Document No.: 2345/2010
+- Purchase Price: Rs. 6,00,00,000/- (Rs. 6 Crores)
+- Stamp Duty Paid: Rs. 36,00,000/-
+- Registration Fees: Rs. 1,80,000/-
+
+--------------------------------------------------------------------------------
+
+1.2 TITLE DOCUMENTS
+
+[X] Registered Sale Deed (May 15, 2010)
+[X] Original MIDC Allotment Letter (February 20, 2010)
+[X] Conveyance Deed from MIDC
+[X] 7/12 Extract (Current - Shows company as owner)
+[X] Property Card / City Survey Extract
+[X] Encumbrance Certificate (13 years - Clear except mortgage)
+    - Mortgage in favor of ICICI Bank (January 2023)
+[X] Mutation Entry in Revenue Records
+[X] NA (Non-Agricultural) Permission
+[X] Property Tax Receipts (All years current till 2025)
+[X] Land Use Certificate from MIDC
+
+--------------------------------------------------------------------------------
+
+1.3 BUILDING DETAILS
+
+Factory Building:
+- Construction Year: 2010
+- Structure: Pre-Engineered Building (PEB)
+- Total Covered Area: 65,000 sq. ft.
+- Height: 12 meters (Clear height for EOT cranes)
+- Flooring: 200mm thick RCC with epoxy coating
+- Builder: M/s. Tata BlueScope Steel
+
+Office Block:
+- Construction Year: 2010
+- Structure: RCC Frame
+- Area: 10,000 sq. ft. (G+2 floors)
+- Ground Floor: Reception, Canteen, Security
+- First Floor: Management Offices, Conference Rooms
+- Second Floor: Engineering, Quality Lab
+
+Utility Buildings:
+- Area: 10,000 sq. ft.
+- Includes: DG Room, Compressor Room, ETP, Water Treatment Plant
+
+Building Approvals:
+[X] Building Plan Approval - Pune Municipal Corporation (2010)
+[X] Commencement Certificate
+[X] Occupation Certificate (November 2010)
+[X] Structural Stability Certificate (Valid till 2027)
+[X] Fire NOC (Renewed annually - Current till Dec 2025)
+[X] Electrical Safety Certificate
+
+--------------------------------------------------------------------------------
+
+1.4 ENCUMBRANCES
+
+ICICI Bank Mortgage (January 2023):
+- Loan Amount: Rs. 50 Crores (Outstanding: Rs. 40 Crores)
+- Security: Equitable Mortgage on Land & Building
+- Deposit of Title Deeds with Bank
+- Registered Mortgage Deed
+- Charge ID (ROC): 100123456789
+- CERSAI Registration: 2023011234567890
+
+================================================================================
+
+                    2. EXPANSION PLOT (UNDER ACQUISITION)
+
+================================================================================
+
+Location                : Adjacent to Main Factory, MIDC Chakan
+Area                    : 10 Acres (4.05 Hectares)
+Acquisition Status      : In Progress
+
+Timeline:
+- Application to MIDC: June 2024
+- Site Inspection: August 2024
+- Booking Letter Received: October 2024
+- Advance Paid: Rs. 2,50,00,000/- (30% of total cost)
+- Allotment Letter Expected: Q1 2026
+- Possession Expected: Q2 2026
+
+Total Cost Estimate: Rs. 8,50,00,000/-
+
+Purpose: Installation of new 4000T Forging Press and expansion of machining capacity
+
+================================================================================
+
+                    3. PLANT & MACHINERY
+
+================================================================================
+
+3.1 FORGING DIVISION
+
+Equipment                          | Make      | Capacity | Year | Book Value
+-----------------------------------+-----------+----------+------+------------
+Hydraulic Forging Press #1         | Schuler   | 3000 T   | 2010 | 4,50,00,000
+Hydraulic Forging Press #2         | Schuler   | 2500 T   | 2010 | 3,80,00,000
+Hydraulic Forging Press #3         | Komatsu   | 2000 T   | 2012 | 3,20,00,000
+Hydraulic Forging Press #4         | Komatsu   | 1500 T   | 2015 | 2,80,00,000
+Hydraulic Forging Press #5         | Chinese   | 1000 T   | 2018 | 1,50,00,000
+Hydraulic Forging Press #6         | Chinese   | 1000 T   | 2020 | 1,80,00,000
+Induction Heating Furnace #1       | Inducto   | 500 kg/hr| 2010 | 85,00,000
+Induction Heating Furnace #2       | Inducto   | 500 kg/hr| 2015 | 95,00,000
+Induction Heating Furnace #3       | IGBT Type | 300 kg/hr| 2022 | 1,20,00,000
+Trimming Press (3 units)           | Various   | 200-400T | 2010-20| 1,40,00,000
+Die Heaters (6 units)              | Various   | -        | -    | 30,00,000
+-----------------------------------+-----------+----------+------+------------
+Subtotal - Forging                 |           |          |      | 22,30,00,000
+
+Import Documentation:
+- Import Licenses (for German & Japanese equipment)
+- Bills of Entry and Customs Duty Payment Receipts
+- Installation & Commissioning Certificates
+- OEM Warranty Certificates
+
+--------------------------------------------------------------------------------
+
+3.2 MACHINING DIVISION
+
+Equipment                          | Make      | Capacity | Year | Book Value
+-----------------------------------+-----------+----------+------+------------
+CNC Turning Center (8 units)       | Mazak     | Various  | 2015-22| 8,50,00,000
+CNC Turning Center (7 units)       | ACE       | Various  | 2018-24| 5,60,00,000
+VMC 3-Axis (5 units)               | BFW       | 800x500  | 2016-20| 3,50,00,000
+VMC 4-Axis (3 units)               | Makino    | 1000x600 | 2020-23| 4,20,00,000
+Surface Grinder (4 units)          | Praga     | Various  | 2012-20| 1,80,00,000
+Cylindrical Grinder (3 units)      | HMT       | Various  | 2015-22| 1,60,00,000
+Thread Rolling Machine (2 units)   | Fette     | M6-M24   | 2018   | 80,00,000
+Honing Machine (1 unit)            | Gehring   | -        | 2021   | 1,20,00,000
+-----------------------------------+-----------+----------+------+------------
+Subtotal - Machining               |           |          |      | 27,20,00,000
+
+--------------------------------------------------------------------------------
+
+3.3 QUALITY CONTROL LAB
+
+Equipment                          | Make      | Year     | Book Value
+-----------------------------------+-----------+----------+------------
+Coordinate Measuring Machine (CMM) | Zeiss     | 2018     | 85,00,000
+Optical Emission Spectrometer      | Bruker    | 2015     | 45,00,000
+Universal Hardness Tester          | Instron   | 2012     | 12,00,000
+Surface Roughness Tester           | Mitutoyo  | 2018     | 8,00,000
+Magnetic Particle Inspection       | Magnaflux | 2015     | 15,00,000
+Ultrasonic Testing Equipment       | Olympus   | 2020     | 22,00,000
+Profile Projector                  | Nikon     | 2016     | 18,00,000
+Various Gauges & Instruments       | Various   | Various  | 35,00,000
+-----------------------------------+-----------+----------+------------
+Subtotal - Quality Lab             |           |          | 2,40,00,000
+
+--------------------------------------------------------------------------------
+
+3.4 MATERIAL HANDLING & UTILITIES
+
+Equipment                          | Capacity  | Year     | Book Value
+-----------------------------------+-----------+----------+------------
+EOT Crane #1                       | 20 T      | 2010     | 45,00,000
+EOT Crane #2                       | 15 T      | 2010     | 38,00,000
+EOT Crane #3                       | 10 T      | 2015     | 28,00,000
+Forklift Fleet (8 units)           | 2-5 T     | 2015-23  | 65,00,000
+DG Set (1000 KVA)                  | Cummins   | 2018     | 85,00,000
+Air Compressor (3 units)           | 500 CFM   | 2010-20  | 55,00,000
+Cooling Tower (2 units)            | 500 TR    | 2010-18  | 35,00,000
+Water Treatment Plant              | 50 KLD    | 2010     | 25,00,000
+Effluent Treatment Plant           | 50 KLD    | 2015     | 45,00,000
+Fire Fighting System               | -         | 2010     | 35,00,000
+-----------------------------------+-----------+----------+------------
+Subtotal - Utilities               |           |          | 4,56,00,000
+
+--------------------------------------------------------------------------------
+
+3.5 OTHER ASSETS
+
+Furniture, Fixtures & Computers    |           |          | 3,00,00,000
+Vehicles (Company fleet - 8 units) |           |          | 2,00,00,000
+-----------------------------------+-----------+----------+------------
+Subtotal - Others                  |           |          | 5,00,00,000
+
+================================================================================
+
+                    4. FIXED ASSET SUMMARY
+
+================================================================================
+
+Category                    | Gross Block  | Depreciation | Net Block
+                            | (Rs. Cr)     | (Rs. Cr)     | (Rs. Cr)
+----------------------------+--------------+--------------+-----------
+Land & Building             | 18.00        | 3.00         | 15.00
+Plant & Machinery           | 70.00        | 30.00        | 40.00
+  - Forging Equipment       | 28.00        | 13.00        | 15.00
+  - Machining Equipment     | 32.00        | 12.00        | 20.00
+  - Quality Lab             | 3.00         | 1.50         | 1.50
+  - Utilities               | 7.00         | 3.50         | 3.50
+Furniture & Computers       | 3.00         | 2.50         | 0.50
+Vehicles                    | 2.00         | 1.50         | 0.50
+----------------------------+--------------+--------------+-----------
+TOTAL                       | 93.00        | 38.00        | 55.00
+
+Insurance Valuation (2025): Rs. 110 Crores
+
+================================================================================
+
+                    5. CHARGES AND HYPOTHECATION
+
+================================================================================
+
+5.1 ICICI BANK (Term Loan)
+
+Charge Type         : Equitable Mortgage + Hypothecation
+Assets Covered      : Land & Building (100%), Plant & Machinery (Rs. 35 Cr)
+Charge ID           : 100123456789
+CERSAI Reg. No.     : 2023011234567890
+Date Created        : January 15, 2023
+
+5.2 HDFC BANK (Working Capital)
+
+Charge Type         : Hypothecation
+Assets Covered      : Current Assets (Stock & Debtors)
+Charge              : Pari-passu with ICICI Bank on Current Assets
+
+================================================================================
+
+                    6. ASSET MAINTENANCE
+
+================================================================================
+
+Annual Maintenance Contracts (AMCs):
+- Schuler/Komatsu Presses: Comprehensive AMC
+- CNC Machines: AMC with OEM/Authorized Service
+- CMM: Annual Calibration Contract with Zeiss
+- All instruments: Annual Calibration (NABL accredited lab)
+
+Preventive Maintenance Schedule:
+- Daily: Operator level checks
+- Weekly: Lubrication and cleaning
+- Monthly: Detailed inspection
+- Quarterly: Major maintenance
+- Annual: Overhaul as per OEM schedule
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that the above information regarding land, building, and
+fixed assets is accurate as per Company records.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________              ____________________________
+Rajesh Patel                              CFO
+Chairman & Managing Director
+
+Place: Pune
+Date: ____________________________
+
+================================================================================

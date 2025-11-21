@@ -1,0 +1,178 @@
+================================================================================
+                    CUSTOMER CONTRACTS AND QUALITY
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28900MH2010PTC123456
+
+================================================================================
+
+                    1. CUSTOMER BASE OVERVIEW
+
+================================================================================
+
+FY 2024-25 Revenue: Rs. 180 Crores
+
+TOP 5 CUSTOMERS (78% of Revenue):
+
+Customer            | Product               | Revenue   | Share | Payment
+                    |                       | (Rs. Cr)  |       | Terms
+--------------------+-----------------------+-----------+-------+---------
+Tata Motors         | CV Crankshafts        | 62        | 34%   | 60 days
+Mahindra & Mahindra | Tractor Con-Rods      | 40        | 22%   | 90 days
+Maruti Suzuki (T-2) | Forged Components     | 25        | 14%   | 60 days
+Bajaj Auto          | 2W Components         | 15        | 8%    | 45 days
+Hero MotoCorp       | 2W Components         | 12        | 7%    | 45 days
+--------------------+-----------------------+-----------+-------+---------
+Subtotal Top 5      |                       | 154       | 86%   |
+
+Other Customers: Rs. 26 Cr (14%)
+- Export to Southeast Asia
+- Aftermarket sales
+- Tier-2 OEM customers
+
+================================================================================
+
+                    2. LONG TERM SUPPLY AGREEMENTS
+
+================================================================================
+
+2.1 TATA MOTORS LIMITED
+
+Agreement Type      : Long Term Supply Agreement (LTSA)
+Duration            : 3 years (January 2023 - December 2026)
+Annual Value        : Rs. 50-70 Crores (volume-based)
+
+Products:
+- Crankshafts for Commercial Vehicles (LCV, MCV, HCV)
+- Connecting Rods
+
+Key Terms:
+- Annual nomination system (volumes confirmed quarterly)
+- Pricing: Annual negotiation with cost escalation clause
+- Steel price variation: Pass-through mechanism (quarterly)
+- Payment: 60 days from invoice
+- Quality: IATF 16949 mandatory, 0 PPM target
+- Delivery: JIT to Pune/Jamshedpur plants
+- Penalty: 2% per week for delivery delays (max 10%)
+
+--------------------------------------------------------------------------------
+
+2.2 MAHINDRA & MAHINDRA LIMITED
+
+Agreement Type      : Development & Supply Agreement
+Duration            : 5 years (April 2022 - March 2027)
+Annual Value        : Rs. 35-50 Crores
+
+Products:
+- Connecting Rods for Tractors
+- Crankshafts for Farm Equipment
+
+Key Terms:
+- Co-development of new components
+- Exclusivity for specific part numbers
+- Payment: 90 days from invoice
+- Quality: IATF 16949 mandatory
+- Annual productivity improvement: 2%
+- Localization support for new models
+
+================================================================================
+
+                    3. DEVELOPMENT AGREEMENTS
+
+================================================================================
+
+Active Development Project:
+
+Project             : Next-gen CV Crankshaft
+Customer            : Tata Motors
+Start Date          : April 2024
+Target SOP          : October 2025
+Development Cost    : Rs. 2.5 Crores (shared 50:50)
+Exclusivity         : 3 years post-commercialization
+Tooling             : Customer-owned (funded by Tata)
+Expected Volume     : 50,000 units/year
+Expected Revenue    : Rs. 20 Crores/year
+
+================================================================================
+
+                    4. QUALITY CERTIFICATIONS
+
+================================================================================
+
+4.1 IATF 16949:2016 (Automotive Quality Management)
+
+Certifying Body     : TUV SUD South Asia
+Certificate No.     : 12345678
+First Certified     : 2012
+Current Validity    : July 2024 - June 2027
+Last Surveillance   : September 2025
+
+Result: No Major NCRs, 3 Minor Observations (closed)
+
+4.2 ISO 14001:2015 (Environmental Management)
+
+Certifying Body     : Bureau Veritas
+Certificate No.     : IN/EMS/12345
+Validity            : April 2023 - March 2026
+
+4.3 ISO 45001:2018 (Occupational Health & Safety)
+
+Certifying Body     : TUV SUD
+Certificate No.     : OHS/12345
+First Certified     : 2023
+Validity            : November 2023 - November 2026
+
+================================================================================
+
+                    5. QUALITY PERFORMANCE (FY 2024-25)
+
+================================================================================
+
+Metric                  | Target    | Actual    | Status
+------------------------+-----------+-----------+---------
+Rejection Rate (PPM)    | <100      | 80        | Achieved
+Customer Complaints     | <10/year  | 4         | Achieved
+On-Time Delivery        | >95%      | 96.2%     | Achieved
+First Time Right        | >98%      | 98.5%     | Achieved
+Supplier Rating (Avg)   | A Grade   | A Grade   | Achieved
+
+Customer-wise Ratings:
+- Tata Motors: A-Grade (Top 20% suppliers)
+- Mahindra: Preferred Supplier Status
+- Bajaj: A-Grade
+- Hero: A-Grade
+
+No recalls or major quality incidents in last 5 years.
+
+================================================================================
+
+                    6. KEY CUSTOMER AWARDS
+
+================================================================================
+
+Year | Customer        | Award
+-----+-----------------+----------------------------------------
+2024 | Tata Motors     | Best Supplier - Quality Excellence
+2023 | Mahindra        | Preferred Supplier Award
+2022 | Bajaj Auto      | Zero Defect Achievement
+2021 | Hero MotoCorp   | Delivery Excellence Award
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that the above customer contracts and quality information
+is accurate.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+Rajesh Patel
+Chairman & Managing Director
+
+Place: Pune
+Date: ____________________________
+
+================================================================================

@@ -1,0 +1,222 @@
+================================================================================
+                    FACTORY LICENSES AND STATUTORY COMPLIANCE
+                              OF
+            PRECISION ENGINEERING WORKS PRIVATE LIMITED
+================================================================================
+
+                         CIN: U28900MH2010PTC123456
+
+================================================================================
+
+                    1. FACTORY LICENSE
+
+================================================================================
+
+License Number          : F-2010/MH/PUNE/12345
+Issuing Authority       : Chief Inspector of Factories, Maharashtra
+First Issued            : October 2010
+Current Validity        : January 2025 to December 2025 (Renewed annually)
+Registered Manager      : Mr. Amit Patel (Whole-time Director)
+
+Activity Covered:
+Manufacturing of ferrous metal components through hot forging and precision
+machining for automotive industry.
+
+Maximum Workers Permitted: 650 (Current strength: 605)
+
+Factory Particulars:
+- Plot Area: 25 acres (1,01,171 sq. meters)
+- Covered Area: 85,000 sq. ft. (7,897 sq. meters)
+- Power Load: 2,500 KVA
+- Working Hours: 3 shifts (24 hours operation)
+
+Documents Maintained:
+[X] Factory License (Original + Renewals)
+[X] Approved Factory Layout Plan
+[X] Fire Safety Plan (Fire Department approved)
+[X] Electrical Safety Plan & Load Sanction (MSEDCL)
+
+================================================================================
+
+                    2. BOILER AND PRESSURE VESSELS
+
+================================================================================
+
+Boiler Registration:
+- Registration No.: MH/PUN/BLR/2012/5678
+- Issuing Authority: Chief Inspector of Boilers, Maharashtra
+- Capacity: 2 TPH Steam Boiler for die heating
+- Fuel: PNG (Piped Natural Gas)
+- Working Pressure: 10.5 kg/cm²
+
+Certificates:
+[X] Boiler Registration Certificate
+[X] Annual Boiler Inspection Report (Last: September 2025 - Passed)
+[X] Chief Boiler Engineer's Certificate
+[X] Competent Person Certificate for Boiler Operator (Mr. R. Jadhav)
+
+Pressure Vessels:
+- 6 Air Receivers (Compressor tanks) - Registered
+- 2 Hydraulic Accumulators - Registered
+- Annual Inspection: Completed September 2025
+
+================================================================================
+
+                    3. WEIGHTS AND MEASURES
+
+================================================================================
+
+Registration under Legal Metrology Act, 2009
+
+Registered Instruments:
+- Platform Scales: 5 units (50 kg to 2000 kg capacity)
+- Electronic Balances: 3 units (for raw material/finished goods)
+- Weighbridge: 1 unit (60 MT capacity)
+
+Calibration Status:
+- Annual calibration by NABL accredited laboratory
+- All certificates current (Last: August 2025)
+- Verification stamps valid
+
+================================================================================
+
+                    4. EXPLOSIVE / GAS STORAGE LICENSE
+
+================================================================================
+
+License for Industrial Gas Storage:
+- License No.: MH/PUN/GAS/2011/789
+- Issuing Authority: Chief Controller of Explosives, Nagpur
+- Gases Covered: Acetylene, Oxygen, Argon, Nitrogen (for welding/cutting)
+- Maximum Storage: As per license terms
+- Safety Compliance: Cylinder storage as per SMPV Rules
+
+Safety Features:
+[X] Separate gas storage yard with fire-proof construction
+[X] Adequate ventilation
+[X] Fire extinguishers and sand buckets
+[X] Warning signage
+[X] Regular safety audits
+
+================================================================================
+
+                    5. MSEDCL POWER CONNECTION
+
+================================================================================
+
+Consumer Number         : 170012345678
+Connected Load          : 2,500 KVA
+Sanctioned Load         : 3,000 KVA
+Category                : HT Industrial
+Voltage                 : 22 KV
+
+Power Infrastructure:
+- 22 KV incoming line from MSEDCL substation
+- 2 x 1500 KVA transformers
+- HT metering with CTPT
+- Power factor maintained >0.95
+
+Captive Power:
+- DG Set: 1000 KVA (Cummins - 2018)
+- For backup during power outages
+- Diesel storage license obtained
+
+================================================================================
+
+                    6. STATUTORY REGISTERS (Factory Act)
+
+================================================================================
+
+Maintained Registers:
+[X] Register of Adult Workers (Form 1)
+[X] Muster Roll
+[X] Wage Register
+[X] Overtime Register
+[X] Leave with Wages Register
+[X] Register of Deductions and Fines
+[X] Accident Register
+[X] Register of Compensatory Holidays
+[X] Health Register (for workers in hazardous processes)
+
+Accident Record (Last 5 years):
+- Total Reportable Accidents: 15 (All minor injuries)
+- Fatal Accidents: NIL
+- Lost Time Injury Frequency Rate (LTIFR): 1.2 (Industry average: 2.5)
+- All accidents investigated and reported to Factory Inspector
+
+================================================================================
+
+                    7. CERTIFIED STANDING ORDERS
+
+================================================================================
+
+Certified Standing Orders under Industrial Employment (Standing Orders) Act, 1946
+
+Certification Date      : 2011
+Amendment Date          : 2019
+Certifying Authority    : Labour Commissioner, Pune
+
+Coverage:
+- Classification of workmen
+- Shift working and weekly holidays
+- Attendance and late coming
+- Leave rules
+- Termination of employment
+- Suspension and dismissal
+- Grievance redressal
+- Misconduct and disciplinary action
+
+Display: Certified copy displayed in local language at prominent locations
+
+================================================================================
+
+                    8. SAFETY COMMITTEE
+
+================================================================================
+
+Constitution:
+- Total Members: 12
+- Management Representatives: 6
+- Worker Representatives: 6 (elected)
+- Chairman: Plant Head
+- Secretary: Safety Officer
+
+Meeting Frequency: Quarterly
+Minutes maintained for last 5 years
+
+Activities:
+- Safety audits and inspections
+- Accident investigation
+- Safety training programs
+- PPE compliance monitoring
+- Emergency preparedness drills
+
+================================================================================
+
+                    9. OTHER LICENSES
+
+================================================================================
+
+[X] Trade License from Gram Panchayat
+[X] Signage Permission
+[X] MIDC Water Connection
+[X] PNG Connection (MNGL)
+[X] Telecom Infrastructure
+
+================================================================================
+
+CERTIFICATION:
+
+We hereby certify that all statutory licenses are valid and the Company is in
+compliance with the Factories Act, 1948 and related regulations.
+
+For PRECISION ENGINEERING WORKS PRIVATE LIMITED
+
+____________________________
+Amit Patel
+Whole-time Director (Registered Manager)
+
+Place: Pune
+Date: ____________________________
+
+================================================================================
