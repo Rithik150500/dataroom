@@ -1,0 +1,767 @@
+================================================================================
+                    SHIPPING AND DELIVERY TERMS
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE SHIPPING AND DELIVERY POLICY
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+Last Updated: _____ day of __________, 20____
+
+================================================================================
+                         COMPANY INFORMATION
+================================================================================
+
+Company Name:     TECHVENTURE INDIA PRIVATE LIMITED
+CIN:              U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                  Bangalore - 560095, Karnataka, India
+Website:          www.techventure.in
+Email:            shipping@techventure.in
+Phone:            +91-80-4567-8900
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+SECTION 1:  OVERVIEW AND SCOPE
+SECTION 2:  DELIVERY AREAS AND COVERAGE
+SECTION 3:  SHIPPING METHODS AND TIMELINES
+SECTION 4:  SHIPPING CHARGES
+SECTION 5:  ORDER PROCESSING
+SECTION 6:  TRACKING YOUR ORDER
+SECTION 7:  DELIVERY PROCESS
+SECTION 8:  DELIVERY ACCEPTANCE AND INSPECTION
+SECTION 9:  FAILED DELIVERIES
+SECTION 10: SPECIAL DELIVERY REQUIREMENTS
+SECTION 11: INTERNATIONAL SHIPPING
+SECTION 12: RISK OF LOSS
+SECTION 13: SHIPPING PARTNERS
+SECTION 14: FREQUENTLY ASKED QUESTIONS
+SECTION 15: CONTACT INFORMATION
+
+================================================================================
+                    SECTION 1: OVERVIEW AND SCOPE
+================================================================================
+
+1.1 PURPOSE
+
+    This Shipping and Delivery Terms document ("Policy") outlines the
+    terms, conditions, and procedures governing the shipping and delivery
+    of products purchased from TechVenture India Private Limited through
+    our e-commerce platform.
+
+1.2 APPLICABILITY
+
+    This Policy applies to:
+
+    (a) All orders placed on www.techventure.in;
+    (b) Orders placed through our mobile applications;
+    (c) Domestic shipments within India;
+    (d) International shipments to supported countries;
+    (e) All shipping methods offered by us.
+
+1.3 AGREEMENT
+
+    By placing an order, you agree to these Shipping and Delivery Terms.
+    Please read this Policy carefully before making a purchase.
+
+================================================================================
+                    SECTION 2: DELIVERY AREAS AND COVERAGE
+================================================================================
+
+2.1 DOMESTIC COVERAGE
+
+    We deliver to serviceable pin codes across India:
+
+    (a) METRO CITIES (Fastest Delivery)
+        - Delhi NCR
+        - Mumbai
+        - Bangalore
+        - Chennai
+        - Kolkata
+        - Hyderabad
+        - Pune
+        - Ahmedabad
+
+    (b) TIER-1 CITIES
+        - All state capitals
+        - Major commercial centers
+        - 500+ cities with express delivery
+
+    (c) TIER-2 AND TIER-3 CITIES
+        - Standard delivery available
+        - 5000+ towns covered
+
+    (d) RURAL AND REMOTE AREAS
+        - Extended delivery timelines
+        - Limited COD availability
+        - Some restrictions may apply
+
+2.2 PIN CODE SERVICEABILITY
+
+    (a) Check serviceability by entering pin code at checkout;
+    (b) Available shipping methods displayed for your location;
+    (c) Estimated delivery dates shown based on pin code;
+    (d) Some products may not be available for all locations.
+
+2.3 NON-SERVICEABLE AREAS
+
+    Delivery may not be available to:
+
+    (a) Restricted zones and military areas;
+    (b) Remote islands and border areas;
+    (c) Areas with access restrictions;
+    (d) Temporary non-serviceable zones (natural disasters, civil
+        unrest, etc.).
+
+    For non-serviceable areas, we suggest an alternate delivery address
+    or will cancel and refund the order.
+
+================================================================================
+                    SECTION 3: SHIPPING METHODS AND TIMELINES
+================================================================================
+
+3.1 STANDARD SHIPPING
+
+    Default shipping method for most orders:
+
+    - Delivery Time: 5-10 business days
+    - Tracking: Available
+    - Signature: Required
+    - Cost: See Section 4
+
+3.2 EXPRESS SHIPPING
+
+    Faster delivery option (where available):
+
+    - Delivery Time: 2-3 business days
+    - Tracking: Real-time tracking
+    - Signature: Required
+    - Cost: Additional charges apply
+    - Availability: Metro and Tier-1 cities
+
+3.3 SAME-DAY DELIVERY
+
+    Delivery within same day (where available):
+
+    - Order Cut-off: 12:00 PM
+    - Delivery Window: 4:00 PM - 10:00 PM same day
+    - Tracking: Real-time with live location
+    - Availability: Select metro cities only
+    - Product Restrictions: Size and category limitations
+    - Cost: Premium charges apply
+
+3.4 NEXT-DAY DELIVERY
+
+    Guaranteed next business day delivery:
+
+    - Order Cut-off: 6:00 PM
+    - Delivery: Next business day by 9:00 PM
+    - Tracking: Real-time
+    - Availability: Metro and major Tier-1 cities
+    - Cost: Additional charges apply
+
+3.5 SCHEDULED DELIVERY
+
+    Choose your preferred delivery date and time:
+
+    - Select date up to 7 days in advance
+    - Choose time slot (2-hour windows)
+    - Availability: Metro cities
+    - Cost: Additional charges may apply
+    - Ideal for: Gifts, special occasions
+
+3.6 ESTIMATED DELIVERY TIMES BY REGION
+
+    -------------------------------------------------------------------------
+    | REGION                    | STANDARD        | EXPRESS                 |
+    -------------------------------------------------------------------------
+    | Metro Cities              | 3-5 days        | 1-2 days                |
+    | Tier-1 Cities             | 4-6 days        | 2-3 days                |
+    | Tier-2 Cities             | 5-7 days        | 3-4 days                |
+    | Tier-3 Towns              | 6-8 days        | 4-5 days                |
+    | Remote Areas              | 8-12 days       | Not available           |
+    -------------------------------------------------------------------------
+
+    Note: Business days exclude Sundays and public holidays. Delivery
+    times are estimates and not guaranteed.
+
+================================================================================
+                    SECTION 4: SHIPPING CHARGES
+================================================================================
+
+4.1 FREE SHIPPING
+
+    Free shipping is available when:
+
+    (a) Order value exceeds Rs. 499 (standard shipping);
+    (b) Order contains Prime-eligible products;
+    (c) Promotional free shipping offers active;
+    (d) Subscription orders (auto-delivery).
+
+4.2 STANDARD SHIPPING CHARGES
+
+    When free shipping is not applicable:
+
+    -------------------------------------------------------------------------
+    | ORDER VALUE               | SHIPPING CHARGE                           |
+    -------------------------------------------------------------------------
+    | Below Rs. 199             | Rs. 69                                    |
+    | Rs. 199 - Rs. 499         | Rs. 49                                    |
+    | Above Rs. 499             | FREE                                      |
+    -------------------------------------------------------------------------
+
+4.3 EXPRESS SHIPPING CHARGES
+
+    Additional charges for express delivery:
+
+    -------------------------------------------------------------------------
+    | ORDER VALUE               | EXPRESS CHARGE                            |
+    -------------------------------------------------------------------------
+    | Below Rs. 1,000           | Rs. 99                                    |
+    | Rs. 1,000 - Rs. 5,000     | Rs. 149                                   |
+    | Above Rs. 5,000           | Rs. 199                                   |
+    -------------------------------------------------------------------------
+
+4.4 SAME-DAY AND NEXT-DAY CHARGES
+
+    -------------------------------------------------------------------------
+    | DELIVERY TYPE             | CHARGE                                    |
+    -------------------------------------------------------------------------
+    | Same-Day Delivery         | Rs. 149 - Rs. 299                         |
+    | Next-Day Delivery         | Rs. 99 - Rs. 199                          |
+    | Scheduled Delivery        | Rs. 49 (weekdays), Rs. 99 (weekends)      |
+    -------------------------------------------------------------------------
+
+4.5 WEIGHT-BASED SURCHARGES
+
+    Heavy and bulky items may incur additional charges:
+
+    -------------------------------------------------------------------------
+    | WEIGHT / SIZE             | SURCHARGE                                 |
+    -------------------------------------------------------------------------
+    | 5 kg - 10 kg              | Rs. 100                                   |
+    | 10 kg - 20 kg             | Rs. 200                                   |
+    | Above 20 kg               | Rs. 500                                   |
+    | Large appliances          | Rs. 299 - Rs. 999                         |
+    | Furniture                 | Rs. 499 - Rs. 1,499                       |
+    -------------------------------------------------------------------------
+
+4.6 REMOTE AREA SURCHARGE
+
+    Additional charges for remote locations:
+
+    - Remote surcharge: Rs. 50 - Rs. 150
+    - Extended area surcharge: Rs. 100 - Rs. 300
+    - Displayed at checkout based on pin code
+
+4.7 COD CHARGES
+
+    Cash on Delivery handling fee:
+
+    - COD charge: Rs. 40 - Rs. 80 per order
+    - Waived for orders above Rs. 999 (promotional)
+    - Not available for all products/locations
+
+================================================================================
+                    SECTION 5: ORDER PROCESSING
+================================================================================
+
+5.1 ORDER CONFIRMATION
+
+    (a) Order confirmation email sent immediately after placement;
+    (b) Confirmation includes order number, items, and estimated
+        delivery;
+    (c) Verify order details and contact us if any errors.
+
+5.2 PROCESSING TIME
+
+    Time to prepare order for shipping:
+
+    -------------------------------------------------------------------------
+    | ORDER TYPE                | PROCESSING TIME                           |
+    -------------------------------------------------------------------------
+    | Standard orders           | 1-2 business days                         |
+    | Express/Same-day          | 2-4 hours                                 |
+    | Pre-orders                | Ships on release date                     |
+    | Made-to-order products    | 5-15 business days                        |
+    | Personalized items        | 3-7 business days                         |
+    -------------------------------------------------------------------------
+
+5.3 ORDER CUT-OFF TIMES
+
+    (a) Standard shipping: 6:00 PM for next-day processing;
+    (b) Express shipping: 2:00 PM for same-day dispatch;
+    (c) Same-day delivery: 12:00 PM;
+    (d) Orders after cut-off processed next business day.
+
+5.4 DISPATCH NOTIFICATION
+
+    When your order ships:
+
+    (a) Dispatch confirmation email sent;
+    (b) SMS notification with tracking details;
+    (c) Tracking link provided;
+    (d) Estimated delivery date confirmed.
+
+5.5 MULTI-ITEM ORDERS
+
+    (a) Items may ship from different warehouses;
+    (b) Multiple packages may arrive separately;
+    (c) Each package has separate tracking;
+    (d) All items shown in order confirmation.
+
+================================================================================
+                    SECTION 6: TRACKING YOUR ORDER
+================================================================================
+
+6.1 TRACKING METHODS
+
+    Track your order via:
+
+    (a) WEBSITE: Log in to "My Orders" section
+    (b) APP: Real-time tracking with map view
+    (c) EMAIL: Click tracking link in dispatch email
+    (d) SMS: Reply with order number for status
+    (e) CUSTOMER SUPPORT: Call or chat for assistance
+
+6.2 TRACKING INFORMATION
+
+    Tracking provides:
+
+    (a) Current status and location of package;
+    (b) Estimated delivery date and time;
+    (c) Delivery partner details;
+    (d) Number of delivery attempts;
+    (e) Signature confirmation upon delivery.
+
+6.3 TRACKING STATUSES
+
+    -------------------------------------------------------------------------
+    | STATUS                    | DESCRIPTION                               |
+    -------------------------------------------------------------------------
+    | Order Placed              | Order received and payment confirmed      |
+    | Order Confirmed           | Order verified and accepted               |
+    | Processing                | Order being packed at warehouse           |
+    | Dispatched                | Order handed to shipping partner          |
+    | In Transit                | Package moving through courier network    |
+    | Out for Delivery          | Package with delivery executive           |
+    | Delivered                 | Successfully delivered and signed         |
+    | Delivery Attempted        | Delivery attempt unsuccessful             |
+    | Returned to Seller        | Package returning due to failed delivery  |
+    -------------------------------------------------------------------------
+
+6.4 DELIVERY EXECUTIVE CONTACT
+
+    On delivery day:
+
+    (a) Delivery executive details shared via SMS;
+    (b) Direct contact number provided;
+    (c) Request specific delivery time if needed;
+    (d) Share delivery instructions.
+
+================================================================================
+                    SECTION 7: DELIVERY PROCESS
+================================================================================
+
+7.1 DELIVERY HOURS
+
+    Standard delivery hours:
+
+    - Metro cities: 8:00 AM - 10:00 PM
+    - Other areas: 9:00 AM - 8:00 PM
+    - Sundays: Limited delivery in select areas
+    - Public holidays: Limited or no delivery
+
+7.2 DELIVERY LOCATION
+
+    Packages are delivered to:
+
+    (a) Address provided during checkout;
+    (b) Recipient or authorized person at address;
+    (c) Security desk/mailroom in apartments (if permitted);
+    (d) Neighbors (only with prior customer consent).
+
+7.3 DELIVERY VERIFICATION
+
+    At the time of delivery:
+
+    (a) OTP verification may be required;
+    (b) ID verification for high-value items;
+    (c) Signature required for all deliveries;
+    (d) Photo proof of delivery captured.
+
+7.4 CONTACTLESS DELIVERY
+
+    For contactless delivery option:
+
+    (a) Select at checkout or in delivery preferences;
+    (b) Package left at doorstep/designated location;
+    (c) Photo sent as delivery confirmation;
+    (d) Customer assumes responsibility after placement.
+
+7.5 DELIVERY RESCHEDULING
+
+    Reschedule delivery if not available:
+
+    (a) Via tracking page or app;
+    (b) Up to 2 free reschedules;
+    (c) Reschedule for up to 7 days later;
+    (d) Contact delivery executive directly on delivery day.
+
+================================================================================
+                    SECTION 8: DELIVERY ACCEPTANCE AND INSPECTION
+================================================================================
+
+8.1 INSPECTION AT DELIVERY
+
+    When receiving your package:
+
+    (a) Check outer packaging for visible damage;
+    (b) Verify package weight seems appropriate;
+    (c) Ensure seal tape is intact;
+    (d) Count number of packages against shipment details.
+
+8.2 OPEN DELIVERY (OTP-PROTECTED)
+
+    For select high-value items:
+
+    (a) Open package in front of delivery executive;
+    (b) Verify product and accessories;
+    (c) Check for damage or defects;
+    (d) Refuse delivery if issues found;
+    (e) Report immediately if damage noticed after executive leaves.
+
+8.3 DAMAGED PACKAGE
+
+    If package appears damaged:
+
+    (a) Photograph/video the damaged package before opening;
+    (b) Open carefully and document product condition;
+    (c) Report damage within 24 hours;
+    (d) Keep all packaging materials;
+    (e) Contact customer support for resolution.
+
+8.4 REFUSAL OF DELIVERY
+
+    You may refuse delivery if:
+
+    (a) Package is severely damaged;
+    (b) Product does not match order;
+    (c) Delivery is significantly late (beyond acceptable window);
+    (d) You no longer need the product (return shipping may apply).
+
+    Refused packages return to warehouse for refund processing.
+
+================================================================================
+                    SECTION 9: FAILED DELIVERIES
+================================================================================
+
+9.1 DELIVERY ATTEMPTS
+
+    (a) Standard: 3 delivery attempts;
+    (b) Premium: Up to 5 attempts;
+    (c) Attempts made on consecutive business days;
+    (d) Contact attempted before each retry.
+
+9.2 REASONS FOR FAILED DELIVERY
+
+    (a) Recipient not available;
+    (b) Incorrect or incomplete address;
+    (c) Access restrictions (gated community, office);
+    (d) Refused by recipient;
+    (e) Address not found;
+    (f) Natural disasters or emergencies.
+
+9.3 AFTER FAILED ATTEMPTS
+
+    If all delivery attempts fail:
+
+    (a) Package held at local delivery center for 7 days;
+    (b) Notification sent for self-pickup option;
+    (c) After 7 days, package returned to warehouse;
+    (d) Refund processed after return (minus shipping if applicable).
+
+9.4 RESHIPMENT
+
+    To reship a returned package:
+
+    (a) Contact customer support;
+    (b) Confirm/update delivery address;
+    (c) Pay reshipping charges (Rs. 50-150);
+    (d) New estimated delivery provided.
+
+9.5 CUSTOMER RESPONSIBILITY
+
+    To avoid failed deliveries:
+
+    (a) Provide complete and accurate address;
+    (b) Include landmarks and contact number;
+    (c) Ensure someone is available to receive;
+    (d) Update delivery preferences if needed;
+    (e) Respond to delivery executive calls.
+
+================================================================================
+                    SECTION 10: SPECIAL DELIVERY REQUIREMENTS
+================================================================================
+
+10.1 LARGE AND HEAVY ITEMS
+
+    For large appliances and furniture:
+
+    (a) Scheduled delivery with time slot;
+    (b) Two-person delivery team;
+    (c) Delivery to room of choice (ground floor);
+    (d) Upper floor delivery: Additional charges;
+    (e) Old appliance pickup available (separate service).
+
+10.2 INSTALLATION SERVICES
+
+    For items requiring installation:
+
+    (a) Installation included or available at extra cost;
+    (b) Separate installation appointment after delivery;
+    (c) Demo and setup provided;
+    (d) Installation warranty provided.
+
+10.3 FRAGILE ITEMS
+
+    Special handling for fragile products:
+
+    (a) Extra protective packaging;
+    (b) "Fragile" marking on package;
+    (c) Careful handling instructions to courier;
+    (d) Insurance recommended for valuable fragile items.
+
+10.4 PERISHABLE GOODS
+
+    For food and perishable items:
+
+    (a) Cold chain/temperature-controlled shipping;
+    (b) Express delivery mandatory;
+    (c) Limited geographic availability;
+    (d) Specific delivery windows;
+    (e) Immediate inspection required.
+
+10.5 HAZARDOUS MATERIALS
+
+    For items classified as hazardous:
+
+    (a) Special shipping requirements followed;
+    (b) Limited shipping methods available;
+    (c) Additional handling charges may apply;
+    (d) Compliance with transportation regulations.
+
+================================================================================
+                    SECTION 11: INTERNATIONAL SHIPPING
+================================================================================
+
+11.1 COUNTRIES SERVED
+
+    We ship internationally to select countries:
+
+    (a) North America: USA, Canada
+    (b) Europe: UK, Germany, France, etc.
+    (c) Middle East: UAE, Saudi Arabia, etc.
+    (d) Asia Pacific: Singapore, Australia, etc.
+
+    Full list available at checkout.
+
+11.2 INTERNATIONAL SHIPPING COSTS
+
+    International shipping charges include:
+
+    (a) Base shipping rate by destination;
+    (b) Weight and dimensional charges;
+    (c) Handling and packaging fees;
+    (d) Calculated and displayed at checkout.
+
+    Note: Customs duties and taxes NOT included.
+
+11.3 CUSTOMS AND DUTIES
+
+    (a) International orders subject to customs duties;
+    (b) Import taxes and fees are buyer's responsibility;
+    (c) We declare accurate product value;
+    (d) Customs may delay delivery;
+    (e) Refused shipments due to duties are not refundable for
+        shipping costs.
+
+11.4 INTERNATIONAL DELIVERY TIMES
+
+    -------------------------------------------------------------------------
+    | REGION                    | STANDARD        | EXPRESS                 |
+    -------------------------------------------------------------------------
+    | North America             | 10-15 days      | 5-7 days                |
+    | Europe                    | 12-18 days      | 6-8 days                |
+    | Middle East               | 8-12 days       | 4-6 days                |
+    | Asia Pacific              | 7-12 days       | 4-6 days                |
+    -------------------------------------------------------------------------
+
+11.5 INTERNATIONAL RESTRICTIONS
+
+    Some products cannot be shipped internationally:
+
+    (a) Liquids and aerosols;
+    (b) Batteries and electronics (some);
+    (c) Food and perishables;
+    (d) Regulated items by destination country;
+    (e) Items prohibited by export regulations.
+
+================================================================================
+                    SECTION 12: RISK OF LOSS
+================================================================================
+
+12.1 TRANSFER OF RISK
+
+    Risk of loss and damage transfers to you upon:
+
+    (a) Delivery to you or your authorized representative;
+    (b) Handover to your designated delivery location;
+    (c) For contactless delivery, placement at specified location.
+
+12.2 BEFORE DELIVERY
+
+    Until transfer of risk:
+
+    (a) We bear risk of loss or damage in transit;
+    (b) Claims handled by us with shipping partner;
+    (c) Replacement or refund provided for damaged goods;
+    (d) You must report damage/loss promptly.
+
+12.3 SHIPPING INSURANCE
+
+    (a) Standard insurance included for all shipments;
+    (b) Coverage up to declared product value;
+    (c) Additional insurance available for high-value items;
+    (d) Claims processed by us on your behalf.
+
+================================================================================
+                    SECTION 13: SHIPPING PARTNERS
+================================================================================
+
+13.1 DELIVERY PARTNERS
+
+    We work with reliable shipping partners including:
+
+    (a) Blue Dart
+    (b) DTDC
+    (c) Delhivery
+    (d) Ecom Express
+    (e) XpressBees
+    (f) FedEx
+    (g) Professional Couriers
+    (h) India Post
+    (i) Own delivery fleet for select areas
+
+13.2 PARTNER SELECTION
+
+    Shipping partner assigned based on:
+
+    (a) Delivery location and pin code;
+    (b) Order value and product type;
+    (c) Shipping speed selected;
+    (d) Service availability.
+
+13.3 PARTNER PERFORMANCE
+
+    We monitor partner performance for:
+
+    (a) On-time delivery rate;
+    (b) Damage rate;
+    (c) Customer feedback;
+    (d) Issue resolution speed.
+
+================================================================================
+                    SECTION 14: FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q1: How long will delivery take?
+A:  Delivery time depends on your location and shipping method.
+    Standard delivery is 5-10 business days. Check estimated date
+    at checkout.
+
+Q2: Do you deliver on Sundays?
+A:  Sunday delivery is available in select metro cities. Most
+    deliveries are Monday to Saturday.
+
+Q3: Can I change my delivery address after ordering?
+A:  Address can be changed before dispatch. After dispatch, contact
+    delivery partner directly for address update requests.
+
+Q4: Why is shipping not free for my order?
+A:  Free shipping applies to orders above Rs. 499. Smaller orders
+    have a nominal shipping fee.
+
+Q5: What if I'm not home during delivery?
+A:  Delivery executive will call before arriving. You can reschedule
+    or ask a family member to receive with OTP.
+
+Q6: How do I track my international order?
+A:  International tracking available through our website and partner
+    websites. Tracking updates may be delayed at customs.
+
+Q7: Can I get same-day delivery?
+A:  Same-day delivery is available in select metros for orders placed
+    before 12 PM. Check availability at checkout.
+
+Q8: What happens if my package is lost?
+A:  Lost packages are investigated with shipping partner. If
+    unrecoverable, full refund or replacement provided.
+
+Q9: Why is my order shipping in multiple packages?
+A:  Items may be stored in different warehouses and ship separately
+    for faster delivery. Each package can be tracked individually.
+
+Q10: Do you ship to P.O. Boxes?
+A:   Yes, we ship to P.O. Boxes via India Post where available.
+     Express delivery not available for P.O. Boxes.
+
+================================================================================
+                    SECTION 15: CONTACT INFORMATION
+================================================================================
+
+15.1 SHIPPING INQUIRIES
+
+    For shipping and delivery questions:
+
+    Email:      shipping@techventure.in
+    Phone:      +91-80-4567-8900
+    Hours:      Monday to Saturday, 9:00 AM to 6:00 PM IST
+    Chat:       Available on website and app
+
+15.2 URGENT DELIVERY ISSUES
+
+    For urgent matters (same-day/next-day orders):
+
+    Priority Line: +91-80-4567-8901
+    Email:         urgent@techventure.in
+
+15.3 FEEDBACK
+
+    Share delivery experience:
+
+    Email:      feedback@techventure.in
+    Rate:       In app after delivery
+
+================================================================================
+                         POLICY ACKNOWLEDGMENT
+================================================================================
+
+By placing an order on our Platform, you acknowledge that you have
+read, understood, and agree to these Shipping and Delivery Terms.
+
+This Policy is subject to change. Please check this page periodically
+for updates.
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    SHIPPING AND DELIVERY TERMS
+                    VERSION 1.0
+
+================================================================================

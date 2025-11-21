@@ -1,0 +1,666 @@
+================================================================================
+                    CONSUMER GRIEVANCE REDRESSAL POLICY
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE GRIEVANCE REDRESSAL MECHANISM
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+Last Updated: _____ day of __________, 20____
+
+================================================================================
+                         COMPANY INFORMATION
+================================================================================
+
+Company Name:     TECHVENTURE INDIA PRIVATE LIMITED
+CIN:              U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                  Bangalore - 560095, Karnataka, India
+Website:          www.techventure.in
+Grievance Email:  grievance@techventure.in
+Phone:            +91-80-4567-8900
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+SECTION 1:  INTRODUCTION AND PURPOSE
+SECTION 2:  REGULATORY COMPLIANCE
+SECTION 3:  GRIEVANCE OFFICER DETAILS
+SECTION 4:  TYPES OF GRIEVANCES
+SECTION 5:  HOW TO FILE A GRIEVANCE
+SECTION 6:  GRIEVANCE HANDLING PROCESS
+SECTION 7:  RESOLUTION TIMELINES
+SECTION 8:  ESCALATION MATRIX
+SECTION 9:  CONSUMER RIGHTS
+SECTION 10: EXTERNAL REDRESSAL FORUMS
+SECTION 11: FREQUENTLY ASKED QUESTIONS
+SECTION 12: CONTACT INFORMATION
+
+================================================================================
+                    SECTION 1: INTRODUCTION AND PURPOSE
+================================================================================
+
+1.1 PURPOSE
+
+    TechVenture India Private Limited ("Company," "we," "our") is
+    committed to providing excellent customer service and resolving
+    consumer grievances promptly and fairly. This Consumer Grievance
+    Redressal Policy outlines the mechanism for addressing consumer
+    complaints in compliance with applicable laws.
+
+1.2 COMMITMENT
+
+    We are committed to:
+
+    (a) Acknowledging all grievances within 48 hours;
+    (b) Resolving grievances within 30 days;
+    (c) Providing fair and impartial resolution;
+    (d) Continuous improvement based on feedback;
+    (e) Transparent communication throughout the process.
+
+1.3 SCOPE
+
+    This policy covers grievances related to:
+
+    (a) Products purchased on our platform;
+    (b) Services provided by us;
+    (c) Third-party seller products (as marketplace);
+    (d) Delivery and fulfillment;
+    (e) Payments and refunds;
+    (f) Data privacy and security;
+    (g) Any other platform-related concerns.
+
+================================================================================
+                    SECTION 2: REGULATORY COMPLIANCE
+================================================================================
+
+2.1 APPLICABLE REGULATIONS
+
+    This Policy complies with:
+
+    (a) CONSUMER PROTECTION ACT, 2019
+        - Section 2(11): Consumer rights
+        - Section 96-97: Alternate dispute resolution
+
+    (b) CONSUMER PROTECTION (E-COMMERCE) RULES, 2020
+        - Rule 4: Duties of e-commerce entities
+        - Rule 5: Liability of marketplace
+        - Rule 6: Grievance redressal mechanism
+
+    (c) INFORMATION TECHNOLOGY ACT, 2000
+        - Section 79: Intermediary guidelines
+
+    (d) INFORMATION TECHNOLOGY (INTERMEDIARY GUIDELINES AND DIGITAL
+        MEDIA ETHICS CODE) RULES, 2021
+        - Rule 3(2): Grievance redressal mechanism
+
+    (e) DIGITAL PERSONAL DATA PROTECTION ACT, 2023
+        - Data principal grievances
+
+2.2 MANDATORY REQUIREMENTS
+
+    As per Consumer Protection (E-Commerce) Rules, 2020:
+
+    (a) Grievance officer must be appointed;
+    (b) Name and contact details displayed prominently;
+    (c) Acknowledge complaints within 48 hours;
+    (d) Resolve complaints within 30 days;
+    (e) Provide ticket number for tracking.
+
+================================================================================
+                    SECTION 3: GRIEVANCE OFFICER DETAILS
+================================================================================
+
+3.1 GRIEVANCE OFFICER APPOINTMENT
+
+    In compliance with Consumer Protection (E-Commerce) Rules, 2020,
+    we have appointed the following Grievance Officer:
+
+    -------------------------------------------------------------------------
+    |                      GRIEVANCE OFFICER                                |
+    -------------------------------------------------------------------------
+    | Name:           ___________________________                           |
+    | Designation:    Grievance Officer                                     |
+    | Email:          grievance@techventure.in                              |
+    | Phone:          +91-80-4567-8901                                      |
+    | Address:        #42, 3rd Floor, Koramangala 5th Block                 |
+    |                 Bangalore - 560095, Karnataka, India                  |
+    | Working Hours:  Monday to Friday, 9:00 AM to 6:00 PM IST              |
+    -------------------------------------------------------------------------
+
+3.2 RESPONSIBILITIES OF GRIEVANCE OFFICER
+
+    (a) Receive and acknowledge all consumer grievances;
+    (b) Ensure timely resolution within prescribed timelines;
+    (c) Coordinate with internal teams for resolution;
+    (d) Communicate resolution to consumers;
+    (e) Maintain records of all grievances;
+    (f) Report to management on grievance trends;
+    (g) Represent Company in consumer forums if required.
+
+3.3 NODAL OFFICER FOR IT ACT COMPLIANCE
+
+    As per IT Intermediary Rules:
+
+    -------------------------------------------------------------------------
+    |                        NODAL OFFICER                                  |
+    -------------------------------------------------------------------------
+    | Name:           ___________________________                           |
+    | Designation:    Nodal Contact Person                                  |
+    | Email:          nodal@techventure.in                                  |
+    | Phone:          +91-80-4567-8902                                      |
+    -------------------------------------------------------------------------
+
+================================================================================
+                    SECTION 4: TYPES OF GRIEVANCES
+================================================================================
+
+4.1 PRODUCT-RELATED GRIEVANCES
+
+    (a) Product not as described;
+    (b) Defective or damaged product;
+    (c) Counterfeit or fake product;
+    (d) Missing items or accessories;
+    (e) Quality not meeting expectations;
+    (f) Safety concerns with product.
+
+4.2 ORDER AND DELIVERY GRIEVANCES
+
+    (a) Order not received;
+    (b) Significant delivery delay;
+    (c) Wrong product delivered;
+    (d) Partial delivery;
+    (e) Delivery to wrong address;
+    (f) Package damaged during transit.
+
+4.3 PAYMENT AND REFUND GRIEVANCES
+
+    (a) Amount debited but order not placed;
+    (b) Double charge for same order;
+    (c) Refund not received;
+    (d) Partial refund received;
+    (e) Incorrect charges;
+    (f) Promotional credit not applied.
+
+4.4 SERVICE-RELATED GRIEVANCES
+
+    (a) Poor customer support;
+    (b) Unresponsive service;
+    (c) Misleading information;
+    (d) Difficulty in returns/exchanges;
+    (e) Account-related issues.
+
+4.5 SELLER-RELATED GRIEVANCES
+
+    (a) Third-party seller misconduct;
+    (b) False product information;
+    (c) Non-delivery by seller;
+    (d) Seller not honoring warranty;
+    (e) Communication issues with seller.
+
+4.6 PRIVACY AND DATA GRIEVANCES
+
+    (a) Unauthorized use of personal data;
+    (b) Data breach or leak;
+    (c) Unwanted marketing communications;
+    (d) Difficulty exercising data rights;
+    (e) Incorrect personal information.
+
+================================================================================
+                    SECTION 5: HOW TO FILE A GRIEVANCE
+================================================================================
+
+5.1 CHANNELS FOR FILING GRIEVANCES
+
+    You may file a grievance through any of the following channels:
+
+    (a) ONLINE FORM (Preferred)
+        - Visit www.techventure.in/grievance
+        - Complete the grievance form
+        - Upload supporting documents
+        - Receive instant ticket number
+
+    (b) EMAIL
+        - Send email to grievance@techventure.in
+        - Include all relevant details
+        - Attach supporting documents
+        - Receive ticket number within 24 hours
+
+    (c) PHONE
+        - Call +91-80-4567-8901
+        - Speak to Grievance Department
+        - Ticket created during call
+        - Follow up via email with documents
+
+    (d) WRITTEN COMPLAINT
+        - Mail to: Grievance Officer
+          TechVenture India Private Limited
+          #42, 3rd Floor, Koramangala 5th Block
+          Bangalore - 560095, Karnataka
+        - Ticket number sent via email/SMS
+
+    (e) REGISTERED POST
+        - For formal complaints requiring acknowledgment
+        - Use registered/speed post
+        - Acknowledgment sent within 48 hours
+
+5.2 INFORMATION REQUIRED
+
+    To process your grievance efficiently, please provide:
+
+    MANDATORY INFORMATION:
+    (a) Full name and contact details;
+    (b) Order number (if applicable);
+    (c) Product/service details;
+    (d) Detailed description of grievance;
+    (e) Date of incident;
+    (f) Preferred resolution.
+
+    SUPPORTING DOCUMENTS:
+    (a) Order confirmation email;
+    (b) Invoice/receipt;
+    (c) Photos/videos of product issue;
+    (d) Payment transaction details;
+    (e) Previous correspondence;
+    (f) Any other relevant documents.
+
+5.3 FILING ON BEHALF OF ANOTHER
+
+    If filing on behalf of someone else:
+
+    (a) Authorization letter from the consumer;
+    (b) Consumer's contact details;
+    (c) Your relationship with the consumer;
+    (d) Your contact details.
+
+================================================================================
+                    SECTION 6: GRIEVANCE HANDLING PROCESS
+================================================================================
+
+6.1 PROCESS OVERVIEW
+
+    STEP 1: RECEIPT AND ACKNOWLEDGMENT
+    - Grievance received through any channel
+    - Unique ticket number generated
+    - Acknowledgment sent within 48 hours
+    - Priority assigned based on nature
+
+    STEP 2: INITIAL REVIEW
+    - Grievance reviewed by support team
+    - Category and subcategory assigned
+    - Additional information requested if needed
+    - Routed to appropriate department
+
+    STEP 3: INVESTIGATION
+    - Relevant team investigates
+    - Order/transaction history reviewed
+    - Seller contacted if applicable
+    - Root cause analysis performed
+
+    STEP 4: RESOLUTION PROPOSAL
+    - Resolution options identified
+    - Proposal communicated to consumer
+    - Consumer acceptance sought
+    - Alternative solutions if not accepted
+
+    STEP 5: IMPLEMENTATION
+    - Approved resolution implemented
+    - Refund/replacement processed
+    - Actions taken against violators
+    - Consumer notified of completion
+
+    STEP 6: CLOSURE AND FEEDBACK
+    - Grievance marked resolved
+    - Closure communication sent
+    - Feedback requested
+    - Record maintained
+
+6.2 PRIORITY LEVELS
+
+    -------------------------------------------------------------------------
+    | PRIORITY     | DESCRIPTION                    | RESPONSE TIME         |
+    -------------------------------------------------------------------------
+    | CRITICAL     | Safety issue, fraud, data      | 4 hours               |
+    |              | breach, legal notice           |                       |
+    -------------------------------------------------------------------------
+    | HIGH         | Non-delivery, wrong product,   | 24 hours              |
+    |              | payment issue, stuck refund    |                       |
+    -------------------------------------------------------------------------
+    | MEDIUM       | Quality issues, partial        | 48 hours              |
+    |              | delivery, service complaints   |                       |
+    -------------------------------------------------------------------------
+    | LOW          | General inquiries,             | 72 hours              |
+    |              | suggestions, feedback          |                       |
+    -------------------------------------------------------------------------
+
+6.3 INVESTIGATION PROCESS
+
+    For product-related grievances:
+    (a) Review product listing and seller history;
+    (b) Request product photos from consumer;
+    (c) Verify delivery and tracking;
+    (d) Consult with seller if applicable;
+    (e) Expert assessment if needed.
+
+    For payment-related grievances:
+    (a) Transaction verification with payment gateway;
+    (b) Bank communication if needed;
+    (c) Reconciliation of accounts;
+    (d) Refund status check.
+
+    For seller-related grievances:
+    (a) Seller contacted for response;
+    (b) Seller given 48 hours to respond;
+    (c) Platform mediation if unresolved;
+    (d) Platform decision if no resolution.
+
+================================================================================
+                    SECTION 7: RESOLUTION TIMELINES
+================================================================================
+
+7.1 ACKNOWLEDGMENT TIMELINE
+
+    (a) Online form: Instant (ticket number generated)
+    (b) Email: Within 24 hours
+    (c) Phone: During the call
+    (d) Written: Within 48 hours of receipt
+
+7.2 RESOLUTION TIMELINE
+
+    As per Consumer Protection (E-Commerce) Rules, 2020:
+
+    -------------------------------------------------------------------------
+    | GRIEVANCE TYPE               | RESOLUTION TIMELINE                    |
+    -------------------------------------------------------------------------
+    | General grievances           | Within 30 days                         |
+    | Refund requests              | 5-7 days after approval                |
+    | Payment issues               | 7-14 days                              |
+    | Product quality issues       | 14-21 days                             |
+    | Seller disputes              | 21-30 days                             |
+    | Data privacy issues          | 30 days                                |
+    -------------------------------------------------------------------------
+
+7.3 COMMUNICATION DURING RESOLUTION
+
+    You will be updated:
+
+    (a) At acknowledgment;
+    (b) When additional info needed;
+    (c) When investigation complete;
+    (d) When resolution proposed;
+    (e) When resolution implemented;
+    (f) At closure.
+
+7.4 DELAYS IN RESOLUTION
+
+    If resolution is delayed:
+
+    (a) You will be informed of the reason;
+    (b) Revised timeline provided;
+    (c) Escalation option available;
+    (d) Regular updates until resolved.
+
+================================================================================
+                    SECTION 8: ESCALATION MATRIX
+================================================================================
+
+8.1 ESCALATION LEVELS
+
+    -------------------------------------------------------------------------
+    | LEVEL | ESCALATION TO           | WHEN TO ESCALATE                    |
+    -------------------------------------------------------------------------
+    | 1     | Customer Support Team   | Initial grievance                   |
+    |       | support@techventure.in  |                                     |
+    -------------------------------------------------------------------------
+    | 2     | Grievance Officer       | If Level 1 unresolved in 7 days     |
+    |       | grievance@techventure.in| Or dissatisfied with resolution     |
+    -------------------------------------------------------------------------
+    | 3     | Senior Manager          | If Level 2 unresolved in 15 days    |
+    |       | escalation@techventure.in| Or grievance requires management   |
+    -------------------------------------------------------------------------
+    | 4     | Head of Customer        | If Level 3 unresolved in 21 days    |
+    |       | Experience              | Significant financial impact        |
+    |       | cx-head@techventure.in  |                                     |
+    -------------------------------------------------------------------------
+    | 5     | Legal/Compliance        | Legal notice received                |
+    |       | legal@techventure.in    | Consumer forum case                  |
+    -------------------------------------------------------------------------
+
+8.2 HOW TO ESCALATE
+
+    (a) Reference your ticket number;
+    (b) Provide reason for escalation;
+    (c) Include all previous correspondence;
+    (d) Specify your expected resolution;
+    (e) Use appropriate escalation email.
+
+8.3 ESCALATION TIMELINES
+
+    Each escalation level has 7 business days to resolve before
+    further escalation is warranted.
+
+================================================================================
+                    SECTION 9: CONSUMER RIGHTS
+================================================================================
+
+9.1 RIGHTS UNDER CONSUMER PROTECTION ACT, 2019
+
+    As a consumer, you have the right to:
+
+    (a) RIGHT TO SAFETY
+        - Protection against hazardous products
+        - Products meeting safety standards
+
+    (b) RIGHT TO BE INFORMED
+        - Accurate product information
+        - Clear pricing and terms
+        - No misleading advertisements
+
+    (c) RIGHT TO CHOOSE
+        - Access to variety of products
+        - Fair pricing without manipulation
+
+    (d) RIGHT TO BE HEARD
+        - File complaints
+        - Have grievances addressed
+        - Representation in consumer forums
+
+    (e) RIGHT TO SEEK REDRESSAL
+        - Fair resolution of complaints
+        - Compensation for losses
+        - Replacement or refund
+
+    (f) RIGHT TO CONSUMER EDUCATION
+        - Information about consumer rights
+        - Awareness of redressal mechanisms
+
+9.2 RIGHTS UNDER E-COMMERCE RULES, 2020
+
+    As an e-commerce consumer, you have additional rights to:
+
+    (a) Receive contract and order details;
+    (b) Cancel orders before dispatch;
+    (c) Know seller details;
+    (d) Easy returns and refunds;
+    (e) Clear grievance mechanism;
+    (f) Protection of personal data.
+
+9.3 YOUR RESPONSIBILITIES
+
+    To facilitate smooth grievance resolution:
+
+    (a) Provide accurate and complete information;
+    (b) Respond to queries promptly;
+    (c) Maintain proof of purchase;
+    (d) Follow return and refund policies;
+    (e) Communicate respectfully.
+
+================================================================================
+                    SECTION 10: EXTERNAL REDRESSAL FORUMS
+================================================================================
+
+10.1 CONSUMER DISPUTES REDRESSAL COMMISSIONS
+
+    If not satisfied with our resolution, you may approach:
+
+    (a) DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION
+        - For claims up to Rs. 1 crore
+        - File in district where you reside or opposite party located
+
+    (b) STATE CONSUMER DISPUTES REDRESSAL COMMISSION
+        - For claims Rs. 1 crore to Rs. 10 crore
+        - Appeals from District Commission
+
+    (c) NATIONAL CONSUMER DISPUTES REDRESSAL COMMISSION
+        - For claims above Rs. 10 crore
+        - Appeals from State Commission
+        - Website: ncdrc.nic.in
+
+10.2 E-DAAKHIL (ONLINE FILING)
+
+    File consumer complaints online:
+
+    Website: edaakhil.nic.in
+
+    Features:
+    - Online complaint filing
+    - Document upload
+    - Fee payment online
+    - Case tracking
+
+10.3 NATIONAL CONSUMER HELPLINE
+
+    For guidance on consumer issues:
+
+    Toll-Free Number: 1800-11-4000 or 1915
+    Website: consumerhelpline.gov.in
+    App: NCH App
+
+    Services:
+    - Guidance on consumer rights
+    - Help in filing complaints
+    - Mediation between parties
+
+10.4 OTHER FORUMS
+
+    (a) OMBUDSMAN FOR DIGITAL TRANSACTIONS
+        - For digital payment complaints
+        - RBI Ombudsman Scheme
+
+    (b) BANKING OMBUDSMAN
+        - For payment/refund issues involving banks
+        - Website: cms.rbi.org.in
+
+    (c) CYBER CRIME PORTAL
+        - For data breach/cyber fraud
+        - Website: cybercrime.gov.in
+
+10.5 LEGAL ACTION
+
+    You retain the right to pursue legal action:
+
+    (a) Civil courts for damages;
+    (b) Criminal complaints for fraud;
+    (c) Class action suits.
+
+================================================================================
+                    SECTION 11: FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q1: How long does it take to get a response to my grievance?
+A:  We acknowledge all grievances within 48 hours and aim to resolve
+    them within 30 days.
+
+Q2: How can I track my grievance status?
+A:  Use your ticket number to track status on our website or contact
+    customer support with the ticket number.
+
+Q3: What if I'm not satisfied with the resolution?
+A:  You can escalate to the next level as per our escalation matrix
+    or approach external consumer forums.
+
+Q4: Can I file a grievance for a third-party seller product?
+A:  Yes. As a marketplace, we facilitate grievance resolution and
+    mediate between buyers and sellers.
+
+Q5: Is there a time limit to file a grievance?
+A:  We recommend filing within 30 days of the incident. However,
+    we accept grievances up to 1 year for most issues.
+
+Q6: What documents do I need to file a grievance?
+A:  Order number, invoice, product photos, payment details, and any
+    previous correspondence.
+
+Q7: Can I file a grievance anonymously?
+A:  For effective resolution, we need your contact details. However,
+    we maintain confidentiality of your information.
+
+Q8: Will I be charged for filing a grievance?
+A:  No. Filing a grievance with us is completely free.
+
+Q9: What happens if a seller doesn't respond to my grievance?
+A:  We will mediate and may take action against the seller including
+    penalty or suspension. We may also directly resolve with refund.
+
+Q10: Can I withdraw my grievance?
+A:   Yes. Contact us with your ticket number to withdraw.
+
+================================================================================
+                    SECTION 12: CONTACT INFORMATION
+================================================================================
+
+12.1 GRIEVANCE OFFICER
+
+    Name:       ___________________________
+    Email:      grievance@techventure.in
+    Phone:      +91-80-4567-8901
+    Hours:      Monday to Friday, 9:00 AM to 6:00 PM IST
+    Address:    #42, 3rd Floor, Koramangala 5th Block
+                Bangalore - 560095, Karnataka, India
+
+12.2 CUSTOMER SUPPORT
+
+    Email:      support@techventure.in
+    Phone:      +91-80-4567-8900
+    Hours:      Monday to Saturday, 9:00 AM to 6:00 PM IST
+    Chat:       Available on website and app
+
+12.3 ESCALATION CONTACTS
+
+    Senior Manager:     escalation@techventure.in
+    CX Head:            cx-head@techventure.in
+    Legal:              legal@techventure.in
+
+12.4 CORPORATE OFFICE
+
+    TechVenture India Private Limited
+    #42, 3rd Floor, Koramangala 5th Block
+    Bangalore - 560095, Karnataka, India
+    Phone: +91-80-4567-8900
+    Email: info@techventure.in
+
+================================================================================
+                         POLICY ACKNOWLEDGMENT
+================================================================================
+
+This Consumer Grievance Redressal Policy is in compliance with the
+Consumer Protection Act, 2019 and Consumer Protection (E-Commerce)
+Rules, 2020.
+
+We are committed to resolving your grievances fairly and efficiently.
+Your satisfaction is important to us.
+
+This Policy is subject to periodic review and updates. Please check
+this page for the latest version.
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    CONSUMER GRIEVANCE REDRESSAL POLICY
+                    VERSION 1.0
+
+================================================================================

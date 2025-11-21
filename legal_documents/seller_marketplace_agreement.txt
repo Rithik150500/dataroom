@@ -1,0 +1,972 @@
+================================================================================
+                    SELLER MARKETPLACE AGREEMENT
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: MARKETPLACE SELLER TERMS AND CONDITIONS
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+
+================================================================================
+                         PARTIES TO AGREEMENT
+================================================================================
+
+BETWEEN:
+
+TECHVENTURE INDIA PRIVATE LIMITED
+(hereinafter referred to as "Company" or "Marketplace" or "Platform")
+CIN: U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                   Bangalore - 560095, Karnataka, India
+
+AND
+
+SELLER: ___________________________
+(hereinafter referred to as "Seller" or "Vendor" or "Merchant")
+Business Name: ___________________________
+GSTIN: ___________________________
+Address: ___________________________
+         ___________________________
+Contact: ___________________________
+Email: ___________________________
+
+================================================================================
+                              RECITALS
+================================================================================
+
+WHEREAS:
+
+A.  The Company operates an e-commerce marketplace platform that enables
+    third-party sellers to list and sell products to customers;
+
+B.  The Seller wishes to list and sell products through the Platform and
+    agrees to comply with the terms and conditions set forth herein;
+
+C.  The Company agrees to provide marketplace services to the Seller
+    subject to the terms of this Agreement;
+
+D.  Both parties wish to establish a mutually beneficial commercial
+    relationship governed by this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements
+set forth herein, the parties agree as follows:
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+ARTICLE 1:  DEFINITIONS
+ARTICLE 2:  SELLER REGISTRATION AND ELIGIBILITY
+ARTICLE 3:  PRODUCT LISTING REQUIREMENTS
+ARTICLE 4:  PRICING AND FEES
+ARTICLE 5:  ORDER FULFILLMENT
+ARTICLE 6:  SHIPPING AND DELIVERY
+ARTICLE 7:  PAYMENT TERMS
+ARTICLE 8:  RETURNS AND REFUNDS
+ARTICLE 9:  CUSTOMER SERVICE
+ARTICLE 10: INTELLECTUAL PROPERTY
+ARTICLE 11: DATA PROTECTION AND PRIVACY
+ARTICLE 12: COMPLIANCE AND LEGAL REQUIREMENTS
+ARTICLE 13: REPRESENTATIONS AND WARRANTIES
+ARTICLE 14: PROHIBITED PRODUCTS AND ACTIVITIES
+ARTICLE 15: PERFORMANCE STANDARDS
+ARTICLE 16: ACCOUNT SUSPENSION AND TERMINATION
+ARTICLE 17: LIMITATION OF LIABILITY
+ARTICLE 18: INDEMNIFICATION
+ARTICLE 19: CONFIDENTIALITY
+ARTICLE 20: DISPUTE RESOLUTION
+ARTICLE 21: GENERAL PROVISIONS
+
+================================================================================
+                    ARTICLE 1: DEFINITIONS
+================================================================================
+
+1.1 In this Agreement, unless the context otherwise requires:
+
+    (a) "Agreement" means this Seller Marketplace Agreement including all
+        schedules, annexures, and policies referenced herein;
+
+    (b) "Buyer" or "Customer" means any person who purchases Products
+        from the Seller through the Platform;
+
+    (c) "Commission" means the fee charged by Company as percentage of
+        each sale made by Seller through the Platform;
+
+    (d) "Effective Date" means the date this Agreement comes into force;
+
+    (e) "Fulfillment" means the process of receiving, processing, packing,
+        and shipping orders to Customers;
+
+    (f) "Intellectual Property" means trademarks, copyrights, patents,
+        trade secrets, and other proprietary rights;
+
+    (g) "Listing" means a Product displayed for sale on the Platform;
+
+    (h) "Net Sales" means gross sales less returns, refunds, cancellations,
+        and applicable taxes;
+
+    (i) "Order" means a Customer's purchase request for Seller's Product;
+
+    (j) "Platform" means the Company's e-commerce website, mobile
+        applications, and associated services;
+
+    (k) "Product" means goods or merchandise listed by Seller for sale;
+
+    (l) "Seller Account" means the account created by Seller to access
+        Platform services;
+
+    (m) "Settlement" means the transfer of funds from Company to Seller
+        for completed sales.
+
+================================================================================
+                    ARTICLE 2: SELLER REGISTRATION AND ELIGIBILITY
+================================================================================
+
+2.1 ELIGIBILITY CRITERIA
+
+    To register as a Seller, you must:
+
+    (a) Be a legally registered business entity in India;
+    (b) Have valid GST registration (GSTIN);
+    (c) Have a current bank account in the business name;
+    (d) Provide valid PAN for the business;
+    (e) Have necessary licenses for products being sold;
+    (f) Be at least 18 years of age (for proprietorship);
+    (g) Not be prohibited from selling under any law.
+
+2.2 REGISTRATION PROCESS
+
+    (a) Complete online registration form with accurate information;
+    (b) Submit required documents for verification;
+    (c) Undergo identity and business verification;
+    (d) Complete account setup including payment details;
+    (e) Accept all applicable terms and policies.
+
+2.3 REQUIRED DOCUMENTS
+
+    (a) GST registration certificate;
+    (b) PAN card (business/proprietor);
+    (c) Bank account details with cancelled cheque;
+    (d) Business registration documents;
+    (e) Category-specific licenses (where applicable);
+    (f) Trademark certificates (for branded products);
+    (g) Brand authorization letters (for authorized resellers).
+
+2.4 ACCOUNT VERIFICATION
+
+    (a) Documents verified within 3-5 business days;
+    (b) Additional information may be requested;
+    (c) Account activated upon successful verification;
+    (d) Company reserves right to reject applications.
+
+2.5 ACCOUNT SECURITY
+
+    Seller is responsible for:
+
+    (a) Maintaining confidentiality of login credentials;
+    (b) All activities under Seller Account;
+    (c) Immediately reporting unauthorized access;
+    (d) Keeping account information updated.
+
+================================================================================
+                    ARTICLE 3: PRODUCT LISTING REQUIREMENTS
+================================================================================
+
+3.1 LISTING STANDARDS
+
+    All product listings must:
+
+    (a) Comply with Platform listing guidelines;
+    (b) Contain accurate and complete information;
+    (c) Include clear, high-quality images;
+    (d) State correct pricing and availability;
+    (e) Include all relevant product attributes;
+    (f) Not infringe any third-party rights.
+
+3.2 PRODUCT INFORMATION
+
+    Required information for each listing:
+
+    (a) Product title and description;
+    (b) Brand name and model number;
+    (c) Category and subcategory;
+    (d) Price (MRP and selling price);
+    (e) Stock quantity;
+    (f) Product specifications;
+    (g) HSN code;
+    (h) Country of origin;
+    (i) Warranty information (where applicable);
+    (j) Package contents.
+
+3.3 PRODUCT IMAGES
+
+    Image requirements:
+
+    (a) Minimum resolution: 1000 x 1000 pixels;
+    (b) White background preferred;
+    (c) Product must fill 85% of frame;
+    (d) No watermarks or promotional text;
+    (e) Multiple angles recommended;
+    (f) Lifestyle images encouraged.
+
+3.4 PRICING REQUIREMENTS
+
+    (a) MRP must be accurate and match product packaging;
+    (b) Selling price cannot exceed MRP;
+    (c) Prices inclusive of all taxes;
+    (d) Price changes reflected immediately;
+    (e) Historical lowest price disclosure as per guidelines.
+
+3.5 CATALOG QUALITY
+
+    Company may:
+
+    (a) Edit listings for quality and compliance;
+    (b) Merge duplicate listings;
+    (c) Remove non-compliant listings;
+    (d) Suppress listings with poor performance.
+
+================================================================================
+                    ARTICLE 4: PRICING AND FEES
+================================================================================
+
+4.1 COMMISSION STRUCTURE
+
+    Commission rates vary by category:
+
+    -------------------------------------------------------------------------
+    | CATEGORY                        | COMMISSION RATE                     |
+    -------------------------------------------------------------------------
+    | Electronics & Mobiles           | 5% - 12%                            |
+    | Fashion & Apparel               | 10% - 25%                           |
+    | Home & Kitchen                  | 8% - 18%                            |
+    | Beauty & Personal Care          | 5% - 15%                            |
+    | Books & Media                   | 3% - 10%                            |
+    | Sports & Fitness                | 10% - 15%                           |
+    | Baby Products                   | 8% - 15%                            |
+    | Grocery & Gourmet               | 3% - 12%                            |
+    | Automotive                      | 6% - 12%                            |
+    | Industrial & Scientific         | 8% - 15%                            |
+    -------------------------------------------------------------------------
+
+    Detailed commission chart available in Seller Dashboard.
+
+4.2 ADDITIONAL FEES
+
+    (a) FIXED FEE: Rs. 10-30 per order (category dependent)
+
+    (b) SHIPPING FEE: Based on weight, dimensions, and zone
+        - Deducted from settlement for Company-shipped orders
+
+    (c) COLLECTION FEE: 2% of order value
+        - Payment gateway and processing costs
+
+    (d) PICK AND PACK FEE: Rs. 15-40 per unit
+        - For Fulfilled by TechVenture (FBT) orders
+
+4.3 PROMOTIONAL FEES
+
+    Optional fees for increased visibility:
+
+    (a) Sponsored listings;
+    (b) Deal of the day participation;
+    (c) Category promotions;
+    (d) Search boost.
+
+4.4 FEE CALCULATION
+
+    Net Settlement = Gross Sale - Commission - Fees - Taxes
+
+    Example:
+    Product Price: Rs. 1,000
+    Commission (15%): Rs. 150
+    Fixed Fee: Rs. 20
+    Collection Fee (2%): Rs. 20
+    Net Settlement: Rs. 810
+
+4.5 TAX ON FEES
+
+    (a) All fees are exclusive of GST;
+    (b) GST (18%) charged on commission and fees;
+    (c) Tax invoice provided for all deductions.
+
+================================================================================
+                    ARTICLE 5: ORDER FULFILLMENT
+================================================================================
+
+5.1 ORDER NOTIFICATION
+
+    (a) Orders received via Seller Dashboard and email;
+    (b) Seller must acknowledge within 24 hours;
+    (c) Non-acknowledgment may result in auto-cancellation.
+
+5.2 FULFILLMENT OPTIONS
+
+    (a) SELLER FULFILLMENT (Self-Ship)
+        - Seller handles packing and shipping
+        - Uses own or Platform's shipping partners
+
+    (b) FULFILLED BY TECHVENTURE (FBT)
+        - Inventory stored in Company warehouses
+        - Company handles packing and shipping
+        - Higher fees but better performance metrics
+
+    (c) EASY SHIP
+        - Seller packs the order
+        - Platform arranges pickup and delivery
+
+5.3 FULFILLMENT TIMELINES
+
+    -------------------------------------------------------------------------
+    | FULFILLMENT TYPE          | PACK BY        | SHIP BY                  |
+    -------------------------------------------------------------------------
+    | Self-Ship (Standard)      | 24 hours       | 48 hours                 |
+    | Self-Ship (Express)       | 12 hours       | 24 hours                 |
+    | Easy Ship                 | 24 hours       | Pickup scheduled         |
+    | FBT                       | N/A            | Same/Next day            |
+    -------------------------------------------------------------------------
+
+5.4 PACKAGING REQUIREMENTS
+
+    (a) Secure packaging to prevent damage;
+    (b) No seller branding on outer package;
+    (c) Platform's shipping label clearly visible;
+    (d) Invoice and warranty card inside;
+    (e) Tamper-evident seal where required.
+
+5.5 ORDER CANCELLATION BY SELLER
+
+    Seller-initiated cancellations should be avoided:
+
+    (a) Cancel only if genuinely out of stock;
+    (b) Impacts seller metrics and visibility;
+    (c) Excessive cancellations lead to penalties;
+    (d) Customer must be notified promptly.
+
+================================================================================
+                    ARTICLE 6: SHIPPING AND DELIVERY
+================================================================================
+
+6.1 SHIPPING RESPONSIBILITY
+
+    (a) Self-Ship: Seller responsible for delivery
+    (b) Easy Ship/FBT: Platform manages delivery
+
+6.2 SHIPPING PARTNERS
+
+    Approved shipping partners:
+
+    (a) Platform logistics partners;
+    (b) Pre-approved third-party couriers;
+    (c) Seller's couriers (with tracking).
+
+6.3 DELIVERY TIMELINES
+
+    Seller must meet promised delivery dates:
+
+    (a) Standard: 5-10 business days;
+    (b) Express: 2-3 business days;
+    (c) Same/Next day: As committed.
+
+    Late deliveries impact seller rating.
+
+6.4 SHIPPING CHARGES
+
+    (a) Self-Ship: Seller bears cost or charges customer
+    (b) Easy Ship: Deducted from settlement per rate card
+    (c) FBT: Included in fulfillment fees
+
+6.5 TRACKING REQUIREMENTS
+
+    (a) Valid tracking ID for every shipment;
+    (b) Update tracking status promptly;
+    (c) Customer must be able to track order.
+
+6.6 DELIVERY FAILURES
+
+    (a) Coordinate with shipping partner on failures;
+    (b) Reattempt delivery or arrange pickup;
+    (c) Return to seller if undeliverable;
+    (d) Refund customer promptly.
+
+================================================================================
+                    ARTICLE 7: PAYMENT TERMS
+================================================================================
+
+7.1 SETTLEMENT CYCLE
+
+    (a) Standard settlement: 7 days after delivery
+    (b) New sellers: 14 days (first 3 months)
+    (c) Express settlement: Available for qualified sellers
+
+7.2 PAYMENT METHOD
+
+    (a) Bank transfer (NEFT/RTGS) to registered account;
+    (b) Payments on scheduled settlement days;
+    (c) Minimum settlement threshold: Rs. 100.
+
+7.3 SETTLEMENT STATEMENT
+
+    Detailed statement provided showing:
+
+    (a) Gross sales;
+    (b) Commission and fees;
+    (c) Taxes deducted;
+    (d) Refunds and returns;
+    (e) Net payable amount.
+
+7.4 TAX DEDUCTION
+
+    (a) TCS (Tax Collected at Source) as per Income Tax Act;
+    (b) Currently 1% of net taxable sales;
+    (c) TCS certificate provided quarterly;
+    (d) GST on fees deducted.
+
+7.5 DISPUTED SETTLEMENTS
+
+    (a) Raise dispute within 30 days of settlement;
+    (b) Provide supporting documentation;
+    (c) Resolution within 14 business days.
+
+7.6 PAYMENT HOLDS
+
+    Company may hold payments for:
+
+    (a) Suspected fraud or policy violations;
+    (b) High return/refund rates;
+    (c) Customer complaints under investigation;
+    (d) Account under review.
+
+================================================================================
+                    ARTICLE 8: RETURNS AND REFUNDS
+================================================================================
+
+8.1 RETURN POLICY
+
+    (a) Seller must accept returns as per Platform policy;
+    (b) Return window varies by category (7-30 days);
+    (c) Customer-initiated returns as per eligibility;
+    (d) Damaged/defective returns are mandatory.
+
+8.2 RETURN REASONS
+
+    Returns to be accepted for:
+
+    (a) Product not as described;
+    (b) Defective or damaged;
+    (c) Wrong product shipped;
+    (d) Size/fit issues (fashion);
+    (e) Customer changed mind (select categories).
+
+8.3 RETURN PROCESSING
+
+    (a) Returns shipped back to seller or FBT warehouse;
+    (b) Seller must confirm receipt within 2 business days;
+    (c) QC check by seller on returned product;
+    (d) Refund initiated within 2 days of QC.
+
+8.4 RETURN SHIPPING COSTS
+
+    (a) Seller bears cost for seller-fault returns;
+    (b) Customer bears cost for change-of-mind returns;
+    (c) Platform may recover from seller if applicable.
+
+8.5 REFUND DEDUCTIONS
+
+    Refund amount deducted from seller settlement:
+
+    (a) Full product value refunded to customer;
+    (b) Commission on cancelled order reversed;
+    (c) Shipping and handling costs may apply.
+
+8.6 RETURNLESS REFUNDS
+
+    For low-value items, Platform may:
+
+    (a) Refund customer without physical return;
+    (b) Amount deducted from seller;
+    (c) Decision based on cost-benefit analysis.
+
+================================================================================
+                    ARTICLE 9: CUSTOMER SERVICE
+================================================================================
+
+9.1 CUSTOMER COMMUNICATION
+
+    (a) Respond to customer queries within 24 hours;
+    (b) Use Platform's messaging system;
+    (c) Professional and courteous communication;
+    (d) No direct contact info exchange.
+
+9.2 COMPLAINT HANDLING
+
+    (a) Address complaints promptly;
+    (b) Offer reasonable solutions;
+    (c) Escalate to Platform if unresolved;
+    (d) Impact on seller metrics.
+
+9.3 CUSTOMER RATINGS AND REVIEWS
+
+    (a) Encourage genuine customer feedback;
+    (b) Do not manipulate reviews;
+    (c) Respond professionally to negative reviews;
+    (d) Ratings affect seller visibility.
+
+9.4 A-TO-Z GUARANTEE CLAIMS
+
+    (a) Platform's buyer protection program;
+    (b) Seller given opportunity to resolve;
+    (c) Platform decision if unresolved;
+    (d) Claims affect seller metrics.
+
+================================================================================
+                    ARTICLE 10: INTELLECTUAL PROPERTY
+================================================================================
+
+10.1 SELLER'S IP
+
+    (a) Seller retains ownership of their IP;
+    (b) Grant Platform license to use for listing purposes;
+    (c) License includes product images, descriptions, trademarks.
+
+10.2 PLATFORM'S IP
+
+    (a) Platform owns all its IP (logos, software, content);
+    (b) Seller granted limited license to use for selling;
+    (c) No unauthorized use of Platform's IP.
+
+10.3 THIRD-PARTY IP
+
+    Seller warrants:
+
+    (a) Products do not infringe third-party IP;
+    (b) Has right to sell branded products;
+    (c) Authorization letters available if required;
+    (d) Will indemnify Platform against IP claims.
+
+10.4 IP INFRINGEMENT CLAIMS
+
+    (a) Platform has IP complaint process;
+    (b) Listings removed upon valid complaint;
+    (c) Seller notified and can appeal;
+    (d) Repeat infringement leads to suspension.
+
+================================================================================
+                    ARTICLE 11: DATA PROTECTION AND PRIVACY
+================================================================================
+
+11.1 CUSTOMER DATA
+
+    (a) Access to customer data only for order fulfillment;
+    (b) Cannot use data for marketing without consent;
+    (c) Cannot share data with third parties;
+    (d) Must delete data when no longer needed.
+
+11.2 DATA SECURITY
+
+    (a) Implement appropriate security measures;
+    (b) Protect data from unauthorized access;
+    (c) Report breaches immediately;
+    (d) Comply with Platform's data policies.
+
+11.3 COMPLIANCE
+
+    (a) Comply with Digital Personal Data Protection Act, 2023;
+    (b) Comply with IT Act, 2000;
+    (c) Follow Platform's privacy policy.
+
+================================================================================
+                    ARTICLE 12: COMPLIANCE AND LEGAL REQUIREMENTS
+================================================================================
+
+12.1 LEGAL COMPLIANCE
+
+    Seller must comply with:
+
+    (a) Legal Metrology Act (packaging and labeling);
+    (b) Consumer Protection Act, 2019;
+    (c) E-Commerce Rules, 2020;
+    (d) Food Safety and Standards Act (for food);
+    (e) Drugs and Cosmetics Act (for relevant products);
+    (f) BIS standards and certifications;
+    (g) Import-export regulations;
+    (h) All other applicable laws.
+
+12.2 GST COMPLIANCE
+
+    (a) File GST returns regularly;
+    (b) Provide accurate GSTIN;
+    (c) Issue proper tax invoices;
+    (d) Maintain records as required.
+
+12.3 PRODUCT COMPLIANCE
+
+    Products must meet:
+
+    (a) All labeling requirements;
+    (b) Safety standards and certifications;
+    (c) Import regulations (for imported goods);
+    (d) Category-specific requirements.
+
+12.4 RECORD KEEPING
+
+    Maintain records for:
+
+    (a) All transactions: 7 years;
+    (b) Customer communications: 3 years;
+    (c) Invoices and tax documents: As per law;
+    (d) Product compliance certificates.
+
+================================================================================
+                    ARTICLE 13: REPRESENTATIONS AND WARRANTIES
+================================================================================
+
+13.1 SELLER REPRESENTATIONS
+
+    Seller represents and warrants that:
+
+    (a) Has legal authority to enter this Agreement;
+    (b) All information provided is accurate;
+    (c) Has necessary licenses and permissions;
+    (d) Products are genuine and legal;
+    (e) Products meet safety and quality standards;
+    (f) Has right to sell all listed products;
+    (g) Will comply with all applicable laws.
+
+13.2 PRODUCT WARRANTIES
+
+    (a) Products fit for intended purpose;
+    (b) Products match descriptions and images;
+    (c) Products free from defects;
+    (d) Warranty obligations as stated in listing.
+
+================================================================================
+                    ARTICLE 14: PROHIBITED PRODUCTS AND ACTIVITIES
+================================================================================
+
+14.1 PROHIBITED PRODUCTS
+
+    The following cannot be sold on the Platform:
+
+    (a) Counterfeit or replica products;
+    (b) Stolen goods;
+    (c) Weapons and ammunition;
+    (d) Drugs and controlled substances;
+    (e) Tobacco and alcohol;
+    (f) Pornographic material;
+    (g) Hazardous materials;
+    (h) Wildlife products;
+    (i) Products violating IP rights;
+    (j) Recalled products;
+    (k) Products prohibited by law.
+
+    Complete list available in Seller Policy.
+
+14.2 PROHIBITED ACTIVITIES
+
+    Sellers must not:
+
+    (a) Manipulate reviews or ratings;
+    (b) Engage in price manipulation;
+    (c) Create multiple accounts;
+    (d) Circumvent Platform systems;
+    (e) Provide false information;
+    (f) Contact customers outside Platform;
+    (g) Engage in fraudulent activities;
+    (h) Violate Platform policies.
+
+================================================================================
+                    ARTICLE 15: PERFORMANCE STANDARDS
+================================================================================
+
+15.1 KEY PERFORMANCE METRICS
+
+    -------------------------------------------------------------------------
+    | METRIC                    | TARGET        | THRESHOLD                 |
+    -------------------------------------------------------------------------
+    | Order Defect Rate (ODR)   | < 1%          | > 2% = Warning            |
+    | On-Time Delivery          | > 95%         | < 90% = Warning           |
+    | Valid Tracking Rate       | > 99%         | < 95% = Warning           |
+    | Cancellation Rate         | < 2.5%        | > 5% = Warning            |
+    | Return Rate               | < 5%          | > 10% = Review            |
+    | Customer Response Time    | < 24 hrs      | > 48 hrs = Warning        |
+    | Product Listing Quality   | > 90%         | < 70% = Suppression       |
+    -------------------------------------------------------------------------
+
+15.2 PERFORMANCE REVIEW
+
+    (a) Metrics reviewed weekly and monthly;
+    (b) Warnings issued for threshold violations;
+    (c) Improvement plan may be required;
+    (d) Continued poor performance leads to action.
+
+15.3 BENEFITS OF GOOD PERFORMANCE
+
+    (a) Better visibility in search results;
+    (b) Access to premium programs;
+    (c) Lower fees (qualifying sellers);
+    (d) Faster settlements;
+    (e) Badges and certifications.
+
+15.4 CONSEQUENCES OF POOR PERFORMANCE
+
+    (a) Reduced visibility;
+    (b) Restricted access to features;
+    (c) Higher fees;
+    (d) Longer settlement cycles;
+    (e) Account suspension.
+
+================================================================================
+                    ARTICLE 16: ACCOUNT SUSPENSION AND TERMINATION
+================================================================================
+
+16.1 SUSPENSION
+
+    Company may suspend Seller Account for:
+
+    (a) Policy violations;
+    (b) Poor performance metrics;
+    (c) Customer complaints;
+    (d) Suspected fraud;
+    (e) Legal or regulatory issues;
+    (f) Non-payment of fees.
+
+16.2 SUSPENSION PROCESS
+
+    (a) Notice provided (except in urgent cases);
+    (b) Opportunity to remedy violation;
+    (c) Appeal process available;
+    (d) Temporary or indefinite based on severity.
+
+16.3 TERMINATION BY COMPANY
+
+    Company may terminate for:
+
+    (a) Repeated policy violations;
+    (b) Severe or willful breach;
+    (c) Fraud or illegal activity;
+    (d) Unresolved suspension issues;
+    (e) Business decision (with notice).
+
+16.4 TERMINATION BY SELLER
+
+    (a) 30 days written notice required;
+    (b) Complete all pending orders;
+    (c) Settle all outstanding payments;
+    (d) Remove all inventory (FBT).
+
+16.5 EFFECT OF TERMINATION
+
+    Upon termination:
+
+    (a) Listings deactivated;
+    (b) Pending orders to be fulfilled;
+    (c) Outstanding settlements processed;
+    (d) Fees deducted as applicable;
+    (e) Return unsold FBT inventory;
+    (f) Data retention as per policy.
+
+================================================================================
+                    ARTICLE 17: LIMITATION OF LIABILITY
+================================================================================
+
+17.1 COMPANY LIABILITY
+
+    The Company shall not be liable for:
+
+    (a) Loss of profits, business, or goodwill;
+    (b) Indirect or consequential damages;
+    (c) Platform downtime or technical issues;
+    (d) Customer actions or disputes;
+    (e) Third-party actions;
+    (f) Force majeure events.
+
+17.2 MAXIMUM LIABILITY
+
+    Company's total liability shall not exceed the fees paid by
+    Seller in the 12 months preceding the claim.
+
+17.3 SELLER LIABILITY
+
+    Seller is fully liable for:
+
+    (a) Product quality and safety;
+    (b) Accuracy of listings;
+    (c) Legal compliance;
+    (d) Customer satisfaction;
+    (e) IP infringement;
+    (f) Tax obligations.
+
+================================================================================
+                    ARTICLE 18: INDEMNIFICATION
+================================================================================
+
+18.1 SELLER INDEMNIFICATION
+
+    Seller agrees to indemnify, defend, and hold harmless the Company,
+    its officers, directors, employees, and agents from any claims,
+    losses, damages, and expenses arising from:
+
+    (a) Seller's breach of this Agreement;
+    (b) Seller's products or services;
+    (c) Seller's violation of any law;
+    (d) IP infringement claims;
+    (e) Customer claims against products;
+    (f) Tax or regulatory penalties;
+    (g) Data breaches by Seller;
+    (h) Seller's negligence or misconduct.
+
+================================================================================
+                    ARTICLE 19: CONFIDENTIALITY
+================================================================================
+
+19.1 CONFIDENTIAL INFORMATION
+
+    Includes but not limited to:
+
+    (a) Business strategies and plans;
+    (b) Pricing and fee structures;
+    (c) Customer data;
+    (d) Technical specifications;
+    (e) Performance metrics.
+
+19.2 OBLIGATIONS
+
+    (a) Protect confidential information;
+    (b) Use only for Agreement purposes;
+    (c) Not disclose to third parties;
+    (d) Return upon termination.
+
+19.3 EXCEPTIONS
+
+    Does not apply to information that:
+
+    (a) Is publicly available;
+    (b) Was known before disclosure;
+    (c) Is independently developed;
+    (d) Is required by law to disclose.
+
+================================================================================
+                    ARTICLE 20: DISPUTE RESOLUTION
+================================================================================
+
+20.1 INFORMAL RESOLUTION
+
+    (a) Parties shall first attempt to resolve disputes informally;
+    (b) Contact Platform's seller support;
+    (c) Escalate to account manager if unresolved.
+
+20.2 ARBITRATION
+
+    (a) Disputes referred to arbitration under Arbitration and
+        Conciliation Act, 1996;
+    (b) Single arbitrator mutually agreed upon;
+    (c) Seat of arbitration: Bangalore, Karnataka;
+    (d) Language: English;
+    (e) Award shall be final and binding.
+
+20.3 GOVERNING LAW
+
+    This Agreement shall be governed by laws of India.
+
+20.4 JURISDICTION
+
+    Subject to arbitration, courts of Bangalore shall have
+    exclusive jurisdiction.
+
+================================================================================
+                    ARTICLE 21: GENERAL PROVISIONS
+================================================================================
+
+21.1 ENTIRE AGREEMENT
+
+    This Agreement and all policies constitute the entire agreement
+    and supersede all prior agreements.
+
+21.2 AMENDMENT
+
+    (a) Company may amend terms with 15 days notice;
+    (b) Continued selling after notice constitutes acceptance;
+    (c) Material changes notified via email and dashboard.
+
+21.3 SEVERABILITY
+
+    If any provision is found invalid, remaining provisions continue
+    in full force.
+
+21.4 WAIVER
+
+    Failure to enforce any provision does not constitute waiver.
+
+21.5 ASSIGNMENT
+
+    Seller cannot assign this Agreement without written consent.
+
+21.6 INDEPENDENT CONTRACTOR
+
+    Seller is an independent contractor, not employee or agent.
+
+21.7 NOTICES
+
+    (a) To Seller: Email/dashboard notification
+    (b) To Company: legal@techventure.in
+
+================================================================================
+                         SIGNATURES
+================================================================================
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the
+Effective Date.
+
+
+For TECHVENTURE INDIA PRIVATE LIMITED:
+
+_________________________
+Name: ___________________________
+Designation: ___________________________
+Date: ___________________________
+
+
+For SELLER:
+
+_________________________
+Name: ___________________________
+Designation: ___________________________
+Date: ___________________________
+
+
+WITNESS 1:
+
+_________________________
+Name: ___________________________
+Address: ___________________________
+
+
+WITNESS 2:
+
+_________________________
+Name: ___________________________
+Address: ___________________________
+
+================================================================================
+                         SCHEDULES
+================================================================================
+
+SCHEDULE A: Commission Rate Card
+SCHEDULE B: Fulfillment Fee Structure
+SCHEDULE C: Seller Performance Standards
+SCHEDULE D: Prohibited Products List
+SCHEDULE E: Listing Quality Guidelines
+
+(Schedules available in Seller Dashboard)
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    SELLER MARKETPLACE AGREEMENT
+                    VERSION 1.0
+
+================================================================================

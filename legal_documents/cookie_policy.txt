@@ -1,0 +1,576 @@
+================================================================================
+                         COOKIE POLICY
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE WEBSITE COOKIE POLICY
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+Last Updated: _____ day of __________, 20____
+
+================================================================================
+                         COMPANY INFORMATION
+================================================================================
+
+Company Name:     TECHVENTURE INDIA PRIVATE LIMITED
+CIN:              U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                  Bangalore - 560095, Karnataka, India
+Website:          www.techventure.in
+Email:            privacy@techventure.in
+Phone:            +91-80-4567-8900
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+SECTION 1:  INTRODUCTION
+SECTION 2:  WHAT ARE COOKIES
+SECTION 3:  WHY WE USE COOKIES
+SECTION 4:  TYPES OF COOKIES WE USE
+SECTION 5:  DETAILED COOKIE LIST
+SECTION 6:  THIRD-PARTY COOKIES
+SECTION 7:  YOUR COOKIE CHOICES
+SECTION 8:  MANAGING COOKIES BY BROWSER
+SECTION 9:  MOBILE APP TRACKING
+SECTION 10: IMPACT OF DISABLING COOKIES
+SECTION 11: DO NOT TRACK SIGNALS
+SECTION 12: UPDATES TO THIS POLICY
+SECTION 13: CONTACT INFORMATION
+
+================================================================================
+                    SECTION 1: INTRODUCTION
+================================================================================
+
+1.1 PURPOSE
+
+    This Cookie Policy explains how TechVenture India Private Limited
+    ("Company," "we," "us," "our") uses cookies and similar tracking
+    technologies on our website www.techventure.in and mobile applications
+    (collectively, "Platform").
+
+1.2 SCOPE
+
+    This policy applies to:
+
+    (a) Our website and all subdomains;
+    (b) Our mobile applications;
+    (c) Any other digital platforms we operate;
+    (d) All users accessing our Platform.
+
+1.3 CONSENT
+
+    By continuing to use our Platform, you consent to our use of cookies
+    as described in this policy. You can manage your cookie preferences
+    through your browser settings or our cookie consent tool.
+
+1.4 RELATIONSHIP WITH PRIVACY POLICY
+
+    This Cookie Policy should be read together with our Privacy Policy,
+    which provides information about how we collect, use, and protect
+    your personal data.
+
+================================================================================
+                    SECTION 2: WHAT ARE COOKIES
+================================================================================
+
+2.1 DEFINITION
+
+    Cookies are small text files that are placed on your device (computer,
+    smartphone, tablet) when you visit a website. They are widely used to
+    make websites work efficiently and provide information to site owners.
+
+2.2 HOW COOKIES WORK
+
+    (a) When you visit our Platform, a cookie is downloaded to your device;
+    (b) The cookie stores information about your visit;
+    (c) When you return, the cookie is retrieved;
+    (d) This allows the Platform to "remember" your preferences and actions.
+
+2.3 COOKIE CONTENTS
+
+    Cookies typically contain:
+
+    (a) Name of the cookie;
+    (b) Unique identifier;
+    (c) Website domain;
+    (d) Expiration date;
+    (e) Stored data (preferences, session info, etc.).
+
+2.4 SIMILAR TECHNOLOGIES
+
+    In addition to cookies, we may use:
+
+    (a) WEB BEACONS: Small graphic images that track user behavior
+    (b) PIXELS: Tiny images in emails to track opens and clicks
+    (c) LOCAL STORAGE: Data stored in your browser
+    (d) SESSION STORAGE: Temporary data for single session
+    (e) FINGERPRINTING: Device identification techniques
+
+    This policy covers all such technologies.
+
+================================================================================
+                    SECTION 3: WHY WE USE COOKIES
+================================================================================
+
+3.1 ESSENTIAL FUNCTIONS
+
+    (a) Enable basic website functionality;
+    (b) Keep you logged in during your session;
+    (c) Remember items in your shopping cart;
+    (d) Process transactions securely;
+    (e) Detect and prevent fraud.
+
+3.2 PERFORMANCE AND ANALYTICS
+
+    (a) Understand how users interact with our Platform;
+    (b) Identify popular pages and features;
+    (c) Monitor website performance;
+    (d) Debug errors and issues;
+    (e) Improve user experience.
+
+3.3 PERSONALIZATION
+
+    (a) Remember your preferences (language, currency, location);
+    (b) Customize content based on your interests;
+    (c) Show recently viewed products;
+    (d) Provide personalized recommendations;
+    (e) Remember your settings.
+
+3.4 ADVERTISING AND MARKETING
+
+    (a) Show relevant advertisements;
+    (b) Measure ad campaign effectiveness;
+    (c) Limit ad frequency;
+    (d) Provide targeted promotions;
+    (e) Retarget users across platforms.
+
+================================================================================
+                    SECTION 4: TYPES OF COOKIES WE USE
+================================================================================
+
+4.1 BY DURATION
+
+    (a) SESSION COOKIES
+        - Temporary cookies that expire when you close your browser
+        - Used for essential functions like shopping cart
+        - Do not collect information from your device
+
+    (b) PERSISTENT COOKIES
+        - Remain on your device for a set period or until deleted
+        - Used for preferences, analytics, and advertising
+        - Help recognize returning users
+
+4.2 BY SOURCE
+
+    (a) FIRST-PARTY COOKIES
+        - Set by TechVenture directly
+        - Essential for Platform operation
+        - Subject to our privacy practices
+
+    (b) THIRD-PARTY COOKIES
+        - Set by our partners and service providers
+        - Used for analytics, advertising, and functionality
+        - Subject to third-party privacy policies
+
+4.3 BY PURPOSE
+
+    (a) STRICTLY NECESSARY COOKIES
+        - Essential for website operation
+        - Cannot be disabled
+        - Examples: Authentication, security, cart management
+
+    (b) PERFORMANCE COOKIES
+        - Collect information about Platform usage
+        - Help us improve our services
+        - Examples: Analytics, error tracking
+
+    (c) FUNCTIONAL COOKIES
+        - Enable enhanced features and personalization
+        - Remember user preferences
+        - Examples: Language, location, display settings
+
+    (d) TARGETING/ADVERTISING COOKIES
+        - Track browsing activity across websites
+        - Deliver relevant advertisements
+        - Examples: Retargeting, ad measurement
+
+================================================================================
+                    SECTION 5: DETAILED COOKIE LIST
+================================================================================
+
+5.1 STRICTLY NECESSARY COOKIES
+
+    -------------------------------------------------------------------------
+    | COOKIE NAME        | PURPOSE                    | EXPIRY              |
+    -------------------------------------------------------------------------
+    | session_id         | User session management    | Session             |
+    | cart_id            | Shopping cart tracking     | 30 days             |
+    | csrf_token         | Security - prevent CSRF    | Session             |
+    | auth_token         | User authentication        | 7 days              |
+    | secure_key         | Secure transaction         | Session             |
+    | consent_status     | Cookie consent preference  | 1 year              |
+    -------------------------------------------------------------------------
+
+5.2 PERFORMANCE COOKIES
+
+    -------------------------------------------------------------------------
+    | COOKIE NAME        | PURPOSE                    | EXPIRY              |
+    -------------------------------------------------------------------------
+    | _ga                | Google Analytics tracking  | 2 years             |
+    | _gid               | Google Analytics user ID   | 24 hours            |
+    | _gat               | Google Analytics throttle  | 1 minute            |
+    | mp_*               | Mixpanel analytics         | 1 year              |
+    | optimizely_*       | A/B testing                | 6 months            |
+    | nr_*               | Performance monitoring     | Session             |
+    -------------------------------------------------------------------------
+
+5.3 FUNCTIONAL COOKIES
+
+    -------------------------------------------------------------------------
+    | COOKIE NAME        | PURPOSE                    | EXPIRY              |
+    -------------------------------------------------------------------------
+    | user_prefs         | User preferences           | 1 year              |
+    | language           | Language preference        | 1 year              |
+    | currency           | Currency preference        | 1 year              |
+    | location           | Location preference        | 30 days             |
+    | recently_viewed    | Recent product views       | 30 days             |
+    | wishlist_token     | Wishlist access            | 1 year              |
+    -------------------------------------------------------------------------
+
+5.4 ADVERTISING COOKIES
+
+    -------------------------------------------------------------------------
+    | COOKIE NAME        | PURPOSE                    | EXPIRY              |
+    -------------------------------------------------------------------------
+    | _fbp               | Facebook advertising       | 3 months            |
+    | fr                 | Facebook tracking          | 3 months            |
+    | _gcl_au            | Google Ads conversion      | 3 months            |
+    | IDE                | Google DoubleClick         | 1 year              |
+    | test_cookie        | DoubleClick test           | 15 minutes          |
+    | criteo_*           | Criteo retargeting         | 13 months           |
+    | taboola_*          | Taboola advertising        | 1 year              |
+    -------------------------------------------------------------------------
+
+================================================================================
+                    SECTION 6: THIRD-PARTY COOKIES
+================================================================================
+
+6.1 ANALYTICS PARTNERS
+
+    (a) GOOGLE ANALYTICS
+        - Purpose: Website analytics and user behavior
+        - Privacy: https://policies.google.com/privacy
+        - Opt-out: https://tools.google.com/dlpage/gaoptout
+
+    (b) MIXPANEL
+        - Purpose: Product analytics
+        - Privacy: https://mixpanel.com/privacy/
+        - Opt-out: Available in dashboard
+
+    (c) HOTJAR
+        - Purpose: Heatmaps and session recording
+        - Privacy: https://www.hotjar.com/privacy/
+
+6.2 ADVERTISING PARTNERS
+
+    (a) GOOGLE ADS
+        - Purpose: Advertising and conversion tracking
+        - Privacy: https://policies.google.com/privacy
+        - Opt-out: https://adssettings.google.com
+
+    (b) FACEBOOK/META
+        - Purpose: Social advertising and pixel tracking
+        - Privacy: https://www.facebook.com/privacy/
+        - Opt-out: Facebook ad preferences
+
+    (c) CRITEO
+        - Purpose: Retargeting advertisements
+        - Privacy: https://www.criteo.com/privacy/
+        - Opt-out: https://www.criteo.com/privacy/
+
+6.3 SOCIAL MEDIA
+
+    (a) FACEBOOK
+        - Purpose: Social login, sharing, and likes
+        - Privacy: https://www.facebook.com/privacy/
+
+    (b) GOOGLE
+        - Purpose: Social login and integration
+        - Privacy: https://policies.google.com/privacy
+
+    (c) TWITTER
+        - Purpose: Social sharing and follow buttons
+        - Privacy: https://twitter.com/privacy
+
+6.4 PAYMENT PROVIDERS
+
+    (a) Payment gateways may set cookies for:
+        - Transaction security
+        - Fraud prevention
+        - Session management
+
+    (b) These are strictly necessary and cannot be disabled.
+
+6.5 THIRD-PARTY PRIVACY
+
+    We do not control third-party cookies. Please refer to their
+    respective privacy policies for information about their data
+    practices and your choices.
+
+================================================================================
+                    SECTION 7: YOUR COOKIE CHOICES
+================================================================================
+
+7.1 COOKIE CONSENT TOOL
+
+    (a) Consent banner displayed on first visit;
+    (b) Choose cookie categories to accept;
+    (c) Modify preferences anytime via "Cookie Settings";
+    (d) Essential cookies cannot be disabled.
+
+7.2 CONSENT OPTIONS
+
+    You can choose to:
+
+    (a) ACCEPT ALL: Enable all cookie categories
+    (b) REJECT ALL: Only essential cookies enabled
+    (c) CUSTOMIZE: Select specific categories
+
+7.3 COOKIE CATEGORIES YOU CAN CONTROL
+
+    -------------------------------------------------------------------------
+    | CATEGORY              | CAN DISABLE | IMPACT IF DISABLED              |
+    -------------------------------------------------------------------------
+    | Strictly Necessary    | No          | N/A                             |
+    | Performance           | Yes         | No analytics data               |
+    | Functional            | Yes         | Preferences not saved           |
+    | Advertising           | Yes         | Less relevant ads               |
+    -------------------------------------------------------------------------
+
+7.4 CHANGING YOUR PREFERENCES
+
+    To change cookie preferences:
+
+    (a) Click "Cookie Settings" in website footer;
+    (b) Adjust your preferences;
+    (c) Save changes;
+    (d) Clear existing cookies if needed.
+
+================================================================================
+                    SECTION 8: MANAGING COOKIES BY BROWSER
+================================================================================
+
+8.1 BROWSER SETTINGS
+
+    You can control cookies through browser settings:
+
+    (a) GOOGLE CHROME
+        Settings > Privacy and Security > Cookies and other site data
+        Or: chrome://settings/cookies
+
+    (b) MOZILLA FIREFOX
+        Options > Privacy & Security > Cookies and Site Data
+        Or: about:preferences#privacy
+
+    (c) SAFARI
+        Preferences > Privacy > Manage Website Data
+        Or: Safari > Preferences > Privacy
+
+    (d) MICROSOFT EDGE
+        Settings > Cookies and site permissions > Cookies
+        Or: edge://settings/content/cookies
+
+    (e) OPERA
+        Settings > Advanced > Privacy & Security > Cookies
+
+8.2 MOBILE BROWSERS
+
+    (a) SAFARI (iOS)
+        Settings > Safari > Privacy & Security
+
+    (b) CHROME (Android)
+        Menu > Settings > Privacy > Cookies
+
+8.3 BROWSER ACTIONS
+
+    You can:
+
+    (a) Block all cookies;
+    (b) Block third-party cookies only;
+    (c) Delete existing cookies;
+    (d) Allow specific websites;
+    (e) Set up automatic deletion.
+
+8.4 PRIVATE BROWSING
+
+    (a) Use Incognito/Private mode;
+    (b) Cookies deleted when window closes;
+    (c) No persistent tracking;
+    (d) Recommended for shared devices.
+
+================================================================================
+                    SECTION 9: MOBILE APP TRACKING
+================================================================================
+
+9.1 APP TRACKING TECHNOLOGIES
+
+    Our mobile apps may use:
+
+    (a) Device identifiers (IDFA, GAID);
+    (b) SDKs for analytics and advertising;
+    (c) Push notification tokens;
+    (d) Location data (with permission).
+
+9.2 ADVERTISING IDENTIFIERS
+
+    (a) iOS: Identifier for Advertisers (IDFA)
+    (b) Android: Google Advertising ID (GAID)
+    (c) Used for ad targeting and measurement.
+
+9.3 MANAGING APP TRACKING
+
+    (a) iOS
+        Settings > Privacy > Tracking
+        Turn off "Allow Apps to Request to Track"
+
+    (b) Android
+        Settings > Google > Ads
+        Turn on "Opt out of Ads Personalization"
+
+9.4 RESET ADVERTISING ID
+
+    You can reset your advertising ID:
+
+    (a) iOS: Settings > Privacy > Advertising > Reset Advertising ID
+    (b) Android: Settings > Google > Ads > Reset advertising ID
+
+================================================================================
+                    SECTION 10: IMPACT OF DISABLING COOKIES
+================================================================================
+
+10.1 GENERAL IMPACT
+
+    Disabling cookies may:
+
+    (a) Affect website functionality;
+    (b) Prevent saving preferences;
+    (c) Require repeated login;
+    (d) Show less relevant content;
+    (e) Impact shopping cart functionality.
+
+10.2 SPECIFIC IMPACTS
+
+    (a) STRICTLY NECESSARY DISABLED
+        - Cannot process orders
+        - Login not possible
+        - Cart not functional
+        - Platform unusable
+
+    (b) PERFORMANCE DISABLED
+        - We cannot improve services
+        - Issues may go undetected
+        - No impact on user experience
+
+    (c) FUNCTIONAL DISABLED
+        - Preferences not remembered
+        - Repeated configuration needed
+        - Recently viewed not available
+
+    (d) ADVERTISING DISABLED
+        - See generic/random ads
+        - Ads may not be relevant
+        - More total ads may be shown
+
+10.3 RECOMMENDATION
+
+    We recommend keeping at least "Strictly Necessary" and "Functional"
+    cookies enabled for the best experience on our Platform.
+
+================================================================================
+                    SECTION 11: DO NOT TRACK SIGNALS
+================================================================================
+
+11.1 DNT SIGNALS
+
+    Some browsers offer "Do Not Track" (DNT) signals. Currently:
+
+    (a) No industry standard for DNT;
+    (b) We do not currently respond to DNT signals;
+    (c) Use cookie settings to control tracking;
+    (d) Third parties may respond differently.
+
+11.2 GLOBAL PRIVACY CONTROL
+
+    We recognize Global Privacy Control (GPC) signals where legally
+    required and treat them as opt-out requests for targeted advertising.
+
+================================================================================
+                    SECTION 12: UPDATES TO THIS POLICY
+================================================================================
+
+12.1 POLICY CHANGES
+
+    We may update this Cookie Policy to reflect:
+
+    (a) Changes in cookies used;
+    (b) New features or services;
+    (c) Legal or regulatory changes;
+    (d) Improved transparency.
+
+12.2 NOTIFICATION
+
+    (a) Updated policy posted on this page;
+    (b) "Last Updated" date changed;
+    (c) Significant changes notified via banner;
+    (d) Continued use indicates acceptance.
+
+12.3 REVIEW
+
+    We recommend reviewing this policy periodically for updates.
+
+================================================================================
+                    SECTION 13: CONTACT INFORMATION
+================================================================================
+
+13.1 PRIVACY TEAM
+
+    For questions about this Cookie Policy:
+
+    Email:      privacy@techventure.in
+    Phone:      +91-80-4567-8900
+    Address:    Privacy Team
+                TechVenture India Private Limited
+                #42, 3rd Floor, Koramangala 5th Block
+                Bangalore - 560095, Karnataka, India
+
+13.2 DATA PROTECTION OFFICER
+
+    Email:      dpo@techventure.in
+
+13.3 GRIEVANCE OFFICER
+
+    Email:      grievance@techventure.in
+    Phone:      +91-80-4567-8901
+
+================================================================================
+                         ACKNOWLEDGMENT
+================================================================================
+
+By continuing to use our Platform, you acknowledge that you have read
+and understood this Cookie Policy and consent to our use of cookies as
+described herein.
+
+You can manage your cookie preferences at any time through our Cookie
+Settings tool or your browser settings.
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    COOKIE POLICY
+                    VERSION 1.0
+
+================================================================================

@@ -1,0 +1,814 @@
+================================================================================
+                    E-COMMERCE TERMS AND CONDITIONS
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE PLATFORM TERMS AND CONDITIONS
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+Last Updated: _____ day of __________, 20____
+
+================================================================================
+                         COMPANY INFORMATION
+================================================================================
+
+Company Name:     TECHVENTURE INDIA PRIVATE LIMITED
+CIN:              U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                  Bangalore - 560095, Karnataka, India
+Website:          www.techventure.in
+Email:            support@techventure.in
+Phone:            +91-80-4567-8900
+Grievance Officer: grievance@techventure.in
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+ARTICLE 1:  DEFINITIONS AND INTERPRETATION
+ARTICLE 2:  ACCEPTANCE OF TERMS
+ARTICLE 3:  USER ACCOUNT REGISTRATION
+ARTICLE 4:  PRODUCTS AND SERVICES
+ARTICLE 5:  PRICING AND PAYMENT
+ARTICLE 6:  ORDER PLACEMENT AND ACCEPTANCE
+ARTICLE 7:  SHIPPING AND DELIVERY
+ARTICLE 8:  RETURNS, REFUNDS AND CANCELLATIONS
+ARTICLE 9:  WARRANTIES AND DISCLAIMERS
+ARTICLE 10: INTELLECTUAL PROPERTY RIGHTS
+ARTICLE 11: USER CONDUCT AND PROHIBITED ACTIVITIES
+ARTICLE 12: PRIVACY AND DATA PROTECTION
+ARTICLE 13: LIMITATION OF LIABILITY
+ARTICLE 14: INDEMNIFICATION
+ARTICLE 15: DISPUTE RESOLUTION
+ARTICLE 16: GOVERNING LAW AND JURISDICTION
+ARTICLE 17: MODIFICATIONS TO TERMS
+ARTICLE 18: SEVERABILITY
+ARTICLE 19: ENTIRE AGREEMENT
+ARTICLE 20: CONTACT INFORMATION
+
+================================================================================
+                    ARTICLE 1: DEFINITIONS AND INTERPRETATION
+================================================================================
+
+1.1 DEFINITIONS
+
+    In these Terms and Conditions, unless the context otherwise requires:
+
+    (a) "Agreement" means these E-Commerce Terms and Conditions together
+        with the Privacy Policy, Refund Policy, and any other policies
+        referenced herein;
+
+    (b) "Buyer" or "Customer" or "User" means any individual or entity
+        that accesses, browses, or purchases products/services through
+        the Platform;
+
+    (c) "Company" or "We" or "Us" or "Our" means TechVenture India
+        Private Limited and its affiliates;
+
+    (d) "Consumer Protection Act" means the Consumer Protection Act, 2019
+        and the Consumer Protection (E-Commerce) Rules, 2020 as amended;
+
+    (e) "Content" means all text, images, videos, graphics, audio, data,
+        and other materials displayed on or available through the Platform;
+
+    (f) "Goods" or "Products" means the tangible items listed for sale
+        on the Platform;
+
+    (g) "Order" means a request by the User to purchase Products or
+        Services through the Platform;
+
+    (h) "Platform" means the e-commerce website, mobile application, and
+        any other digital platforms operated by the Company;
+
+    (i) "Personal Data" has the meaning assigned under the Digital
+        Personal Data Protection Act, 2023 ("DPDPA");
+
+    (j) "Seller" means the Company or any third-party vendor authorized
+        to sell products through the Platform;
+
+    (k) "Services" means any services offered through the Platform
+        including but not limited to delivery, installation, and support;
+
+    (l) "Transaction" means any purchase, return, exchange, or other
+        commercial activity conducted through the Platform.
+
+1.2 INTERPRETATION
+
+    (a) References to "including" shall be construed as "including
+        without limitation";
+
+    (b) Headings are for convenience only and shall not affect
+        interpretation;
+
+    (c) References to any statute include amendments and re-enactments;
+
+    (d) Words in singular include plural and vice versa;
+
+    (e) Currency references to "Rs." or "INR" mean Indian Rupees.
+
+================================================================================
+                    ARTICLE 2: ACCEPTANCE OF TERMS
+================================================================================
+
+2.1 BINDING AGREEMENT
+
+    By accessing, browsing, or using the Platform in any manner, you
+    acknowledge that you have read, understood, and agree to be bound
+    by these Terms and Conditions. If you do not agree to these terms,
+    you must not access or use the Platform.
+
+2.2 ELIGIBILITY
+
+    To use the Platform, you must:
+
+    (a) Be at least 18 years of age or the age of majority in your
+        jurisdiction;
+
+    (b) Have the legal capacity to enter into binding contracts;
+
+    (c) Not be prohibited from using e-commerce platforms under
+        applicable law;
+
+    (d) Provide accurate and complete registration information;
+
+    (e) Agree to comply with all applicable laws and regulations.
+
+2.3 REPRESENTATION AND WARRANTIES
+
+    By using the Platform, you represent and warrant that:
+
+    (a) All information provided by you is true, accurate, current,
+        and complete;
+
+    (b) You have the necessary authority to enter into this Agreement;
+
+    (c) Your use of the Platform will not violate any applicable law
+        or regulation;
+
+    (d) You will maintain the security of your account credentials;
+
+    (e) You accept full responsibility for all activities under your
+        account.
+
+================================================================================
+                    ARTICLE 3: USER ACCOUNT REGISTRATION
+================================================================================
+
+3.1 ACCOUNT CREATION
+
+    (a) Certain features of the Platform require account registration;
+
+    (b) You must provide accurate, current, and complete information
+        during registration;
+
+    (c) You must update your information promptly if any changes occur;
+
+    (d) Multiple accounts for the same user are prohibited unless
+        expressly permitted.
+
+3.2 ACCOUNT SECURITY
+
+    (a) You are responsible for maintaining the confidentiality of
+        your login credentials;
+
+    (b) You must immediately notify us of any unauthorized access
+        or security breach;
+
+    (c) The Company is not liable for any loss arising from
+        unauthorized use of your account;
+
+    (d) You must use strong passwords and enable two-factor
+        authentication where available;
+
+    (e) Do not share your account credentials with third parties.
+
+3.3 ACCOUNT TERMINATION
+
+    The Company reserves the right to:
+
+    (a) Suspend or terminate accounts for violation of these Terms;
+
+    (b) Refuse registration to any user for any reason;
+
+    (c) Remove or edit content posted by users;
+
+    (d) Take appropriate legal action against violators.
+
+================================================================================
+                    ARTICLE 4: PRODUCTS AND SERVICES
+================================================================================
+
+4.1 PRODUCT INFORMATION
+
+    (a) We strive to display accurate product descriptions, images,
+        and specifications;
+
+    (b) Colors and dimensions may vary slightly due to display settings;
+
+    (c) Product availability is subject to change without notice;
+
+    (d) We do not warrant that product descriptions are error-free;
+
+    (e) If a product is not as described, your sole remedy is to
+        return it in accordance with our Return Policy.
+
+4.2 PRODUCT AVAILABILITY
+
+    (a) All products are subject to availability;
+
+    (b) We reserve the right to limit quantities and discontinue
+        products;
+
+    (c) We will notify you if a product becomes unavailable after
+        order placement;
+
+    (d) Promotional offers are subject to availability and specific
+        terms.
+
+4.3 THIRD-PARTY PRODUCTS
+
+    (a) Products sold by third-party sellers are subject to seller
+        terms;
+
+    (b) The Company acts as a marketplace facilitator for such products;
+
+    (c) Product warranties from third-party sellers are between buyer
+        and seller;
+
+    (d) We facilitate dispute resolution between buyers and sellers.
+
+================================================================================
+                    ARTICLE 5: PRICING AND PAYMENT
+================================================================================
+
+5.1 PRICING
+
+    (a) All prices are displayed in Indian Rupees (INR) unless otherwise
+        specified;
+
+    (b) Prices include applicable taxes unless stated otherwise;
+
+    (c) Shipping and handling charges are additional unless specified;
+
+    (d) We reserve the right to change prices at any time without notice;
+
+    (e) Promotional prices are valid only during the promotional period;
+
+    (f) In case of pricing errors, we reserve the right to cancel orders.
+
+5.2 PAYMENT METHODS
+
+    We accept the following payment methods:
+
+    (a) Credit Cards (Visa, MasterCard, American Express, RuPay);
+    (b) Debit Cards;
+    (c) Net Banking;
+    (d) UPI (Unified Payments Interface);
+    (e) Digital Wallets (Paytm, PhonePe, Google Pay, etc.);
+    (f) EMI (Equated Monthly Installments) on select cards;
+    (g) Cash on Delivery (COD) - subject to availability;
+    (h) Buy Now Pay Later (BNPL) options where available.
+
+5.3 PAYMENT PROCESSING
+
+    (a) All payments are processed through secure payment gateways;
+
+    (b) We do not store your complete card details on our servers;
+
+    (c) Payment verification may be required for high-value orders;
+
+    (d) We comply with PCI-DSS standards for payment security;
+
+    (e) Transaction failures will be notified, and amount will be
+        refunded as per our refund policy.
+
+5.4 INVOICING
+
+    (a) Electronic invoices will be sent to your registered email;
+
+    (b) Invoices include GST details as per applicable regulations;
+
+    (c) You can download invoices from your account dashboard;
+
+    (d) For GST credit, please provide your GSTIN during checkout.
+
+================================================================================
+                    ARTICLE 6: ORDER PLACEMENT AND ACCEPTANCE
+================================================================================
+
+6.1 ORDER PROCESS
+
+    (a) Adding items to cart does not reserve them;
+
+    (b) Orders are subject to acceptance by the Company/Seller;
+
+    (c) Order confirmation email does not constitute acceptance;
+
+    (d) The contract is formed only upon dispatch of products;
+
+    (e) We reserve the right to reject orders for any reason.
+
+6.2 ORDER VERIFICATION
+
+    (a) Orders may be verified for fraud prevention;
+
+    (b) We may request additional information or documentation;
+
+    (c) Unverified orders may be cancelled without liability;
+
+    (d) COD orders are subject to phone verification;
+
+    (e) High-value orders may require address verification.
+
+6.3 ORDER CANCELLATION BY COMPANY
+
+    We may cancel orders due to:
+
+    (a) Product unavailability;
+    (b) Pricing or description errors;
+    (c) Suspected fraudulent activity;
+    (d) Inability to verify customer information;
+    (e) Limitations on quantities or geographic restrictions;
+    (f) Any other legitimate business reason.
+
+    In case of cancellation, full refund will be processed within
+    5-7 business days.
+
+================================================================================
+                    ARTICLE 7: SHIPPING AND DELIVERY
+================================================================================
+
+7.1 DELIVERY AREAS
+
+    (a) We deliver to serviceable pin codes across India;
+
+    (b) Delivery availability varies by product and location;
+
+    (c) Remote areas may have extended delivery timelines;
+
+    (d) International shipping is available for select products.
+
+7.2 DELIVERY TIMELINES
+
+    (a) Estimated delivery dates are indicative and not guaranteed;
+
+    (b) Standard delivery: 5-10 business days;
+
+    (c) Express delivery: 2-3 business days (where available);
+
+    (d) Delays due to force majeure events are not our responsibility;
+
+    (e) Business days exclude Sundays and public holidays.
+
+7.3 SHIPPING CHARGES
+
+    (a) Shipping charges are displayed at checkout;
+
+    (b) Free shipping may be available above certain order values;
+
+    (c) COD orders may attract additional handling charges;
+
+    (d) Shipping charges are non-refundable except for our errors.
+
+7.4 DELIVERY ACCEPTANCE
+
+    (a) Products must be inspected upon delivery;
+
+    (b) Damaged or incorrect items must be reported immediately;
+
+    (c) Signature confirms receipt in acceptable condition;
+
+    (d) Undelivered packages will be returned after 3 attempts;
+
+    (e) Reshipping charges may apply for failed deliveries.
+
+================================================================================
+                    ARTICLE 8: RETURNS, REFUNDS AND CANCELLATIONS
+================================================================================
+
+8.1 RETURN POLICY
+
+    (a) Returns are accepted within 7-30 days depending on product
+        category;
+
+    (b) Products must be unused, in original packaging with all tags;
+
+    (c) Certain products are non-returnable (e.g., perishables, intimate
+        wear, customized items);
+
+    (d) Return shipping may be free or at customer's cost depending
+        on return reason;
+
+    (e) Detailed return policy is available at [Return Policy Page].
+
+8.2 REFUND PROCESS
+
+    (a) Refunds are processed within 5-7 business days of return receipt;
+
+    (b) Original payment method will be used for refund;
+
+    (c) COD orders will be refunded to bank account or store credit;
+
+    (d) Partial refunds may apply for returned damaged items;
+
+    (e) Refund amount will exclude original shipping charges unless
+        our error.
+
+8.3 ORDER CANCELLATION BY CUSTOMER
+
+    (a) Orders can be cancelled before dispatch without charges;
+
+    (b) After dispatch, cancellation is treated as return;
+
+    (c) COD orders declined at delivery will attract shipping charges;
+
+    (d) Cancellation requests can be made through account dashboard
+        or customer support.
+
+8.4 EXCHANGE POLICY
+
+    (a) Exchanges are subject to product availability;
+
+    (b) Price differences will be charged or refunded accordingly;
+
+    (c) Only one exchange per order is permitted;
+
+    (d) Exchange requests follow the same timeline as returns.
+
+================================================================================
+                    ARTICLE 9: WARRANTIES AND DISCLAIMERS
+================================================================================
+
+9.1 PRODUCT WARRANTIES
+
+    (a) Manufacturer warranties apply as specified for each product;
+
+    (b) Warranty claims must be made directly with manufacturers unless
+        otherwise specified;
+
+    (c) The Company does not provide additional warranties unless
+        explicitly stated;
+
+    (d) Extended warranty options may be available for purchase.
+
+9.2 PLATFORM WARRANTIES
+
+    THE PLATFORM IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT
+    WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+    LIMITED TO:
+
+    (a) WARRANTIES OF MERCHANTABILITY;
+    (b) FITNESS FOR A PARTICULAR PURPOSE;
+    (c) NON-INFRINGEMENT;
+    (d) ACCURACY OR COMPLETENESS OF CONTENT;
+    (e) UNINTERRUPTED OR ERROR-FREE OPERATION.
+
+9.3 DISCLAIMERS
+
+    (a) We do not guarantee product suitability for specific purposes;
+
+    (b) User-generated content (reviews, ratings) is not verified by us;
+
+    (c) Third-party links are provided for convenience only;
+
+    (d) We are not responsible for third-party website content;
+
+    (e) Market information or advice is not guaranteed to be accurate.
+
+================================================================================
+                    ARTICLE 10: INTELLECTUAL PROPERTY RIGHTS
+================================================================================
+
+10.1 COMPANY'S INTELLECTUAL PROPERTY
+
+    (a) All Platform content is owned by or licensed to the Company;
+
+    (b) Trademarks, logos, and service marks are proprietary;
+
+    (c) Unauthorized use of our IP is strictly prohibited;
+
+    (d) Limited license is granted for personal, non-commercial use;
+
+    (e) No right to modify, copy, distribute, or create derivative
+        works is granted.
+
+10.2 USER-GENERATED CONTENT
+
+    (a) You retain ownership of content you post on the Platform;
+
+    (b) You grant us a perpetual, royalty-free license to use such
+        content;
+
+    (c) You warrant that your content does not infringe third-party
+        rights;
+
+    (d) We may remove user content that violates our policies;
+
+    (e) We are not responsible for user-generated content.
+
+10.3 INFRINGEMENT CLAIMS
+
+    (a) Report IP infringement to: legal@techventure.in;
+
+    (b) Include detailed description of infringed rights;
+
+    (c) We will investigate and take appropriate action;
+
+    (d) Counter-notifications may be filed as per legal process.
+
+================================================================================
+                    ARTICLE 11: USER CONDUCT AND PROHIBITED ACTIVITIES
+================================================================================
+
+11.1 PROHIBITED ACTIVITIES
+
+    You agree not to:
+
+    (a) Use the Platform for any unlawful purpose;
+
+    (b) Impersonate any person or entity;
+
+    (c) Submit false or misleading information;
+
+    (d) Upload malicious code or viruses;
+
+    (e) Interfere with Platform security or operation;
+
+    (f) Scrape, crawl, or use automated means to access the Platform;
+
+    (g) Circumvent any security or access controls;
+
+    (h) Engage in any activity that disrupts other users' experience;
+
+    (i) Post defamatory, obscene, or offensive content;
+
+    (j) Violate any third-party rights;
+
+    (k) Engage in price manipulation or fake reviews;
+
+    (l) Use multiple accounts to abuse promotional offers.
+
+11.2 CONSEQUENCES OF VIOLATION
+
+    Violations may result in:
+
+    (a) Warning or temporary suspension;
+
+    (b) Permanent account termination;
+
+    (c) Cancellation of orders and forfeiture of benefits;
+
+    (d) Legal action and claim for damages;
+
+    (e) Reporting to law enforcement authorities.
+
+================================================================================
+                    ARTICLE 12: PRIVACY AND DATA PROTECTION
+================================================================================
+
+12.1 DATA COLLECTION
+
+    We collect personal data including:
+
+    (a) Account information (name, email, phone, address);
+
+    (b) Transaction history and preferences;
+
+    (c) Device and usage information;
+
+    (d) Location data (with consent);
+
+    (e) Payment information (processed securely).
+
+12.2 DATA USE
+
+    Your data is used for:
+
+    (a) Processing orders and transactions;
+
+    (b) Providing customer support;
+
+    (c) Personalizing your experience;
+
+    (d) Marketing communications (with consent);
+
+    (e) Legal compliance and fraud prevention.
+
+12.3 DATA PROTECTION COMPLIANCE
+
+    (a) We comply with the Digital Personal Data Protection Act, 2023;
+
+    (b) You have rights to access, correct, and delete your data;
+
+    (c) Data processing is based on consent or contractual necessity;
+
+    (d) We implement appropriate security measures;
+
+    (e) Full details are in our Privacy Policy.
+
+================================================================================
+                    ARTICLE 13: LIMITATION OF LIABILITY
+================================================================================
+
+13.1 EXCLUSION OF DAMAGES
+
+    TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COMPANY SHALL NOT
+    BE LIABLE FOR:
+
+    (a) INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES;
+
+    (b) LOST PROFITS, DATA, OR BUSINESS OPPORTUNITIES;
+
+    (c) DAMAGE TO COMPUTER SYSTEMS OR DEVICES;
+
+    (d) ANY DAMAGES EXCEEDING THE AMOUNT PAID FOR THE SPECIFIC
+        PRODUCT OR SERVICE GIVING RISE TO THE CLAIM.
+
+13.2 EXCEPTIONS
+
+    Nothing in these Terms shall limit liability for:
+
+    (a) Death or personal injury caused by negligence;
+
+    (b) Fraud or fraudulent misrepresentation;
+
+    (c) Any liability that cannot be excluded by law.
+
+13.3 FORCE MAJEURE
+
+    We shall not be liable for failure to perform due to:
+
+    (a) Natural disasters;
+    (b) War, terrorism, or civil unrest;
+    (c) Government actions or regulations;
+    (d) Pandemic or epidemic;
+    (e) Strikes or labor disputes;
+    (f) Telecommunications failures;
+    (g) Any event beyond our reasonable control.
+
+================================================================================
+                    ARTICLE 14: INDEMNIFICATION
+================================================================================
+
+14.1 USER INDEMNIFICATION
+
+    You agree to indemnify, defend, and hold harmless the Company,
+    its officers, directors, employees, agents, and affiliates from
+    any claims, losses, damages, liabilities, and expenses arising
+    from:
+
+    (a) Your violation of these Terms;
+
+    (b) Your violation of any law or third-party rights;
+
+    (c) Your use or misuse of the Platform;
+
+    (d) Content you submit to the Platform;
+
+    (e) Your fraudulent or negligent acts.
+
+================================================================================
+                    ARTICLE 15: DISPUTE RESOLUTION
+================================================================================
+
+15.1 GRIEVANCE REDRESSAL
+
+    (a) Contact our Grievance Officer for complaints:
+        Email: grievance@techventure.in
+        Address: [Company Address]
+
+    (b) Complaints will be acknowledged within 48 hours;
+
+    (c) Resolution will be provided within 30 days as per Consumer
+        Protection (E-Commerce) Rules, 2020.
+
+15.2 MEDIATION
+
+    (a) Disputes shall first be attempted to be resolved through
+        mediation;
+
+    (b) Mediation shall be conducted by a mutually agreed mediator;
+
+    (c) Each party shall bear its own costs of mediation.
+
+15.3 ARBITRATION
+
+    (a) Unresolved disputes shall be referred to arbitration under
+        the Arbitration and Conciliation Act, 1996;
+
+    (b) Arbitration shall be conducted by a sole arbitrator mutually
+        appointed;
+
+    (c) Seat of arbitration: Bangalore, Karnataka;
+
+    (d) Language of arbitration: English;
+
+    (e) The arbitral award shall be final and binding.
+
+15.4 CONSUMER FORUM RIGHTS
+
+    Nothing in these Terms shall prevent you from approaching the
+    Consumer Disputes Redressal Commission or other forums as per
+    the Consumer Protection Act, 2019.
+
+================================================================================
+                    ARTICLE 16: GOVERNING LAW AND JURISDICTION
+================================================================================
+
+16.1 GOVERNING LAW
+
+    These Terms shall be governed by and construed in accordance
+    with the laws of India, without regard to conflict of law
+    principles.
+
+16.2 JURISDICTION
+
+    Subject to the arbitration clause above, the courts of Bangalore,
+    Karnataka shall have exclusive jurisdiction over any disputes
+    arising from these Terms.
+
+================================================================================
+                    ARTICLE 17: MODIFICATIONS TO TERMS
+================================================================================
+
+17.1 RIGHT TO MODIFY
+
+    (a) We reserve the right to modify these Terms at any time;
+
+    (b) Changes will be posted on this page with updated effective
+        date;
+
+    (c) Material changes will be notified via email or Platform
+        notification;
+
+    (d) Continued use after changes constitutes acceptance;
+
+    (e) If you disagree with changes, you must stop using the Platform.
+
+================================================================================
+                    ARTICLE 18: SEVERABILITY
+================================================================================
+
+18.1 If any provision of these Terms is found to be invalid or
+     unenforceable, the remaining provisions shall continue in
+     full force and effect. The invalid provision shall be modified
+     to the minimum extent necessary to make it valid and enforceable.
+
+================================================================================
+                    ARTICLE 19: ENTIRE AGREEMENT
+================================================================================
+
+19.1 These Terms, together with the Privacy Policy and other policies
+     referenced herein, constitute the entire agreement between you
+     and the Company regarding use of the Platform and supersede all
+     prior agreements and understandings.
+
+================================================================================
+                    ARTICLE 20: CONTACT INFORMATION
+================================================================================
+
+20.1 CUSTOMER SUPPORT
+
+    For general inquiries and support:
+
+    Email:     support@techventure.in
+    Phone:     +91-80-4567-8900
+    Hours:     Monday to Saturday, 9:00 AM to 6:00 PM IST
+    Chat:      Available on Platform
+
+20.2 GRIEVANCE OFFICER
+
+    As per Consumer Protection (E-Commerce) Rules, 2020:
+
+    Name:      ___________________________
+    Email:     grievance@techventure.in
+    Phone:     +91-80-4567-8901
+    Address:   #42, 3rd Floor, Koramangala 5th Block
+               Bangalore - 560095, Karnataka, India
+
+20.3 LEGAL NOTICES
+
+    For legal notices and intellectual property matters:
+
+    Email:     legal@techventure.in
+    Address:   [As above]
+
+================================================================================
+                         ACKNOWLEDGMENT
+================================================================================
+
+BY USING THIS PLATFORM, YOU ACKNOWLEDGE THAT YOU HAVE READ,
+UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS.
+
+IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT USE THE PLATFORM.
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    E-COMMERCE TERMS AND CONDITIONS
+                    VERSION 1.0
+
+================================================================================

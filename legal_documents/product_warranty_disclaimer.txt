@@ -1,0 +1,644 @@
+================================================================================
+                    PRODUCT WARRANTY AND DISCLAIMER
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE PRODUCT WARRANTY AND LIABILITY DISCLAIMER
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+Last Updated: _____ day of __________, 20____
+
+================================================================================
+                         COMPANY INFORMATION
+================================================================================
+
+Company Name:     TECHVENTURE INDIA PRIVATE LIMITED
+CIN:              U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                  Bangalore - 560095, Karnataka, India
+Website:          www.techventure.in
+Email:            warranty@techventure.in
+Phone:            +91-80-4567-8900
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+SECTION 1:  INTRODUCTION AND SCOPE
+SECTION 2:  MANUFACTURER WARRANTIES
+SECTION 3:  PLATFORM WARRANTY LIMITATIONS
+SECTION 4:  WARRANTY TERMS BY PRODUCT CATEGORY
+SECTION 5:  WARRANTY CLAIM PROCESS
+SECTION 6:  WARRANTY EXCLUSIONS
+SECTION 7:  LIMITATION OF LIABILITY
+SECTION 8:  PRODUCT SAFETY DISCLAIMER
+SECTION 9:  THIRD-PARTY SELLER PRODUCTS
+SECTION 10: EXTENDED WARRANTY OPTIONS
+SECTION 11: CONSUMER PROTECTION RIGHTS
+SECTION 12: CONTACT INFORMATION
+
+================================================================================
+                    SECTION 1: INTRODUCTION AND SCOPE
+================================================================================
+
+1.1 PURPOSE
+
+    This Product Warranty and Disclaimer document outlines the warranty
+    terms, limitations of liability, and disclaimers applicable to
+    products purchased through TechVenture India Private Limited's
+    e-commerce platform.
+
+1.2 IMPORTANT NOTICE
+
+    PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT
+    INFORMATION ABOUT WARRANTY COVERAGE, LIMITATIONS, AND DISCLAIMERS
+    THAT AFFECT YOUR LEGAL RIGHTS.
+
+1.3 SCOPE
+
+    This document applies to:
+
+    (a) Products sold directly by TechVenture;
+    (b) Products sold by third-party sellers on our marketplace;
+    (c) All product categories offered on the Platform;
+    (d) All customers within India and international.
+
+1.4 ROLE OF PLATFORM
+
+    TechVenture operates as:
+
+    (a) DIRECT SELLER: For products sold by TechVenture
+    (b) MARKETPLACE: Facilitating sales between third-party sellers
+        and customers
+
+    Warranty obligations vary based on seller type.
+
+================================================================================
+                    SECTION 2: MANUFACTURER WARRANTIES
+================================================================================
+
+2.1 MANUFACTURER WARRANTY
+
+    Most products carry manufacturer warranty covering:
+
+    (a) Manufacturing defects;
+    (b) Workmanship issues;
+    (c) Component failures under normal use;
+    (d) Performance not meeting specifications.
+
+2.2 WARRANTY DURATION
+
+    Typical manufacturer warranty periods:
+
+    -------------------------------------------------------------------------
+    | PRODUCT CATEGORY            | STANDARD WARRANTY                       |
+    -------------------------------------------------------------------------
+    | Electronics & Gadgets       | 1 year                                  |
+    | Mobile Phones               | 1 year                                  |
+    | Laptops & Computers         | 1-3 years                               |
+    | Large Appliances            | 1-2 years                               |
+    | Small Appliances            | 1 year                                  |
+    | Televisions                 | 1-2 years                               |
+    | Watches                     | 1-2 years                               |
+    | Furniture                   | 1-3 years                               |
+    | Mattresses                  | 5-10 years                              |
+    | Fashion & Apparel           | No warranty (quality guarantee only)    |
+    | Footwear                    | 3-6 months                              |
+    | Toys                        | 3-6 months                              |
+    | Books & Media               | No warranty                             |
+    -------------------------------------------------------------------------
+
+    Check individual product listing for specific warranty terms.
+
+2.3 WARRANTY START DATE
+
+    (a) Warranty begins from date of original purchase;
+    (b) Invoice date serves as proof of purchase;
+    (c) Warranty card must be filled if provided;
+    (d) Registration may be required for some products.
+
+2.4 WARRANTY REGISTRATION
+
+    Some products require warranty registration:
+
+    (a) Complete registration within 7-30 days of purchase;
+    (b) Register on manufacturer's website;
+    (c) Provide invoice and serial number;
+    (d) Keep confirmation for records.
+
+================================================================================
+                    SECTION 3: PLATFORM WARRANTY LIMITATIONS
+================================================================================
+
+3.1 TECHVENTURE'S ROLE
+
+    For products sold by TechVenture:
+
+    (a) We facilitate warranty claims with manufacturers;
+    (b) We may provide direct resolution for certain issues;
+    (c) We are not the warrantor unless explicitly stated.
+
+    For third-party seller products:
+
+    (a) Seller is responsible for warranty;
+    (b) We facilitate communication between buyer and seller;
+    (c) We mediate disputes but are not liable.
+
+3.2 NO ADDITIONAL WARRANTY
+
+    Unless explicitly stated, TechVenture does not provide any warranty
+    beyond what is provided by the manufacturer or seller. We make no
+    warranties, express or implied, regarding:
+
+    (a) Product quality beyond manufacturer's warranty;
+    (b) Fitness for particular purpose;
+    (c) Merchantability;
+    (d) Non-infringement.
+
+3.3 AS-IS PRODUCTS
+
+    Some products are sold "AS IS" without warranty:
+
+    (a) Open-box products (unless specified);
+    (b) Refurbished products (limited warranty);
+    (c) Clearance items;
+    (d) Products marked "no warranty."
+
+3.4 INTERNATIONAL PRODUCTS
+
+    For imported products:
+
+    (a) Manufacturer warranty may not be valid in India;
+    (b) No local service center available;
+    (c) Seller warranty applies as stated;
+    (d) Check warranty terms before purchase.
+
+================================================================================
+                    SECTION 4: WARRANTY TERMS BY PRODUCT CATEGORY
+================================================================================
+
+4.1 ELECTRONICS AND GADGETS
+
+    Coverage:
+    (a) Manufacturing defects;
+    (b) Hardware failures;
+    (c) Component malfunctions;
+    (d) Battery defects (limited period).
+
+    Exclusions:
+    (a) Physical damage;
+    (b) Water/liquid damage;
+    (c) Software issues;
+    (d) Accessories (unless stated).
+
+4.2 MOBILE PHONES AND TABLETS
+
+    Coverage:
+    (a) Hardware defects;
+    (b) Display issues (manufacturing);
+    (c) Battery (6 months typically);
+    (d) Charging port defects.
+
+    Exclusions:
+    (a) Screen damage;
+    (b) Water damage;
+    (c) Software/app issues;
+    (d) Accessories (separate warranty).
+
+4.3 LARGE APPLIANCES
+
+    Coverage:
+    (a) Compressor (extended warranty often);
+    (b) Motor defects;
+    (c) Electrical components;
+    (d) Manufacturing defects.
+
+    Exclusions:
+    (a) Cosmetic damage;
+    (b) Consumables (filters, bulbs);
+    (c) Damage from voltage fluctuation;
+    (d) Gas charging (AC/Refrigerator).
+
+4.4 FASHION AND APPAREL
+
+    Generally No Warranty, but:
+
+    (a) Manufacturing defects (stitching, zippers): 7-15 days;
+    (b) Quality issues: Subject to return policy;
+    (c) Color fastness not guaranteed after wash;
+    (d) Size/fit issues covered under returns.
+
+4.5 FURNITURE
+
+    Coverage:
+    (a) Structural defects;
+    (b) Material defects;
+    (c) Hardware issues;
+    (d) Finish defects (limited).
+
+    Exclusions:
+    (a) Normal wear and tear;
+    (b) Damage from misuse;
+    (c) Environmental damage;
+    (d) Fabric/upholstery wear.
+
+================================================================================
+                    SECTION 5: WARRANTY CLAIM PROCESS
+================================================================================
+
+5.1 HOW TO CLAIM WARRANTY
+
+    STEP 1: VERIFY WARRANTY
+    - Check warranty period and coverage
+    - Confirm issue is covered under warranty
+    - Gather purchase documents
+
+    STEP 2: CONTACT APPROPRIATE PARTY
+    - Manufacturer (for manufacturer warranty)
+    - TechVenture (for TechVenture-sold products)
+    - Seller (for third-party seller products)
+
+    STEP 3: SUBMIT CLAIM
+    - Provide proof of purchase (invoice)
+    - Describe the issue in detail
+    - Share photos/videos of defect
+    - Provide serial/IMEI number
+
+    STEP 4: ASSESSMENT
+    - Product may be collected for inspection
+    - Manufacturer/seller assesses claim
+    - Decision communicated (repair/replace/reject)
+
+    STEP 5: RESOLUTION
+    - Repair at service center
+    - Replacement if unrepairable
+    - Refund if replacement unavailable
+
+5.2 DOCUMENTS REQUIRED
+
+    (a) Original invoice from TechVenture;
+    (b) Warranty card (if applicable);
+    (c) Product with original packaging (preferred);
+    (d) All accessories and components;
+    (e) Description of defect/issue;
+    (f) Photos/videos showing problem.
+
+5.3 SERVICE CENTER PROCESS
+
+    For manufacturer warranty claims:
+
+    (a) Locate authorized service center;
+    (b) Schedule appointment if required;
+    (c) Carry product with documents;
+    (d) Get job sheet/acknowledgment;
+    (e) Track repair status;
+    (f) Collect after repair.
+
+5.4 WARRANTY CLAIM THROUGH TECHVENTURE
+
+    For TechVenture-sold products:
+
+    (a) Initiate claim via "My Orders" section;
+    (b) Select "Warranty Claim";
+    (c) Describe issue and upload photos;
+    (d) Schedule pickup if required;
+    (e) Track claim status online.
+
+5.5 TURNAROUND TIME
+
+    Typical warranty service timelines:
+
+    -------------------------------------------------------------------------
+    | PRODUCT CATEGORY            | REPAIR TAT      | REPLACEMENT TAT       |
+    -------------------------------------------------------------------------
+    | Mobile Phones               | 7-14 days       | 14-21 days            |
+    | Laptops                     | 7-14 days       | 14-21 days            |
+    | Large Appliances            | 3-7 days        | 7-14 days             |
+    | Small Appliances            | 7-14 days       | 14-21 days            |
+    | Electronics                 | 7-14 days       | 14-21 days            |
+    -------------------------------------------------------------------------
+
+================================================================================
+                    SECTION 6: WARRANTY EXCLUSIONS
+================================================================================
+
+6.1 GENERAL EXCLUSIONS
+
+    Warranty does NOT cover:
+
+    (a) PHYSICAL DAMAGE
+        - Drops, falls, impacts
+        - Cracks, dents, scratches
+        - Bent or broken parts
+
+    (b) LIQUID DAMAGE
+        - Water, moisture ingress
+        - Spills, submersion
+        - Humidity damage
+
+    (c) MISUSE OR ABUSE
+        - Use contrary to instructions
+        - Unauthorized modifications
+        - Overloading or mishandling
+
+    (d) UNAUTHORIZED SERVICE
+        - Repair by non-authorized persons
+        - Use of non-genuine parts
+        - Tampering with components
+
+    (e) CONSUMABLES
+        - Batteries beyond warranty period
+        - Filters, bulbs, cartridges
+        - Wear parts (tires, brake pads)
+
+    (f) COSMETIC ISSUES
+        - Scratches not affecting function
+        - Discoloration from normal use
+        - Fading
+
+    (g) SOFTWARE ISSUES
+        - Viruses, malware
+        - User-installed software
+        - Data loss
+
+    (h) ENVIRONMENTAL FACTORS
+        - Power surges, lightning
+        - Extreme temperatures
+        - Natural disasters
+
+    (i) NORMAL WEAR AND TEAR
+        - Expected degradation over time
+        - Reduced battery capacity
+        - Surface wear
+
+6.2 WARRANTY VOID CONDITIONS
+
+    Warranty becomes void if:
+
+    (a) Serial number or warranty seal tampered;
+    (b) Product repaired by unauthorized service;
+    (c) Non-genuine parts used;
+    (d) Product used for commercial purpose (consumer warranty);
+    (e) Proof of purchase not available;
+    (f) Warranty period expired.
+
+================================================================================
+                    SECTION 7: LIMITATION OF LIABILITY
+================================================================================
+
+7.1 GENERAL LIMITATION
+
+    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW:
+
+    (a) THE COMPANY SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+        SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM THE
+        USE OR INABILITY TO USE ANY PRODUCT;
+
+    (b) THE COMPANY'S TOTAL LIABILITY SHALL NOT EXCEED THE PURCHASE
+        PRICE OF THE SPECIFIC PRODUCT GIVING RISE TO THE CLAIM;
+
+    (c) IN NO EVENT SHALL THE COMPANY BE LIABLE FOR LOSS OF DATA,
+        LOSS OF PROFITS, OR BUSINESS INTERRUPTION.
+
+7.2 SPECIFIC DISCLAIMERS
+
+    We disclaim liability for:
+
+    (a) Product performance not meeting customer expectations
+        (if as described);
+    (b) Compatibility issues with other products;
+    (c) Results from product use;
+    (d) Third-party actions;
+    (e) Force majeure events.
+
+7.3 EXCLUSIONS FROM LIMITATION
+
+    Nothing in this document limits liability for:
+
+    (a) Death or personal injury caused by negligence;
+    (b) Fraud or fraudulent misrepresentation;
+    (c) Any liability that cannot be excluded by law;
+    (d) Defective products under Consumer Protection Act.
+
+7.4 RISK ALLOCATION
+
+    The limitations above reflect a reasonable allocation of risk
+    between the parties. The price of products would be significantly
+    higher without such limitations.
+
+================================================================================
+                    SECTION 8: PRODUCT SAFETY DISCLAIMER
+================================================================================
+
+8.1 SAFETY COMPLIANCE
+
+    Products sold on our Platform:
+
+    (a) Comply with applicable safety standards;
+    (b) Have required BIS certifications where applicable;
+    (c) Include safety instructions and warnings;
+    (d) Meet regulatory requirements for sale in India.
+
+8.2 USER RESPONSIBILITY
+
+    You are responsible for:
+
+    (a) Reading and following product instructions;
+    (b) Using products for intended purpose only;
+    (c) Following safety warnings and precautions;
+    (d) Proper installation and maintenance;
+    (e) Keeping products away from children if not suitable;
+    (f) Using appropriate safety equipment.
+
+8.3 SAFETY WARNINGS
+
+    GENERAL SAFETY WARNINGS:
+
+    (a) ELECTRICAL PRODUCTS: Use proper voltage; do not overload
+        outlets; keep away from water;
+
+    (b) BATTERIES: Do not puncture, burn, or short-circuit; dispose
+        properly; keep away from children;
+
+    (c) CHEMICALS: Read labels; use in ventilated areas; keep away
+        from children and pets;
+
+    (d) CHILDREN'S PRODUCTS: Age recommendations are important;
+        supervise use; check for choking hazards.
+
+8.4 PRODUCT RECALLS
+
+    In case of product recalls:
+
+    (a) We notify affected customers;
+    (b) Follow manufacturer instructions;
+    (c) Stop using recalled products;
+    (d) Return for refund or replacement as directed.
+
+8.5 REPORTING SAFETY ISSUES
+
+    Report safety concerns to:
+
+    Email:      safety@techventure.in
+    Phone:      +91-80-4567-8903
+
+================================================================================
+                    SECTION 9: THIRD-PARTY SELLER PRODUCTS
+================================================================================
+
+9.1 MARKETPLACE ROLE
+
+    For products sold by third-party sellers:
+
+    (a) TechVenture acts as marketplace platform;
+    (b) Seller is responsible for product quality and warranty;
+    (c) TechVenture facilitates communication and disputes;
+    (d) TechVenture is not the warrantor.
+
+9.2 SELLER WARRANTY OBLIGATIONS
+
+    Third-party sellers must:
+
+    (a) Accurately describe warranty terms;
+    (b) Honor stated warranty;
+    (c) Process warranty claims promptly;
+    (d) Comply with consumer protection laws.
+
+9.3 BUYER PROTECTION
+
+    TechVenture provides buyer protection:
+
+    (a) Mediation between buyer and seller;
+    (b) Escalation mechanism for disputes;
+    (c) Refund if seller fails to honor warranty;
+    (d) Seller penalties for non-compliance.
+
+9.4 CLAIMING WARRANTY FROM SELLERS
+
+    (a) Contact seller through Platform messaging;
+    (b) If unresolved, escalate to TechVenture;
+    (c) We investigate and mediate;
+    (d) Resolution within 30 days.
+
+================================================================================
+                    SECTION 10: EXTENDED WARRANTY OPTIONS
+================================================================================
+
+10.1 EXTENDED WARRANTY PLANS
+
+    We offer extended warranty plans:
+
+    (a) TechVenture Extended Warranty;
+    (b) Third-party warranty providers;
+    (c) Manufacturer extended warranty.
+
+10.2 COVERAGE OPTIONS
+
+    Extended warranty may include:
+
+    (a) Extended duration beyond manufacturer warranty;
+    (b) Accidental damage protection;
+    (c) Liquid damage protection;
+    (d) Screen protection (for devices);
+    (e) Power surge protection.
+
+10.3 PURCHASING EXTENDED WARRANTY
+
+    (a) Available at checkout for eligible products;
+    (b) Can be purchased within 30 days of product purchase;
+    (c) Separate terms and conditions apply;
+    (d) Certificate provided upon purchase.
+
+10.4 EXTENDED WARRANTY CLAIMS
+
+    (a) Follow warranty provider's claim process;
+    (b) Provide original invoice and warranty certificate;
+    (c) Subject to extended warranty T&C;
+    (d) Deductibles may apply.
+
+================================================================================
+                    SECTION 11: CONSUMER PROTECTION RIGHTS
+================================================================================
+
+11.1 STATUTORY RIGHTS
+
+    Your statutory rights under the Consumer Protection Act, 2019
+    are not affected by this warranty and disclaimer. You may have
+    additional rights that vary by jurisdiction.
+
+11.2 CONSUMER RIGHTS
+
+    Under consumer protection laws, you have the right to:
+
+    (a) Products of acceptable quality;
+    (b) Products matching description;
+    (c) Products fit for purpose;
+    (d) Redressal for defective products;
+    (e) Compensation for losses.
+
+11.3 REDRESSAL OPTIONS
+
+    If warranty claim is rejected or unsatisfactory:
+
+    (a) Escalate within TechVenture;
+    (b) Contact consumer helpline: 1800-11-4000;
+    (c) File complaint at Consumer Forum;
+    (d) File online at edaakhil.nic.in.
+
+11.4 PRODUCT LIABILITY
+
+    For defective products causing harm:
+
+    (a) Manufacturer is liable under Product Liability;
+    (b) Consumer can claim compensation;
+    (c) Report to consumer authorities.
+
+================================================================================
+                    SECTION 12: CONTACT INFORMATION
+================================================================================
+
+12.1 WARRANTY SUPPORT
+
+    For warranty queries:
+
+    Email:      warranty@techventure.in
+    Phone:      +91-80-4567-8900
+    Hours:      Monday to Saturday, 9:00 AM to 6:00 PM IST
+
+12.2 CLAIMS PROCESSING
+
+    Email:      claims@techventure.in
+
+12.3 SAFETY CONCERNS
+
+    Email:      safety@techventure.in
+    Phone:      +91-80-4567-8903
+
+12.4 GRIEVANCE OFFICER
+
+    For escalations:
+
+    Email:      grievance@techventure.in
+    Phone:      +91-80-4567-8901
+
+================================================================================
+                         ACKNOWLEDGMENT
+================================================================================
+
+BY PURCHASING PRODUCTS ON OUR PLATFORM, YOU ACKNOWLEDGE THAT YOU
+HAVE READ, UNDERSTOOD, AND AGREE TO THIS PRODUCT WARRANTY AND
+DISCLAIMER DOCUMENT.
+
+THIS DOCUMENT DOES NOT AFFECT YOUR STATUTORY RIGHTS UNDER APPLICABLE
+CONSUMER PROTECTION LAWS.
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    PRODUCT WARRANTY AND DISCLAIMER
+                    VERSION 1.0
+
+================================================================================

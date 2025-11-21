@@ -1,0 +1,671 @@
+================================================================================
+                    E-COMMERCE PRIVACY POLICY
+                              OF
+                TECHVENTURE INDIA PRIVATE LIMITED
+================================================================================
+
+Document Type: E-COMMERCE PLATFORM PRIVACY POLICY
+Version: 1.0
+Effective Date: _____ day of __________, 20____
+Last Updated: _____ day of __________, 20____
+
+================================================================================
+                         COMPANY INFORMATION
+================================================================================
+
+Company Name:     TECHVENTURE INDIA PRIVATE LIMITED
+CIN:              U72900KA2019PTC123456
+Registered Office: #42, 3rd Floor, Koramangala 5th Block
+                  Bangalore - 560095, Karnataka, India
+Website:          www.techventure.in
+Email:            privacy@techventure.in
+Phone:            +91-80-4567-8900
+
+================================================================================
+                         TABLE OF CONTENTS
+================================================================================
+
+SECTION 1:  INTRODUCTION
+SECTION 2:  INFORMATION WE COLLECT
+SECTION 3:  HOW WE COLLECT INFORMATION
+SECTION 4:  PURPOSE OF DATA COLLECTION
+SECTION 5:  LEGAL BASIS FOR PROCESSING
+SECTION 6:  DATA SHARING AND DISCLOSURE
+SECTION 7:  DATA RETENTION
+SECTION 8:  DATA SECURITY
+SECTION 9:  YOUR RIGHTS
+SECTION 10: COOKIES AND TRACKING
+SECTION 11: THIRD-PARTY LINKS
+SECTION 12: CHILDREN'S PRIVACY
+SECTION 13: INTERNATIONAL DATA TRANSFERS
+SECTION 14: CHANGES TO PRIVACY POLICY
+SECTION 15: CONTACT INFORMATION
+
+================================================================================
+                    SECTION 1: INTRODUCTION
+================================================================================
+
+1.1 COMMITMENT TO PRIVACY
+
+    TechVenture India Private Limited ("Company," "we," "us," "our")
+    is committed to protecting the privacy and personal data of our
+    users, customers, and visitors ("you," "your"). This Privacy Policy
+    explains how we collect, use, disclose, and protect your information.
+
+1.2 SCOPE
+
+    This Privacy Policy applies to:
+
+    (a) Our website www.techventure.in and all subdomains;
+    (b) Our mobile applications;
+    (c) All services provided through our e-commerce platform;
+    (d) All interactions with our customer service;
+    (e) Any other digital platforms we operate.
+
+1.3 LEGAL COMPLIANCE
+
+    This Policy is designed to comply with:
+
+    (a) Digital Personal Data Protection Act, 2023 (DPDPA);
+    (b) Information Technology Act, 2000;
+    (c) Information Technology (Reasonable Security Practices and
+        Procedures and Sensitive Personal Data or Information) Rules, 2011;
+    (d) Consumer Protection (E-Commerce) Rules, 2020.
+
+1.4 CONSENT
+
+    By using our Platform, you consent to the collection, use, and
+    disclosure of your information as described in this Privacy Policy.
+    If you do not agree, please do not use our Platform.
+
+================================================================================
+                    SECTION 2: INFORMATION WE COLLECT
+================================================================================
+
+2.1 PERSONAL DATA
+
+    Information that identifies you as an individual:
+
+    (a) IDENTITY DATA
+        - Full name
+        - Username
+        - Date of birth
+        - Gender
+        - Profile picture
+
+    (b) CONTACT DATA
+        - Email address
+        - Phone number
+        - Postal address
+        - Delivery address
+
+    (c) ACCOUNT DATA
+        - Account ID
+        - Login credentials
+        - Account preferences
+        - Communication preferences
+
+    (d) FINANCIAL DATA
+        - Bank account details
+        - UPI ID
+        - Card details (last 4 digits only)
+        - Transaction history
+
+    (e) TRANSACTION DATA
+        - Order history
+        - Purchase details
+        - Returns and refunds
+        - Payment records
+
+    (f) IDENTITY VERIFICATION DATA
+        - PAN number (for sellers/affiliates)
+        - GSTIN (for sellers)
+        - KYC documents
+
+2.2 TECHNICAL DATA
+
+    Information about your device and usage:
+
+    (a) IP address
+    (b) Browser type and version
+    (c) Operating system
+    (d) Device identifiers
+    (e) Screen resolution
+    (f) Time zone and location
+    (g) Mobile network information
+
+2.3 USAGE DATA
+
+    Information about how you use our Platform:
+
+    (a) Pages visited and time spent
+    (b) Products viewed and searched
+    (c) Click patterns and navigation
+    (d) Features used
+    (e) Links clicked
+    (f) Content interactions
+
+2.4 MARKETING AND COMMUNICATIONS DATA
+
+    (a) Marketing preferences
+    (b) Communication history
+    (c) Survey responses
+    (d) Contest entries
+    (e) Newsletter subscriptions
+
+2.5 USER GENERATED CONTENT
+
+    (a) Product reviews and ratings
+    (b) Questions and answers
+    (c) Photos and videos
+    (d) Comments and feedback
+    (e) Wish lists and collections
+
+2.6 SENSITIVE PERSONAL DATA
+
+    We may collect with explicit consent:
+
+    (a) Biometric data (for verification)
+    (b) Financial information (for payments)
+
+    We do NOT collect:
+    (a) Religious or political beliefs
+    (b) Health information
+    (c) Sexual orientation
+    (d) Caste or tribe information
+
+================================================================================
+                    SECTION 3: HOW WE COLLECT INFORMATION
+================================================================================
+
+3.1 DIRECTLY FROM YOU
+
+    (a) Account registration
+    (b) Order placement
+    (c) Customer service interactions
+    (d) Reviews and feedback
+    (e) Contest and survey participation
+    (f) Newsletter signup
+    (g) Contact form submissions
+
+3.2 AUTOMATICALLY
+
+    (a) Cookies and similar technologies
+    (b) Log files
+    (c) Web beacons and pixels
+    (d) Device fingerprinting
+    (e) Analytics tools
+
+3.3 FROM THIRD PARTIES
+
+    (a) Payment processors
+    (b) Delivery partners
+    (c) Social media platforms (when you connect)
+    (d) Analytics providers
+    (e) Advertising networks
+    (f) Public databases
+    (g) Third-party sellers on marketplace
+
+3.4 FROM PUBLICLY AVAILABLE SOURCES
+
+    (a) Public directories
+    (b) Social media profiles (public)
+    (c) Government databases
+
+================================================================================
+                    SECTION 4: PURPOSE OF DATA COLLECTION
+================================================================================
+
+4.1 TO PROVIDE SERVICES
+
+    (a) Process and fulfill orders
+    (b) Manage your account
+    (c) Provide customer support
+    (d) Process payments and refunds
+    (e) Arrange delivery
+    (f) Handle returns and exchanges
+
+4.2 TO IMPROVE SERVICES
+
+    (a) Analyze usage patterns
+    (b) Develop new features
+    (c) Personalize your experience
+    (d) Conduct research and analytics
+    (e) Test and optimize Platform
+
+4.3 FOR COMMUNICATION
+
+    (a) Send order confirmations and updates
+    (b) Respond to inquiries
+    (c) Send service notifications
+    (d) Deliver marketing communications (with consent)
+    (e) Conduct surveys
+
+4.4 FOR PERSONALIZATION
+
+    (a) Product recommendations
+    (b) Personalized content
+    (c) Targeted advertisements
+    (d) Remember preferences
+    (e) Customized offers
+
+4.5 FOR SECURITY AND FRAUD PREVENTION
+
+    (a) Verify identity
+    (b) Detect and prevent fraud
+    (c) Protect against malicious activity
+    (d) Enforce terms and policies
+    (e) Resolve disputes
+
+4.6 FOR LEGAL COMPLIANCE
+
+    (a) Comply with legal obligations
+    (b) Respond to legal requests
+    (c) Enforce legal claims
+    (d) Tax compliance
+    (e) Regulatory reporting
+
+================================================================================
+                    SECTION 5: LEGAL BASIS FOR PROCESSING
+================================================================================
+
+5.1 UNDER DPDPA 2023
+
+    We process your data based on:
+
+    (a) CONSENT
+        - Marketing communications
+        - Non-essential cookies
+        - Sharing with third parties for marketing
+
+    (b) CONTRACT
+        - Providing services you requested
+        - Processing orders
+        - Managing your account
+
+    (c) LEGITIMATE INTERESTS
+        - Improving services
+        - Fraud prevention
+        - Security
+
+    (d) LEGAL OBLIGATION
+        - Tax compliance
+        - Legal requirements
+        - Regulatory obligations
+
+5.2 CONSENT MANAGEMENT
+
+    (a) Consent requested clearly and specifically
+    (b) You can withdraw consent at any time
+    (c) Withdrawal does not affect prior processing
+    (d) Manage preferences in account settings
+
+================================================================================
+                    SECTION 6: DATA SHARING AND DISCLOSURE
+================================================================================
+
+6.1 SERVICE PROVIDERS
+
+    We share data with:
+
+    (a) Payment processors and gateways
+    (b) Shipping and logistics partners
+    (c) Cloud hosting providers
+    (d) Email service providers
+    (e) SMS service providers
+    (f) Analytics providers
+    (g) Customer support platforms
+
+6.2 BUSINESS PARTNERS
+
+    (a) Third-party sellers on marketplace
+    (b) Affiliate partners
+    (c) Brand partners for promotions
+
+6.3 ADVERTISING PARTNERS
+
+    (a) Advertising networks
+    (b) Social media platforms
+    (c) Retargeting providers
+    (d) Attribution partners
+
+6.4 LEGAL REQUIREMENTS
+
+    We may disclose data:
+
+    (a) To comply with legal obligations
+    (b) To respond to lawful requests
+    (c) To protect our rights and property
+    (d) To prevent harm or illegal activity
+    (e) In connection with legal proceedings
+
+6.5 BUSINESS TRANSFERS
+
+    In case of merger, acquisition, or sale:
+
+    (a) Data may be transferred to successor
+    (b) Notice will be provided
+    (c) Same protections will apply
+
+6.6 WITH YOUR CONSENT
+
+    We may share data with third parties when you consent.
+
+6.7 WE DO NOT SELL DATA
+
+    We do not sell your personal data to third parties for their
+    independent use.
+
+================================================================================
+                    SECTION 7: DATA RETENTION
+================================================================================
+
+7.1 RETENTION PERIODS
+
+    -------------------------------------------------------------------------
+    | DATA TYPE                   | RETENTION PERIOD                        |
+    -------------------------------------------------------------------------
+    | Account data                | Duration of account + 3 years           |
+    | Transaction records         | 7 years (legal requirement)             |
+    | Customer support records    | 3 years                                 |
+    | Marketing data              | Until consent withdrawn                 |
+    | Usage/analytics data        | 2 years                                 |
+    | Cookies                     | As per cookie policy                    |
+    | User generated content      | Until deleted by user or violation      |
+    | Tax/financial records       | 8 years (legal requirement)             |
+    -------------------------------------------------------------------------
+
+7.2 RETENTION PRINCIPLES
+
+    (a) Kept only as long as necessary
+    (b) Deleted when purpose fulfilled
+    (c) Extended if legally required
+    (d) Anonymized for analytics after retention
+
+7.3 ACCOUNT DELETION
+
+    Upon account deletion:
+
+    (a) Personal data deleted within 30 days
+    (b) Some data retained for legal compliance
+    (c) Backups deleted within 90 days
+    (d) Anonymized data may be retained
+
+================================================================================
+                    SECTION 8: DATA SECURITY
+================================================================================
+
+8.1 SECURITY MEASURES
+
+    We implement:
+
+    (a) TECHNICAL MEASURES
+        - 256-bit SSL/TLS encryption
+        - Encrypted data storage
+        - Secure data centers
+        - Firewalls and intrusion detection
+        - Regular security testing
+
+    (b) ORGANIZATIONAL MEASURES
+        - Access controls and authentication
+        - Employee training
+        - Security policies and procedures
+        - Incident response procedures
+        - Vendor security assessments
+
+8.2 PCI-DSS COMPLIANCE
+
+    For payment data:
+
+    (a) PCI-DSS Level 1 compliant
+    (b) Card data not stored on our servers
+    (c) Tokenization used for saved cards
+    (d) Regular security audits
+
+8.3 DATA BREACH PROCEDURES
+
+    In case of data breach:
+
+    (a) Immediate investigation
+    (b) Notification to affected users
+    (c) Notification to Data Protection Board
+    (d) Remediation measures
+    (e) Post-incident review
+
+8.4 YOUR SECURITY RESPONSIBILITIES
+
+    (a) Keep login credentials secure
+    (b) Use strong passwords
+    (c) Enable two-factor authentication
+    (d) Report suspicious activity
+    (e) Log out of shared devices
+
+================================================================================
+                    SECTION 9: YOUR RIGHTS
+================================================================================
+
+9.1 RIGHTS UNDER DPDPA 2023
+
+    You have the right to:
+
+    (a) ACCESS
+        - Request copy of your personal data
+        - Know how your data is processed
+        - Receive data in portable format
+
+    (b) CORRECTION
+        - Update inaccurate data
+        - Complete incomplete data
+
+    (c) ERASURE
+        - Request deletion of your data
+        - Subject to legal retention requirements
+
+    (d) GRIEVANCE REDRESSAL
+        - Lodge complaints with us
+        - Escalate to Data Protection Board
+
+    (e) NOMINATE
+        - Nominate someone to exercise rights after death
+
+9.2 HOW TO EXERCISE RIGHTS
+
+    (a) Log in to account settings
+    (b) Email privacy@techventure.in
+    (c) Submit request through grievance form
+    (d) Write to Data Protection Officer
+
+9.3 IDENTITY VERIFICATION
+
+    We may verify your identity before processing requests.
+
+9.4 RESPONSE TIME
+
+    (a) Acknowledge request within 7 days
+    (b) Respond within 30 days
+    (c) Complex requests may take longer (notified)
+
+9.5 OPT-OUT OPTIONS
+
+    (a) Unsubscribe from marketing emails
+    (b) Opt-out of SMS marketing
+    (c) Disable push notifications
+    (d) Adjust cookie preferences
+    (e) Opt-out of personalized ads
+
+================================================================================
+                    SECTION 10: COOKIES AND TRACKING
+================================================================================
+
+10.1 COOKIE USAGE
+
+    We use cookies for:
+
+    (a) Essential website functions
+    (b) Performance analytics
+    (c) Personalization
+    (d) Advertising
+
+10.2 COOKIE CONSENT
+
+    (a) Consent requested for non-essential cookies
+    (b) Preferences managed via cookie settings
+    (c) Can be changed at any time
+
+10.3 MORE INFORMATION
+
+    Please refer to our Cookie Policy for detailed information about
+    cookies and how to manage them.
+
+================================================================================
+                    SECTION 11: THIRD-PARTY LINKS
+================================================================================
+
+11.1 EXTERNAL LINKS
+
+    Our Platform may contain links to third-party websites. We are not
+    responsible for the privacy practices of these websites.
+
+11.2 SOCIAL MEDIA
+
+    When you interact with social media features:
+
+    (a) Information may be shared with platform
+    (b) Platform's privacy policy applies
+    (c) We may receive information from platform
+
+11.3 THIRD-PARTY SELLERS
+
+    Products from marketplace sellers:
+
+    (a) Seller receives necessary order information
+    (b) Seller's privacy practices apply
+    (c) We require sellers to protect your data
+
+================================================================================
+                    SECTION 12: CHILDREN'S PRIVACY
+================================================================================
+
+12.1 AGE REQUIREMENT
+
+    Our Platform is not intended for children under 18. We do not
+    knowingly collect data from children.
+
+12.2 PARENTAL CONSENT
+
+    If data of a child is collected:
+
+    (a) Verifiable parental consent required
+    (b) Parent can review and delete data
+    (c) We will delete upon request
+
+12.3 REPORTING
+
+    If you believe we have collected child's data, contact us
+    immediately at privacy@techventure.in.
+
+================================================================================
+                    SECTION 13: INTERNATIONAL DATA TRANSFERS
+================================================================================
+
+13.1 DATA LOCATION
+
+    Your data is primarily stored in India. However, we may transfer
+    data to other countries for:
+
+    (a) Cloud hosting
+    (b) Customer support
+    (c) Analytics
+    (d) Service providers
+
+13.2 TRANSFER SAFEGUARDS
+
+    International transfers protected by:
+
+    (a) Contractual clauses
+    (b) Equivalent protection measures
+    (c) Compliance with DPDPA requirements
+
+13.3 COUNTRIES
+
+    Data may be transferred to countries including:
+
+    (a) United States
+    (b) Singapore
+    (c) European Union countries
+
+================================================================================
+                    SECTION 14: CHANGES TO PRIVACY POLICY
+================================================================================
+
+14.1 POLICY UPDATES
+
+    We may update this Privacy Policy to:
+
+    (a) Reflect changes in our practices
+    (b) Comply with legal requirements
+    (c) Improve transparency
+    (d) Address new features or services
+
+14.2 NOTIFICATION
+
+    (a) Updated policy posted on website
+    (b) "Last Updated" date changed
+    (c) Material changes notified via email
+    (d) Continued use constitutes acceptance
+
+14.3 REVIEW
+
+    We recommend reviewing this Policy periodically.
+
+================================================================================
+                    SECTION 15: CONTACT INFORMATION
+================================================================================
+
+15.1 DATA PROTECTION OFFICER
+
+    For privacy-related queries:
+
+    Name:       ___________________________
+    Email:      dpo@techventure.in
+    Phone:      +91-80-4567-8905
+    Address:    TechVenture India Private Limited
+                #42, 3rd Floor, Koramangala 5th Block
+                Bangalore - 560095, Karnataka, India
+
+15.2 PRIVACY TEAM
+
+    Email:      privacy@techventure.in
+    Phone:      +91-80-4567-8900
+
+15.3 GRIEVANCE OFFICER
+
+    For data protection grievances:
+
+    Name:       ___________________________
+    Email:      grievance@techventure.in
+    Phone:      +91-80-4567-8901
+
+15.4 DATA PROTECTION BOARD OF INDIA
+
+    If unsatisfied with our response:
+
+    (Details to be updated upon Board establishment)
+
+================================================================================
+                         ACKNOWLEDGMENT
+================================================================================
+
+By using our Platform, you acknowledge that you have read, understood,
+and agree to this Privacy Policy. Your continued use of our services
+constitutes your acceptance of these terms.
+
+================================================================================
+                         DOCUMENT END
+================================================================================
+
+                    TECHVENTURE INDIA PRIVATE LIMITED
+                    E-COMMERCE PRIVACY POLICY
+                    VERSION 1.0
+
+================================================================================
