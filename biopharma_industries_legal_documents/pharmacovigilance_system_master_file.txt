@@ -1,0 +1,513 @@
+================================================================================
+                    PHARMACOVIGILANCE SYSTEM MASTER FILE
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+                    Prepared in accordance with:
+                    - CDSCO Pharmacovigilance Guidelines (2018)
+                    - ICH E2E Pharmacovigilance Planning
+                    - WHO Pharmacovigilance Guidelines
+
+================================================================================
+
+Document Number:      PSMF/BIO/001
+Version:              3.0
+Effective Date:       April 1, 2025
+Review Date:          March 31, 2026
+Prepared By:          Dr. Meera Kulkarni, Pharmacovigilance Officer
+Approved By:          Dr. Ramesh Kulkarni, Managing Director
+
+================================================================================
+
+1. INTRODUCTION
+===============
+
+1.1 PURPOSE
+
+This Pharmacovigilance System Master File (PSMF) describes the pharmacovigilance
+system of BioPharma Industries Limited for monitoring the safety of its
+pharmaceutical products in post-marketing surveillance.
+
+1.2 SCOPE
+
+This PSMF covers all marketed pharmaceutical products of BioPharma Industries
+Limited in India and export markets (23 countries).
+
+1.3 LEGAL BASIS
+
+The company is required to maintain a pharmacovigilance system under:
+- Drugs and Cosmetics Act, 1940 and Rules, 1945
+- Schedule Y (Clinical Trials and Bioavailability/Bioequivalence Studies)
+- CDSCO Pharmacovigilance Programme of India (PvPI)
+
+================================================================================
+
+2. PHARMACOVIGILANCE SYSTEM
+===========================
+
+2.1 QUALIFIED PERSON FOR PHARMACOVIGILANCE (QPPV)
+
+Name:                   Dr. Meera Kulkarni
+Qualification:          MBBS, M.D. (Pharmacology)
+Experience:             15 years in pharmacovigilance
+Registration:           MCI Registration No. 78901
+
+Contact Details:
+Email:                  meera.kulkarni@biopharma.com / safety@biopharma.com
+Phone:                  +91-22-2568-XXXX (Direct)
+Mobile:                 +91-98XXX-XXXXX (24/7)
+
+Location:               Plot No. 234-235, MIDC Industrial Area, Thane
+
+The QPPV is responsible for:
+- Oversight of the pharmacovigilance system
+- Signal detection and evaluation
+- Regulatory reporting of ADRs
+- Periodic safety update reports
+- Risk management
+
+2.2 ORGANIZATIONAL STRUCTURE
+
+                    Managing Director
+                    Dr. Ramesh Kulkarni
+                              |
+                    Pharmacovigilance Officer (QPPV)
+                    Dr. Meera Kulkarni
+                              |
+              +---------------+---------------+
+              |               |               |
+        PV Associate 1   PV Associate 2   Medical Advisor
+        Ms. Anita Roy    Mr. Rahul Jain   Dr. Priya Shah
+        (Case Processing) (Regulatory      (Medical Review)
+                         Reporting)
+
+Total PV Team: 4 full-time professionals
+
+2.3 RESPONSIBILITIES
+
+Pharmacovigilance Officer (QPPV):
+- Overall responsibility for drug safety
+- Review of ICSRs and signal detection
+- Approval of expedited and periodic reports
+- Interaction with regulatory authorities
+- Training and quality oversight
+
+PV Associates:
+- Collection and processing of ADR reports
+- Data entry and coding (MedDRA)
+- Preparation of expedited reports
+- Follow-up with reporters
+
+Medical Advisor:
+- Medical assessment of cases
+- Causality assessment
+- Review of aggregate safety data
+- Medical queries to reporters
+
+================================================================================
+
+3. SOURCES OF SAFETY DATA
+=========================
+
+3.1 SPONTANEOUS REPORTING
+
+Safety reports are received from:
+- Healthcare professionals (doctors, pharmacists, nurses)
+- Consumers/patients
+- Regulatory authorities
+- Medical representatives
+- Literature
+
+3.2 SOLICITED SOURCES
+
+- Patient support programs (none currently)
+- Market research (screened for AEs)
+- Social media monitoring (not currently active)
+
+3.3 CONTACT CHANNELS
+
+Toll-Free Number:       1800-XXX-XXXX (24/7)
+Email:                  safety@biopharma.com
+Website Form:           www.biopharma.com/report-adverse-event
+Fax:                    +91-22-2568-XXXX
+Mail:                   Pharmacovigilance Department
+                        BioPharma Industries Limited
+                        Plot No. 234-235, MIDC Industrial Area
+                        Thane - 400701
+
+Medical Information:    medinfo@biopharma.com
+
+3.4 LITERATURE MONITORING
+
+- Weekly search of PubMed for company products
+- Search terms include product names and active ingredients
+- Relevant articles reviewed by Medical Advisor
+- ADRs from literature submitted as ICSRs
+
+================================================================================
+
+4. ADVERSE EVENT MANAGEMENT
+===========================
+
+4.1 DEFINITIONS
+
+Individual Case Safety Report (ICSR):
+Any report containing information on a patient with an adverse event
+suspected to be caused by a medicinal product.
+
+Serious Adverse Event (SAE):
+Any untoward medical occurrence that:
+- Results in death
+- Is life-threatening
+- Requires hospitalization or prolongation of hospitalization
+- Results in persistent or significant disability/incapacity
+- Is a congenital anomaly/birth defect
+- Is a medically important event
+
+Expected Adverse Event:
+An adverse event whose nature, severity, and frequency are consistent with
+the product information.
+
+4.2 CASE PROCESSING WORKFLOW
+
+Day 0:    Report received (phone, email, form, letter)
+          ↓
+Day 0:    Initial assessment (valid ICSR? 4 elements present?)
+          - Identifiable patient
+          - Identifiable reporter
+          - Suspect product
+          - Adverse event
+          ↓
+Day 1-3:  Data entry in safety database
+          MedDRA coding
+          ↓
+Day 3-5:  Medical review and causality assessment
+          WHO-UMC system (Certain, Probable, Possible, Unlikely)
+          ↓
+Day 5-7:  QPPV review and approval
+          ↓
+Day 15:   Serious unexpected ADRs reported to CDSCO
+          ↓
+Day 30:   Follow-up for missing information
+          ↓
+          Aggregate analysis (PSURs, signal detection)
+
+4.3 TIMELINES FOR REGULATORY REPORTING
+
+Report Type                                  Timeline
+--------------------------------------------------------------------------------
+Fatal/Life-threatening ADR (unexpected)      7 calendar days
+Serious ADR (unexpected)                     15 calendar days
+Non-serious ADR                              90 days (in PSUR)
+
+4.4 CAUSALITY ASSESSMENT
+
+WHO-UMC Causality Assessment System:
+
+Category         Criteria
+--------------------------------------------------------------------------------
+Certain          - Reasonable temporal relationship
+                 - Cannot be explained by disease or other drugs
+                 - Plausible pharmacologically
+                 - Positive rechallenge
+
+Probable/Likely  - Reasonable temporal relationship
+                 - Unlikely to be due to disease or other drugs
+                 - Reasonable response to withdrawal
+
+Possible         - Reasonable temporal relationship
+                 - Could also be explained by disease or other drugs
+                 - Information on withdrawal may be lacking
+
+Unlikely         - Temporal relationship makes causal connection improbable
+                 - Disease or other drugs provide plausible explanations
+
+4.5 SAFETY DATABASE
+
+System:                 ARISg (Pharmacovigilance Database)
+Vendor:                 Arisglobal LLC
+Validation:             Validated per GAMP 5
+Access Control:         Role-based access
+Backup:                 Daily backup to offsite location
+Coding Dictionary:      MedDRA Version 26.0 (March 2023)
+Drug Dictionary:        WHO Drug Dictionary (March 2023)
+
+================================================================================
+
+5. SAFETY REPORTING TO REGULATORY AUTHORITIES
+============================================
+
+5.1 EXPEDITED REPORTS
+
+Authority               Report Type           Format        Timeline
+--------------------------------------------------------------------------------
+CDSCO (India)           SAE - Unexpected      CIOMS I form  15 days
+WHO-UMC                 SAE                   E2B (R3)      15 days
+Export Countries        As per local          Variable      Variable
+                        requirements
+
+5.2 PERIODIC REPORTS
+
+Report                  Frequency     Content
+--------------------------------------------------------------------------------
+PSUR (Periodic Safety   Annually      Cumulative safety data
+Update Report)                        Benefit-risk assessment
+
+Annual Safety Report    Annually      Summary of ADRs reported
+to CDSCO                              during the year
+
+5.3 PSUR PREPARATION
+
+Data Lock Point:        December 31 each year
+Submission:             Within 90 days of DLP
+Content:
+- Executive summary
+- Drug information
+- Worldwide marketing authorization status
+- Regulatory actions for safety reasons
+- Patient exposure data
+- Individual case summaries
+- Signal and risk evaluation
+- Benefit-risk analysis
+- Conclusions
+
+================================================================================
+
+6. SIGNAL DETECTION AND MANAGEMENT
+=================================
+
+6.1 SIGNAL SOURCES
+
+- Review of individual cases
+- Statistical analysis of safety database
+- Literature monitoring
+- Regulatory intelligence
+
+6.2 SIGNAL DETECTION METHODS
+
+Quantitative:
+- Disproportionality analysis (PRR, EBGM) - when sufficient data
+- Trend analysis of ADR reports
+
+Qualitative:
+- Medical review of cases
+- Case series review
+- Literature review
+
+6.3 SIGNAL EVALUATION
+
+Detected signals are evaluated for:
+- Strength of association
+- Biological plausibility
+- Consistency across sources
+- Time relationship
+- Dose-response
+
+6.4 SIGNAL MANAGEMENT
+
+Validated Signal Actions:
+- Update product information
+- Dear Healthcare Provider letter
+- Risk minimization measures
+- Regulatory notification
+- Further studies if needed
+
+================================================================================
+
+7. RISK MANAGEMENT
+=================
+
+7.1 RISK MINIMIZATION MEASURES
+
+Routine Measures:
+- Product labeling with warnings and precautions
+- Package insert with ADR information
+- Patient information leaflet
+
+Additional Measures (if required):
+- Restricted distribution
+- Patient registry
+- Healthcare provider education
+- Patient education materials
+
+7.2 RISK COMMUNICATION
+
+- Safety updates to regulatory authorities
+- Dear Healthcare Provider letters
+- Updates to product information
+- Safety information on website
+
+================================================================================
+
+8. QUALITY SYSTEM FOR PHARMACOVIGILANCE
+======================================
+
+8.1 STANDARD OPERATING PROCEDURES
+
+SOP Number    Title                              Version  Effective
+--------------------------------------------------------------------------------
+PV/SOP/001    Organization of PV System          3.0      Apr 2025
+PV/SOP/002    Case Processing and Reporting      3.0      Apr 2025
+PV/SOP/003    Causality Assessment               2.0      Jan 2024
+PV/SOP/004    Expedited Regulatory Reporting     3.0      Apr 2025
+PV/SOP/005    PSUR Preparation                   2.0      Jan 2024
+PV/SOP/006    Signal Detection and Management    2.0      Jan 2024
+PV/SOP/007    Safety Database Management         2.0      Jan 2024
+PV/SOP/008    Literature Monitoring              2.0      Jan 2024
+PV/SOP/009    Training and Competency            2.0      Jan 2024
+PV/SOP/010    PV Audit and CAPA                  2.0      Jan 2024
+PV/SOP/011    Product Recall for Safety          2.0      Jan 2024
+
+8.2 TRAINING
+
+All PV personnel receive:
+- Initial GVP training (Good Pharmacovigilance Practice)
+- Annual refresher training
+- Product-specific training
+- MedDRA coding training
+- Database training
+
+Training records maintained for all personnel.
+
+8.3 AUDITS
+
+Internal PV audits conducted annually covering:
+- Case processing quality
+- Reporting timeliness
+- Database accuracy
+- Compliance with SOPs
+- Training records
+
+Last Internal Audit: July 2025
+Findings: 3 minor observations (all closed)
+
+8.4 KEY PERFORMANCE INDICATORS
+
+KPI                              Target      FY 2024-25
+------------------------------------------------------
+Case processing time             ≤7 days     5.2 days
+Expedited reporting compliance   100%        100%
+Data entry accuracy              ≥98%        99.1%
+Follow-up rate                   ≥80%        85%
+PSUR submission on time          100%        100%
+
+================================================================================
+
+9. PRODUCT SAFETY PROFILE
+========================
+
+9.1 PRODUCT PORTFOLIO
+
+Total marketed products: 47 formulations
+Therapeutic categories: Antibiotics, cardiovascular, antidiabetic, GI,
+                        analgesics, vitamins
+
+9.2 ADR SUMMARY (Last 3 Years)
+
+                        FY 2022-23  FY 2023-24  FY 2024-25
+--------------------------------------------------------
+Total ADRs reported     22          25          27
+Serious                 2           3           3
+Non-serious             20          22          24
+Deaths                  0           0           0
+
+9.3 TOP ADRs BY SYSTEM ORGAN CLASS
+
+System Organ Class                    Number of ADRs (3 years)
+------------------------------------------------------------
+Skin and subcutaneous disorders       28
+Gastrointestinal disorders            18
+General disorders                     12
+Nervous system disorders              8
+Infections and infestations           5
+
+9.4 ADRs BY PRODUCT (Top 5)
+
+Product                      ADRs (3 years)   Common ADRs
+--------------------------------------------------------
+Amoxicillin Capsules         18               Rash, diarrhea, nausea
+Azithromycin Tablets         12               Diarrhea, abdominal pain
+Ciprofloxacin Tablets        10               Nausea, dizziness
+Metformin Tablets            8                Nausea, diarrhea
+Ibuprofen Tablets            6                Gastric discomfort
+
+All ADRs are consistent with the known safety profile of these products.
+No new safety signals identified.
+
+================================================================================
+
+10. CONTRACTUAL ARRANGEMENTS
+===========================
+
+10.1 SERVICE PROVIDERS
+
+Company does not currently outsource any pharmacovigilance activities.
+All activities are performed in-house.
+
+10.2 DISTRIBUTION PARTNERS
+
+Quality agreements with distributors include:
+- Obligation to report ADRs within 24 hours
+- Contact details for PV department
+- Training on ADR recognition
+
+================================================================================
+
+11. RECORDS AND ARCHIVING
+========================
+
+11.1 RETENTION PERIODS
+
+Document Type                         Retention Period
+------------------------------------------------------
+Individual Case Safety Reports        Product lifetime + 10 years
+PSUR and regulatory submissions       Product lifetime + 10 years
+SOPs (superseded versions)            10 years after supersession
+Training records                      Personnel tenure + 10 years
+Audit reports                         10 years
+
+11.2 ARCHIVE LOCATION
+
+Primary Archive:        Pharmacovigilance Department, Thane
+Electronic Backup:      Cloud server with encryption
+Paper Archive:          Company record room
+
+================================================================================
+
+12. CONTACT INFORMATION
+======================
+
+For medical emergencies or adverse event reporting:
+
+24/7 Contact:           1800-XXX-XXXX (Toll-free)
+Email:                  safety@biopharma.com
+Website:                www.biopharma.com/report-adverse-event
+
+Pharmacovigilance Officer:
+Dr. Meera Kulkarni
+Email: meera.kulkarni@biopharma.com
+Phone: +91-22-2568-XXXX
+
+================================================================================
+
+ANNEXURES
+
+Annexure 1: Organizational Chart
+Annexure 2: CV of QPPV
+Annexure 3: List of SOPs
+Annexure 4: Product List
+Annexure 5: Sample ADR Form
+
+================================================================================
+
+REVISION HISTORY
+
+Version   Date        Changes                          Approved By
+--------------------------------------------------------------------------------
+1.0       Apr 2018    Initial release                  Dr. R. Kulkarni
+2.0       Apr 2021    Updated team, added MedDRA       Dr. R. Kulkarni
+3.0       Apr 2025    Annual review, updated data      Dr. R. Kulkarni
+
+================================================================================
+                    END OF PHARMACOVIGILANCE SYSTEM MASTER FILE
+================================================================================

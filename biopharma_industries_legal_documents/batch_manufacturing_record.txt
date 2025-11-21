@@ -1,0 +1,496 @@
+================================================================================
+                    BATCH MANUFACTURING RECORD
+                    AMOXICILLIN CAPSULES BP 500mg
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+MASTER DOCUMENT NO:   MBR/AMX500/004
+VERSION:              4.0
+EFFECTIVE DATE:       January 1, 2025
+PAGE:                 1 of 25
+
+================================================================================
+
+PRODUCT INFORMATION
+==================
+
+Product Name:         AMOXICILLIN CAPSULES BP 500mg
+Brand Name:           AMOXYBIO 500
+Generic Name:         Amoxicillin Trihydrate
+Strength:             500mg (as Amoxicillin)
+Dosage Form:          Hard Gelatin Capsules
+Color:                Shell: Pink (Cap) and White (Body)
+Pack Size:            10 capsules per strip
+
+Drug License No:      MH/25D/2013/1234
+Product Approval:     MH/29/2014/567
+
+================================================================================
+
+BATCH DETAILS (To be filled for each batch)
+==========================================
+
+Batch Number:         ______________________
+Batch Size:           500,000 capsules
+Manufacturing Date:   ______________________
+Expiry Date:          ______________________ (24 months from mfg.)
+
+Facility:             Block B (Penicillin Dedicated Block)
+Manufacturing Area:   Capsule Filling Area
+
+================================================================================
+
+MASTER FORMULA (For 500,000 Capsules)
+====================================
+
+S.No  Ingredient              Qty/Capsule  Batch Qty    AR No.   Actual Qty
+                              (mg)         (kg)                  Dispensed
+--------------------------------------------------------------------------------
+1.    Amoxicillin Trihydrate  574.00       287.000      ____     __________
+      (eq. to 500mg Amoxicillin)
+2.    Magnesium Stearate      3.00         1.500        ____     __________
+3.    Empty Capsule Shell     1 no.        500,000 nos. ____     __________
+      Size "0", Pink/White
+--------------------------------------------------------------------------------
+      TOTAL                   577.00       288.500
+
+NOTE: Amoxicillin Trihydrate 574mg is equivalent to Amoxicillin 500mg
+
+================================================================================
+
+EQUIPMENT REQUIRED
+=================
+
+S.No  Equipment                  ID No.    Cleaned    Verified By
+                                           (Date/Sign)
+--------------------------------------------------------------------------------
+1.    Vibro Sifter 30#           VS-002    ________   ____________
+2.    Double Cone Blender 200L   DCB-002   ________   ____________
+3.    Automatic Capsule Filler   ACF-001   ________   ____________
+      Zanasi AZ-40
+4.    Capsule Polishing Machine  CPM-001   ________   ____________
+5.    Strip Packing Machine      SPM-002   ________   ____________
+6.    Analytical Balance         AB-012    ________   ____________
+
+All equipment must display "CLEANED" label before use.
+
+================================================================================
+
+ENVIRONMENTAL CONDITIONS
+=======================
+
+Area                  Temperature    Humidity     Differential    Verified By
+                      (°C)           (% RH)       Pressure (Pa)
+--------------------------------------------------------------------------------
+Dispensing            22 ± 3         45 ± 10      +15             ___________
+Sifting               22 ± 3         45 ± 10      +15             ___________
+Blending              22 ± 3         45 ± 10      +15             ___________
+Capsule Filling       22 ± 3         45 ± 10      +15             ___________
+Packing               25 ± 5         60 ± 10      +10             ___________
+
+Record temperature and humidity at start and end of each operation.
+
+================================================================================
+
+MANUFACTURING INSTRUCTIONS
+=========================
+
+--------------------------------------------------------------------------------
+STAGE 1: DISPENSING
+--------------------------------------------------------------------------------
+
+SOP Reference: SOP/PRD/010 - Dispensing of Raw Materials
+
+1.1 Verify that the dispensing area is clean and displays "AREA CLEANED" label.
+
+1.2 Check environmental conditions:
+    Temperature: ______°C  Humidity: ______% RH  Diff. Pressure: ______Pa
+    Verified by: _____________ Date/Time: _____________
+
+1.3 Collect approved raw materials from warehouse:
+
+Material              AR No.    Qty Required   Qty Dispensed   Dispensed By
+                                (kg)           (kg)
+--------------------------------------------------------------------------------
+Amoxicillin Trihydrate ______   287.000        __________      ___________
+Magnesium Stearate     ______   1.500          __________      ___________
+Capsule Shells         ______   500,000 nos.   __________      ___________
+
+1.4 Verify identity of each material against AR number and CoA.
+    Identity verified by: _____________ Date: _____________
+
+1.5 Dispense materials into clean, labeled containers.
+    - Use SS 316L scoops
+    - Double-check quantities
+    - Affix "DISPENSED" label with batch number
+
+1.6 Transfer dispensed materials to sifting area.
+
+    Dispensing completed by: _____________ Date/Time: _____________
+    Verified by (QA):        _____________ Date/Time: _____________
+
+--------------------------------------------------------------------------------
+STAGE 2: SIFTING
+--------------------------------------------------------------------------------
+
+SOP Reference: SOP/PRD/012 - Sifting Operation
+
+2.1 Verify equipment cleanliness:
+    Vibro Sifter VS-002 - "CLEANED" label present: Yes / No
+    Verified by: _____________ Date/Time: _____________
+
+2.2 Fit 40# SS mesh to the sifter.
+    Mesh integrity checked: _____________ Date/Time: _____________
+
+2.3 Sift Amoxicillin Trihydrate:
+
+    Quantity sifted: _________ kg
+    Time taken: _________ minutes
+    Observations: ________________________________________________
+
+    Any material retained on mesh: Yes / No
+    If yes, quantity: _________ g (Record and investigate if >0.5%)
+
+2.4 Sift Magnesium Stearate through 60# mesh:
+
+    Quantity sifted: _________ kg
+    Observations: ________________________________________________
+
+2.5 Transfer sifted materials to clean, labeled containers for blending.
+
+    Sifting completed by: _____________ Date/Time: _____________
+    Verified by:          _____________ Date/Time: _____________
+
+--------------------------------------------------------------------------------
+STAGE 3: BLENDING
+--------------------------------------------------------------------------------
+
+SOP Reference: SOP/PRD/015 - Blending Operation
+
+3.1 Verify equipment cleanliness:
+    Double Cone Blender DCB-002 - "CLEANED" label present: Yes / No
+    Verified by: _____________ Date/Time: _____________
+
+3.2 Load sifted Amoxicillin Trihydrate into blender:
+
+    Quantity loaded: _________ kg
+    Loaded by: _____________ Time: _____________
+
+3.3 Set blending parameters:
+
+    Parameter          Set Value    Actual Value
+    -----------------------------------------------
+    Blender Speed      12 RPM       _________ RPM
+    Blending Time      10 minutes   _________ min
+
+3.4 Start blending (without lubricant):
+
+    Start Time: _____________
+    End Time: _____________
+
+3.5 Add sifted Magnesium Stearate:
+
+    Quantity added: _________ kg
+    Added by: _____________ Time: _____________
+
+3.6 Blend with lubricant:
+
+    Blending Time: 3 minutes
+    Start Time: _____________
+    End Time: _____________
+
+3.7 Discharge blended powder into clean containers.
+
+    Total quantity discharged: _________ kg
+    Yield: _________ % (Limit: 99-101%)
+
+    Blending completed by: _____________ Date/Time: _____________
+    Verified by:           _____________ Date/Time: _____________
+
+--------------------------------------------------------------------------------
+STAGE 3A: BLEND UNIFORMITY (IN-PROCESS CONTROL)
+--------------------------------------------------------------------------------
+
+3A.1 Collect samples from 10 locations (top, middle, bottom, sides).
+
+     Sample collected by: _____________ Time: _____________
+     Sample sent to QC: _____________ Time: _____________
+
+3A.2 QC Test Results (To be attached):
+
+     Blend Uniformity:
+     Mean Assay: _________ % (Limit: 95-105%)
+     RSD: _________ % (Limit: NMT 5.0%)
+
+     Result: PASS / FAIL
+
+     Tested by: _____________ Date: _____________
+     Reviewed by (QC Head): _____________ Date: _____________
+
+3A.3 QA Approval to proceed:
+
+     Blend approved for capsule filling: Yes / No
+     Approved by: _____________ Date/Time: _____________
+
+--------------------------------------------------------------------------------
+STAGE 4: CAPSULE FILLING
+--------------------------------------------------------------------------------
+
+SOP Reference: SOP/PRD/020 - Capsule Filling Operation
+
+4.1 Verify equipment cleanliness:
+    Capsule Filler ACF-001 - "CLEANED" label present: Yes / No
+    Verified by: _____________ Date/Time: _____________
+
+4.2 Load empty capsule shells:
+
+    Capsule Shell Size: "0"
+    Color: Pink (Cap) / White (Body)
+    Quantity loaded: _________ nos.
+    AR No.: _____________
+
+4.3 Set machine parameters:
+
+    Parameter              Set Value         Actual Value
+    --------------------------------------------------------
+    Fill Weight            577 mg            _________ mg
+    Machine Speed          30,000 caps/hr    _________ caps/hr
+    Vacuum Pressure        -0.5 bar          _________ bar
+
+4.4 Perform initial setup and weight adjustment:
+
+    Initial average weight: _________ mg (Target: 577 ± 29 mg)
+    Adjusted by: _____________ Time: _____________
+
+4.5 Start capsule filling:
+
+    Start Time: _____________
+    End Time: _____________
+    Total Run Time: _________ hours
+
+4.6 In-Process Controls during filling:
+
+    Record every 30 minutes:
+
+    Time    Avg Weight   Individual   Appearance  Locking   Operator
+            (mg)         Weights OK?              OK?
+    ------------------------------------------------------------------
+    ____    _________    Yes/No       _________   Yes/No    ________
+    ____    _________    Yes/No       _________   Yes/No    ________
+    ____    _________    Yes/No       _________   Yes/No    ________
+    ____    _________    Yes/No       _________   Yes/No    ________
+    [Continue for all time points]
+
+    Weight Variation Limits: 577 ± 5% (548.2 - 605.8 mg)
+
+4.7 Collect filled capsules in clean containers.
+
+    Total capsules filled: _________ nos.
+    Rejected capsules: _________ nos.
+    Yield: _________ % (Limit: 97-103%)
+
+    Filling completed by: _____________ Date/Time: _____________
+    Verified by:          _____________ Date/Time: _____________
+
+--------------------------------------------------------------------------------
+STAGE 5: CAPSULE POLISHING
+--------------------------------------------------------------------------------
+
+SOP Reference: SOP/PRD/022 - Capsule Polishing
+
+5.1 Transfer filled capsules to polishing machine CPM-001.
+
+5.2 Polish capsules to remove powder and improve appearance.
+
+    Polishing Time: _________ minutes
+
+5.3 Visual inspection during polishing:
+    - Capsules should be free of powder
+    - No damaged or improperly locked capsules
+    - Uniform appearance
+
+    Inspection Result: Satisfactory / Not Satisfactory
+
+5.4 Transfer polished capsules to quarantine containers.
+
+    Total polished capsules: _________ nos.
+    Yield: _________ % (Limit: 99-101%)
+
+    Polishing completed by: _____________ Date/Time: _____________
+
+--------------------------------------------------------------------------------
+STAGE 6: PRIMARY PACKING (STRIP PACKING)
+--------------------------------------------------------------------------------
+
+SOP Reference: SOP/PKG/005 - Strip Packing Operation
+
+6.1 Verify equipment cleanliness:
+    Strip Packing Machine SPM-002 - "CLEANED" label present: Yes / No
+    Verified by: _____________ Date/Time: _____________
+
+6.2 Collect packing materials:
+
+    Material              AR No.    Qty Required    Qty Issued
+    ------------------------------------------------------------
+    Aluminium Foil        ______    _________ kg    _________ kg
+    (Printed)
+
+6.3 Verify printing on foil:
+    - Product name: AMOXYBIO 500
+    - Batch No.: _____________
+    - Mfg. Date: _____________
+    - Exp. Date: _____________
+    - MRP: _____________
+
+    Printing verified by (QA): _____________ Date/Time: _____________
+
+6.4 Set machine parameters:
+
+    Parameter              Set Value         Actual Value
+    --------------------------------------------------------
+    Sealing Temperature    180°C             _________ °C
+    Machine Speed          100 strips/min    _________ strips/min
+    Capsules per strip     10                10
+
+6.5 Perform seal integrity test:
+
+    Leak Test Result: Pass / Fail
+    Tested by: _____________ Time: _____________
+
+6.6 Start packing:
+
+    Start Time: _____________
+    End Time: _____________
+
+6.7 In-process checks every hour:
+    - Seal integrity
+    - Print quality
+    - Capsule count per strip
+
+    All checks passed: Yes / No
+    Checked by: _____________ Verified by (QA): _____________
+
+6.8 Total output:
+
+    Strips packed: _________ nos.
+    Capsules packed: _________ nos.
+    Yield: _________ % (Limit: 98-102%)
+
+    Packing completed by: _____________ Date/Time: _____________
+    Verified by (QA):     _____________ Date/Time: _____________
+
+================================================================================
+
+BATCH RECONCILIATION
+===================
+
+Component                    Theoretical    Actual Used    Difference
+--------------------------------------------------------------------------------
+Amoxicillin Trihydrate (kg)  287.000        __________     __________
+Magnesium Stearate (kg)      1.500          __________     __________
+Capsule Shells (nos.)        500,000        __________     __________
+Aluminium Foil (kg)          ________       __________     __________
+
+Input/Output Reconciliation:
+- Theoretical yield: 500,000 capsules
+- Actual yield: _________ capsules
+- Overall yield: _________ % (Limit: 95-105%)
+- Rejected: _________ capsules
+- Samples: _________ capsules
+
+Reconciliation completed by: _____________ Date: _____________
+Verified by (Production):    _____________ Date: _____________
+Approved by (QA):            _____________ Date: _____________
+
+================================================================================
+
+FINISHED PRODUCT TESTING
+=======================
+
+Samples sent to QC: _________ capsules
+Date sent: _____________
+AR Number: _____________
+
+[QC results to be attached - Certificate of Analysis]
+
+Tests performed:
+- Description
+- Identification
+- Average weight and weight variation
+- Disintegration
+- Dissolution
+- Assay
+- Related substances
+- Water content
+- Microbial limits
+
+QC testing completed: _____________ Date: _____________
+
+================================================================================
+
+QA REVIEW AND RELEASE
+====================
+
+Batch Record reviewed for:
+□ All entries complete and correct
+□ All stages signed and verified
+□ All IPC results within specification
+□ Yield within acceptable range
+□ No deviations (or deviations properly investigated)
+□ All materials reconciled
+□ Finished product testing complete and passing
+
+Comments: ________________________________________________________
+_________________________________________________________________
+
+Reviewed by (QA): _____________ Date: _____________
+
+BATCH DISPOSITION:
+
+□ APPROVED for release
+□ REJECTED (Reason: ________________________________)
+□ HOLD for investigation
+
+Approved by (QA Head): _____________ Date: _____________
+
+================================================================================
+
+DEVIATIONS (If any)
+==================
+
+Deviation Number: _____________
+Description: __________________________________________________________
+_____________________________________________________________________
+Root Cause: ___________________________________________________________
+CAPA Number: _____________
+Impact on Batch: ______________________________________________________
+
+Deviation closed: Yes / No    Closure Date: _____________
+
+================================================================================
+
+DOCUMENT HISTORY
+===============
+
+This batch record has been prepared, reviewed, and approved as follows:
+
+Prepared by: _____________ Designation: _____________ Date: _____________
+Reviewed by: _____________ Designation: _____________ Date: _____________
+Approved by: _____________ Designation: _____________ Date: _____________
+
+================================================================================
+
+ATTACHMENTS
+==========
+
+□ Raw material release notes
+□ Equipment cleaning checklists
+□ Environmental monitoring records
+□ In-process control results
+□ Certificate of Analysis
+□ Packing material reconciliation
+□ Deviation reports (if any)
+
+================================================================================
+                    END OF BATCH MANUFACTURING RECORD
+================================================================================

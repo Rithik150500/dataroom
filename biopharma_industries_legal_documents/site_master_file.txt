@@ -1,0 +1,712 @@
+================================================================================
+                    SITE MASTER FILE
+                    BIOPHARMA INDUSTRIES LIMITED
+                    THANE MANUFACTURING FACILITY
+================================================================================
+
+                    Prepared in accordance with:
+                    - WHO Technical Report Series No. 961, 2011, Annex 6
+                    - PIC/S Guidance PE 008-4
+                    - EU GMP Annex 2.5
+
+================================================================================
+
+Document Number:      SMF/THA/001
+Version:              5.0
+Effective Date:       January 1, 2025
+Review Date:          December 31, 2025
+Prepared By:          Mrs. Deepika Jain, Head of Quality Assurance
+Approved By:          Dr. Ramesh Kulkarni, Managing Director
+
+================================================================================
+
+TABLE OF CONTENTS
+
+1. General Information
+2. Quality Management System
+3. Personnel
+4. Premises and Equipment
+5. Documentation
+6. Production
+7. Quality Control
+8. Distribution, Complaints, Product Defects and Recalls
+9. Self-Inspection
+10. Appendices
+
+================================================================================
+
+1. GENERAL INFORMATION
+=====================
+
+1.1 CONTACT INFORMATION
+
+Company Name:           BioPharma Industries Limited
+Site Address:           Plot No. 234-235, MIDC Industrial Area
+                        Thane-Belapur Road, Rabale
+                        Thane - 400701, Maharashtra, India
+
+Telephone:              +91-22-2568-XXXX
+Fax:                    +91-22-2568-XXXX
+Email:                  regulatory@biopharma.com
+Website:                www.biopharma.com
+
+Corporate Identification Number (CIN): U24230MH2012PLC234567
+GPS Coordinates:        19.1234° N, 73.0234° E
+
+24-Hour Emergency Contact:
+Name:                   Dr. Rajendra Patil (Technical Director)
+Phone:                  +91-98XXX-XXXXX
+
+1.2 AUTHORIZED MANUFACTURING ACTIVITIES
+
+Drug Manufacturing License: MH/25D/2013/1234
+Issued By:              Food and Drug Administration, Maharashtra
+Valid Until:            March 14, 2028
+
+The site is authorized to manufacture:
+- Tablets (film-coated, uncoated, enteric-coated)
+- Hard gelatin capsules
+- Beta-lactam products in dedicated facilities
+
+1.3 OTHER MANUFACTURING ACTIVITIES ON SITE
+
+No other manufacturing activities are carried out at this site.
+The site is dedicated exclusively to pharmaceutical manufacturing.
+
+1.4 REGULATORY INSPECTIONS (LAST 5 YEARS)
+
+Date            Authority                 Type              Outcome
+--------------------------------------------------------------------------------
+Apr 2021        FDA Maharashtra           Routine           3 minor observations
+Sep 2022        FDA Maharashtra           Complaint         No adverse findings
+Jan 2024        WHO Prequalification      GMP Certification Zero critical, 3 minor
+Aug 2024        FDA Maharashtra           Annual            Clean inspection
+
+No warning letters, import alerts, or regulatory actions in site history.
+
+================================================================================
+
+2. QUALITY MANAGEMENT SYSTEM
+===========================
+
+2.1 QMS OVERVIEW
+
+The site operates a comprehensive Quality Management System based on:
+- ICH Q10 Pharmaceutical Quality System
+- WHO GMP guidelines
+- Schedule M of Drugs and Cosmetics Rules, India
+
+2.2 QUALITY POLICY
+
+BioPharma Industries is committed to manufacturing pharmaceutical products
+that consistently meet quality specifications, regulatory requirements, and
+customer expectations. We achieve this through:
+- Compliance with GMP and applicable regulations
+- Continuous improvement of processes and systems
+- Training and empowering our personnel
+- Prevention of contamination and errors
+
+2.3 QUALITY MANUAL
+
+A Quality Manual (Document No. QM/001) describes the QMS structure including:
+- Quality policy and objectives
+- Organizational structure
+- Key processes and their interactions
+- Roles and responsibilities
+
+2.4 PRODUCT QUALITY REVIEW (PQR)
+
+Annual Product Quality Reviews are conducted for all products covering:
+- Batch analysis trends
+- Deviation and CAPA analysis
+- Change control review
+- Stability data trends
+- Complaint analysis
+- Supplier performance
+- Process capability
+
+2.5 CHANGE CONTROL
+
+All changes are managed through a formal change control system (SOP/QA/015).
+Changes are classified as:
+- Critical: Requires regulatory approval before implementation
+- Major: Requires QA approval and may require stability data
+- Minor: Requires QA approval
+
+2.6 DEVIATION AND CAPA
+
+Deviations are investigated using root cause analysis tools (5-Why, Fishbone).
+CAPAs are implemented and effectiveness verified.
+
+Deviation Statistics (FY 2024-25):
+- Total deviations: 45
+- Critical: 0
+- Major: 8
+- Minor: 37
+- Average closure time: 18 days
+
+2.7 MANAGEMENT REVIEW
+
+Management reviews are conducted quarterly covering:
+- Quality metrics and trends
+- Audit findings
+- CAPA status
+- Customer complaints
+- Regulatory updates
+- Resource requirements
+
+================================================================================
+
+3. PERSONNEL
+===========
+
+3.1 ORGANIZATIONAL CHART
+
+                        Managing Director
+                     Dr. Ramesh Kulkarni
+                              |
+            +-----------------+-----------------+
+            |                 |                 |
+    Technical Director   CFO              Head - Operations
+    Dr. Rajendra Patil   Mr. Rajesh Sharma   Mrs. Sunita Kulkarni
+            |
+    +-------+-------+-------+
+    |       |       |       |
+  Head QA  Head QC  Production  Regulatory
+  Mrs. Deepika  Dr. Anita  Manager    Head
+  Jain      Shah    Mr. Suresh   Ms. Priya
+                    Sharma       Desai
+
+3.2 KEY PERSONNEL
+
+Position                    Name                 Qualification      Experience
+--------------------------------------------------------------------------------
+Technical Director          Dr. Rajendra Patil   M.Pharm, Ph.D.    22 years
+Head of Quality Assurance   Mrs. Deepika Jain    M.Pharm (QA)      18 years
+Head of Quality Control     Dr. Anita Shah       M.Sc, Ph.D.       16 years
+Production Manager          Mr. Suresh Sharma    B.Pharm           15 years
+Head of Regulatory Affairs  Ms. Priya Desai      M.Pharm           12 years
+Warehouse Manager           Mr. Amit Patel       B.Pharm           10 years
+Engineering Manager         Mr. Vikram Singh     B.E. Mechanical   14 years
+Microbiologist              Dr. Neha Verma       M.Sc Microbiology 8 years
+
+All key personnel are employed full-time and are present during operations.
+
+3.3 TOTAL PERSONNEL
+
+Department              Permanent    Contract    Total
+------------------------------------------------------
+Production              85           40          125
+Quality Control         12           4           16
+Quality Assurance       8            2           10
+Warehouse               15           8           23
+Engineering             12           6           18
+Regulatory              4            0           4
+Administration          18           4           22
+------------------------------------------------------
+Total                   154          64          218
+
+3.4 TRAINING
+
+All personnel receive:
+- Induction training (GMP basics, hygiene, safety)
+- Job-specific training
+- Annual GMP refresher training
+- SOP training before implementation
+
+Training records are maintained for all personnel.
+Training effectiveness is assessed through written tests and practical evaluation.
+
+Training Hours FY 2024-25:
+- Total training hours: 4,850
+- Average per employee: 22 hours
+
+3.5 PERSONNEL HYGIENE
+
+- Annual medical examination for all production and QC personnel
+- Pre-employment medical fitness certificate
+- Personnel with illness not permitted in production/QC areas
+- Hand washing and sanitization procedures
+- Gowning procedures for different areas
+- No eating, drinking, smoking in production areas
+
+3.6 CONSULTANTS
+
+External consultants are used for:
+- GMP audits (M/s. GMP Compliance Services, Mumbai)
+- Validation services (M/s. PharmaValid Consultants, Pune)
+- Regulatory submissions (M/s. RegAffairs India, Mumbai)
+
+Consultant CVs and confidentiality agreements are on file.
+
+================================================================================
+
+4. PREMISES AND EQUIPMENT
+========================
+
+4.1 SITE LAYOUT
+
+Total Plot Area:        12,000 sq. meters
+Built-up Area:          7,897 sq. meters (85,000 sq. ft.)
+Green Belt:             1,200 sq. meters
+
+The site is located in MIDC Industrial Area, away from residential zones.
+No environmental pollutants in vicinity.
+
+4.2 BUILDING DESCRIPTION
+
+Block               Area (sq.ft.)   Products/Function
+--------------------------------------------------------------------------------
+Block A             25,000          Non-beta-lactam tablets and capsules
+Block B             8,000           Penicillins (dedicated, self-contained)
+Block C             7,000           Cephalosporins (dedicated, self-contained)
+Quality Control Lab 8,000           Testing laboratories
+Warehouse           15,000          RM, PM, FG storage
+Utilities           8,000           HVAC, water, power
+Administration      10,000          Offices, canteen, change rooms
+R&D                 4,000           Formulation development
+
+4.3 MANUFACTURING AREAS
+
+Block A - Non-Beta-Lactam:
+
+Area                    Classification    Pressure      Temperature    Humidity
+--------------------------------------------------------------------------------
+Dispensing              Grade D           +15 Pa        22±3°C         45±10%
+Granulation             Grade D           +15 Pa        22±3°C         45±10%
+Drying                  Grade D           +15 Pa        22±3°C         45±10%
+Compression             Grade D           +15 Pa        22±3°C         45±10%
+Coating                 Grade D           +15 Pa        22±3°C         45±10%
+Capsule Filling         Grade D           +15 Pa        22±3°C         45±10%
+Primary Packing         Grade D           +15 Pa        22±3°C         45±10%
+Secondary Packing       Controlled        Ambient       25±5°C         60±10%
+
+Block B - Penicillins (Self-Contained):
+
+- Separate entry/exit for personnel and materials
+- Dedicated air handling unit with 100% fresh air
+- Negative pressure relative to corridor
+- No cross-traffic with other blocks
+- Personnel must shower before exiting
+
+Block C - Cephalosporins (Self-Contained):
+
+- Similar containment as Block B
+- Physically separated from Block B
+- Dedicated utilities
+
+4.4 AIR HANDLING SYSTEM
+
+System      Areas Served         Filtration          Air Changes    Fresh Air
+--------------------------------------------------------------------------------
+AHU-1       Block A Granulation  Pre+Fine+HEPA       20 ACPH        20%
+AHU-2       Block A Compression  Pre+Fine+HEPA       20 ACPH        20%
+AHU-3       Block A Coating      Pre+Fine+HEPA       25 ACPH        30%
+AHU-4       Block A Capsules     Pre+Fine+HEPA       20 ACPH        20%
+AHU-5       Block A Packing      Pre+Fine            15 ACPH        20%
+AHU-6       Block B (Penicillin) Pre+Fine+HEPA       20 ACPH        100%
+AHU-7       Block C (Cephalosporin) Pre+Fine+HEPA   20 ACPH        100%
+AHU-8       QC Laboratory        Pre+Fine+HEPA       15 ACPH        30%
+AHU-9       Warehouse            Pre+Fine            10 ACPH        20%
+
+All AHUs equipped with:
+- Pre-filters (EU4)
+- Fine filters (EU8)
+- HEPA filters (H14, 99.995% efficiency) for Grade D areas
+- Temperature and humidity control
+
+4.5 WATER SYSTEMS
+
+System              Generation      Storage     Distribution    Use
+--------------------------------------------------------------------------------
+Potable Water       MIDC supply     50 KL       SS piping       General use
+Purified Water      RO + EDI        10 KL       SS 316L loop    Production
+                    2000 LPH                    80°C hot water
+
+Purified Water Specifications:
+- Conductivity: NMT 1.3 µS/cm
+- TOC: NMT 500 ppb
+- Microbial count: NMT 100 CFU/ml
+
+Distribution loop maintained at 80°C for microbial control.
+Periodic sanitization with ozone.
+
+4.6 MAJOR EQUIPMENT LIST
+
+Equipment               Make/Model          Capacity        Qualification
+--------------------------------------------------------------------------------
+Rapid Mixer Granulator  Anchor RMG-300      300 L           IQ/OQ/PQ done
+Fluid Bed Dryer         Retsch FBD-200      200 kg          IQ/OQ/PQ done
+Multi-Mill              Cadmach MM-200      200 kg/hr       IQ/OQ/PQ done
+Tablet Press 1          Cadmach CMD4-45     450,000/hr      IQ/OQ/PQ done
+Tablet Press 2          Cadmach CMD4-45     450,000/hr      IQ/OQ/PQ done
+Tablet Press 3          Fette P3000         300,000/hr      IQ/OQ/PQ done
+Coating Pan             Gansons GAC-80      80 kg           IQ/OQ/PQ done
+Capsule Filler          Zanasi AZ-40        40,000/hr       IQ/OQ/PQ done
+Blister Pack Machine    Uhlmann UPS-300     300 blisters/min IQ/OQ/PQ done
+Strip Pack Machine      Elmach SP-120       120 strips/min  IQ/OQ/PQ done
+Carton Packer           Marchesini MA-150   150/min         IQ/OQ/PQ done
+
+All equipment is:
+- Made of SS 316/316L for product contact parts
+- Qualified (IQ/OQ/PQ completed)
+- Under preventive maintenance program
+- Calibrated at defined intervals
+
+4.7 MAINTENANCE AND CALIBRATION
+
+Maintenance:
+- Preventive maintenance schedule for all equipment
+- Maintenance SOPs for each equipment
+- Breakdown maintenance recorded and investigated
+- Annual Maintenance Contracts with OEMs for critical equipment
+
+Calibration:
+- Master calibration schedule maintained
+- Critical instruments calibrated by NABL-accredited agencies
+- Calibration labels on all instruments
+- Out-of-calibration instruments quarantined
+
+4.8 CLEANING AND SANITATION
+
+- Validated cleaning procedures for all equipment
+- Cleaning validation using swab and rinse sampling
+- Residue limits: <10 ppm of previous product, <10 ppm detergent
+- Visual inspection plus analytical verification
+- "Clean" and "To Be Cleaned" labels
+- Maximum hold time after cleaning: 7 days
+
+4.9 UTILITIES SUMMARY
+
+Utility             Source              Capacity        Backup
+--------------------------------------------------------------------------------
+Electricity         MSEB + DG           2000 KVA        500 KVA DG (2 nos.)
+Steam               Electric boiler     500 kg/hr       N/A
+Compressed Air      Oil-free compressor 500 CFM         Standby compressor
+Nitrogen            PSA generator       50 Nm³/hr       Cylinder backup
+Vacuum              Central vacuum      500 CFM         N/A
+
+================================================================================
+
+5. DOCUMENTATION
+===============
+
+5.1 DOCUMENTATION SYSTEM
+
+All documentation is controlled through Document Control SOP (SOP/QA/001).
+
+Document Hierarchy:
+- Level 1: Quality Manual
+- Level 2: Standard Operating Procedures
+- Level 3: Batch records, specifications, test methods
+- Level 4: Forms, formats, logbooks
+
+5.2 DOCUMENT STATISTICS
+
+Document Type                   Active Documents
+------------------------------------------------
+Quality Manual                  1
+SOPs                            287
+Specifications (RM/PM/FG)       185
+Test Methods                    124
+Master Batch Records            47
+Master Packing Records          47
+Validation Protocols            156
+
+5.3 DOCUMENT CONTROL
+
+- All documents assigned unique numbers
+- Version control maintained
+- Effective date on all documents
+- Controlled copies distributed
+- Obsolete documents archived
+- Periodic review (every 2 years)
+- Electronic backup of all documents
+
+5.4 ELECTRONIC SYSTEMS
+
+System              Vendor          Validated    21 CFR Part 11
+--------------------------------------------------------------------------------
+ERP (SAP)           SAP             Yes          Compliant
+LIMS                LabWare         Yes          Compliant
+Document Control    MasterControl   Yes          Compliant
+Training Management ComplianceWire  Yes          Compliant
+
+================================================================================
+
+6. PRODUCTION
+============
+
+6.1 PRODUCTION OPERATIONS
+
+Products Manufactured:
+- Tablets: 35 products
+- Capsules: 12 products
+- Total: 47 products
+
+Annual Production Capacity:
+- Tablets/Capsules: 2.4 billion units
+- Utilization FY 2024-25: 82%
+
+6.2 PROCESS FLOW
+
+General Process Flow for Tablets:
+
+Raw Material Receipt → Sampling → Testing → Approval → Storage
+                                                          ↓
+                                                     Dispensing
+                                                          ↓
+                                                     Sifting
+                                                          ↓
+                                                     Dry Mixing
+                                                          ↓
+                                                     Granulation
+                                                          ↓
+                                                     Drying
+                                                          ↓
+                                                     Sizing
+                                                          ↓
+                                                     Lubrication
+                                                          ↓
+                                                     Compression
+                                                          ↓
+                                                     Coating (if applicable)
+                                                          ↓
+                                                     Primary Packing
+                                                          ↓
+                                                     Secondary Packing
+                                                          ↓
+                                                     Quarantine
+                                                          ↓
+                                                     QC Testing
+                                                          ↓
+                                                     QA Release
+                                                          ↓
+                                                     Finished Goods Store
+
+6.3 PROCESS VALIDATION
+
+All products are process validated:
+- Prospective validation for new products
+- Concurrent validation for existing products
+- Revalidation after significant changes
+
+Validation approach:
+- 3 consecutive batches at commercial scale
+- In-process controls and finished product testing
+- Statistical analysis of results
+- Validation report with conclusions
+
+6.4 CROSS-CONTAMINATION PREVENTION
+
+Measures implemented:
+- Dedicated facilities for beta-lactams
+- Pressure cascades between areas
+- Validated cleaning procedures
+- Campaign manufacturing for similar products
+- Airlock systems
+- Dedicated equipment where necessary
+
+6.5 MATERIAL MANAGEMENT
+
+Raw Materials:
+- Received in dedicated receiving bay
+- Quarantined until approved
+- Stored in approved storage conditions
+- FIFO/FEFO system
+- Dispensing in controlled environment
+- Reconciliation at each stage
+
+Packaging Materials:
+- Printed materials under lock and key
+- Version control and reconciliation
+- Destruction of obsolete materials
+
+================================================================================
+
+7. QUALITY CONTROL
+=================
+
+7.1 QC LABORATORY
+
+Location:           Separate building adjacent to production
+Area:               8,000 sq. ft.
+Accreditation:      NABL (ISO/IEC 17025)
+Certificate No.:    TC-5678
+
+7.2 LABORATORY AREAS
+
+Area                    Purpose                     Classification
+--------------------------------------------------------------------------------
+Chemical Testing        Wet chemistry, HPLC, UV     Controlled
+Instrumental Analysis   HPLC, GC, IR, Dissolution   Controlled
+Microbiology           Sterility, Microbial limits  Grade D/C
+Stability              Stability storage & testing  Temperature controlled
+Reference Standards    Storage of RS and WS         Temperature controlled
+Retained Samples       Storage of retention samples Controlled
+
+7.3 MAJOR INSTRUMENTS
+
+Instrument              Quantity    Make              Last Calibration
+--------------------------------------------------------------------------------
+HPLC                    3           Waters, Shimadzu  October 2025
+UV-Vis Spectrophotometer 2          Shimadzu          October 2025
+Dissolution Apparatus   12 vessels  Electrolab        October 2025
+Disintegration Tester   2           Electrolab        October 2025
+IR Spectrophotometer    1           Bruker            September 2025
+Karl Fischer Titrator   2           Metrohm           October 2025
+pH Meter                3           Mettler Toledo    September 2025
+Analytical Balance      6           Mettler Toledo    September 2025
+Stability Chambers      4           Thermolab         October 2025
+
+7.4 TESTING ACTIVITIES
+
+Raw Materials:
+- Identity, assay, related substances
+- Physical tests
+- Microbial limits
+
+In-Process Controls:
+- Blend uniformity
+- Moisture content
+- Hardness, weight variation
+- Disintegration, friability
+
+Finished Products:
+- Full testing as per specification
+- Dissolution profiles
+- Stability testing
+
+7.5 STABILITY PROGRAM
+
+- ICH Q1A/Q1B guidelines followed
+- Long-term: 30°C/65% RH (Zone III)
+- Accelerated: 40°C/75% RH
+- At least 1 batch per product per year
+- Photostability studies for new products
+
+7.6 REFERENCE STANDARDS
+
+- Pharmacopeial reference standards (USP, EP, IP)
+- Working standards qualified against primary standards
+- Storage under controlled conditions
+- Certificate of Analysis maintained
+
+7.7 OUT-OF-SPECIFICATION (OOS) INVESTIGATIONS
+
+- All OOS results investigated per SOP/QC/045
+- Phase 1: Laboratory investigation (analyst error, instrument malfunction)
+- Phase 2: Manufacturing investigation (if lab confirmed)
+- Decision tree for retesting
+- CAPA for confirmed OOS
+
+OOS Statistics FY 2024-25:
+- Total OOS: 12
+- Laboratory error: 5
+- Manufacturing related: 4
+- Confirmed OOS (batch rejected): 3
+
+================================================================================
+
+8. DISTRIBUTION, COMPLAINTS, AND RECALLS
+=======================================
+
+8.1 DISTRIBUTION
+
+Products are distributed through:
+- Company warehouse to distributors
+- Direct to large customers
+- Export via shipping/air freight
+
+Cold chain maintained for temperature-sensitive products.
+Distribution records enable complete traceability.
+
+8.2 COMPLAINTS
+
+Complaint handling per SOP/QA/056:
+- All complaints logged in database
+- Investigated within 30 days
+- Trend analysis performed
+- CAPA implemented for recurring issues
+
+Complaint Statistics FY 2024-25:
+- Total complaints: 42
+- Quality related: 18
+- Packaging related: 12
+- Delivery related: 8
+- Other: 4
+
+8.3 PRODUCT RECALLS
+
+Recall procedure per SOP/QA/078:
+- Recall team designated
+- Classification: Class I, II, III
+- Communication to customers and regulators
+- Recovery and destruction
+
+Recall History:
+- One recall in 2019 (Paracetamol batch - dissolution failure)
+- 94% recovery achieved
+- Mock recalls conducted annually
+
+================================================================================
+
+9. SELF-INSPECTION
+=================
+
+9.1 INTERNAL AUDIT PROGRAM
+
+Frequency: Quarterly covering all areas
+Audit team: Trained internal auditors
+Schedule: Annual audit schedule prepared
+
+Audit Areas:
+- Q1: Manufacturing and documentation
+- Q2: QC laboratory
+- Q3: Warehouse and materials
+- Q4: Equipment and utilities
+
+9.2 AUDIT FINDINGS
+
+FY 2024-25 Internal Audit Summary:
+- Total observations: 28
+- Critical: 0
+- Major: 4
+- Minor: 24
+- Average closure time: 21 days
+
+9.3 EXTERNAL AUDITS
+
+- Annual GMP audit by external consultant
+- Customer audits (3-4 per year)
+- Regulatory inspections
+
+================================================================================
+
+10. APPENDICES
+=============
+
+Appendix 1: Site Layout Drawing
+Appendix 2: Organizational Chart
+Appendix 3: Product List
+Appendix 4: Equipment List
+Appendix 5: GMP Certificates
+Appendix 6: Personnel Training Matrix
+
+================================================================================
+
+REVISION HISTORY
+
+Version   Date           Changes                        Approved By
+--------------------------------------------------------------------------------
+1.0       Jan 2013       Initial release                Dr. R. Kulkarni
+2.0       Jan 2016       Added Block B&C, updated       Dr. R. Kulkarni
+                         equipment list
+3.0       Jan 2019       Updated for WHO-GMP            Dr. R. Kulkarni
+                         certification
+4.0       Jan 2022       Updated personnel, equipment   Dr. R. Kulkarni
+5.0       Jan 2025       Annual review and update       Dr. R. Kulkarni
+
+================================================================================
+                    END OF SITE MASTER FILE
+================================================================================

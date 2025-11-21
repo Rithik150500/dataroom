@@ -1,0 +1,533 @@
+================================================================================
+                    PROCESS VALIDATION REPORT
+                    METFORMIN HYDROCHLORIDE TABLETS 500mg
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+Document Number:      PV/MET500/2023/001
+Product:              Metformin Hydrochloride Tablets 500mg
+Batch Size:           500,000 tablets
+Protocol Number:      PVP/MET500/2023/001
+Protocol Date:        June 15, 2023
+Report Date:          September 30, 2023
+
+================================================================================
+
+APPROVAL SIGNATURES
+
+Prepared By:
+Name:                 Mr. Suresh Sharma
+Designation:          Production Manager
+Signature:            _________________ Date: Sep 25, 2023
+
+Reviewed By:
+Name:                 Dr. Anita Shah
+Designation:          Head - Quality Control
+Signature:            _________________ Date: Sep 28, 2023
+
+Approved By:
+Name:                 Mrs. Deepika Jain
+Designation:          Head - Quality Assurance
+Signature:            _________________ Date: Sep 30, 2023
+
+================================================================================
+
+1. EXECUTIVE SUMMARY
+====================
+
+This report presents the results of prospective process validation for
+Metformin Hydrochloride Tablets 500mg. Three consecutive batches (PV-01,
+PV-02, PV-03) were manufactured at commercial scale following the approved
+master batch record.
+
+CONCLUSION: The manufacturing process for Metformin Hydrochloride Tablets
+500mg is VALIDATED. All three batches met in-process and finished product
+specifications, demonstrating that the process is capable of consistently
+producing product meeting predetermined quality attributes.
+
+================================================================================
+
+2. OBJECTIVE
+===========
+
+To validate that the manufacturing process for Metformin Hydrochloride
+Tablets 500mg consistently produces a product meeting all predetermined
+specifications and quality attributes.
+
+================================================================================
+
+3. SCOPE
+=======
+
+This validation covers:
+- All unit operations from dispensing to primary packaging
+- All critical process parameters
+- All in-process controls
+- Finished product testing
+
+================================================================================
+
+4. REFERENCE DOCUMENTS
+=====================
+
+- Master Batch Record: MBR/MET500/003 Version 2.0
+- Finished Product Specification: FPS/MET500/002
+- Analytical Methods: AM/MET500/001 (Validated)
+- Equipment Qualification Reports (IQ/OQ/PQ)
+- Cleaning Validation Report: CV/RMG300/001
+
+================================================================================
+
+5. PRODUCT INFORMATION
+=====================
+
+Product Name:         Metformin Hydrochloride Tablets IP 500mg
+Generic Name:         Metformin Hydrochloride
+Strength:             500mg per tablet
+Dosage Form:          Film-coated tablets
+Pack Size:            10 tablets per blister strip
+Shelf Life:           24 months
+Storage:              Store below 30°C, protect from moisture
+
+5.1 FORMULA (Per Tablet)
+
+Ingredient                    Quantity (mg)   Function
+--------------------------------------------------------------------------------
+Metformin Hydrochloride       500.00          Active ingredient
+Povidone K-30                 25.00           Binder
+Magnesium Stearate            5.00            Lubricant
+Colloidal Silicon Dioxide     3.00            Glidant
+Purified Water                q.s.            Granulation (removed)
+--------------------------------------------------------------------------------
+Core Tablet Weight            533.00 mg
+--------------------------------------------------------------------------------
+Opadry White                  16.00           Film coating
+Purified Water                q.s.            Coating (removed)
+--------------------------------------------------------------------------------
+Coated Tablet Weight          549.00 mg
+
+5.2 BATCH SIZE
+
+Batch Size:           500,000 tablets
+Batch Weight:         274.5 kg (core tablets)
+Coated Weight:        274.5 + 8.0 kg coating = 282.5 kg
+
+================================================================================
+
+6. EQUIPMENT
+===========
+
+Unit Operation          Equipment                 ID Number    Status
+--------------------------------------------------------------------------------
+Sifting                 Vibro Sifter VS-24        VS-001       Qualified
+Dry Mixing              Octagonal Blender OB-200  OB-001       Qualified
+Granulation             RMG Anchor 300L           RMG-001      Qualified
+Drying                  Fluid Bed Dryer FBD-200   FBD-001      Qualified
+Sizing                  Multi Mill MM-200         MM-001       Qualified
+Lubrication             Octagonal Blender OB-200  OB-001       Qualified
+Compression             Cadmach CMD4-45           TAB-001      Qualified
+Coating                 Gansons Auto Coater 80    GAC-001      Qualified
+Packing                 Uhlmann UPS-300           BPM-001      Qualified
+
+================================================================================
+
+7. CRITICAL QUALITY ATTRIBUTES (CQAs)
+====================================
+
+CQA                   Specification           Justification
+--------------------------------------------------------------------------------
+Assay                 95.0-105.0% LC          Drug content uniformity
+Content Uniformity    AV ≤ 15.0               Dose uniformity
+Dissolution           NLT 70% in 45 min       Drug release
+Related Substances    Individual NMT 0.3%     Purity
+                      Total NMT 1.0%
+Water Content         NMT 3.0%                Stability
+Microbial Limits      TAMC ≤1000 CFU/g        Microbiological quality
+
+================================================================================
+
+8. CRITICAL PROCESS PARAMETERS (CPPs)
+====================================
+
+8.1 GRANULATION (RMG)
+
+Parameter               Set Point          Acceptable Range
+--------------------------------------------------------------------------------
+Impeller Speed          120 RPM            115-125 RPM
+Chopper Speed           1500 RPM           1450-1550 RPM
+Granulation Time        8 minutes          7-9 minutes
+Binder Addition Rate    2 kg/min           1.5-2.5 kg/min
+Endpoint (Ampere)       18 A               16-20 A
+
+8.2 DRYING (FBD)
+
+Parameter               Set Point          Acceptable Range
+--------------------------------------------------------------------------------
+Inlet Air Temperature   60°C               55-65°C
+Drying Time             90 minutes         80-100 minutes
+Target LOD              2.0%               1.5-2.5%
+
+8.3 COMPRESSION
+
+Parameter               Set Point          Acceptable Range
+--------------------------------------------------------------------------------
+Compression Force       15 kN              13-17 kN
+Turret Speed            35 RPM             30-40 RPM
+Weight Variation        ±5%                533 ± 26.65 mg
+Hardness                8-12 kp            8-12 kp
+Thickness               5.0 ± 0.2 mm       4.8-5.2 mm
+Friability              NMT 0.5%           NMT 0.5%
+
+8.4 COATING
+
+Parameter               Set Point          Acceptable Range
+--------------------------------------------------------------------------------
+Inlet Air Temp          55°C               50-60°C
+Pan Speed               8 RPM              6-10 RPM
+Spray Rate              50 g/min           40-60 g/min
+Atomization Pressure    2.0 bar            1.5-2.5 bar
+Weight Gain             3.0%               2.8-3.2%
+
+================================================================================
+
+9. VALIDATION BATCHES
+====================
+
+Batch Number    Manufacturing Date    Batch Size       Status
+--------------------------------------------------------------------------------
+MET-PV-01       July 15, 2023         500,000 tablets  Completed
+MET-PV-02       July 25, 2023         500,000 tablets  Completed
+MET-PV-03       August 5, 2023        500,000 tablets  Completed
+
+================================================================================
+
+10. RESULTS - PROCESS PARAMETERS
+================================
+
+10.1 GRANULATION RESULTS
+
+Parameter            Batch PV-01    Batch PV-02    Batch PV-03    Limit
+--------------------------------------------------------------------------------
+Impeller Speed       120 RPM        118 RPM        121 RPM        115-125
+Chopper Speed        1500 RPM       1480 RPM       1520 RPM       1450-1550
+Granulation Time     8 min          8 min          8 min          7-9 min
+Binder Added         12.5 kg        12.5 kg        12.5 kg        12.5 kg
+Endpoint Ampere      17.8 A         18.2 A         17.5 A         16-20 A
+
+All batches: COMPLIES
+
+10.2 DRYING RESULTS
+
+Parameter            Batch PV-01    Batch PV-02    Batch PV-03    Limit
+--------------------------------------------------------------------------------
+Inlet Temperature    60°C           58°C           61°C           55-65°C
+Drying Time          85 min         90 min         88 min         80-100 min
+Final LOD            1.9%           2.1%           1.8%           1.5-2.5%
+Yield                99.2%          99.0%          99.3%          NLT 98%
+
+All batches: COMPLIES
+
+10.3 BLENDING (LUBRICATION) RESULTS
+
+Parameter            Batch PV-01    Batch PV-02    Batch PV-03    Limit
+--------------------------------------------------------------------------------
+Blender Speed        12 RPM         12 RPM         12 RPM         10-14 RPM
+Blending Time        5 min          5 min          5 min          4-6 min
+Blend Uniformity     RSD 1.8%       RSD 2.1%       RSD 1.6%       NMT 5.0%
+
+All batches: COMPLIES
+
+10.4 COMPRESSION RESULTS
+
+Parameter            Batch PV-01    Batch PV-02    Batch PV-03    Limit
+--------------------------------------------------------------------------------
+Average Weight       533.2 mg       532.8 mg       533.5 mg       533±26.65
+Weight RSD           1.2%           1.4%           1.1%           NMT 5%
+Average Hardness     10.2 kp        9.8 kp         10.5 kp        8-12 kp
+Average Thickness    5.02 mm        4.98 mm        5.01 mm        4.8-5.2 mm
+Friability           0.18%          0.22%          0.15%          NMT 0.5%
+Disintegration       12 min         14 min         11 min         NMT 30 min
+Yield                98.5%          98.2%          98.8%          95-105%
+
+All batches: COMPLIES
+
+10.5 COATING RESULTS
+
+Parameter            Batch PV-01    Batch PV-02    Batch PV-03    Limit
+--------------------------------------------------------------------------------
+Inlet Temperature    55°C           54°C           56°C           50-60°C
+Pan Speed            8 RPM          8 RPM          8 RPM          6-10 RPM
+Weight Gain          2.98%          3.02%          2.95%          2.8-3.2%
+Appearance           White, smooth  White, smooth  White, smooth  Complies
+Yield                99.5%          99.3%          99.6%          NLT 98%
+
+All batches: COMPLIES
+
+================================================================================
+
+11. RESULTS - IN-PROCESS CONTROLS
+=================================
+
+11.1 GRANULE CHARACTERISTICS
+
+Test                 Batch PV-01    Batch PV-02    Batch PV-03    Limit
+--------------------------------------------------------------------------------
+LOD                  1.9%           2.1%           1.8%           1.5-2.5%
+Bulk Density         0.52 g/ml      0.50 g/ml      0.53 g/ml      0.45-0.60
+Tapped Density       0.68 g/ml      0.65 g/ml      0.69 g/ml      0.60-0.75
+Carr's Index         23.5%          23.1%          23.2%          ≤25%
+Hausner Ratio        1.31           1.30           1.30           ≤1.35
+Sieve Analysis
+  >30#               2.1%           2.4%           1.9%           NMT 5%
+  30-60#             45.2%          44.8%          46.1%          40-60%
+  60-100#            38.5%          39.2%          37.8%          30-45%
+  <100#              14.2%          13.6%          14.2%          10-20%
+
+All batches: COMPLIES
+
+11.2 BLEND UNIFORMITY
+
+Sampling Points: Top, Middle, Bottom, Left, Right, Front, Back (7 locations)
+3 samples from each location = 21 samples per batch
+
+                     Batch PV-01    Batch PV-02    Batch PV-03    Limit
+--------------------------------------------------------------------------------
+Mean Assay           99.8%          100.2%         99.5%          95-105%
+RSD                  1.8%           2.1%           1.6%           NMT 5.0%
+Min Value            97.2%          96.8%          97.5%          NLT 90%
+Max Value            102.1%         103.2%         101.8%         NMT 110%
+
+All batches: COMPLIES - Blend is uniform
+
+11.3 COMPRESSION IN-PROCESS
+
+Samples taken every 15 minutes (33 samples per batch)
+
+Parameter            Batch PV-01    Batch PV-02    Batch PV-03    Limit
+--------------------------------------------------------------------------------
+Weight (Mean)        533.2 mg       532.8 mg       533.5 mg       533±26.65
+Weight (RSD)         1.2%           1.4%           1.1%           NMT 5%
+Hardness (Mean)      10.2 kp        9.8 kp         10.5 kp        8-12 kp
+Hardness (RSD)       4.8%           5.2%           4.5%           NMT 10%
+Thickness (Mean)     5.02 mm        4.98 mm        5.01 mm        4.8-5.2
+
+All batches: COMPLIES
+
+================================================================================
+
+12. RESULTS - FINISHED PRODUCT TESTING
+=====================================
+
+12.1 PHYSICAL TESTS
+
+Test                 Batch PV-01    Batch PV-02    Batch PV-03    Specification
+--------------------------------------------------------------------------------
+Description          White, round,  White, round,  White, round,  White, round,
+                     biconvex,      biconvex,      biconvex,      biconvex,
+                     film-coated    film-coated    film-coated    film-coated
+Average Weight       549.1 mg       548.7 mg       549.4 mg       549 ± 5%
+Weight Uniformity    Complies       Complies       Complies       Ph.Eur.
+Hardness             10.5 kp        10.1 kp        10.8 kp        Report
+Friability           0.12%          0.15%          0.10%          NMT 1.0%
+Disintegration       8 min          9 min          7 min          NMT 30 min
+
+All batches: COMPLIES
+
+12.2 IDENTIFICATION
+
+Test                 Batch PV-01    Batch PV-02    Batch PV-03    Specification
+--------------------------------------------------------------------------------
+IR Spectroscopy      Matches RS     Matches RS     Matches RS     Matches RS
+HPLC Rt              Matches RS     Matches RS     Matches RS     Matches RS
+
+All batches: COMPLIES
+
+12.3 ASSAY (HPLC)
+
+Test                 Batch PV-01    Batch PV-02    Batch PV-03    Specification
+--------------------------------------------------------------------------------
+Assay                99.2%          100.5%         98.8%          95.0-105.0%
+
+All batches: COMPLIES
+
+12.4 CONTENT UNIFORMITY
+
+10 tablets tested per batch (USP <905>)
+
+                     Batch PV-01    Batch PV-02    Batch PV-03    Specification
+--------------------------------------------------------------------------------
+Mean (%)             99.5           100.8          98.9           -
+RSD (%)              1.8            2.2            1.5            -
+Acceptance Value     5.8            7.1            4.9            NMT 15.0
+Result               COMPLIES       COMPLIES       COMPLIES       L1 criteria
+
+All batches: COMPLIES
+
+12.5 DISSOLUTION
+
+Apparatus:           Paddle (USP Apparatus 2)
+Medium:              Phosphate Buffer pH 6.8, 1000 ml
+Speed:               100 RPM
+Temperature:         37 ± 0.5°C
+Time Points:         15, 30, 45 minutes
+Specification:       NLT 70% (Q) in 45 minutes
+
+Results (% Released):
+
+Time (min)    Batch PV-01    Batch PV-02    Batch PV-03    Specification
+--------------------------------------------------------------------------------
+15            68.2 ± 2.1     65.8 ± 2.5     70.1 ± 1.8     Report
+30            82.5 ± 1.8     80.2 ± 2.2     84.3 ± 1.5     Report
+45            92.1 ± 1.5     90.8 ± 1.8     93.5 ± 1.2     NLT 70%
+
+Individual tablet results (12 tablets) all > 70% at 45 minutes.
+
+All batches: COMPLIES
+
+Dissolution Profile Comparison (f2 Similarity Factor):
+- PV-01 vs PV-02: f2 = 78 (similar)
+- PV-02 vs PV-03: f2 = 75 (similar)
+- PV-01 vs PV-03: f2 = 82 (similar)
+
+12.6 RELATED SUBSTANCES (HPLC)
+
+                     Batch PV-01    Batch PV-02    Batch PV-03    Specification
+--------------------------------------------------------------------------------
+Any individual       0.08%          0.10%          0.07%          NMT 0.3%
+impurity
+Total impurities     0.15%          0.18%          0.12%          NMT 1.0%
+
+All batches: COMPLIES
+
+12.7 WATER CONTENT (Karl Fischer)
+
+                     Batch PV-01    Batch PV-02    Batch PV-03    Specification
+--------------------------------------------------------------------------------
+Water Content        2.2%           2.5%           2.1%           NMT 3.0%
+
+All batches: COMPLIES
+
+12.8 MICROBIAL LIMITS
+
+Test                 Batch PV-01    Batch PV-02    Batch PV-03    Specification
+--------------------------------------------------------------------------------
+TAMC                 <10 CFU/g      <10 CFU/g      <10 CFU/g      NMT 1000 CFU/g
+TYMC                 <10 CFU/g      <10 CFU/g      <10 CFU/g      NMT 100 CFU/g
+E. coli              Absent/g       Absent/g       Absent/g       Absent/g
+
+All batches: COMPLIES
+
+================================================================================
+
+13. BATCH YIELDS
+===============
+
+Stage                Batch PV-01    Batch PV-02    Batch PV-03    Limit
+--------------------------------------------------------------------------------
+Granulation          99.2%          99.0%          99.3%          NLT 98%
+Compression          98.5%          98.2%          98.8%          95-105%
+Coating              99.5%          99.3%          99.6%          NLT 98%
+Overall Yield        97.2%          96.5%          97.7%          95-105%
+
+Tablets Produced:
+- Batch PV-01:       486,000 tablets
+- Batch PV-02:       482,500 tablets
+- Batch PV-03:       488,500 tablets
+
+All batches within acceptable yield limits.
+
+================================================================================
+
+14. DEVIATIONS
+=============
+
+No deviations occurred during the manufacture of the three validation batches.
+
+================================================================================
+
+15. DISCUSSION
+=============
+
+15.1 PROCESS CAPABILITY
+
+All critical process parameters were within the defined acceptable ranges.
+The process demonstrated good reproducibility across three consecutive batches.
+
+15.2 IN-PROCESS CONTROLS
+
+Blend uniformity testing confirmed homogeneous distribution of the active
+ingredient with RSD values well below the 5% acceptance criterion.
+
+Compression parameters were consistent throughout the tablet compression
+operation, with weight and hardness values showing good uniformity.
+
+15.3 FINISHED PRODUCT QUALITY
+
+All three batches met finished product specifications:
+- Assay: 98.8-100.5% (Specification: 95-105%)
+- Content Uniformity: AV 4.9-7.1 (Specification: NMT 15)
+- Dissolution: 90.8-93.5% at 45 min (Specification: NLT 70%)
+- Related substances well within limits
+
+The dissolution profiles of all three batches were similar (f2 > 50),
+indicating consistent drug release characteristics.
+
+15.4 YIELD ANALYSIS
+
+Overall yields ranged from 96.5% to 97.7%, within the expected range.
+Material losses were primarily due to:
+- Sampling for in-process and finished product testing
+- Normal processing losses (transfer, equipment surfaces)
+
+================================================================================
+
+16. CONCLUSION
+=============
+
+Based on the results of this validation study:
+
+1. All three validation batches were manufactured successfully following
+   the approved master batch record.
+
+2. All critical process parameters were within the defined acceptable ranges.
+
+3. All in-process controls met acceptance criteria.
+
+4. All finished product tests met specifications.
+
+5. Yields were within acceptable limits.
+
+6. No deviations occurred during validation.
+
+CONCLUSION: The manufacturing process for Metformin Hydrochloride Tablets 500mg
+is VALIDATED and is capable of consistently producing product that meets all
+predetermined specifications and quality attributes.
+
+================================================================================
+
+17. RECOMMENDATIONS
+==================
+
+1. The process is validated and approved for routine commercial manufacturing.
+
+2. Continued process verification should be performed on an ongoing basis.
+
+3. Any changes to the process, equipment, or materials should be evaluated
+   through the change control system and may require revalidation.
+
+4. Annual Product Quality Review should include process performance trends.
+
+================================================================================
+
+18. ATTACHMENTS
+==============
+
+Attachment 1: Validation Protocol (PVP/MET500/2023/001)
+Attachment 2: Batch Manufacturing Records (3 batches)
+Attachment 3: Analytical Data (All test results)
+Attachment 4: Equipment Qualification Summary
+Attachment 5: Analytical Method Validation Summary
+
+================================================================================
+                    END OF PROCESS VALIDATION REPORT
+================================================================================

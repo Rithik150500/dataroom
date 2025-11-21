@@ -1,0 +1,587 @@
+================================================================================
+                    STANDARD OPERATING PROCEDURES
+                    BIOPHARMA INDUSTRIES LIMITED
+================================================================================
+
+This document contains example SOPs representing the 287 SOPs maintained by
+BioPharma Industries Limited for GMP compliance.
+
+================================================================================
+
+SOP 1: CLEANING OF TABLET COMPRESSION MACHINE
+============================================
+
+--------------------------------------------------------------------------------
+SOP NUMBER:           SOP/MFG/045
+VERSION:              3.0
+EFFECTIVE DATE:       January 1, 2024
+REVIEW DATE:          December 31, 2025
+PAGE:                 1 of 5
+--------------------------------------------------------------------------------
+
+1. PURPOSE
+
+To describe the procedure for cleaning of tablet compression machine after
+each batch to prevent cross-contamination and ensure GMP compliance.
+
+2. SCOPE
+
+This SOP applies to all tablet compression machines in the manufacturing area
+including Cadmach CMD4-45 (TAB-001, TAB-002) and Fette P3000 (TAB-003).
+
+3. RESPONSIBILITY
+
+- Production Operator: Performs cleaning
+- Production Supervisor: Verifies cleaning
+- QA Inspector: Approves cleaned equipment
+
+4. DEFINITIONS
+
+- Product Contact Parts: Parts that come in direct contact with the product
+- Major Cleaning: Complete dismantling and cleaning (product changeover)
+- Minor Cleaning: Cleaning without full dismantling (same product, batch change)
+
+5. MATERIALS REQUIRED
+
+- Potable water
+- Purified water
+- Detergent (approved cleaning agent - Teepol)
+- 70% Isopropyl Alcohol (IPA)
+- Lint-free wipes
+- Cleaning brushes
+- Vacuum cleaner (dedicated)
+
+6. PERSONAL PROTECTIVE EQUIPMENT
+
+- Gloves (nitrile)
+- Face mask
+- Safety goggles
+- Hair cover
+- Gown
+
+7. PROCEDURE
+
+7.1 PREPARATION
+
+7.1.1 Stop the machine and switch off the main power supply.
+7.1.2 Display "UNDER CLEANING" status label.
+7.1.3 Remove all tablets from hopper, feeder, and die cavities.
+7.1.4 Collect tablets in labeled container and send for reconciliation.
+
+7.2 DISMANTLING
+
+7.2.1 Remove upper punches and place in designated tray.
+7.2.2 Remove lower punches and place in designated tray.
+7.2.3 Remove dies using die removal tool.
+7.2.4 Remove feed frame and hopper.
+7.2.5 Remove turret guards and safety covers.
+
+7.3 CLEANING OF DISMANTLED PARTS
+
+7.3.1 Vacuum any remaining powder from parts.
+7.3.2 Rinse parts with potable water to remove bulk residue.
+7.3.3 Prepare cleaning solution (2% Teepol in potable water).
+7.3.4 Scrub all parts with cleaning solution using nylon brushes.
+7.3.5 Pay special attention to punch tips, die bores, and feed frame channels.
+7.3.6 Rinse thoroughly with potable water until no soap residue remains.
+7.3.7 Final rinse with purified water.
+7.3.8 Wipe with 70% IPA.
+7.3.9 Air dry or dry with lint-free cloth.
+
+7.4 CLEANING OF MACHINE BODY
+
+7.4.1 Vacuum all surfaces to remove loose powder.
+7.4.2 Wipe turret surface with damp cloth (purified water).
+7.4.3 Clean punch guides and cam tracks with IPA.
+7.4.4 Wipe all external surfaces with 70% IPA.
+7.4.5 Clean compression rollers and adjustment mechanisms.
+
+7.5 REASSEMBLY
+
+7.5.1 Reassemble all cleaned parts in reverse order.
+7.5.2 Ensure proper seating of dies and alignment of punches.
+7.5.3 Lubricate moving parts as per machine manual.
+
+7.6 DOCUMENTATION
+
+7.6.1 Record cleaning details in Equipment Cleaning Log.
+7.6.2 Affix "CLEANED" label with date, time, product cleaned from, and signature.
+
+8. CLEANING VALIDATION
+
+This cleaning procedure has been validated (CV/TAB001/2023/001).
+Acceptance criteria:
+- Visual: No visible residue
+- Swab test: Previous product residue <10 ppm
+- Rinse test: Detergent residue <10 ppm
+
+9. HOLD TIME
+
+Maximum hold time after cleaning: 7 days
+If exceeded, re-clean before use.
+
+10. REFERENCES
+
+- SOP/QA/025 - Cleaning Validation
+- Equipment Manual - Cadmach CMD4
+
+--------------------------------------------------------------------------------
+Prepared by: Mr. Suresh Sharma, Production Manager
+Reviewed by: Mrs. Deepika Jain, Head QA
+Approved by: Dr. Rajendra Patil, Technical Director
+--------------------------------------------------------------------------------
+
+================================================================================
+
+SOP 2: OUT-OF-SPECIFICATION (OOS) INVESTIGATION
+==============================================
+
+--------------------------------------------------------------------------------
+SOP NUMBER:           SOP/QC/045
+VERSION:              4.0
+EFFECTIVE DATE:       April 1, 2024
+REVIEW DATE:          March 31, 2026
+PAGE:                 1 of 8
+--------------------------------------------------------------------------------
+
+1. PURPOSE
+
+To establish a systematic procedure for investigation of Out-of-Specification
+(OOS) results to determine the root cause and implement corrective actions.
+
+2. SCOPE
+
+This SOP applies to all OOS results obtained during testing of raw materials,
+in-process samples, finished products, and stability samples in the QC laboratory.
+
+3. RESPONSIBILITY
+
+- Analyst: Reports OOS, participates in investigation
+- QC Supervisor: Initiates Phase I investigation
+- QC Head: Reviews Phase I, initiates Phase II
+- QA Head: Final review and approval
+- Production Manager: Phase II manufacturing investigation
+
+4. DEFINITIONS
+
+Out-of-Specification (OOS): Test result that falls outside established
+acceptance criteria or specifications.
+
+Out-of-Trend (OOT): Test result that is within specification but shows an
+unexpected trend compared to historical data.
+
+Assignable Cause: An identifiable cause for the OOS result.
+
+5. PROCEDURE
+
+5.1 IDENTIFICATION AND REPORTING
+
+5.1.1 When an OOS result is obtained, the analyst shall:
+      a) Stop testing immediately
+      b) Retain all solutions, samples, and documentation
+      c) Inform the QC Supervisor within 1 hour
+      d) Document in OOS Log (Form QC/045/F01)
+
+5.1.2 QC Supervisor shall assign OOS number: OOS-YYYY-NNN
+
+5.2 PHASE I: LABORATORY INVESTIGATION (Within 3 working days)
+
+5.2.1 QC Supervisor shall initiate Phase I investigation immediately.
+
+5.2.2 Review the following:
+
+      a) ANALYST PERFORMANCE
+         - Training records
+         - Recent performance on similar tests
+         - Calculation errors
+
+      b) SAMPLE HANDLING
+         - Sample integrity
+         - Proper labeling
+         - Storage conditions
+         - Preparation procedure
+
+      c) INSTRUMENT/EQUIPMENT
+         - Calibration status
+         - Maintenance records
+         - System suitability (for HPLC/GC)
+         - Performance logs
+
+      d) REFERENCE STANDARDS AND REAGENTS
+         - Expiry dates
+         - Storage conditions
+         - Preparation records
+
+      e) TEST METHOD
+         - Correct procedure followed
+         - Correct specification applied
+         - Calculations verified
+
+      f) DATA INTEGRITY
+         - Raw data reviewed
+         - Chromatograms reviewed
+         - No transcription errors
+
+5.2.3 Document findings in Phase I Investigation Report (Form QC/045/F02).
+
+5.3 PHASE I OUTCOMES
+
+5.3.1 If assignable laboratory cause is found:
+      a) Document the cause
+      b) Invalidate the original result with justification
+      c) Implement corrective action
+      d) Retest using same sample
+      e) Report retest result
+
+5.3.2 If no assignable laboratory cause is found:
+      a) Confirm original result with second analyst
+      b) If confirmed, proceed to Phase II
+
+5.4 PHASE II: MANUFACTURING INVESTIGATION (Within 10 working days)
+
+5.4.1 QC Head shall notify Production and QA to initiate Phase II.
+
+5.4.2 Manufacturing investigation shall cover:
+
+      a) BATCH RECORD REVIEW
+         - All manufacturing steps followed
+         - No deviations
+         - IPC results
+
+      b) ENVIRONMENTAL CONDITIONS
+         - Temperature, humidity records
+         - Any excursions
+
+      c) EQUIPMENT
+         - Qualification status
+         - Cleaning records
+         - Any equipment issues
+
+      d) RAW MATERIALS
+         - Supplier COAs
+         - Testing results
+         - Any quality issues
+
+      e) PROCESS PARAMETERS
+         - All parameters within range
+         - No process changes
+
+      f) PERSONNEL
+         - Training status
+         - Any human errors
+
+5.4.3 Document findings in Phase II Investigation Report (Form QC/045/F03).
+
+5.5 ADDITIONAL TESTING
+
+5.5.1 Additional testing may include:
+      - Retesting of original sample
+      - Testing of additional sample units
+      - Testing of retain sample (same batch)
+      - Testing of additional batches
+
+5.5.2 Averaging of results is NOT permitted except when specified in the
+      test method (e.g., content uniformity).
+
+5.6 CONCLUSION AND DECISION
+
+5.6.1 Based on investigation findings:
+
+      a) ASSIGNABLE CAUSE FOUND (Lab or Manufacturing):
+         - Implement CAPA
+         - Invalidate affected result if appropriate
+         - Accept retest result
+         - Document justification
+
+      b) NO ASSIGNABLE CAUSE FOUND:
+         - Original OOS result stands
+         - Batch must be rejected or reprocessed
+         - Evaluate impact on other batches
+
+5.6.2 Document final conclusion in OOS Summary Report (Form QC/045/F04).
+
+5.7 CAPA
+
+5.7.1 For all confirmed OOS results:
+      a) Identify root cause
+      b) Implement corrective action
+      c) Implement preventive action
+      d) Verify effectiveness
+
+5.7.2 CAPA shall be tracked to closure.
+
+5.8 TIMELINE
+
+Activity                              Timeline
+------------------------------------------------
+OOS identification to Phase I start   Immediate
+Phase I completion                    3 working days
+Phase II initiation (if needed)       1 working day
+Phase II completion                   10 working days
+CAPA implementation                   As per CAPA plan
+
+5.9 TRENDING
+
+5.9.1 OOS data shall be trended monthly and reviewed in Management Review.
+5.9.2 Trends by product, test, analyst, and equipment shall be analyzed.
+
+6. RECORDS
+
+- OOS Log
+- Phase I Investigation Report
+- Phase II Investigation Report
+- OOS Summary Report
+- CAPA records
+
+7. REFERENCES
+
+- FDA Guidance for Industry: Investigating OOS Test Results
+- ICH Q10 Pharmaceutical Quality System
+
+--------------------------------------------------------------------------------
+Prepared by: Dr. Anita Shah, Head QC
+Reviewed by: Mrs. Deepika Jain, Head QA
+Approved by: Dr. Rajendra Patil, Technical Director
+--------------------------------------------------------------------------------
+
+================================================================================
+
+SOP 3: ENVIRONMENTAL MONITORING
+==============================
+
+--------------------------------------------------------------------------------
+SOP NUMBER:           SOP/QA/032
+VERSION:              3.0
+EFFECTIVE DATE:       July 1, 2024
+PAGE:                 1 of 6
+--------------------------------------------------------------------------------
+
+1. PURPOSE
+
+To establish a procedure for environmental monitoring of manufacturing and
+testing areas to ensure GMP compliance and product quality.
+
+2. SCOPE
+
+This SOP covers viable and non-viable particle monitoring in Grade D
+manufacturing areas and QC laboratory.
+
+3. MONITORING PARAMETERS
+
+3.1 NON-VIABLE PARTICLES
+
+Particle Counter:     Met One 3400
+Locations:            Production areas, QC lab
+Frequency:            Daily during operations
+
+Limits (Grade D - At Rest):
+- ≥0.5 µm: NMT 3,520,000 particles/m³
+- ≥5.0 µm: NMT 29,000 particles/m³
+
+3.2 VIABLE MONITORING
+
+Methods:
+- Settle plates (90mm TSA, 4-hour exposure)
+- Active air sampling (SAS sampler, 1000L)
+- Surface monitoring (contact plates/swabs)
+
+Locations:           Per sampling plan
+Frequency:           Weekly (more during production)
+
+Limits (Grade D):
+- Settle plates: NMT 100 CFU/4 hours
+- Air samples: NMT 200 CFU/m³
+- Contact plates: NMT 50 CFU/55mm plate
+
+4. ALERT AND ACTION LIMITS
+
+Level         Particle Count    Settle Plate    Air Sample
+------------------------------------------------------------
+Normal        Within limit      ≤50 CFU         ≤100 CFU
+Alert         80% of limit      51-75 CFU       101-150 CFU
+Action        At limit          76-100 CFU      151-200 CFU
+OOS           Exceeds limit     >100 CFU        >200 CFU
+
+5. PROCEDURE
+
+5.1 NON-VIABLE MONITORING
+
+5.1.1 Calibrate particle counter before use.
+5.1.2 Sample at 1 cubic foot at each location.
+5.1.3 Record results in Environmental Monitoring Log.
+5.1.4 Investigate any exceedances.
+
+5.2 VIABLE MONITORING
+
+5.2.1 Collect settle plates, air samples, and contact plates per schedule.
+5.2.2 Incubate plates at 30-35°C for 48-72 hours (bacteria) and
+      20-25°C for 5-7 days (fungi).
+5.2.3 Count colonies and record results.
+5.2.4 Investigate any exceedances.
+
+6. INVESTIGATION AND CAPA
+
+6.1 Alert Level: Investigate, trend, increase monitoring frequency.
+6.2 Action Level: Investigate, initiate CAPA, inform production.
+6.3 OOS: Stop production, deep clean, investigate, re-sample.
+
+7. TRENDING
+
+Monthly trend analysis of all environmental monitoring data.
+Annual summary in Product Quality Review.
+
+--------------------------------------------------------------------------------
+
+================================================================================
+
+SOP 4: CHANGE CONTROL
+====================
+
+--------------------------------------------------------------------------------
+SOP NUMBER:           SOP/QA/015
+VERSION:              5.0
+EFFECTIVE DATE:       January 1, 2025
+PAGE:                 1 of 7
+--------------------------------------------------------------------------------
+
+1. PURPOSE
+
+To establish a system for proposing, evaluating, approving, implementing,
+and documenting changes that may affect product quality.
+
+2. SCOPE
+
+All changes to processes, equipment, materials, facilities, documents, and
+systems that may impact product quality or regulatory compliance.
+
+3. CHANGE CLASSIFICATION
+
+CRITICAL: Changes requiring regulatory approval before implementation
+- Change in manufacturing site
+- Change in formulation
+- Change in active ingredient supplier
+
+MAJOR: Changes requiring QA approval and may need stability data
+- Change in equipment (same principle)
+- Change in process parameters beyond validated range
+- Change in packaging material
+
+MINOR: Changes requiring QA approval
+- Editorial changes to documents
+- Like-for-like equipment replacement
+- Administrative changes
+
+4. PROCEDURE
+
+4.1 INITIATION
+
+4.1.1 Requester completes Change Control Form (QA/015/F01).
+4.1.2 Describes current state, proposed change, and justification.
+4.1.3 Submits to QA for registration.
+
+4.2 EVALUATION
+
+4.2.1 QA registers change and assigns number: CC-YYYY-NNN.
+4.2.2 Impact assessment team evaluates:
+      - Regulatory impact
+      - Quality impact
+      - Validation impact
+      - Stability impact
+      - Documentation impact
+
+4.3 APPROVAL
+
+4.3.1 Approval based on classification:
+      - Critical: MD/Technical Director + Regulatory filing
+      - Major: QA Head + affected department heads
+      - Minor: QA Manager
+
+4.4 IMPLEMENTATION
+
+4.4.1 Implement change per approved plan.
+4.4.2 Update all affected documents.
+4.4.3 Train affected personnel.
+4.4.4 Complete validation/qualification if required.
+
+4.5 CLOSURE
+
+4.5.1 Verify all actions completed.
+4.5.2 Review effectiveness.
+4.5.3 Close change control.
+
+5. TIMELINE
+
+- Registration: Within 2 days of receipt
+- Evaluation: Within 5 days
+- Implementation: As per approved timeline
+- Closure: Within 30 days of implementation
+
+6. EMERGENCY CHANGES
+
+For urgent changes affecting production:
+- Verbal approval from QA Head
+- Documentation within 24 hours
+- Full evaluation within 5 days
+
+--------------------------------------------------------------------------------
+
+================================================================================
+
+SOP INDEX (Total 287 SOPs)
+=========================
+
+QUALITY ASSURANCE (QA/001-050)
+- QA/001: Document Control
+- QA/005: Training and Qualification
+- QA/010: Internal Audits
+- QA/015: Change Control
+- QA/020: Deviation and CAPA
+- QA/025: Cleaning Validation
+- QA/030: Product Quality Review
+- QA/032: Environmental Monitoring
+- QA/035: Supplier Qualification
+- QA/040: Batch Release
+- QA/045: Complaint Handling
+- QA/050: Product Recall
+
+QUALITY CONTROL (QC/001-080)
+- QC/001: Sample Management
+- QC/010: Analytical Method Validation
+- QC/020: HPLC Operation
+- QC/025: Dissolution Testing
+- QC/030: Microbial Testing
+- QC/035: Stability Studies
+- QC/040: Reference Standards
+- QC/045: OOS Investigation
+- QC/050: Calibration
+
+PRODUCTION (PRD/001-100)
+- PRD/005: Area Clearance
+- PRD/010: Dispensing
+- PRD/015: Blending
+- PRD/020: Granulation
+- PRD/025: Drying
+- PRD/030: Compression
+- PRD/035: Coating
+- PRD/040: Capsule Filling
+- PRD/045: Equipment Cleaning
+
+PACKAGING (PKG/001-030)
+- PKG/005: Primary Packing
+- PKG/010: Secondary Packing
+- PKG/015: Coding and Labeling
+
+WAREHOUSE (WH/001-030)
+- WH/001: Material Receipt
+- WH/010: Storage
+- WH/015: Dispatch
+
+ENGINEERING (ENG/001-040)
+- ENG/001: Preventive Maintenance
+- ENG/010: Calibration
+- ENG/020: HVAC Operation
+- ENG/030: Water System
+
+================================================================================
+                    END OF STANDARD OPERATING PROCEDURES
+================================================================================
