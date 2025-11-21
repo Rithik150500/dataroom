@@ -73,6 +73,18 @@
 - [x] Power of Attorney
 - [x] Shop and Establishment License
 
+### 9. Advanced Regulatory & Compliance (Supplementary)
+- [x] SARFAESI Act & Recovery Documentation
+- [x] NCD Trust Deed and Debt Instruments
+- [x] ALM Policy and Reports
+- [x] Capital Adequacy & Prudential Norms Report
+- [x] Credit Policy Document
+- [x] Detailed Loan Portfolio Analysis
+- [x] Board Committee Charters
+- [x] IT Systems & Cybersecurity Documentation
+- [x] Litigation Register
+- [x] Related Party Transactions Register
+
 ---
 
 ## Due Diligence Summary

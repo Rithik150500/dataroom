@@ -1,0 +1,362 @@
+================================================================================
+            BOARD COMMITTEE CHARTERS
+                      OF
+          SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+            1. AUDIT COMMITTEE CHARTER
+================================================================================
+
+1.1 COMPOSITION
+
+| Member               | Designation              | Role        |
+|----------------------|--------------------------|-------------|
+| Ms. Meera Sanghvi    | Independent Director     | Chairperson |
+| Mr. Tarun Davda      | Nominee Director         | Member      |
+| Mr. Rajiv Anand      | Independent Director     | Member      |
+
+Permanent Invitees: CFO, Internal Auditor, Statutory Auditor
+
+1.2 MEETING FREQUENCY
+Quarterly (minimum 4 times a year)
+
+1.3 QUORUM
+Two members present, majority being Independent Directors
+
+1.4 RESPONSIBILITIES
+
+Financial Reporting:
+- Review quarterly and annual financial statements
+- Ensure compliance with Ind AS and RBI prudential norms
+- Review significant accounting policies and estimates
+- Review management discussion and analysis
+
+Internal Audit:
+- Approve internal audit plan and scope
+- Review internal audit reports and findings
+- Monitor closure of audit observations
+- Evaluate internal audit function effectiveness
+
+External Audit:
+- Recommend appointment/removal of statutory auditor
+- Review audit plan and independence
+- Review audit findings and management responses
+- Approve audit and non-audit fees
+
+Risk and Controls:
+- Review adequacy of internal controls
+- Review fraud risk management
+- Oversee whistle-blower mechanism
+- Review related party transactions
+
+Compliance:
+- Review compliance with RBI regulations
+- Review regulatory inspection observations
+- Monitor compliance with listing regulations (for NCDs)
+
+1.5 POWERS
+- Seek information from any employee
+- Obtain external professional advice
+- Investigate any activity within its terms of reference
+- Full access to company records and personnel
+
+================================================================================
+            2. RISK MANAGEMENT COMMITTEE CHARTER
+================================================================================
+
+2.1 COMPOSITION
+
+| Member               | Designation              | Role        |
+|----------------------|--------------------------|-------------|
+| Mr. Rajiv Anand      | Independent Director     | Chairperson |
+| Mr. Vikram Mehta     | Managing Director        | Member      |
+| Ms. Anjali Deshmukh  | CFO                      | Member      |
+| Ms. Meera Sanghvi    | Independent Director     | Member      |
+| Mr. Aditya Jain      | Chief Risk Officer       | Member      |
+
+2.2 MEETING FREQUENCY
+Bi-monthly (minimum 6 times a year)
+
+2.3 QUORUM
+Three members present, including at least one Independent Director
+
+2.4 RESPONSIBILITIES
+
+Risk Framework:
+- Approve risk management policy and framework
+- Define risk appetite and tolerance limits
+- Review risk governance structure
+
+Credit Risk:
+- Review credit policy and underwriting standards
+- Monitor portfolio quality and NPA trends
+- Review concentration risks
+- Approve write-off policy
+
+Market Risk:
+- Monitor interest rate risk
+- Review ALM mismatches
+- Oversee hedging strategies (if any)
+
+Liquidity Risk:
+- Review liquidity position and LCR
+- Approve contingency funding plan
+- Monitor funding concentration
+
+Operational Risk:
+- Review operational risk framework
+- Monitor key risk indicators
+- Review business continuity plan
+
+Compliance & Regulatory Risk:
+- Monitor regulatory changes and impact
+- Review compliance risk assessment
+
+Reporting:
+- Report to Board on risk profile
+- Escalate material risks and breaches
+
+================================================================================
+            3. NOMINATION & REMUNERATION COMMITTEE CHARTER
+================================================================================
+
+3.1 COMPOSITION
+
+| Member               | Designation              | Role        |
+|----------------------|--------------------------|-------------|
+| Ms. Meera Sanghvi    | Independent Director     | Chairperson |
+| Mr. Tarun Davda      | Nominee Director         | Member      |
+| Mr. Shailendra Singh | Nominee Director         | Member      |
+
+3.2 MEETING FREQUENCY
+Quarterly or as required
+
+3.3 QUORUM
+Two members present
+
+3.4 RESPONSIBILITIES
+
+Board Composition:
+- Recommend Board size and composition
+- Identify candidates for Director positions
+- Ensure fit and proper criteria compliance (RBI)
+- Conduct due diligence on Director candidates
+- Recommend appointment/removal of Directors
+
+Succession Planning:
+- Develop succession plan for Board and KMP
+- Review leadership pipeline
+- Emergency succession arrangements
+
+Performance Evaluation:
+- Define criteria for Board evaluation
+- Conduct annual Board effectiveness review
+- Evaluate individual Director performance
+- Evaluate Committee effectiveness
+
+Remuneration:
+- Recommend remuneration policy
+- Determine MD/WTD remuneration (for Board approval)
+- Review KMP compensation
+- Oversee ESOP grants and administration
+- Ensure remuneration complies with RBI guidelines
+
+3.5 FIT AND PROPER CRITERIA (RBI)
+For all Directors:
+- Educational qualification
+- Experience in financial sector
+- Track record of integrity
+- No criminal proceedings
+- No disqualification under Companies Act
+- Declaration of interest
+
+================================================================================
+            4. ASSET-LIABILITY COMMITTEE (ALCO) CHARTER
+================================================================================
+
+4.1 COMPOSITION
+
+| Member               | Designation              | Role        |
+|----------------------|--------------------------|-------------|
+| Mr. Vikram Mehta     | Managing Director        | Chairperson |
+| Ms. Anjali Deshmukh  | CFO                      | Member      |
+| Mr. Aditya Jain      | Chief Risk Officer       | Member      |
+| Ms. Priya Sharma     | Company Secretary        | Member      |
+
+4.2 MEETING FREQUENCY
+Monthly
+
+4.3 QUORUM
+Three members including Chairperson
+
+4.4 RESPONSIBILITIES
+
+Liquidity Management:
+- Review liquidity position daily/weekly
+- Monitor LCR and other liquidity ratios
+- Approve short-term funding decisions
+- Manage liquidity stress situations
+
+Interest Rate Management:
+- Review interest rate gaps
+- Recommend pricing for assets and liabilities
+- Monitor NIM and spreads
+- Recommend hedging strategies
+
+Funding Strategy:
+- Review funding plan vs actual
+- Approve funding mix and sources
+- Monitor cost of funds
+- Manage lender relationships
+
+ALM Reporting:
+- Review structural liquidity statement
+- Monitor maturity mismatches
+- Submit returns to RBI (NBS-ALM)
+
+Stress Testing:
+- Review stress test scenarios and results
+- Activate contingency plans if needed
+
+4.5 DELEGATED AUTHORITY
+- Approve borrowings up to ₹25 Crores per transaction
+- Approve investments up to ₹10 Crores
+
+================================================================================
+            5. IT STRATEGY COMMITTEE CHARTER
+================================================================================
+
+5.1 COMPOSITION
+
+| Member               | Designation              | Role        |
+|----------------------|--------------------------|-------------|
+| Mr. Rohan Kapoor     | Director & CTO           | Chairperson |
+| Mr. Vikram Mehta     | Managing Director        | Member      |
+| Mr. Rajiv Anand      | Independent Director     | Member      |
+| (IT Expert)          | External Expert          | Invitee     |
+
+5.2 MEETING FREQUENCY
+Quarterly
+
+5.3 QUORUM
+Two members
+
+5.4 RESPONSIBILITIES
+
+IT Strategy:
+- Approve IT strategy aligned with business
+- Review technology roadmap
+- Approve major IT investments
+- Monitor digital transformation initiatives
+
+IT Governance:
+- Review IT policies and standards
+- Oversee IT risk management
+- Monitor IT regulatory compliance
+- Review IT audit findings
+
+Cybersecurity:
+- Review cybersecurity posture
+- Approve cybersecurity investments
+- Monitor security incidents
+- Review penetration test results
+
+Business Continuity:
+- Approve IT disaster recovery plan
+- Review DR drill results
+- Ensure RTO/RPO compliance
+
+Vendor Management:
+- Review critical IT vendor relationships
+- Approve major vendor contracts
+- Monitor vendor performance and risk
+
+================================================================================
+            6. CREDIT COMMITTEE CHARTER
+================================================================================
+
+6.1 COMPOSITION
+
+| Member               | Designation              | Role        |
+|----------------------|--------------------------|-------------|
+| Mr. Vikram Mehta     | Managing Director        | Chairperson |
+| Ms. Anjali Deshmukh  | CFO                      | Member      |
+| Mr. Aditya Jain      | Chief Risk Officer       | Member      |
+
+6.2 MEETING FREQUENCY
+Weekly or as required
+
+6.3 QUORUM
+All members
+
+6.4 RESPONSIBILITIES
+
+Credit Approvals:
+- Approve loans within delegated authority (₹10L - ₹25L)
+- Approve deviations from credit policy
+- Approve restructuring proposals
+- Approve write-offs within delegated limits
+
+Credit Policy:
+- Review and recommend credit policy changes
+- Define underwriting standards
+- Set product parameters and pricing
+
+Portfolio Monitoring:
+- Review portfolio quality reports
+- Monitor SMA and NPA trends
+- Review sectoral and geographic concentration
+
+Collections:
+- Approve OTS proposals
+- Review legal action cases
+- Monitor collection efficiency
+
+================================================================================
+            7. COMMITTEE GOVERNANCE
+================================================================================
+
+7.1 COMMON PROVISIONS
+
+Minutes:
+- Minutes to be recorded for all meetings
+- Circulated within 15 days
+- Confirmed at next meeting
+- Maintained for 8 years
+
+Reporting:
+- Committee Chairperson to report to Board
+- Significant matters to be escalated
+- Annual report on Committee activities
+
+Review:
+- Annual review of Committee charter
+- Board to evaluate Committee effectiveness
+
+Attendance:
+- Members to attend at least 75% of meetings
+- Video conferencing permitted
+
+7.2 BOARD OVERSIGHT
+
+The Board retains ultimate responsibility for all matters delegated to
+Committees. Committees shall make recommendations to the Board on matters
+requiring Board approval.
+
+================================================================================
+
+Approved by Board of Directors
+Date: April 1, 2024
+
+For SmartFinance India Limited
+
+Sd/-
+Vikram Mehta
+Managing Director
+
+================================================================================
+
+                    END OF BOARD COMMITTEE CHARTERS
+
+================================================================================

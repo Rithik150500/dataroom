@@ -1,0 +1,308 @@
+================================================================================
+            ASSET LIABILITY MANAGEMENT (ALM) POLICY & REPORTS
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+            1. ALM POLICY FRAMEWORK
+================================================================================
+
+POLICY OBJECTIVE:
+To manage liquidity risk, interest rate risk, and funding risk within
+acceptable limits while ensuring sustainable profitability.
+
+REGULATORY FRAMEWORK:
+- RBI Master Direction on Liquidity Risk Management Framework for NBFCs
+- RBI Guidelines on ALM System for NBFCs
+- Scale Based Regulation for NBFCs
+
+POLICY APPROVAL:
+- Board approved: April 1, 2024
+- Last reviewed: October 15, 2024
+- Next review: April 2025
+
+================================================================================
+            2. ALM COMMITTEE (ALCO)
+================================================================================
+
+COMPOSITION:
+
+| Member                  | Designation                    | Role           |
+|-------------------------|--------------------------------|----------------|
+| Mr. Vikram Mehta        | Managing Director & CEO        | Chairperson    |
+| Ms. Anjali Deshmukh     | CFO                            | Member         |
+| Mr. Aditya Jain         | Chief Risk Officer             | Member         |
+| Ms. Priya Sharma        | Company Secretary              | Member         |
+| External Invitee        | Treasury Head (Consultant)     | Invitee        |
+
+MEETING FREQUENCY: Monthly (or more frequently if required)
+
+RESPONSIBILITIES:
+- Review liquidity position and funding requirements
+- Monitor interest rate risk exposure
+- Approve funding mix and sources
+- Set internal limits for ALM mismatches
+- Review stress test results
+- Recommend policy changes to Board
+
+================================================================================
+            3. STRUCTURAL LIQUIDITY STATEMENT
+            (As of September 30, 2024)
+================================================================================
+
+(All amounts in ₹ Lakhs)
+
+--------------------------------------------------------------------------------
+                    MATURITY BUCKETS
+--------------------------------------------------------------------------------
+
+| Time Bucket      | Inflows  | Outflows | Gap      | Cumulative | Gap %    |
+|                  | (Assets) | (Liab.)  |          | Gap        | of TL    |
+|------------------|----------|----------|----------|------------|----------|
+| 1-7 days         | 1,250    | 980      | 270      | 270        | 1.50%    |
+| 8-14 days        | 1,450    | 1,120    | 330      | 600        | 3.33%    |
+| 15-30 days       | 2,850    | 2,340    | 510      | 1,110      | 6.17%    |
+| 31-60 days       | 3,420    | 2,890    | 530      | 1,640      | 9.11%    |
+| 61-90 days       | 3,180    | 2,650    | 530      | 2,170      | 12.06%   |
+| 91-180 days      | 4,560    | 3,980    | 580      | 2,750      | 15.28%   |
+| 181-365 days     | 5,840    | 5,120    | 720      | 3,470      | 19.28%   |
+| 1-3 years        | 6,250    | 5,890    | 360      | 3,830      | 21.28%   |
+| 3-5 years        | 1,200    | 1,030    | 170      | 4,000      | 22.22%   |
+| Over 5 years     | 0        | 0        | 0        | 4,000      | 22.22%   |
+|------------------|----------|----------|----------|------------|----------|
+| Total            | 30,000   | 26,000   | 4,000    |            |          |
+
+OBSERVATIONS:
+- Positive cumulative gap across all buckets
+- No negative mismatch in critical short-term buckets
+- Well within RBI prescribed limits
+
+RBI LIMITS FOR NBFC-ND:
+- Negative gap in 1-30 days bucket: Max 15% of total outflows
+- Current position: Positive gap (Compliant)
+
+================================================================================
+            4. INTEREST RATE SENSITIVITY ANALYSIS
+================================================================================
+
+INTEREST RATE GAP ANALYSIS:
+
+| Time Bucket      | RSA      | RSL      | Gap      | Cumulative | Gap %    |
+|                  | (₹ L)    | (₹ L)    | (₹ L)    | Gap (₹ L)  | of TA    |
+|------------------|----------|----------|----------|------------|----------|
+| 0-1 month        | 4,550    | 3,120    | 1,430    | 1,430      | 4.77%    |
+| 1-3 months       | 5,680    | 4,890    | 790      | 2,220      | 7.40%    |
+| 3-6 months       | 4,560    | 3,980    | 580      | 2,800      | 9.33%    |
+| 6-12 months      | 5,840    | 5,120    | 720      | 3,520      | 11.73%   |
+| 1-3 years        | 6,250    | 5,890    | 360      | 3,880      | 12.93%   |
+| 3-5 years        | 1,200    | 1,030    | 170      | 4,050      | 13.50%   |
+| Non-sensitive    | 1,920    | 1,970    | (50)     | 4,000      | 13.33%   |
+|------------------|----------|----------|----------|------------|----------|
+| Total            | 30,000   | 26,000   | 4,000    |            |          |
+
+RSA = Rate Sensitive Assets
+RSL = Rate Sensitive Liabilities
+
+INTEREST RATE RISK IMPACT:
+
+| Scenario              | Impact on NII (₹ L) | Impact on NII (%) |
+|-----------------------|---------------------|-------------------|
+| +100 bps shift        | +35.20              | +4.3%             |
+| +50 bps shift         | +17.60              | +2.1%             |
+| -50 bps shift         | -17.60              | -2.1%             |
+| -100 bps shift        | -35.20              | -4.3%             |
+
+Observation: Asset-sensitive position benefits from rising interest rates
+
+================================================================================
+            5. LIQUIDITY RATIOS
+================================================================================
+
+| Ratio                              | Current   | Threshold | Status    |
+|------------------------------------|-----------|-----------|-----------|
+| Liquidity Coverage Ratio (LCR)     | 185%      | ≥ 100%    | Compliant |
+| High Quality Liquid Assets (HQLA)  | ₹58.50 Cr | -         | -         |
+| Net Cash Outflows (30 days)        | ₹31.62 Cr | -         | -         |
+| Loan to Deposit Ratio              | N/A       | N/A       | Non-Dep   |
+| Liquid Assets to Total Assets      | 19.5%     | ≥ 15%     | Compliant |
+| Short-term Liab. to Total Liab.    | 42%       | ≤ 50%     | Compliant |
+
+================================================================================
+            6. FUNDING CONCENTRATION
+================================================================================
+
+FUNDING MIX:
+
+| Source                    | Amount (₹ Cr) | % of Total | Cost      |
+|---------------------------|---------------|------------|-----------|
+| Bank Term Loans           | 75.00         | 46.2%      | 10.5%     |
+| NCDs                      | 50.00         | 30.8%      | 10.5%     |
+| Commercial Paper          | 35.00         | 21.5%      | 8.75%     |
+| Subordinated Debt         | 2.50          | 1.5%       | 11.5%     |
+|---------------------------|---------------|------------|-----------|
+| Total Borrowings          | 162.50        | 100.0%     | 10.3%     |
+
+TOP 5 LENDERS:
+
+| Lender                    | Amount (₹ Cr) | % of Total |
+|---------------------------|---------------|------------|
+| HDFC Bank                 | 25.00         | 15.4%      |
+| ICICI Bank                | 20.00         | 12.3%      |
+| HDFC Mutual Fund (NCDs)   | 20.00         | 12.3%      |
+| ICICI Pru Life (NCDs)     | 15.00         | 9.2%       |
+| SBI                       | 10.00         | 6.2%       |
+|---------------------------|---------------|------------|
+| Total Top 5               | 90.00         | 55.4%      |
+
+Concentration Risk: Within acceptable limits; no single lender > 20%
+
+================================================================================
+            7. STRESS TESTING
+================================================================================
+
+SCENARIO ANALYSIS (Impact on Liquidity):
+
+| Scenario                           | LCR Impact | Net Gap Impact |
+|------------------------------------|------------|----------------|
+| Base Case                          | 185%       | +₹40 Cr        |
+| Mild Stress (10% increase in NPAs) | 165%       | +₹32 Cr        |
+| Moderate Stress (50% runoff in CP) | 142%       | +₹18 Cr        |
+| Severe Stress (Combined)           | 118%       | +₹8 Cr         |
+
+Even under severe stress, LCR remains above 100% threshold.
+
+CONTINGENCY FUNDING PLAN:
+
+| Trigger Level    | Action                                              |
+|------------------|-----------------------------------------------------|
+| LCR < 150%       | Alert to ALCO; reduce new disbursements by 20%      |
+| LCR < 125%       | Activate standby credit lines; halt new products    |
+| LCR < 110%       | Emergency Board meeting; asset sale consideration   |
+| LCR < 100%       | Invoke emergency funding; regulatory notification   |
+
+AVAILABLE CONTINGENCY SOURCES:
+
+| Source                    | Amount (₹ Cr) | Activation Time |
+|---------------------------|---------------|-----------------|
+| Undrawn Bank Lines        | 25.00         | 1-2 days        |
+| Sellable Investments      | 4.25          | Same day        |
+| Securitization (ready)    | 30.00         | 7-10 days       |
+| CP Rollover Buffer        | 15.00         | 1-3 days        |
+|---------------------------|---------------|-----------------|
+| Total                     | 74.25         |                 |
+
+================================================================================
+            8. INTEREST RATE RISK MANAGEMENT
+================================================================================
+
+CURRENT PORTFOLIO MIX:
+
+| Type              | Assets   | Liabilities |
+|-------------------|----------|-------------|
+| Fixed Rate        | 85%      | 70%         |
+| Floating Rate     | 15%      | 30%         |
+
+HEDGING STRATEGY:
+- Natural hedge through matching fixed/floating mix
+- No derivative hedging currently
+- Board approval required for derivative instruments
+
+REPRICING ANALYSIS:
+- Average asset repricing tenor: 18 months
+- Average liability repricing tenor: 12 months
+- Duration gap: +6 months (Asset duration > Liability duration)
+
+================================================================================
+            9. ALM MIS & REPORTING
+================================================================================
+
+INTERNAL REPORTS:
+
+| Report                           | Frequency | Prepared By | Reviewed By |
+|----------------------------------|-----------|-------------|-------------|
+| Structural Liquidity Statement   | Monthly   | Treasury    | ALCO        |
+| Interest Rate Gap Analysis       | Monthly   | Treasury    | ALCO        |
+| LCR Calculation                  | Monthly   | Treasury    | ALCO        |
+| Stress Test Results              | Quarterly | Risk        | ALCO/Board  |
+| Funding Plan vs Actual           | Monthly   | Treasury    | ALCO        |
+
+REGULATORY REPORTS:
+
+| Report                           | Frequency | Submitted To |
+|----------------------------------|-----------|--------------|
+| ALM Returns (NBS-ALM)            | Monthly   | RBI          |
+| LCR Disclosure                   | Quarterly | Website      |
+| Structural Liquidity (Half-yr)   | Half-Yrly | RBI          |
+
+================================================================================
+            10. KEY RISK INDICATORS (KRIs)
+================================================================================
+
+| KRI                              | Threshold    | Current   | RAG Status |
+|----------------------------------|--------------|-----------|------------|
+| LCR                              | ≥ 100%       | 185%      | Green      |
+| Cumulative Gap (1-30 days)       | ≥ -15% of TL | +6.17%    | Green      |
+| Top 10 Depositor Concentration   | ≤ 30%        | N/A       | N/A        |
+| Top 10 Lender Concentration      | ≤ 50%        | 45%       | Green      |
+| Liquid Assets / Total Assets     | ≥ 15%        | 19.5%     | Green      |
+| CP Outstanding / Total Borrowing | ≤ 30%        | 21.5%     | Green      |
+
+================================================================================
+            11. ALCO MEETING MINUTES (SAMPLE)
+================================================================================
+
+MINUTES OF ALCO MEETING
+Date: October 15, 2024
+Time: 3:00 PM
+Venue: Board Room
+
+PRESENT: [All ALCO members]
+
+AGENDA ITEMS:
+
+1. Review of Liquidity Position
+   - LCR at 185%, well above threshold
+   - No concerns on short-term liquidity
+
+2. Interest Rate Outlook
+   - RBI likely to maintain rates in near term
+   - No change to asset-liability mix recommended
+
+3. Funding Plan for Q3 FY25
+   - ₹30 Cr disbursement target
+   - Funding through bank lines and CP rollover
+   - NCD Series II planned for Q4
+
+4. Stress Test Results Review
+   - Results within acceptable limits
+   - Contingency plan adequate
+
+5. Covenant Compliance
+   - All covenants complied
+   - Comfortable headroom on all ratios
+
+DECISIONS:
+- Approved Q3 funding plan
+- Recommended Board approval for NCD Series II
+- No change to ALM limits
+
+Next Meeting: November 15, 2024
+
+================================================================================
+
+Certified that ALM practices are in compliance with RBI guidelines.
+
+Date: November 15, 2024
+
+For SmartFinance India Limited
+
+Sd/-                                    Sd/-
+Vikram Mehta                            Anjali Deshmukh
+MD & CEO                                CFO
+
+================================================================================
+
+                    END OF ALM POLICY & REPORTS
+
+================================================================================
