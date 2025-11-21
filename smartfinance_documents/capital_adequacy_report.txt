@@ -1,0 +1,278 @@
+================================================================================
+            CAPITAL ADEQUACY & PRUDENTIAL NORMS REPORT
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+                    As of September 30, 2024
+================================================================================
+
+================================================================================
+            1. CAPITAL ADEQUACY RATIO (CAR)
+================================================================================
+
+As per RBI Master Direction - Non-Banking Financial Company - Systemically
+Important Non-Deposit taking Company and Deposit taking Company
+(Reserve Bank) Directions, 2016.
+
+CAPITAL ADEQUACY COMPUTATION:
+                                                        (₹ in Lakhs)
+
+TIER I CAPITAL:
+| Component                              | Amount      |
+|----------------------------------------|-------------|
+| Paid-up Equity Share Capital           | 365.00      |
+| Securities Premium                     | 10,349.60   |
+| Statutory Reserves                     | 150.00      |
+| General Reserves                       | 450.00      |
+| Retained Earnings                      | 607.70      |
+|----------------------------------------|-------------|
+| Gross Tier I Capital                   | 11,922.30   |
+| Less: Intangible Assets                | (456.78)    |
+| Less: Deferred Tax Assets              | (234.56)    |
+|----------------------------------------|-------------|
+| Net Tier I Capital                     | 11,230.96   |
+
+TIER II CAPITAL:
+| Component                              | Amount      |
+|----------------------------------------|-------------|
+| Subordinated Debt (Eligible)           | 250.00      |
+| Revaluation Reserves                   | 0.00        |
+| General Provisions (Std. Assets)       | 95.26       |
+|----------------------------------------|-------------|
+| Tier II Capital                        | 345.26      |
+
+TOTAL CAPITAL FUNDS:
+| Component                              | Amount      |
+|----------------------------------------|-------------|
+| Tier I Capital                         | 11,230.96   |
+| Tier II Capital                        | 345.26      |
+|----------------------------------------|-------------|
+| Total Capital Funds                    | 11,576.22   |
+
+RISK WEIGHTED ASSETS (RWA):
+
+| Asset Category                 | Book Value | Risk Wt. | RWA        |
+|--------------------------------|------------|----------|------------|
+| Cash & Bank Balances           | 5,970.99   | 0%       | 0.00       |
+| Investments (Govt. Sec.)       | 425.00     | 0%       | 0.00       |
+| Loans - Standard               | 23,814.00  | 100%     | 23,814.00  |
+| Loans - Sub-standard           | 343.00     | 150%     | 514.50     |
+| Loans - Doubtful               | 318.00     | 200%     | 636.00     |
+| Loans - Loss                   | 25.00      | 200%     | 50.00      |
+| Fixed Assets                   | 1,337.45   | 100%     | 1,337.45   |
+| Other Assets                   | 491.35     | 100%     | 491.35     |
+| Off-Balance Sheet Items        | 0.00       | -        | 0.00       |
+|--------------------------------|------------|----------|------------|
+| Total                          | 32,725.79  |          | 26,843.30  |
+
+CAPITAL ADEQUACY RATIOS:
+
+| Ratio                          | Current    | RBI Min  | Headroom   |
+|--------------------------------|------------|----------|------------|
+| Total CAR                      | 43.12%     | 15%      | 28.12%     |
+| Tier I CAR                     | 41.84%     | 10%      | 31.84%     |
+
+STATUS: COMPLIANT with comfortable buffer
+
+================================================================================
+            2. NET OWNED FUND (NOF)
+================================================================================
+
+| Component                              | Amount (₹ L)|
+|----------------------------------------|-------------|
+| Paid-up Equity Capital                 | 365.00      |
+| Free Reserves                          | 11,557.30   |
+|----------------------------------------|-------------|
+| Owned Fund                             | 11,922.30   |
+| Less: Intangible Assets                | (456.78)    |
+| Less: Deferred Tax Assets              | (234.56)    |
+| Less: Investments in Subsidiaries      | 0.00        |
+|----------------------------------------|-------------|
+| Net Owned Fund (NOF)                   | 11,230.96   |
+
+Minimum NOF Requirement for NBFC: ₹2 Crores
+Current NOF: ₹112.31 Crores (Compliant)
+
+================================================================================
+            3. LEVERAGE RATIO
+================================================================================
+
+| Metric                                 | Value       |
+|----------------------------------------|-------------|
+| Total Outside Liabilities              | 18,204.90   |
+| Owned Funds                            | 11,922.30   |
+| Leverage Ratio                         | 1.53x       |
+
+Maximum Leverage for NBFC-ND: 7x
+Current Leverage: 1.53x (Compliant with significant headroom)
+
+================================================================================
+            4. CONCENTRATION NORMS
+================================================================================
+
+4.1 SINGLE BORROWER EXPOSURE
+
+| Parameter                              | Limit       | Actual      |
+|----------------------------------------|-------------|-------------|
+| Limit (% of NOF)                       | 15%         | -           |
+| Limit (Amount)                         | ₹16.85 Cr   | -           |
+| Largest Single Exposure                | -           | ₹3.00 Cr    |
+| % of NOF                               | -           | 2.67%       |
+
+STATUS: COMPLIANT
+
+4.2 GROUP BORROWER EXPOSURE
+
+| Parameter                              | Limit       | Actual      |
+|----------------------------------------|-------------|-------------|
+| Limit (% of NOF)                       | 25%         | -           |
+| Limit (Amount)                         | ₹28.08 Cr   | -           |
+| Largest Group Exposure                 | -           | ₹4.50 Cr    |
+| % of NOF                               | -           | 4.01%       |
+
+STATUS: COMPLIANT
+
+================================================================================
+            5. ASSET CLASSIFICATION & PROVISIONING
+================================================================================
+
+5.1 ASSET CLASSIFICATION (As per RBI IRAC Norms)
+
+| Category              | Amount (₹ L) | % of Advances | Provision % |
+|-----------------------|--------------|---------------|-------------|
+| Standard Assets       | 23,814.00    | 97.20%        | 0.40%       |
+| Sub-Standard Assets   | 343.00       | 1.40%         | 25%         |
+| Doubtful - Up to 1 yr | 220.00       | 0.90%         | 40%         |
+| Doubtful - 1-3 yrs    | 98.00        | 0.40%         | 60%         |
+| Doubtful - >3 yrs     | 0.00         | 0.00%         | 100%        |
+| Loss Assets           | 25.00        | 0.10%         | 100%        |
+|-----------------------|--------------|---------------|-------------|
+| Total                 | 24,500.00    | 100.00%       | -           |
+
+5.2 PROVISIONING COMPUTATION
+
+| Category              | Amount (₹ L) | Prov. Rate | Provision (₹L)|
+|-----------------------|--------------|------------|---------------|
+| Standard Assets       | 23,814.00    | 0.40%      | 95.26         |
+| Sub-Standard Assets   | 343.00       | 25%        | 85.75         |
+| Doubtful - Up to 1 yr | 220.00       | 40%        | 88.00         |
+| Doubtful - 1-3 yrs    | 98.00        | 60%        | 58.80         |
+| Doubtful - >3 yrs     | 0.00         | 100%       | 0.00          |
+| Loss Assets           | 25.00        | 100%       | 25.00         |
+|-----------------------|--------------|------------|---------------|
+| Total Provision       | 24,500.00    | -          | 352.81        |
+
+Additional/Specific Provisions:
+- COVID Restructured Book (10%): ₹28.00 Lakhs
+- General Provision Buffer: ₹200.00 Lakhs
+- Total Provision Held: ₹580.81 Lakhs
+
+Provision Coverage Ratio (PCR): 68%
+
+================================================================================
+            6. LIQUIDITY COVERAGE RATIO (LCR)
+================================================================================
+
+(As per RBI Circular on Liquidity Risk Management Framework)
+
+| Component                              | Amount (₹ L)|
+|----------------------------------------|-------------|
+| High Quality Liquid Assets (HQLA)      |             |
+| - Cash                                 | 125.32      |
+| - Bank Deposits (with Banks rated AA-+)| 2,720.00    |
+| - Government Securities                | 425.00      |
+| - Other Eligible Securities            | 0.00        |
+|----------------------------------------|-------------|
+| Total HQLA                             | 3,270.32    |
+|                                        |             |
+| Net Cash Outflows (30 days)            |             |
+| - Maturing Borrowings                  | 1,450.00    |
+| - Operating Expenses                   | 320.00      |
+| - Other Outflows                       | 150.00      |
+|----------------------------------------|-------------|
+| Total Outflows                         | 1,920.00    |
+| Less: Expected Inflows                 | (150.00)    |
+|----------------------------------------|-------------|
+| Net Cash Outflows                      | 1,770.00    |
+|                                        |             |
+| Liquidity Coverage Ratio               | 184.76%     |
+
+Minimum LCR Requirement: 100%
+Current LCR: 184.76% (Compliant with comfortable buffer)
+
+================================================================================
+            7. SECTORAL EXPOSURE
+================================================================================
+
+| Sector                         | Exposure (₹ L) | % of Total | Limit |
+|--------------------------------|----------------|------------|-------|
+| Individuals (Personal Loans)   | 17,150.00      | 70.0%      | 75%   |
+| Trading                        | 1,715.00       | 7.0%       | 15%   |
+| Manufacturing                  | 1,225.00       | 5.0%       | 15%   |
+| Services                       | 980.00         | 4.0%       | 15%   |
+| Consumer Durables              | 2,450.00       | 10.0%      | 15%   |
+| Others                         | 980.00         | 4.0%       | 10%   |
+|--------------------------------|----------------|------------|-------|
+| Total                          | 24,500.00      | 100.0%     | -     |
+
+All sectoral exposures within internal and regulatory limits.
+
+================================================================================
+            8. RELATED PARTY EXPOSURE
+================================================================================
+
+| Related Party                  | Exposure (₹ L) | % of NOF   | Limit |
+|--------------------------------|----------------|------------|-------|
+| Directors                      | 0.00           | 0.0%       | 5%    |
+| Key Management                 | 0.00           | 0.0%       | 5%    |
+| Relatives of Directors/KMP     | 0.00           | 0.0%       | 5%    |
+| Companies with common Directors| 0.00           | 0.0%       | 10%   |
+|--------------------------------|----------------|------------|-------|
+| Total                          | 0.00           | 0.0%       | -     |
+
+No lending to related parties - COMPLIANT
+
+================================================================================
+            9. CAPITAL PLANNING
+================================================================================
+
+PROJECTED CAR (Next 12 Months):
+
+| Quarter        | Projected AUM | Projected RWA | Capital | Projected CAR |
+|----------------|---------------|---------------|---------|---------------|
+| Q3 FY25        | ₹275 Cr       | ₹290 Cr       | ₹116 Cr | 40.0%         |
+| Q4 FY25        | ₹310 Cr       | ₹330 Cr       | ₹120 Cr | 36.4%         |
+| Q1 FY26        | ₹350 Cr       | ₹375 Cr       | ₹124 Cr | 33.1%         |
+| Q2 FY26        | ₹400 Cr       | ₹430 Cr       | ₹128 Cr | 29.8%         |
+
+Series B Funding Impact (₹150 Cr raise):
+- Post Series B CAR: 64%+
+- Runway for growth to ₹1,000 Cr AUM
+
+================================================================================
+            10. COMPLIANCE CERTIFICATE
+================================================================================
+
+We hereby certify that SmartFinance India Limited has complied with all
+prudential norms prescribed by Reserve Bank of India including:
+
+1. Capital Adequacy Ratio: 43.12% (Min: 15%) - COMPLIANT
+2. Tier I Capital Ratio: 41.84% (Min: 10%) - COMPLIANT
+3. Net Owned Fund: ₹112.31 Cr (Min: ₹2 Cr) - COMPLIANT
+4. Single Borrower Limit: 2.67% (Max: 15%) - COMPLIANT
+5. Group Borrower Limit: 4.01% (Max: 25%) - COMPLIANT
+6. Asset Classification & Provisioning - COMPLIANT
+7. Liquidity Coverage Ratio: 184.76% (Min: 100%) - COMPLIANT
+
+For SmartFinance India Limited
+
+Sd/-                                    Sd/-
+Vikram Mehta                            Anjali Deshmukh
+Managing Director                       CFO
+
+Date: October 15, 2024
+
+================================================================================
+
+                    END OF CAPITAL ADEQUACY REPORT
+
+================================================================================

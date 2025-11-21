@@ -1,0 +1,300 @@
+================================================================================
+            LITIGATION REGISTER & RELATED PARTY TRANSACTIONS
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+            PART A: LITIGATION REGISTER
+================================================================================
+
+================================================================================
+            1. CASES FILED BY THE COMPANY (Recovery)
+================================================================================
+
+1.1 SARFAESI PROCEEDINGS
+
+| Case Ref    | Borrower        | Amount (₹L)| Filed    | Status         |
+|-------------|-----------------|------------|----------|----------------|
+| SAR/001/24  | ABC Enterprises | 12.50      | Mar 2024 | Possession taken|
+| SAR/002/24  | XYZ Traders     | 8.75       | Apr 2024 | Notice issued  |
+| SAR/003/24  | PQR Services    | 15.20      | May 2024 | Auction scheduled|
+| SAR/004/24  | LMN Industries  | 6.30       | Jun 2024 | Notice issued  |
+| SAR/005/24  | RST Retail      | 9.80       | Jul 2024 | Under objection|
+|-------------|-----------------|------------|----------|----------------|
+| Total       |                 | 52.55      |          |                |
+
+1.2 CIVIL RECOVERY SUITS
+
+| Case No.    | Court           | Defendant       | Amount (₹L)| Status     |
+|-------------|-----------------|-----------------|------------|------------|
+| CS/123/24   | Bandra Civil    | Mr. Amit Shah   | 3.50       | Ex-parte   |
+| CS/145/24   | Andheri Civil   | Ms. Priya Patel | 2.80       | Pending    |
+| CS/167/24   | Thane Civil     | M/s. QuickTrade | 5.20       | Arguments  |
+| CS/189/24   | Pune Civil      | Mr. Raj Kumar   | 4.10       | Pending    |
+|-------------|-----------------|-----------------|------------|------------|
+| Total       |                 |                 | 15.60      |            |
+
+1.3 ARBITRATION CASES
+
+| Case Ref    | Arbitrator      | Counterparty    | Amount (₹L)| Status     |
+|-------------|-----------------|-----------------|------------|------------|
+| ARB/01/24   | Adv. V. Sharma  | TechVend Solutions| 8.50     | Hearing    |
+|-------------|-----------------|-----------------|------------|------------|
+
+================================================================================
+            2. CASES FILED AGAINST THE COMPANY
+================================================================================
+
+2.1 CONSUMER COMPLAINTS
+
+| Case No.         | Forum              | Complainant    | Amount (₹L)| Status  |
+|------------------|--------------------| ---------------|------------|---------|
+| CC/456/24        | District Consumer  | Mr. Suresh K   | 1.20       | Pending |
+|                  | Forum, Mumbai      | (Interest dispute)|         |         |
+| CC/478/24        | District Consumer  | Ms. Anita R    | 0.85       | Pending |
+|                  | Forum, Pune        | (Recovery harassment)|      |         |
+| CC/501/24        | State Consumer     | Mr. Vijay M    | 2.50       | Pending |
+|                  | Commission         | (Wrongful repo)|            |         |
+|------------------|--------------------| ---------------|------------|---------|
+| Total            |                    |                | 4.55       |         |
+
+Note: All complaints are being defended. No adverse orders received.
+
+2.2 CIVIL SUITS AGAINST COMPANY
+
+| Case No.    | Court           | Plaintiff       | Claim (₹L) | Status     |
+|-------------|-----------------|-----------------|------------|------------|
+| CS/789/24   | Bandra Civil    | Mr. Ashok P     | 5.00       | Pending    |
+|             |                 | (Breach of contract)|        |            |
+|-------------|-----------------|-----------------|------------|------------|
+| Total       |                 |                 | 5.00       |            |
+
+2.3 LABOR/EMPLOYMENT DISPUTES
+
+| Case No.    | Forum           | Petitioner      | Claim (₹L) | Status     |
+|-------------|-----------------|-----------------|------------|------------|
+| LC/012/24   | Labor Court,    | Mr. Ramesh S    | 3.50       | Pending    |
+|             | Mumbai          | (Wrongful term.)|            |            |
+| LC/018/24   | Labor Court,    | Ms. Kavita D    | 2.80       | Pending    |
+|             | Mumbai          | (Harassment)    |            |            |
+|-------------|-----------------|-----------------|------------|------------|
+| Total       |                 |                 | 6.30       |            |
+
+================================================================================
+            3. REGULATORY PROCEEDINGS
+================================================================================
+
+| Regulator   | Nature              | Status              | Impact       |
+|-------------|---------------------|---------------------|--------------|
+| RBI         | Inspection (Mar 24) | Closed - No penalty | No impact    |
+| RoC         | Routine compliance  | Compliant           | No impact    |
+| GST Dept    | Nil                 | -                   | -            |
+| Income Tax  | Nil                 | -                   | -            |
+
+No show-cause notices, penalties, or adverse regulatory orders.
+
+================================================================================
+            4. CONTINGENT LIABILITIES SUMMARY
+================================================================================
+
+| Category                           | Amount (₹ Lakhs) | Probability  |
+|------------------------------------|------------------|--------------|
+| Consumer Complaints                | 4.55             | Possible     |
+| Civil Suits (Defendants)           | 5.00             | Possible     |
+| Labor Disputes                     | 6.30             | Possible     |
+| Tax Demands (Contested)            | 0.00             | -            |
+| Bank Guarantees                    | 0.00             | -            |
+|------------------------------------|------------------|--------------|
+| Total Contingent Liabilities       | 15.85            |              |
+
+Accounting Treatment: Disclosed in financial statements as contingent liabilities.
+No provision made as outflow not probable based on legal advice.
+
+================================================================================
+            5. LEGAL COUNSEL
+================================================================================
+
+| Category           | Law Firm              | Partner            |
+|--------------------|---------------------- |--------------------|
+| Corporate/M&A      | Khaitan & Co.         | Abhishek Malhotra  |
+| Recovery/SARFAESI  | Sharma & Associates   | Vinay Sharma       |
+| Employment         | AZB & Partners        | Samir Gandhi       |
+| Consumer           | DSK Legal             | Deven Shah         |
+| Regulatory         | Cyril Amarchand       | Prashant Kumar     |
+
+Annual Legal Spend (FY 2024-25): ₹35 lakhs (estimated)
+
+================================================================================
+            PART B: RELATED PARTY TRANSACTIONS
+================================================================================
+
+================================================================================
+            1. DEFINITION OF RELATED PARTIES
+================================================================================
+
+As per Ind AS 24 and Companies Act, 2013:
+
+1.1 KEY MANAGEMENT PERSONNEL (KMP)
+
+| Name               | Designation                    |
+|--------------------|--------------------------------|
+| Mr. Vikram Mehta   | Managing Director & CEO        |
+| Ms. Anjali Deshmukh| Whole-time Director & CFO      |
+| Mr. Rohan Kapoor   | Director & CTO                 |
+| Ms. Priya Sharma   | Company Secretary              |
+
+1.2 DIRECTORS (Non-KMP)
+
+| Name               | Designation                    |
+|--------------------|--------------------------------|
+| Mr. Tarun Davda    | Nominee Director               |
+| Mr. Shailendra Singh| Nominee Director              |
+| Ms. Meera Sanghvi  | Independent Director           |
+| Mr. Rajiv Anand    | Independent Director           |
+
+1.3 RELATIVES OF KMP/DIRECTORS
+- Spouse, children, parents of KMP
+- As per definition in Companies Act
+
+1.4 ENTITIES WITH COMMON CONTROL/INFLUENCE
+- Entities where KMP/Directors have significant influence
+- Investor funds and their portfolio companies
+
+================================================================================
+            2. RELATED PARTY TRANSACTIONS - FY 2024-25
+================================================================================
+
+2.1 TRANSACTIONS WITH KMP
+
+| Nature of Transaction        | Party              | Amount (₹ L) |
+|------------------------------|--------------------|--------------|
+| Managerial Remuneration      | Vikram Mehta       | 84.00        |
+| Managerial Remuneration      | Anjali Deshmukh    | 72.00        |
+| Remuneration                 | Rohan Kapoor       | 66.00        |
+| Remuneration                 | Priya Sharma       | 18.00        |
+| Sitting Fees                 | Independent Directors| 6.00       |
+|------------------------------|--------------------|--------------|
+| Total                        |                    | 246.00       |
+
+2.2 TRANSACTIONS WITH RELATED ENTITIES
+
+| Transaction                  | Party              | Amount (₹ L) | Basis        |
+|------------------------------|--------------------|--------------|--------------|
+| Office Rent                  | VM Properties LLP  | 36.00        | Market rate  |
+|                              | (Vikram Mehta - Partner)|          |              |
+| IT Consulting                | TechBuild Solutions| 8.50         | Arms length  |
+|                              | (Rohan - Director) |              |              |
+| Legal Services               | Deshmukh & Co      | 2.50         | Arms length  |
+|                              | (Anjali's father)  |              |              |
+|------------------------------|--------------------|--------------|--------------|
+| Total                        |                    | 47.00        |              |
+
+2.3 TRANSACTIONS WITH INVESTORS
+
+| Transaction                  | Party              | Amount (₹ L) | Basis        |
+|------------------------------|--------------------|--------------|--------------|
+| Management Fee               | Matrix Partners    | 25.00        | SHA terms    |
+|------------------------------|--------------------|--------------|--------------|
+
+================================================================================
+            3. DISCLOSURE OF INTEREST
+================================================================================
+
+3.1 VM PROPERTIES LLP (Office Lease)
+
+- Partners: Vikram Mehta (60%), Family members (40%)
+- Property: Registered Office at One BKC
+- Rent: ₹36 lakhs p.a.
+- Comparable Market Rent: ₹35-40 lakhs p.a.
+- Lease Term: 5 years
+- Approval: Audit Committee (Unanimous), Board
+
+3.2 TECHBUILD SOLUTIONS (IT Consulting)
+
+- Directors: Rohan Kapoor (Minority shareholder, 10%)
+- Services: Legacy system migration support
+- Contract Value: ₹8.50 lakhs
+- Market Benchmark: Within range
+- Approval: Audit Committee
+
+================================================================================
+            4. LOANS TO RELATED PARTIES
+================================================================================
+
+The Company has NOT granted any loans, guarantees, or security to:
+- Directors or their relatives
+- KMP or their relatives
+- Firms/Companies in which Directors/KMP are interested
+
+This is in compliance with RBI guidelines prohibiting NBFCs from extending
+credit facilities to Directors/relatives.
+
+================================================================================
+            5. APPROVAL FRAMEWORK
+================================================================================
+
+| Transaction Value           | Approval Required                       |
+|-----------------------------|-----------------------------------------|
+| Up to ₹25 lakhs             | Audit Committee                         |
+| ₹25 lakhs - ₹1 crore        | Audit Committee + Board                 |
+| Above ₹1 crore              | Board + Shareholders (Ordinary Res.)    |
+| Material RPT (10% of T/O)   | Shareholders (Special Resolution)       |
+
+All RPTs during FY 2024-25 have been approved by Audit Committee and Board.
+
+================================================================================
+            6. RPT POLICY
+================================================================================
+
+Board-approved Related Party Transaction Policy covers:
+
+1. Definition and identification of related parties
+2. Materiality thresholds
+3. Approval matrix and process
+4. Arms length pricing requirement
+5. Documentation and disclosure
+6. Review and monitoring
+7. Compliance with Companies Act and Ind AS
+
+Policy last reviewed: April 2024
+
+================================================================================
+            7. ARMS LENGTH CERTIFICATION
+================================================================================
+
+We hereby certify that all Related Party Transactions entered into during
+FY 2024-25 were:
+
+1. In the ordinary course of business
+2. On an arms length basis
+3. Not detrimental to the interest of the Company
+4. Approved by Audit Committee / Board as applicable
+5. Disclosed in the financial statements
+
+For SmartFinance India Limited
+
+Sd/-                                    Sd/-
+Anjali Deshmukh                         Meera Sanghvi
+CFO                                     Chairperson, Audit Committee
+
+Date: November 15, 2024
+
+================================================================================
+            8. RPT REGISTER EXTRACT
+================================================================================
+
+| Date       | Party            | Nature        | Amount | Approval     |
+|------------|------------------|---------------|--------|--------------|
+| Apr 01, 24 | VM Properties    | Rent (Annual) | 36.00  | Board/AC     |
+| May 15, 24 | TechBuild        | IT Services   | 4.25   | AC           |
+| Jul 01, 24 | Matrix Partners  | Mgmt Fee (H1) | 12.50  | AC           |
+| Aug 20, 24 | Deshmukh & Co    | Legal         | 1.25   | AC           |
+| Oct 31, 24 | TechBuild        | IT Services   | 4.25   | AC           |
+| Nov 01, 24 | Deshmukh & Co    | Legal         | 1.25   | AC           |
+
+================================================================================
+
+                    END OF LITIGATION & RPT REGISTER
+
+================================================================================

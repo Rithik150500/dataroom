@@ -1,0 +1,228 @@
+================================================================================
+            NON-CONVERTIBLE DEBENTURES - TRUST DEED
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+            SERIES I - SECURED NCDs
+================================================================================
+
+DEBENTURE TRUST DEED
+
+This Trust Deed is executed on March 15, 2024
+
+BETWEEN:
+
+SMARTFINANCE INDIA LIMITED, a company incorporated under the Companies Act,
+2013, having CIN U65929MH2020PLC345678 and registered office at 15th Floor,
+Tower B, One BKC, Bandra Kurla Complex, Mumbai - 400051
+(hereinafter referred to as the "Issuer" or "Company")
+
+AND
+
+IDBI TRUSTEESHIP SERVICES LIMITED, a company having its registered office at
+Asian Building, Ground Floor, 17, R. Kamani Marg, Ballard Estate, Mumbai-400001
+(hereinafter referred to as the "Debenture Trustee")
+
+================================================================================
+                    ISSUE DETAILS
+================================================================================
+
+| Parameter                      | Details                                |
+|--------------------------------|----------------------------------------|
+| Instrument                     | Secured, Redeemable, Non-Convertible   |
+|                                | Debentures                             |
+| Series                         | Series I - 2024                        |
+| Issue Size                     | ₹50,00,00,000 (Fifty Crores)           |
+| Face Value                     | ₹10,00,000 per Debenture               |
+| Number of Debentures           | 500                                    |
+| Issue Price                    | At Par (₹10,00,000)                    |
+| Coupon Rate                    | 10.50% p.a.                            |
+| Coupon Payment                 | Quarterly                              |
+| Tenor                          | 3 years                                |
+| Issue Date                     | March 15, 2024                         |
+| Maturity Date                  | March 15, 2027                         |
+| Redemption                     | Bullet at Maturity                     |
+| Put/Call Option                | None                                   |
+| Listing                        | BSE (Debt Segment)                     |
+| ISIN                           | INE123X07018                           |
+| Credit Rating                  | CRISIL AA- (Stable)                    |
+|                                | CARE AA- (Stable)                      |
+
+================================================================================
+                    SECURITY
+================================================================================
+
+The Debentures are secured by:
+
+FIRST PARI PASSU CHARGE on:
+1. Book debts/loan receivables of the Company (present and future)
+2. All current assets including cash and bank balances
+
+SECURITY COVER:
+- Minimum Asset Cover: 1.10 times the outstanding Debentures
+- Current Asset Cover: 1.45 times (as of Sept 30, 2024)
+- Security to be maintained at all times
+- Monthly monitoring by Debenture Trustee
+
+HYPOTHECATION AGREEMENT:
+- Executed on March 15, 2024
+- Registered with CERSAI
+- Charge ID: 100XXXXXXX
+
+================================================================================
+                    FINANCIAL COVENANTS
+================================================================================
+
+The Company shall maintain the following covenants:
+
+| Covenant                       | Threshold    | Current (Sept 24) | Status  |
+|--------------------------------|--------------|-------------------|---------|
+| Capital Adequacy Ratio         | ≥ 15%        | 22.5%             | Complied|
+| Debt/Equity Ratio              | ≤ 5.0x       | 1.36x             | Complied|
+| Interest Coverage Ratio        | ≥ 1.5x       | 2.8x              | Complied|
+| Asset Cover                    | ≥ 1.10x      | 1.45x             | Complied|
+| Gross NPA                      | ≤ 6.0%       | 2.8%              | Complied|
+| Net NPA                        | ≤ 3.0%       | 1.8%              | Complied|
+
+REPORTING REQUIREMENTS:
+- Quarterly compliance certificate to Debenture Trustee
+- Annual audited financials within 90 days
+- Asset cover certificate monthly
+- Event-based reporting for material events
+
+================================================================================
+                    EVENTS OF DEFAULT
+================================================================================
+
+1. Non-payment of principal or interest within 7 days of due date
+2. Breach of any covenant not cured within 30 days
+3. Cross-default on other debt > ₹5 Crores
+4. Insolvency or winding-up proceedings
+5. Cancellation or suspension of RBI registration
+6. Change in control without Trustee consent
+7. Cessation of business
+8. Material adverse change
+9. Asset cover falling below 1.0x
+
+CONSEQUENCES OF DEFAULT:
+- Acceleration of all outstanding amounts
+- Enforcement of security
+- Legal action for recovery
+
+================================================================================
+                    DEBENTURE TRUSTEE
+================================================================================
+
+IDBI Trusteeship Services Limited
+
+| Field                    | Details                                      |
+|--------------------------|----------------------------------------------|
+| Registration No.         | INA000000266                                 |
+| Contact Person           | Mr. Ajay Kumar                               |
+| Email                    | ajay.kumar@idbitrustee.com                   |
+| Phone                    | +91 22 4080 7000                             |
+| Address                  | Asian Building, Ground Floor, Ballard Estate |
+
+TRUSTEE FEE:
+- Annual Fee: ₹2,50,000 + GST
+- Payable in advance
+
+================================================================================
+                    DEBENTURE HOLDERS
+================================================================================
+
+| Sr. | Holder Name                    | No. of NCDs | Amount (₹ Cr) |
+|-----|--------------------------------|-------------|---------------|
+| 1   | HDFC Mutual Fund               | 200         | 20.00         |
+| 2   | ICICI Prudential Life Insurance| 150         | 15.00         |
+| 3   | SBI Life Insurance             | 100         | 10.00         |
+| 4   | Aditya Birla Sun Life MF       | 50          | 5.00          |
+|-----|--------------------------------|-------------|---------------|
+|     | Total                          | 500         | 50.00         |
+
+================================================================================
+                    PAYMENT SCHEDULE
+================================================================================
+
+COUPON PAYMENTS (Quarterly):
+
+| Payment Date    | Coupon Amount (₹ Cr) | Status    |
+|-----------------|----------------------|-----------|
+| June 15, 2024   | 1.3125               | Paid      |
+| Sept 15, 2024   | 1.3125               | Paid      |
+| Dec 15, 2024    | 1.3125               | Due       |
+| Mar 15, 2025    | 1.3125               | Scheduled |
+| [Continues quarterly until maturity]              |
+
+REDEMPTION:
+- Date: March 15, 2027
+- Amount: ₹50.00 Crores (Principal)
+- Mode: RTGS/NEFT to registered bank accounts
+
+================================================================================
+                    SERIES II - PROPOSED NCD ISSUE
+================================================================================
+
+| Parameter                      | Details                                |
+|--------------------------------|----------------------------------------|
+| Proposed Issue Size            | ₹75,00,00,000 (Seventy-Five Crores)    |
+| Tenor                          | 4 years                                |
+| Expected Coupon                | 10.75% - 11.00% p.a.                   |
+| Expected Issue Date            | Q4 FY 2024-25                          |
+| Use of Proceeds                | On-lending                             |
+| Status                         | Board approved, Rating in process      |
+
+================================================================================
+                    COMMERCIAL PAPER PROGRAM
+================================================================================
+
+SmartFinance also has an active Commercial Paper program:
+
+| Parameter                      | Details                                |
+|--------------------------------|----------------------------------------|
+| Program Size                   | ₹100 Crores                            |
+| Current Outstanding            | ₹35 Crores                             |
+| Tenor                          | 90-180 days                            |
+| Rating                         | CRISIL A1+                             |
+| Last Issue                     | Oct 2024 (₹20 Cr @ 8.75%)              |
+| Arrangers                      | HDFC Bank, ICICI Bank                  |
+
+================================================================================
+                    REGISTRAR & TRANSFER AGENT
+================================================================================
+
+Link Intime India Private Limited
+C-101, 247 Park, LBS Marg, Vikhroli West, Mumbai - 400083
+Contact: Mr. Sumit Doshi
+Email: smartfinance.ncd@linkintime.co.in
+Phone: +91 22 4918 6000
+
+================================================================================
+                    COMPLIANCE CERTIFICATES
+================================================================================
+
+Quarterly Certificate to Debenture Trustee:
+
+We hereby certify that SmartFinance India Limited has:
+
+1. Paid all interest due on the Debentures on time
+2. Maintained asset cover above 1.10x
+3. Complied with all financial covenants
+4. Not committed any event of default
+5. Filed all statutory returns with regulators
+6. Maintained RBI registration in good standing
+
+For SmartFinance India Limited
+
+Sd/-                                    Sd/-
+Managing Director                       CFO
+
+Date: _______________
+
+================================================================================
+
+                    END OF NCD TRUST DEED
+
+================================================================================

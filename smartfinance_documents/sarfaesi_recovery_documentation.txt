@@ -1,0 +1,302 @@
+================================================================================
+            SARFAESI ACT COMPLIANCE & RECOVERY DOCUMENTATION
+                              OF
+                  SMARTFINANCE INDIA LIMITED
+================================================================================
+
+================================================================================
+            1. SARFAESI ACT APPLICABILITY
+================================================================================
+
+The Securitisation and Reconstruction of Financial Assets and Enforcement of
+Security Interest Act, 2002 (SARFAESI Act) applies to SmartFinance India Limited
+as a registered NBFC for recovery of secured loans exceeding ₹1 lakh.
+
+ELIGIBILITY:
+- SmartFinance is registered with RBI as NBFC (Reg. No. N-13.02216)
+- Applicable for secured loans where principal outstanding > ₹1,00,000
+- Not applicable for: Agricultural land, unsecured loans, loans < ₹1 lakh
+
+================================================================================
+            2. SARFAESI PROCESS WORKFLOW
+================================================================================
+
+STAGE 1: CLASSIFICATION AS NPA
+- Account classified as NPA after 90 days past due (DPD)
+- Review by Credit/Recovery Committee
+- Decision on SARFAESI initiation
+
+STAGE 2: DEMAND NOTICE UNDER SECTION 13(2)
+- Issue 60-day demand notice to borrower
+- Notice to guarantor and co-borrower
+- Notice to be sent via registered post/speed post and email
+- Public notice in two newspapers (one vernacular)
+
+STAGE 3: POSSESSION NOTICE UNDER SECTION 13(4)
+- After 60 days, if no payment/settlement
+- Take possession of secured assets
+- Physical possession with police assistance if required
+- Symbolic possession for immovable property
+
+STAGE 4: SALE OF ASSETS
+- Public auction after 30 days from possession
+- Reserve price based on valuation (min 2 valuers)
+- E-auction through authorized platforms
+- Sale proceeds appropriated towards dues
+
+================================================================================
+            3. SARFAESI CASES - CURRENT STATUS
+================================================================================
+
+As of November 15, 2024:
+
+| Stage                        | No. of Cases | Outstanding (₹ Lakhs) |
+|------------------------------|--------------|----------------------|
+| Section 13(2) Notice Issued  | 12           | 87.50                |
+| Possession Taken             | 5            | 42.30                |
+| Sale in Progress             | 3            | 28.60                |
+| Settled/Closed               | 8            | 56.20                |
+|------------------------------|--------------|----------------------|
+| Total Cases (FY 2024-25)     | 28           | 214.60               |
+
+RECOVERY THROUGH SARFAESI (FY 2024-25):
+- Total Recovered: ₹38.40 Lakhs
+- Average Recovery Rate: 68% of outstanding
+
+================================================================================
+            4. SAMPLE DEMAND NOTICE - SECTION 13(2)
+================================================================================
+
+                    DEMAND NOTICE
+        Under Section 13(2) of the SARFAESI Act, 2002
+
+Date: _______________
+
+To,
+[Borrower Name]
+[Address]
+
+AND
+
+[Guarantor Name]
+[Address]
+
+Loan Account No.: SF/BL/2023/XXXXX
+Nature of Facility: Business Loan
+Date of Agreement: _______________
+Amount of Facility: ₹_______________
+
+Dear Sir/Madam,
+
+WHEREAS you have availed the above credit facility from SmartFinance India
+Limited ("Secured Creditor") and have created security interest in favor of
+the Secured Creditor;
+
+AND WHEREAS your account has been classified as Non-Performing Asset (NPA)
+as per RBI guidelines due to non-payment of dues;
+
+AND WHEREAS the following amounts are due and payable by you:
+
+| Particulars                  | Amount (₹)    |
+|------------------------------|---------------|
+| Principal Outstanding        | ___________   |
+| Interest Due                 | ___________   |
+| Penal Interest               | ___________   |
+| Other Charges                | ___________   |
+|------------------------------|---------------|
+| Total Amount Due             | ___________   |
+
+NOW THEREFORE, in exercise of powers conferred under Section 13(2) of the
+Securitisation and Reconstruction of Financial Assets and Enforcement of
+Security Interest Act, 2002, we hereby call upon you to discharge your
+liability in full within 60 (SIXTY) DAYS from the date of receipt of this
+notice, failing which we shall be constrained to exercise all or any of the
+following measures under Section 13(4) of the said Act:
+
+(a) Take possession of the secured assets;
+(b) Take over management of the secured assets;
+(c) Appoint any person to manage the secured assets;
+(d) Require any person who has acquired the secured asset to pay money due.
+
+DESCRIPTION OF SECURED ASSETS:
+
+[Details of hypothecated/mortgaged assets]
+
+You are also informed that:
+1. You have the right to make representation/objection within 60 days
+2. Any representation shall be considered and disposed within 15 days
+3. You may approach the Debt Recovery Tribunal under Section 17 if aggrieved
+
+Please treat this notice as most urgent and arrange payment immediately.
+
+For SmartFinance India Limited
+(Authorized Officer)
+
+Name: _______________
+Designation: _______________
+Place: Mumbai
+
+================================================================================
+            5. POSSESSION NOTICE - SECTION 13(4)
+================================================================================
+
+                    POSSESSION NOTICE
+        Under Section 13(4) of the SARFAESI Act, 2002
+
+[Similar format with details of possession taken]
+
+================================================================================
+            6. SALE NOTICE / E-AUCTION NOTICE
+================================================================================
+
+                    PUBLIC NOTICE FOR E-AUCTION
+        Under Rule 8 & 9 of Security Interest (Enforcement) Rules, 2002
+
+SmartFinance India Limited
+(Secured Creditor)
+
+Notice is hereby given that the undersigned, being the Authorized Officer of
+SmartFinance India Limited, will conduct E-Auction on the platform of
+[M/s. C1 India Pvt. Ltd. / Banks e-Auction] for sale of secured assets
+described below:
+
+| Property Details              | Reserve Price | EMD (10%)   | Bid Increment |
+|-------------------------------|---------------|-------------|---------------|
+| [Asset Description]           | ₹___________  | ₹__________ | ₹___________  |
+
+E-AUCTION DETAILS:
+- Date: _______________
+- Time: _______________ to _______________
+- Platform: www.bankeauctions.com / www.c1india.com
+- EMD to be deposited by: _______________
+
+TERMS & CONDITIONS:
+[Standard auction terms]
+
+For SmartFinance India Limited
+Authorized Officer
+
+================================================================================
+            7. CERSAI REGISTRATION
+================================================================================
+
+SmartFinance India Limited is registered with Central Registry of
+Securitisation Asset Reconstruction and Security Interest (CERSAI).
+
+CERSAI User ID: NBFC-SMART-MH-2020
+Registration Date: October 1, 2020
+
+SECURITY INTEREST REGISTRATION:
+- All vehicle loans registered with CERSAI within 30 days of disbursement
+- Property mortgages registered within 30 days
+- Modification/satisfaction filed promptly
+
+Current Registrations (As of Nov 2024):
+- Active Security Interests: 45,250
+- Satisfied: 18,340
+- Modified: 2,150
+
+================================================================================
+            8. DRT / CIVIL COURT PROCEEDINGS
+================================================================================
+
+For loans where SARFAESI is not applicable or borrower approaches DRT:
+
+DEBT RECOVERY TRIBUNAL CASES:
+
+| Case No.     | Borrower      | Amount (₹ L) | Filed Date | Status      |
+|--------------|---------------|--------------|------------|-------------|
+| OA/123/2024  | ABC Traders   | 25.50        | Mar 2024   | Pending     |
+| OA/145/2024  | XYZ Enterprises| 32.80       | May 2024   | Arguments   |
+| OA/178/2024  | PQR Services  | 18.90        | Jul 2024   | RC Issued   |
+
+CIVIL RECOVERY SUITS:
+
+| Suit No.     | Court         | Amount (₹ L) | Filed Date | Status      |
+|--------------|---------------|--------------|------------|-------------|
+| CS/456/2024  | Bandra Court  | 8.50         | Apr 2024   | Ex-parte    |
+| CS/567/2024  | Andheri Court | 6.20         | Jun 2024   | Pending     |
+
+================================================================================
+            9. ONE-TIME SETTLEMENT (OTS) POLICY
+================================================================================
+
+Board-approved OTS Policy for NPA resolution:
+
+ELIGIBILITY:
+- Accounts classified as NPA for > 90 days
+- Borrower willing to make lump-sum payment
+- No fraud or willful default
+
+OTS MATRIX:
+
+| NPA Age        | Min Settlement % | Approval Authority      |
+|----------------|------------------|-------------------------|
+| 90-180 days    | 85%              | Credit Committee        |
+| 181-365 days   | 75%              | Credit Committee        |
+| 1-2 years      | 65%              | MD + CFO                |
+| 2-3 years      | 55%              | Board                   |
+| > 3 years      | 50%              | Board                   |
+
+OTS SETTLEMENTS (FY 2024-25):
+- Cases Settled: 28
+- Total Outstanding: ₹156.80 Lakhs
+- Settlement Amount: ₹112.40 Lakhs
+- Haircut: 28.3%
+
+================================================================================
+            10. EMPANELED LEGAL FIRMS
+================================================================================
+
+| Sr. | Law Firm                    | Location    | Specialization      |
+|-----|----------------------------|-------------|---------------------|
+| 1   | Sharma & Associates        | Mumbai      | SARFAESI, DRT       |
+| 2   | Khaitan Legal              | Mumbai      | Corporate Recovery  |
+| 3   | AKS Legal                  | Delhi       | DRT, NCLT           |
+| 4   | Lexcounsel                 | Bangalore   | SARFAESI            |
+| 5   | DSK Legal                  | Pune        | Civil Recovery      |
+
+================================================================================
+            11. RECOVERY AGENTS - CODE OF CONDUCT
+================================================================================
+
+All recovery agents must comply with:
+
+1. RBI Fair Practice Code for Recovery
+2. No calls before 8:00 AM or after 7:00 PM
+3. No use of abusive language or threats
+4. No contact at borrower's workplace without consent
+5. Proper identification and authorization letter
+6. No third-party disclosure of default
+7. Recording of all recovery calls
+8. GPS tracking for field visits
+
+EMPANELED RECOVERY AGENCIES:
+
+| Agency Name              | Region        | Contract Since | Performance |
+|--------------------------|---------------|----------------|-------------|
+| ABC Recovery Services    | Mumbai        | Jan 2022       | 92%         |
+| SecureCollect Pvt Ltd    | Maharashtra   | Mar 2021       | 88%         |
+| RecoverRight Solutions   | Pan India     | Jun 2023       | 85%         |
+
+Complaints Against Agents (FY 2024-25): 2
+Action Taken: Both agents terminated, agencies warned
+
+================================================================================
+
+Certified that all SARFAESI proceedings are conducted in compliance with
+the Act and Rules.
+
+Date: November 15, 2024
+Place: Mumbai
+
+For SmartFinance India Limited
+
+Sd/-
+Authorized Officer (SARFAESI)
+
+================================================================================
+
+                    END OF SARFAESI DOCUMENTATION
+
+================================================================================

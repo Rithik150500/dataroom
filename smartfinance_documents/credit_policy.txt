@@ -1,0 +1,333 @@
+================================================================================
+                    CREDIT POLICY
+                          OF
+              SMARTFINANCE INDIA LIMITED
+================================================================================
+
+                    VERSION 4.0
+              Effective: April 1, 2024
+            Board Approved: March 25, 2024
+
+================================================================================
+            1. POLICY OVERVIEW
+================================================================================
+
+1.1 PURPOSE
+This Credit Policy establishes the framework for credit risk management,
+underwriting standards, and approval processes for all lending products
+offered by SmartFinance India Limited.
+
+1.2 SCOPE
+Applicable to all lending products including Personal Loans, Business Loans,
+and Consumer Durable Loans originated through all channels.
+
+1.3 OBJECTIVES
+- Maintain portfolio quality with Gross NPA < 4%
+- Achieve risk-adjusted returns with NIM > 7%
+- Ensure regulatory compliance with RBI norms
+- Balance growth with prudent risk management
+
+================================================================================
+            2. TARGET CUSTOMER SEGMENTS
+================================================================================
+
+2.1 PERSONAL LOANS
+
+| Segment              | Target Profile                                    |
+|----------------------|---------------------------------------------------|
+| Salaried Prime       | CIBIL 700+, Monthly income ≥₹35,000, Top employers|
+| Salaried Near-Prime  | CIBIL 650-699, Monthly income ≥₹25,000            |
+| Self-Employed Prof.  | CIBIL 650+, ITR ≥₹6 lakhs, 3+ years in business   |
+| New to Credit        | Employment stable, No bureau history, Low ticket  |
+
+2.2 BUSINESS LOANS
+
+| Segment              | Target Profile                                    |
+|----------------------|---------------------------------------------------|
+| Micro Enterprises    | Turnover ₹25 L - ₹5 Cr, 2+ years vintage          |
+| Small Enterprises    | Turnover ₹5 Cr - ₹25 Cr, 3+ years vintage         |
+| Traders              | GST-registered, 2+ years in business              |
+
+2.3 CONSUMER DURABLE LOANS
+
+| Segment              | Target Profile                                    |
+|----------------------|---------------------------------------------------|
+| General              | CIBIL 600+, Monthly income ≥₹15,000               |
+| No-Cost EMI          | CIBIL 650+, Through merchant partners             |
+
+================================================================================
+            3. PRODUCT PARAMETERS
+================================================================================
+
+3.1 PERSONAL LOANS
+
+| Parameter            | Prime        | Near-Prime   | Self-Employed | NTC       |
+|----------------------|--------------|--------------|---------------|-----------|
+| Ticket Size          | ₹50K - 5L    | ₹25K - 2L    | ₹50K - 3L     | ₹10K - 50K|
+| Tenure               | 12-48 months | 12-36 months | 12-36 months  | 6-18 months|
+| Interest Rate        | 12-16%       | 16-20%       | 16-22%        | 20-24%    |
+| Processing Fee       | 1-2%         | 2-3%         | 2-3%          | 2.5-3%    |
+| FOIR Limit           | 50%          | 45%          | 45%           | 40%       |
+
+3.2 BUSINESS LOANS
+
+| Parameter            | Working Cap  | Asset Finance| Expansion     |
+|----------------------|--------------|--------------|---------------|
+| Ticket Size          | ₹1L - 10L    | ₹2L - 15L    | ₹5L - 25L     |
+| Tenure               | 12 months    | 24-36 months | 36-48 months  |
+| Interest Rate        | 16-20%       | 15-19%       | 14-18%        |
+| Processing Fee       | 1.5-2.5%     | 1.5-2.5%     | 1-2%          |
+| Security             | Unsecured    | Hypothecation| Hypo + PG     |
+
+3.3 CONSUMER DURABLE LOANS
+
+| Parameter            | Standard     | No-Cost EMI  |
+|----------------------|--------------|--------------|
+| Ticket Size          | ₹5K - 1.5L   | ₹5K - 2L     |
+| Tenure               | 3-18 months  | 3-12 months  |
+| Interest Rate        | 14-22%       | 0% (Subvention)|
+| Processing Fee       | ₹250-500     | Nil          |
+| Down Payment         | 10-20%       | 0-10%        |
+
+================================================================================
+            4. ELIGIBILITY CRITERIA
+================================================================================
+
+4.1 MINIMUM ELIGIBILITY - PERSONAL LOANS
+
+| Criterion            | Salaried           | Self-Employed      |
+|----------------------|--------------------|--------------------|
+| Age                  | 21-58 years        | 25-65 years        |
+| Min Monthly Income   | ₹15,000            | ₹20,000 (ITR basis)|
+| Min CIBIL Score      | 600                | 650                |
+| Employment/Business  | 1 year total,      | 3 years in business|
+|                      | 6 months current   |                    |
+| Residence Stability  | 1 year in city     | 2 years in city    |
+
+4.2 MINIMUM ELIGIBILITY - BUSINESS LOANS
+
+| Criterion            | Requirement                              |
+|----------------------|------------------------------------------|
+| Business Vintage     | Minimum 2 years (3 years for >₹10L)      |
+| GST Registration     | Mandatory for loans >₹5 lakhs            |
+| ITR Filing           | Last 2 years                             |
+| Banking              | 12 months bank statement                 |
+| CIBIL Score          | ≥650 (or CIBIL MSME Rank 1-5)            |
+| Profitability        | Positive EBITDA in last 2 years          |
+
+4.3 NEGATIVE LIST (DO NOT LEND)
+
+Industries:
+- Real estate speculation
+- Chit funds
+- Gambling/betting
+- Adult entertainment
+- Cryptocurrency trading
+- Loan against shares
+- Political funding
+
+Profiles:
+- Willful defaulters (RBI list)
+- Fraud cases (internal database)
+- DPD 90+ in last 12 months
+- Active legal cases
+- Negative sectors under stress
+
+================================================================================
+            5. CREDIT ASSESSMENT
+================================================================================
+
+5.1 CREDIT BUREAU CHECK
+
+| Bureau        | Score Used       | Min Score | Weightage |
+|---------------|------------------|-----------|-----------|
+| CIBIL         | TransUnion Score | 600       | 40%       |
+| Experian      | Experian Score   | 600       | 25%       |
+| Equifax       | Equifax Score    | 600       | 20%       |
+| CRIF High Mark| CRIF Score       | 600       | 15%       |
+
+Bureau Flags - Auto Decline:
+- Written-off accounts in last 36 months
+- Settlement in last 24 months
+- DPD 90+ in last 12 months
+- 5+ active unsecured loans
+- 10+ inquiries in last 6 months
+
+5.2 INCOME ASSESSMENT
+
+Salaried:
+- Salary slip (last 3 months)
+- Bank statement (6 months)
+- Form 16 / ITR (for high tickets)
+- Income = Avg of last 3 months net salary
+
+Self-Employed:
+- ITR (last 2 years)
+- GST returns (12 months)
+- Bank statement (12 months)
+- P&L and Balance Sheet
+- Income = Average of last 2 years ITR income
+
+5.3 FOIR CALCULATION
+
+Fixed Obligation to Income Ratio = (All EMIs + Proposed EMI) / Net Monthly Income
+
+| Risk Segment    | Max FOIR  |
+|-----------------|-----------|
+| Prime           | 50%       |
+| Near-Prime      | 45%       |
+| Sub-Prime / NTC | 40%       |
+
+5.4 DEBT-BURDEN RATIO (for Business Loans)
+
+DBR = Total Debt Service / EBITDA
+Maximum DBR: 60%
+
+================================================================================
+            6. DOCUMENTATION
+================================================================================
+
+6.1 KYC DOCUMENTS (Mandatory)
+
+Identity Proof (Any one):
+- Aadhaar Card
+- PAN Card (Mandatory for loans >₹50,000)
+- Passport
+- Voter ID
+- Driving License
+
+Address Proof (Any one):
+- Aadhaar Card
+- Utility Bill (last 3 months)
+- Rent Agreement
+- Passport
+
+6.2 INCOME DOCUMENTS
+
+Salaried:
+- Salary slips (3 months)
+- Bank statement (6 months)
+- Form 16 (for >₹2 lakhs loan)
+- Employment letter
+
+Self-Employed:
+- ITR with computation (2 years)
+- GST returns (12 months)
+- Bank statement (12 months)
+- Business registration proof
+- Financials (for >₹5 lakhs)
+
+6.3 BUSINESS DOCUMENTS (for Business Loans)
+
+- GST Certificate
+- Shop & Establishment License
+- Trade License
+- Partnership Deed / MOA-AOA
+- Board Resolution (for companies)
+
+================================================================================
+            7. APPROVAL AUTHORITY
+================================================================================
+
+DELEGATED POWERS OF APPROVAL:
+
+| Authority            | Amount Limit  | Deviation Authority    |
+|----------------------|---------------|------------------------|
+| Credit Officer       | Up to ₹1 lakh | Nil                    |
+| Sr. Credit Officer   | Up to ₹3 lakhs| Minor (FOIR +5%)       |
+| Credit Manager       | Up to ₹5 lakhs| Minor                  |
+| Regional Credit Head | Up to ₹10 lakhs| Moderate (Score -25)  |
+| Credit Committee     | Up to ₹25 lakhs| Significant            |
+| MD & CEO             | Any amount    | Any (with rationale)   |
+
+DEVIATION MATRIX:
+
+| Deviation Type       | Level 1      | Level 2        | Level 3       |
+|----------------------|--------------|----------------|---------------|
+| CIBIL Score          | 575-599      | 550-574        | <550          |
+| FOIR                 | 46-50%       | 51-55%         | >55%          |
+| EMI Bounce (last 6M) | 1            | 2              | 3+            |
+| Bureau Inquiries     | 6-8          | 9-12           | >12           |
+
+Level 1: Sr. Credit Officer
+Level 2: Regional Credit Head
+Level 3: Credit Committee
+
+================================================================================
+            8. PRICING FRAMEWORK
+================================================================================
+
+RISK-BASED PRICING MODEL:
+
+Base Rate: 10.5% (Benchmark - linked to cost of funds)
+
+Risk Premium Matrix:
+
+| Risk Factor           | Premium Range |
+|-----------------------|---------------|
+| CIBIL Score           | 0% - 8%       |
+| FOIR Utilization      | 0% - 3%       |
+| Customer Vintage      | 0% - 2%       |
+| Product Type          | 0% - 4%       |
+| Geographic Risk       | 0% - 2%       |
+
+Final Rate = Base Rate + Sum of Risk Premiums
+Capped at regulatory ceiling (as applicable)
+
+================================================================================
+            9. FRAUD PREVENTION
+================================================================================
+
+PRE-SANCTION CHECKS:
+- Aadhaar OTP verification
+- PAN verification via NSDL/UTIITSL
+- Bank account verification (penny drop)
+- Face match with ID photo
+- Negative list check (internal + external)
+- Dedupe check for multiple applications
+
+POST-SANCTION CHECKS:
+- Disbursement only to verified bank account
+- No third-party disbursements
+- Employment/business verification for high tickets
+- Address verification (physical/digital)
+
+================================================================================
+            10. COLLECTIONS STRATEGY INTEGRATION
+================================================================================
+
+Early Warning Indicators:
+- NACH bounce in Month 1
+- Multiple NACH presentation failures
+- Customer not reachable
+- Bureau score drop >50 points
+
+Proactive Action:
+- Restructuring consideration for genuine hardship
+- Top-up/refinance for good customers with temporary stress
+- Accelerated collection for fraud indicators
+
+================================================================================
+            11. POLICY REVIEW
+================================================================================
+
+- Annual review by Credit Committee and Board
+- Quarterly review of product parameters
+- Monthly review of portfolio performance by CIBIL band
+- Immediate review on regulatory changes
+
+================================================================================
+
+Approved by Board of Directors on March 25, 2024
+
+For SmartFinance India Limited
+
+Sd/-                                    Sd/-
+Vikram Mehta                            Aditya Jain
+Managing Director                       Chief Risk Officer
+
+================================================================================
+
+                    END OF CREDIT POLICY
+
+================================================================================
